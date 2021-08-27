@@ -42,10 +42,15 @@ async function getCommunityThemesJSON(url) {
 }
 
 async function writeThemesTable() {
+  const base = fs.readFileSync('md/base.md', function (err) {
+    if (err) {
+      return console.log(err);
+    }
+  });
   getCommunityThemesJSON(THEMES_URL)
     .then((json) => createThemeTable(json))
     .then((table) =>
-      fs.writeFile("md/themes.md", table, (err) => {
+      fs.writeFile('readme.md', base + table, (err) => {
         if (err) {
           console.error(err);
           return;
