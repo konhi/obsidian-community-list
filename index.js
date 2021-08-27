@@ -5,7 +5,7 @@ const fs = require('fs');
 const THEMES_URL = 'https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-css-themes.json';
 
 async function getMarkdownTable(json) {
-    const rows = json.map(obj => [obj.name, obj.author, json2md([{img: {source: `https://raw.githubusercontent.com/${obj.repo}/master/${obj.screenshot}`}}])]);
+    const rows = json.map(obj => [obj.name, obj.author, json2md([{img: {alt: obj.name, source: `https://raw.githubusercontent.com/${obj.repo}/master/${obj.screenshot}`}}])]);
 
     return json2md([
         { table: { headers: ["🎫 Name", "👩‍💻 Author", "🔮 Screenshot"], rows: rows } },
