@@ -30,3 +30,10 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm run build
+    - run: |-
+        git diff
+        git config --global user.email "actions@users.noreply.github.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "🐱 readme.md" || exit 0
+        git push
