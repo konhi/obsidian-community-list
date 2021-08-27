@@ -3,14 +3,19 @@ const fetch = require("node-fetch");
 const fs = require("fs");
 
 const THEMES_URL =
-  "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-css-themes.json";
+  'https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-css-themes.json';
+const GITHUB_URL = 'https://github.com';
+const HEADERS = {
+  REPOSITORY: '🎫 Repository',
+  SCREENSHOT: '🔮 Screenshot',
+};
 
-async function getMarkdownTable(json) {
+async function generateThemesTable(json) {
   const rows = json.map((obj) => [
     json2md([{
       link: {
         title: obj.repo,
-        source: `https://github.com/${obj.repo}`
+        source: `${GITHUB_URL}/${obj.repo}`
       }
     }]).trim(),
     json2md([
@@ -25,7 +30,7 @@ async function getMarkdownTable(json) {
 
   return json2md([
     {
-      table: { headers: ["🎫 Repository", "🔮 Screenshot"], rows: rows },
+      table: { headers: [HEADERS.REPOSITORY, HEADERS.SCREENSHOT], rows: rows },
     },
   ]);
 }
@@ -33,7 +38,7 @@ async function getMarkdownTable(json) {
 async function generateThemesList() {
   return fetch(THEMES_URL)
     .then((res) => res.json())
-    .then((json) => getMarkdownTable(json))
+    .then((json) => generateThemesTable(json))
     .then((table) =>
       fs.writeFile("themes.md", table, (err) => {
         if (err) {
