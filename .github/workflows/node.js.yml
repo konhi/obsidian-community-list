@@ -28,11 +28,9 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - name: Build
     - run: npm ci
     - run: npm run build
-    - name: GitHub Push
-      run: |-
+    - run: |-
         git diff
         git config --global user.email "actions@users.noreply.github.com"
         git config --global user.name "README-bot"
