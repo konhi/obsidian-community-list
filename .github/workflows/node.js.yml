@@ -31,10 +31,11 @@ jobs:
     - name: Build
     - run: npm ci
     - run: npm run build
-    - name: Commit & Push
-    - run: |
-        git config --global user.name 'konhi'
-        git config --global user.name 'hello.konhi@gmail.com'
-        git commit readme.md -m "🐱 github actions update readme"
+    - name: GitHub Push
+    - run: |-
+        git diff
+        git config --global user.email "actions@users.noreply.github.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "🐱 readme.md" || exit 0
         git push
-    
