@@ -30,11 +30,15 @@ async function createThemeTable(json) {
     ]).trim(), // fix: json2md breaks line resulting in broken table syntax
   ]);
 
-  return json2md([
+  const table = json2md([
     {
       table: { headers: [HEADERS.REPOSITORY, HEADERS.SCREENSHOT], rows: rows },
     },
   ]);
+
+  console.log(table);
+
+  return table;
 }
 
 async function getCommunityThemesJSON(url) {
