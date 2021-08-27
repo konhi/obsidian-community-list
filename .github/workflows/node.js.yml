@@ -28,6 +28,13 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+    - name: Build
     - run: npm ci
     - run: npm run build
-    - run: git commit readme.md -m "🐱 github actions update readme" && git push origin
+    - name: Commit & Push
+    - run: |
+    git config --global user.name 'konhi'
+    git config --global user.name 'hello.konhi@gmail.com'
+    git commit readme.md -m "🐱 github actions update readme"
+    git push
+    
