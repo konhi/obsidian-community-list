@@ -3,21 +3,23 @@ const fetch = require("node-fetch");
 const fs = require("fs");
 
 const THEMES_URL =
-  'https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-css-themes.json';
-const GITHUB_URL = 'https://github.com';
+  "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-css-themes.json";
+const GITHUB_URL = "https://github.com";
 const HEADERS = {
-  REPOSITORY: '🎫 Repository',
-  SCREENSHOT: '🔮 Screenshot',
+  REPOSITORY: "🎫 Repository",
+  SCREENSHOT: "🔮 Screenshot",
 };
 
-async function generateThemesTable(json) {
+async function createThemeTable(json) {
   const rows = json.map((obj) => [
-    json2md([{
-      link: {
-        title: obj.repo,
-        source: `${GITHUB_URL}/${obj.repo}`
-      }
-    }]).trim(),
+    json2md([
+      {
+        link: {
+          title: obj.repo,
+          source: `${GITHUB_URL}/${obj.repo}`,
+        },
+      },
+    ]).trim(),
     json2md([
       {
         img: {
@@ -25,7 +27,7 @@ async function generateThemesTable(json) {
           source: `https://raw.githubusercontent.com/${obj.repo}/master/${obj.screenshot}`,
         },
       },
-    ]).trim() // fix: json2md breaks line resulting in broken table syntax
+    ]).trim(), // fix: json2md breaks line resulting in broken table syntax
   ]);
 
   return json2md([
@@ -35,12 +37,15 @@ async function generateThemesTable(json) {
   ]);
 }
 
-async function generateThemesList() {
-  return fetch(THEMES_URL)
-    .then((res) => res.json())
-    .then((json) => generateThemesTable(json))
+async function getCommunityThemesJSON(url) {
+  return fetch(THEMES_URL).then((res) => res.json());
+}
+
+async function writeThemesTable() {
+  getCommunityThemesJSON(THEMES_URL)
+    .then((json) => createThemeTable(json))
     .then((table) =>
-      fs.writeFile("themes.md", table, (err) => {
+      fs.writeFile("md/themes.md", table, (err) => {
         if (err) {
           console.error(err);
           return;
@@ -49,4 +54,4 @@ async function generateThemesList() {
     );
 }
 
-generateThemesList();
+writeThemesTable();
