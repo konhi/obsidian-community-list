@@ -7,8 +7,12 @@ const THEMES_URL =
 
 async function getMarkdownTable(json) {
   const rows = json.map((obj) => [
-    obj.name,
-    obj.author,
+    json2md([{
+      link: {
+        title: obj.repo,
+        source: `https://github.com/${obj.repo}`
+      }
+    }]).trim(),
     json2md([
       {
         img: {
@@ -21,7 +25,7 @@ async function getMarkdownTable(json) {
 
   return json2md([
     {
-      table: { headers: ["🎫 Name", "👩‍💻 Author", "🔮 Screenshot"], rows: rows },
+      table: { headers: ["🎫 Repository", "🔮 Screenshot"], rows: rows },
     },
   ]);
 }
