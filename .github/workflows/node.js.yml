@@ -30,3 +30,4 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm run build
+    - run: git commit readme.md -m "🐱 github actions update readme" && git push origin
