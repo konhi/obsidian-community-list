@@ -1,0 +1,28 @@
+{
+  "name": "obsidian-community-list",
+  "version": "1.0.0",
+  "description": "📃 Regularly updated list of community themes and plugins for Obsidian.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konhi/obsidian-community-list.git"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidian-md",
+    "list"
+  ],
+  "author": "konhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konhi/obsidian-community-list/issues"
+  },
+  "homepage": "https://github.com/konhi/obsidian-community-list#readme",
+  "dependencies": {
+    "json-to-markdown-table": "^1.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
