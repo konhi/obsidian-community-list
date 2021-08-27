@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/konhi/obsidian-community-list#readme",
   "dependencies": {
-    "json-to-markdown-table": "^1.0.0",
+    "json2md": "^1.11.0",
     "node-fetch": "^2.6.1"
   }
 }
