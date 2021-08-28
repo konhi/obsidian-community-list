@@ -86,7 +86,7 @@ async function fetchJSON(url) {
 }
 
 async function writeTables(table, name) {
-  fs.writeFile(`md/${name}.md`, table, (err) => {
+  fs.writeFile(`lists/${name}.md`, table, (err) => {
     if (err) {
       console.error(err);
       return;
