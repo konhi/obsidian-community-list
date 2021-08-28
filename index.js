@@ -1,7 +1,6 @@
 const json2md = require("json2md");
 const fetch = require("node-fetch");
 const fs = require("fs");
-const mergeFiles = require("merge-files");
 
 const URLS = {
   GITHUB: "https://github.com",
@@ -97,27 +96,10 @@ async function writeTables(table, name) {
 
 // below to clean up
 
-(async function () {
-  fetchJSON(URLS.THEMES)
-    .then((json) => createTable(json, "themes"))
-    .then((table) => writeTables(table, "themes"));
+fetchJSON(URLS.THEMES)
+  .then((json) => createTable(json, "themes"))
+  .then((table) => writeTables(table, "themes"));
 
-  fetchJSON(URLS.PLUGINS)
-    .then((json) => createTable(json, "plugins"))
-    .then((table) => writeTables(table, "plugins"));
-})().then(
-  mergeFiles(
-    ["md/before.md", "md/themes.md", "md/space.md", "md/plugins.md"],
-    "readme.md"
-  )
-);
-
-// 1. Fetch JSONs
-//  - community plugins
-//    - create table
-//      - write table to plugins.md
-//  - community themes
-//    - create table
-//      - write table to themes.md
-// 2. Read base.md + themes.md + plugins.md
-//  - merge files
+fetchJSON(URLS.PLUGINS)
+  .then((json) => createTable(json, "plugins"))
+  .then((table) => writeTables(table, "plugins"));
