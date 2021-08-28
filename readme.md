@@ -2,7 +2,9 @@
 
 This repository fetches [community themes and plugins list](https://github.com/obsidianmd/obsidian-releases) every day (at 00:00) and then turns it into pretty markdown table using [json2md](https://github.com/IonicaBizau/json2md).
 
-## Community Themes| 🎫 Repository | 🔮 Screenshot |
+## Community Themes
+
+| 🎫 Repository | 🔮 Screenshot |
 | ------------- | ------------- |
 | [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom) | ![Atom](https://raw.githubusercontent.com/kognise/obsidian-atom/master/screenshot-hybrid.png "") |
 | [cotemaxime/obsidian-amethyst](https://github.com/cotemaxime/obsidian-amethyst) | ![Amethyst](https://raw.githubusercontent.com/cotemaxime/obsidian-amethyst/master/screenshot.png "") |
