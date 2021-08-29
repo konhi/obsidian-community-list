@@ -4,3 +4,11 @@ This repository fetches [community themes and plugins list](https://github.com/o
 
 - [🎀 Themes](lists/themes.md)
 - [🔌 Plugins](lists/plugins.md)
+
+## Usage
+```bash
+git clone https://github.com/konhi/obsidian-community-list.git
+cd obsidian-community-list
+npm install
+node index.js
+```
