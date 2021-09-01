@@ -291,3 +291,5 @@
 | [Tag Page Preview](https://github.com/aidurber/tag-page-preview) | Clicking a tag opens a dialog listing pages that use that tag |
 | [Relative Find](https://github.com/phibr0/obsidian-relative-find) | This Plugin lets you search relative to your Cursor Position. |
 | [Obsidian Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit) | When you click an image, it will be displayed in a popup layer and you can view, drag, zoom, rotate the image. |
+| [Shell commands](https://github.com/Taitava/obsidian-shellcommands) | You can predefine system commands that you want to run frequently, and assign hotkeys for them. For example open external applications. |
+| [Hover External Link](https://github.com/jamiebrynes7/obsidian-hover-external-link) | Hover on external links to see the destination URL. |
