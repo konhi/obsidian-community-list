@@ -298,3 +298,11 @@
 | [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link) | Get links to blocks and headings from Obsidian's right click menu. |
 | [Diagrams](https://github.com/zapthedingbat/drawio-obsidian) | Create and edit Draw.io diagrams in obsidian |
 | [Vim Input Method Switch](https://github.com/yuanotes/obsidian-vim-im-switch-plugin) | Switch input method with fcitx-remote when Vim keymap is enabled. |
+| [Luhman](https://github.com/Dyldog/luhman-obsidian-plugin) | Commands for handling a zettelkasten with Luhman-style IDs as filenames |
+| [Daily Named Folder](https://github.com/nemoandrea/obsidian-daily-named-folder) | Like daily notes, but nested in a daily folder with a oneline summary. Better for attachment management & glanceability. |
+| [Obsidian Trello](https://github.com/OfficerHalf/obsidian-trello) | Connect Trello cards to Obsidian notes. |
+| [Annotator](https://github.com/elias-sundqvist/obsidian-annotator) | A plugin for reading and annotating PDFs and EPUBs in obsidian. |
+| [CustomJS](https://github.com/samlewis0602/obsidian-custom-js) | Reuse custom javascript across desktop and mobile. |
+| [Random Structural Diary](https://github.com/ShockThunder/RandomStructuralDiary) | This is a plugin for picking random questions from prepared question list. It allows you answer on different questions each time. |
+| [Obsidian File Link](https://github.com/marcjulianschwarz/obsidian-file-link) | This plugin lets you create simple file links in your notes. |
+| [Quick Explorer](https://github.com/pjeby/quick-explorer) | Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard |
