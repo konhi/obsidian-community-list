@@ -304,5 +304,11 @@
 | [Annotator](https://github.com/elias-sundqvist/obsidian-annotator) | A plugin for reading and annotating PDFs and EPUBs in obsidian. |
 | [CustomJS](https://github.com/samlewis0602/obsidian-custom-js) | Reuse custom javascript across desktop and mobile. |
 | [Random Structural Diary](https://github.com/ShockThunder/RandomStructuralDiary) | This is a plugin for picking random questions from prepared question list. It allows you answer on different questions each time. |
-| [Obsidian File Link](https://github.com/marcjulianschwarz/obsidian-file-link) | This plugin lets you create simple file links in your notes. |
+| [Better File Link](https://github.com/marcjulianschwarz/obsidian-file-link) | A plugin to add better external file links to notes. |
 | [Quick Explorer](https://github.com/pjeby/quick-explorer) | Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard |
+| [Banners](https://github.com/noatpad/obsidian-banners) | Add banner images to your notes! |
+| [Obsidian42 - Jump-to-Date](https://github.com/TfTHacker/obsidian42-jump-to-date) | Popup calendar for quickly navigating dates. |
+| [Obsidian Icon Folder](https://github.com/FlorianWoelki/obsidian-icon-folder) | This plugin allows you to add icons to your folders. |
+| [Ghost Fade Focus](https://github.com/skipadu/obsidian-ghost-fade-focus) | Focused on the current line, others faded like a ghost! |
+| [Folder Note Core](https://github.com/aidenlx/folder-note-core) | Provide core features and API for folder notes |
+| [Jupyter](https://github.com/tillahoffmann/obsidian-jupyter) | Run python code in Obsidian using jupyter. |
