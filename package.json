@@ -24,5 +24,9 @@
   "dependencies": {
     "json2md": "^1.11.0",
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.1",
+    "prettier": "^2.3.2"
   }
 }
