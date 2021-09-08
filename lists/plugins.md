@@ -238,7 +238,7 @@
 | [Kroki](https://github.com/gregzuro/obsidian-kroki) | Render Kroki diagrams. |
 | [Timeline](https://github.com/George-debug/obsidian-timeline) | Used to build great timelines |
 | [Map View](https://github.com/esm7/obsidian-map-view) | An interactive map view for your notes. |
-| [Copy URL in preview](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy URL context menu in preview mode |
+| [Copy Image and URL in Preview](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy Image and Copy URL context menu in preview mode |
 | [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) | TTRPG Initiative Tracker for Obsidian.md |
 | [Cursor Location](https://github.com/spslater/obsidian-cursor-location-plugin) | This displays the location of the cursor (character and line number). |
 | [Enhancing mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) | This is a enhancing mindmap plugin for obsidian. You can edit mindmap on markdown. |
@@ -312,3 +312,4 @@
 | [Ghost Fade Focus](https://github.com/skipadu/obsidian-ghost-fade-focus) | Focused on the current line, others faded like a ghost! |
 | [Folder Note Core](https://github.com/aidenlx/folder-note-core) | Provide core features and API for folder notes |
 | [Jupyter](https://github.com/tillahoffmann/obsidian-jupyter) | Run python code in Obsidian using jupyter. |
+| [HackerNews](https://github.com/arpitbbhayani/obsidian-hackernews) | Periodically fetches and displays top stories from HackerNews. |
