@@ -40,7 +40,7 @@ async function createTable(json, type) {
       rows.push([
         // obj.id,
         json2md({
-          link: { title: obj.name, source: `${URLS.GITHUB}/${obj.repo}` },
+          link: { title: obj.name, source: encodeURI(`${URLS.GITHUB}/${obj.repo}`) },
         }).trim(),
         // obj.author,
         obj.description,
@@ -54,7 +54,7 @@ async function createTable(json, type) {
           {
             link: {
               title: obj.repo,
-              source: `${URLS.GITHUB}/${obj.repo}`,
+              source: encodeURI(`${URLS.GITHUB}/${obj.repo}`),
             },
           },
         ]).trim(),
@@ -62,7 +62,7 @@ async function createTable(json, type) {
           {
             img: {
               alt: obj.name,
-              source: `https://raw.githubusercontent.com/${obj.repo}/master/${obj.screenshot}`,
+              source: encodeURI(`https://raw.githubusercontent.com/${obj.repo}/master/${obj.screenshot}`),
             },
           },
         ]).trim(),
