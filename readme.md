@@ -7,8 +7,6 @@ This repository fetches [community themes and plugins list](https://github.com/o
 
 ## Usage
 ```bash
-git clone https://github.com/konhi/obsidian-community-list.git
-cd obsidian-community-list
-npm install
-node index.js
+git clone https://github.com/konhi/obsidian-community-list.git && cd obsidian-community-list
+npm start
 ```
