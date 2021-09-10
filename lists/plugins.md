@@ -313,3 +313,6 @@
 | [Folder Note Core](https://github.com/aidenlx/folder-note-core) | Provide core features and API for folder notes |
 | [Jupyter](https://github.com/tillahoffmann/obsidian-jupyter) | Run python code in Obsidian using jupyter. |
 | [HackerNews](https://github.com/arpitbbhayani/obsidian-hackernews) | Periodically fetches and displays top stories from HackerNews. |
+| [Reset Font Size](https://github.com/luckman212/obsidian-reset-font-size) | Adds button and command to reset the font size back to its default value. |
+| [Dynamic Table of Contents](https://github.com/aidurber/obsidian-plugin-dynamic-toc) | An Obsidian plugin to generate Tables of Contents that stay up to date with your document outline. |
+| [Podcast Note](https://github.com/marcjulianschwarz/obsidian-podcast-note) | Podcast Note lets you automatically add podcast information to your notes. |
