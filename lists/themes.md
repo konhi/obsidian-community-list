@@ -78,3 +78,4 @@
 | [dogwaddle/lizardmen-zettelkasten](https://github.com/dogwaddle/lizardmen-zettelkasten) | ![Lizardmen Zettelkasten](https://raw.githubusercontent.com/dogwaddle/lizardmen-zettelkasten/master/screenshot.png "") |
 | [firinael/obsidian-cidreira-coast-theme](https://github.com/firinael/obsidian-cidreira-coast-theme) | ![Cidreira Coast](https://raw.githubusercontent.com/firinael/obsidian-cidreira-coast-theme/master/screenshot.png "") |
 | [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) | ![Shimmering Focus](https://raw.githubusercontent.com/chrisgrieser/shimmering-focus/master/dual-theme-screenshot.png "") |
+| [lazercaveman/obsidian-firefly-theme](https://github.com/lazercaveman/obsidian-firefly-theme) | ![Firefly](https://raw.githubusercontent.com/lazercaveman/obsidian-firefly-theme/master/firefly-theme-screenshot.png "") |
