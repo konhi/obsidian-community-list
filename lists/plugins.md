@@ -316,3 +316,5 @@
 | [Reset Font Size](https://github.com/luckman212/obsidian-reset-font-size) | Adds button and command to reset the font size back to its default value. |
 | [Dynamic Table of Contents](https://github.com/aidurber/obsidian-plugin-dynamic-toc) | An Obsidian plugin to generate Tables of Contents that stay up to date with your document outline. |
 | [Podcast Note](https://github.com/marcjulianschwarz/obsidian-podcast-note) | Podcast Note lets you automatically add podcast information to your notes. |
+| [Stille](https://github.com/michaellee/stille) | Focus on your writing, a section at a time. |
+| [Block Reference Counts](https://github.com/shabegom/obsidian-reference-count) | Creates a button with the number of references to a given block, link, or header. Clicking the button shows a table of references in your vault |
