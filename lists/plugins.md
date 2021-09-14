@@ -178,7 +178,7 @@
 | [Incremental Writing](https://github.com/bjsi/incremental-writing) | Incrementally review notes and blocks over time. |
 | [Kindle Highlights](https://github.com/hadynz/obsidian-kindle-plugin) | Sync your Kindle book highlights using your Amazon login or uploading your My Clippings file |
 | [Metatable](https://github.com/arnau/obsidian-metatable) | Display the whole frontmatter section as a collapsible table |
-| [Ozan's Image in Editor Plugin](https://github.com/ozntel/oz-image-in-editor-obsidian) | You can view images inside of the Editor as soon as you paste without a necessity to preview the note. |
+| [Ozan's Image in Editor Plugin](https://github.com/ozntel/oz-image-in-editor-obsidian) | View Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview. |
 | [Recall](https://github.com/martin-jw/obsidian-recall) | A flexible and configurable spaced repetition plugin with multiple algorithms to choose from. |
 | [Tidy Footnotes](https://github.com/charliecm/obsidian-tidy-footnotes) | Tidy your footnotes seamlessly. |
 | [Beeminder Word Count Plugin](https://github.com/kenzan100/beeminder-obsidian-word-count) | Post word counts directly from obsidian md file to Beeminder |
@@ -246,7 +246,7 @@
 | [Open vault in VSCode](https://github.com/NomarCub/obsidian-open-vscode) | Ribbon button and command to open vault as a Visual Studio Code workspace |
 | [Image Uploader](https://github.com/Creling/obsidian-image-uploader) | This plugin can upload the image in your clipboard to any image hosting automatically when pasting. |
 | [Garble Text](https://github.com/kurakart/garble-text) | Garbling text in Obsidian turns all content in the entire app (notes, sidebar, etc) into lines so you can take screenshots without exposing sensitive data. |
-| [Paste to Current Indentation](https://github.com/publicus/obsidian-paste-to-current-indentation) | This plugin allows pasting and marking text as block-quotes at any level of indentation. |
+| [Paste to Current Indentation](https://github.com/jglev/obsidian-paste-to-current-indentation) | This plugin allows pasting and marking text as block-quotes at any level of indentation. |
 | [Obsimian](https://github.com/motif-software/obsimian) | Obsidian simulation framework for testing Obsidian plugins. |
 | [Find & Replace in Selection](https://github.com/TClark1011/obsidian-find-and-replace-in-selection) | Replace text within your current selection |
 | [Embedded Code Title](https://github.com/tadashi-aikawa/obsidian-embedded-code-title) | This is an Obsidian plugin which can embeds title to code blocks. |
@@ -264,7 +264,7 @@
 | [Pocket reading list integration](https://github.com/nybbles/obsidian-pocket) | Access your Pocket list entries and create notes for them easily |
 | [Obsidian42 - WordNet Dictionary](https://github.com/TfTHacker/Obsidian-WordNet) | Brings WordNet, a large lexical database of English developed by Princeton University to Obsidian. |
 | [Multi-line Formatting](https://github.com/nmady/obsidian-multi-line-formatting) | Apply formatting to selected text, dealing with the paragraph breaks. |
-| [Apply Patterns](https://github.com/publicus/obsidian-apply-patterns-plugin) | Apply custom patterns of find-and-replace in succession to text. |
+| [Apply Patterns](https://github.com/jglev/obsidian-apply-patterns-plugin) | Apply custom patterns of find-and-replace in succession to text. |
 | [Longform](https://github.com/kevboh/longform) | A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects. |
 | [Readwise Official](https://github.com/readwiseio/obsidian-readwise) | Official Readwise <-> Obsidian integration. |
 | [Activity Logger](https://github.com/Creling/obsidian-activity-logger) | Log your activities like creating notes, modifying notes, deleting notes and so on. |
@@ -318,3 +318,5 @@
 | [Podcast Note](https://github.com/marcjulianschwarz/obsidian-podcast-note) | Podcast Note lets you automatically add podcast information to your notes. |
 | [Stille](https://github.com/michaellee/stille) | Focus on your writing, a section at a time. |
 | [Block Reference Counts](https://github.com/shabegom/obsidian-reference-count) | Creates a button with the number of references to a given block, link, or header. Clicking the button shows a table of references in your vault |
+| [Obsidian markmind](https://github.com/MarkMindCkm/obsidian-markmind) | Mind map, outline and pdf annotate tool for Obsidian. (Closed Source) |
+| [Carry-Forward](https://github.com/jglev/obsidian-carry-forward) | Copy text from a note, linking back to its copied source, or copy a link to a note block. |
