@@ -320,3 +320,4 @@
 | [Block Reference Counts](https://github.com/shabegom/obsidian-reference-count) | Creates a button with the number of references to a given block, link, or header. Clicking the button shows a table of references in your vault |
 | [Obsidian markmind](https://github.com/MarkMindCkm/obsidian-markmind) | Mind map, outline and pdf annotate tool for Obsidian. (Closed Source) |
 | [Carry-Forward](https://github.com/jglev/obsidian-carry-forward) | Copy text from a note, linking back to its copied source, or copy a link to a note block. |
+| [Obsidian Task Archiver](https://github.com/ivan-lednev/obsidian-task-archiver) | Move completed tasks to an archive with a date tree |
