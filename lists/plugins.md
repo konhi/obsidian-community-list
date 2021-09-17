@@ -261,7 +261,7 @@
 | [Wavedrom](https://github.com/kingsquirrel152/obsidian-wavedrom) | Simple plugin for creating wavedrom plots. |
 | [Phone to Roam to Obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian) | An Obsidian client for phonetoroam.com |
 | [Budget WYSIWYG](https://github.com/OwnJoke/obsidian-budget-wysiwyg) | This is a plugin that automatically switches between preview mode and source mode based on if you are typing or not. |
-| [Pocket reading list integration](https://github.com/nybbles/obsidian-pocket) | Access your Pocket list entries and create notes for them easily |
+| [Pocket integration](https://github.com/nybbles/obsidian-pocket) | Access your Pocket reading list entries and create notes for them easily |
 | [Obsidian42 - WordNet Dictionary](https://github.com/TfTHacker/Obsidian-WordNet) | Brings WordNet, a large lexical database of English developed by Princeton University to Obsidian. |
 | [Multi-line Formatting](https://github.com/nmady/obsidian-multi-line-formatting) | Apply formatting to selected text, dealing with the paragraph breaks. |
 | [Apply Patterns](https://github.com/jglev/obsidian-apply-patterns-plugin) | Apply custom patterns of find-and-replace in succession to text. |
