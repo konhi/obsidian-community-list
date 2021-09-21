@@ -321,3 +321,5 @@
 | [Obsidian markmind](https://github.com/MarkMindCkm/obsidian-markmind) | Mind map, outline and pdf annotate tool for Obsidian. (Closed Source) |
 | [Carry-Forward](https://github.com/jglev/obsidian-carry-forward) | Copy text from a note, linking back to its copied source, or copy a link to a note block. |
 | [Obsidian Task Archiver](https://github.com/ivan-lednev/obsidian-task-archiver) | Move completed tasks to an archive with a date tree |
+| [Card View Mode](https://github.com/yo-goto/obsidian-card-view-mode) | Enable to view your notes as cards. |
+| [Scales and Chords](https://github.com/egradman/scales-chords) | Capture musical tab notation in your Obsidian vault. Chords become clickable links to modal images (provided by scales-chords.com) |
