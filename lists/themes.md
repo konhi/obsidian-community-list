@@ -5,7 +5,6 @@
 | [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox) | ![Obsidian gruvbox](https://raw.githubusercontent.com/insanum/obsidian_gruvbox/master/dark.png "") |
 | [insanum/obsidian_nord](https://github.com/insanum/obsidian_nord) | ![Obsidian Nord](https://raw.githubusercontent.com/insanum/obsidian_nord/master/screen.png "") |
 | [jarodise/Dracula-for-Obsidian.md](https://github.com/jarodise/Dracula-for-Obsidian.md) | ![Dracula for Obsidian](https://raw.githubusercontent.com/jarodise/Dracula-for-Obsidian.md/master/screencap.jpg "") |
-| [chad-bennett/warmth-obsidian-theme](https://github.com/chad-bennett/warmth-obsidian-theme) | ![Warmth](https://raw.githubusercontent.com/chad-bennett/warmth-obsidian-theme/master/warmth.jpg "") |
 | [dogwaddle/obsidian-gastown-theme.md](https://github.com/dogwaddle/obsidian-gastown-theme.md) | ![Gastown](https://raw.githubusercontent.com/dogwaddle/obsidian-gastown-theme.md/master/ObsidianOne.png "") |
 | [deathau/80s-Neon-for-Obsidian.md](https://github.com/deathau/80s-Neon-for-Obsidian.md) | ![80s Neon](https://raw.githubusercontent.com/deathau/80s-Neon-for-Obsidian.md/master/screenshot.jpg "") |
 | [deathau/Base2Tone-For-Obsidian.md](https://github.com/deathau/Base2Tone-For-Obsidian.md) | ![Base2Tone](https://raw.githubusercontent.com/deathau/Base2Tone-For-Obsidian.md/master/colours.gif "") |

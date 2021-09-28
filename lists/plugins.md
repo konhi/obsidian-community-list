@@ -326,3 +326,6 @@
 | [Enhance Copy Note](https://github.com/kzhovn/copy-command-obsidian) | Augments native Obsidian note copying. |
 | [Customizable Menu](https://github.com/kzhovn/obsidian-customizable-menu) | Allows you to add any command to Obsidian's right-click menu. |
 | [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus) | Quickly switch and manage workspaces |
+| [Simple Embeds](https://github.com/samwarnick/obsidian-simple-embeds) | Replace Twitter and YouTube links with embeds when previewing a file. |
+| [Obsidian ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) | Collect interesting information from you clipboard into your vault. A website will be converted to MD, Tweets and Youtube Videos embedded, plain text will just saved into a new notice. |
+| [Obsidian42 - Text Transporter](https://github.com/TfTHacker/obsidian42-text-transporter) | Advanced text tools for working with text in your vault |
