@@ -329,3 +329,10 @@
 | [Simple Embeds](https://github.com/samwarnick/obsidian-simple-embeds) | Replace Twitter and YouTube links with embeds when previewing a file. |
 | [Obsidian ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) | Collect interesting information from you clipboard into your vault. A website will be converted to MD, Tweets and Youtube Videos embedded, plain text will just saved into a new notice. |
 | [Obsidian42 - Text Transporter](https://github.com/TfTHacker/obsidian42-text-transporter) | Advanced text tools for working with text in your vault |
+| [MarginNote Companion](https://github.com/aidenlx/marginnote-companion) | An Obsidian plugin to bridge MarginNote 3 and Obsidian |
+| [Netwik](https://github.com/fivol/netwik-obsidian) | Union Vault. This plugin provides access to global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants |
+| [Prominent Starred Files](https://github.com/valentine195/obsidian-prominent-starred-files) | Prominently display starred notes in the file explorer |
+| [OzanShare Publish](https://github.com/ozntel/ozanshare-publish-plugin) | Publish your markdown notes with a single click from your vault. (Closed Source) |
+| [Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts) | Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code or Sublime Text |
+| [Task Collector (TC)](https://github.com/ebullient/obsidian-task-collector) | Manage completed tasks within a document |
+| [Metadata Extractor](https://github.com/kometenstaub/metadata-extractor) | Metadata export (on a schedule) for integration with third-party apps like launchers or graph analysis software. |
