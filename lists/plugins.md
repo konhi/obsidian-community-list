@@ -336,3 +336,10 @@
 | [Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts) | Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code or Sublime Text |
 | [Task Collector (TC)](https://github.com/ebullient/obsidian-task-collector) | Manage completed tasks within a document |
 | [Metadata Extractor](https://github.com/kometenstaub/metadata-extractor) | Metadata export (on a schedule) for integration with third-party apps like launchers or graph analysis software. |
+| [Quick Latex for Obsidian](https://github.com/joeyuping/quick_latex_obsidian) | A simple plugin to simplify and speedup latex math typing. |
+| [Itinerary](https://github.com/coddingtonbear/obsidian-itinerary) | Make planning your trip or event easier by rendering a calendar from event information found in your notes. |
+| [URI Commands](https://github.com/kzhovn/uri-commands-obsidian) | Execute URIs from the Obsidian command palette. |
+| [Update frontmatter time on edit](https://github.com/beaussan/update-time-on-edit-obsidian) | Keep front matter in sync with the last edit time |
+| [Nomnoml Diagram](https://github.com/Daeik/obsidian-nomnoml-diagram) | Draw nomnoml diagrams in Obsidian notes |
+| [Linked Data Vocabularies (SKOS)](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) | Use structured linked data as metadata in your notes. |
+| [Map of Content](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) | Automatically generate a Map of Content for your vault |
