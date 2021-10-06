@@ -273,7 +273,7 @@
 | [AidenLx's Folder Note](https://github.com/aidenlx/alx-folder-note) | Add description, summary and more info to folders with folder notes. |
 | [Macros](https://github.com/phibr0/obsidian-macros) | Group multiple Commands into one Macro and set delays. |
 | [Hide Sidebars When Narrow](https://github.com/mybuddymichael/obsidian-hide-sidebars-when-narrow) | Automatically hides the sidebars when your window is narrow. |
-| [Linter](https://github.com/platers/obsidian-linter) | This Obsidian plugin applies consistent styling to your markdown files. |
+| [Linter](https://github.com/platers/obsidian-linter) | Formats and styles your notes. |
 | [Number Headings](https://github.com/onlyafly/number-headings-obsidian) | Automatically number or re-number headings in an Obsidian document. |
 | [Force note view mode by front matter](https://github.com/bwydoogh/obsidian-force-view-mode-of-note) | This plugin allows to force the view mode for a note by using front matter: YAML block with 'obsidian_ui_mode' as key. |
 | [File Explorer Markdown Titles](https://github.com/Dyldog/file-explorer-markdown-titles) | Shows the first markdown header of a note in the file explorer |
