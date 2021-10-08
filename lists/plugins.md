@@ -341,5 +341,4 @@
 | [URI Commands](https://github.com/kzhovn/uri-commands-obsidian) | Execute URIs from the Obsidian command palette. |
 | [Update frontmatter time on edit](https://github.com/beaussan/update-time-on-edit-obsidian) | Keep front matter in sync with the last edit time |
 | [Nomnoml Diagram](https://github.com/Daeik/obsidian-nomnoml-diagram) | Draw nomnoml diagrams in Obsidian notes |
-| [Linked Data Vocabularies (SKOS)](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) | Use structured linked data as metadata in your notes. |
 | [Map of Content](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) | Automatically generate a Map of Content for your vault |
