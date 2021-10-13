@@ -342,3 +342,4 @@
 | [Update frontmatter time on edit](https://github.com/beaussan/update-time-on-edit-obsidian) | Keep front matter in sync with the last edit time |
 | [Nomnoml Diagram](https://github.com/Daeik/obsidian-nomnoml-diagram) | Draw nomnoml diagrams in Obsidian notes |
 | [Map of Content](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) | Automatically generate a Map of Content for your vault |
+| [Local images](https://github.com/aleksey-rezvov/obsidian-local-images) | Local Images plugin finds all links to external images in your notes, then downloads and saves images locally, and finally adjusts the image links in your notes to point to the saved image files. |
