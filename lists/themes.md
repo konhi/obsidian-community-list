@@ -82,3 +82,5 @@
 | [zacharyc/purple-owl-theme](https://github.com/zacharyc/purple-owl-theme) | ![Purple Owl](https://raw.githubusercontent.com/zacharyc/purple-owl-theme/master/purple-owl-theme.png "") |
 | [gracejoseph1236/obsidian-emerald](https://github.com/gracejoseph1236/obsidian-emerald) | ![Emerald](https://raw.githubusercontent.com/gracejoseph1236/obsidian-emerald/master/example.png "") |
 | [tomzorz/Sodalite](https://github.com/tomzorz/Sodalite) | ![Sodalite](https://raw.githubusercontent.com/tomzorz/Sodalite/master/screenshot.png "") |
+| [Seraaron/agora-obsidian-theme](https://github.com/Seraaron/agora-obsidian-theme) | ![Agora](https://raw.githubusercontent.com/Seraaron/agora-obsidian-theme/master/agora-theme-preview.png "") |
+| [JoshKasap/Obsidian-Faded-Theme](https://github.com/JoshKasap/Obsidian-Faded-Theme) | ![Faded](https://raw.githubusercontent.com/JoshKasap/Obsidian-Faded-Theme/master/Faded.png "") |
