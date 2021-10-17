@@ -343,3 +343,10 @@
 | [Nomnoml Diagram](https://github.com/Daeik/obsidian-nomnoml-diagram) | Draw nomnoml diagrams in Obsidian notes |
 | [Map of Content](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) | Automatically generate a Map of Content for your vault |
 | [Local images](https://github.com/aleksey-rezvov/obsidian-local-images) | Local Images plugin finds all links to external images in your notes, then downloads and saves images locally, and finally adjusts the image links in your notes to point to the saved image files. |
+| [Vocabulary View](https://github.com/nnshi-s/obsidian-vocabulary-view-plugin) | Write down some words with their explanations and preview them in a vocabulary test style |
+| [Obsidian42 - BRAT](https://github.com/TfTHacker/obsidian42-brat) | Easily install a beta version of a plugin for testing. |
+| [Snippet Commands](https://github.com/deathau/snippet-commands-obsidian) | Registers custom css snippets as commands (which you can bind hotkeys to) |
+| [JavaScript Init](https://github.com/ryanpcmcquen/obsidian-javascript-init) | Run JavaScript when Obsidian loads, or any other time. |
+| [Key Promoter](https://github.com/joethei/obsidian-key-promoter) | Learn keyboard shortcuts by showing them when using the mouse |
+| [Obsidian Live sync](https://github.com/vrtmrz/obsidian-livesync) | obsidian Live synchronization plugin. |
+| [Plotly](https://github.com/Dmitriy-Shulha/obsidian-plotly) | With this plugin you can embed Plotly charts in your notes. |

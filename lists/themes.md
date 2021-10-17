@@ -84,3 +84,4 @@
 | [tomzorz/Sodalite](https://github.com/tomzorz/Sodalite) | ![Sodalite](https://raw.githubusercontent.com/tomzorz/Sodalite/master/screenshot.png "") |
 | [Seraaron/agora-obsidian-theme](https://github.com/Seraaron/agora-obsidian-theme) | ![Agora](https://raw.githubusercontent.com/Seraaron/agora-obsidian-theme/master/agora-theme-preview.png "") |
 | [JoshKasap/Obsidian-Faded-Theme](https://github.com/JoshKasap/Obsidian-Faded-Theme) | ![Faded](https://raw.githubusercontent.com/JoshKasap/Obsidian-Faded-Theme/master/Faded.png "") |
+| [marcusolsson/obsidian-creature-theme](https://github.com/marcusolsson/obsidian-creature-theme) | ![Creature](https://raw.githubusercontent.com/marcusolsson/obsidian-creature-theme/master/screenshot.png "") |
