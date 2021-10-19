@@ -348,5 +348,11 @@
 | [Snippet Commands](https://github.com/deathau/snippet-commands-obsidian) | Registers custom css snippets as commands (which you can bind hotkeys to) |
 | [JavaScript Init](https://github.com/ryanpcmcquen/obsidian-javascript-init) | Run JavaScript when Obsidian loads, or any other time. |
 | [Key Promoter](https://github.com/joethei/obsidian-key-promoter) | Learn keyboard shortcuts by showing them when using the mouse |
-| [Obsidian Live sync](https://github.com/vrtmrz/obsidian-livesync) | obsidian Live synchronization plugin. |
+| [Obsidian Live sync](https://github.com/vrtmrz/obsidian-livesync) | Reflect your vault changes to some other devices immediately. Please make sure to disable other synchronize solutions to avoid content corruption or duplication. |
 | [Plotly](https://github.com/Dmitriy-Shulha/obsidian-plotly) | With this plugin you can embed Plotly charts in your notes. |
+| [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) | Get the first section of Wikipedia for a note title or search term. |
+| [Vale](https://github.com/marcusolsson/obsidian-vale) | Check your document for style consistency using Vale. |
+| [Lumberjack 🪓🪵](https://github.com/ryanjamurphy/lumberjack-obsidian) | Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing. |
+| [Obsidian Link Converter](https://github.com/ozntel/obsidian-link-converter) | Scan all your links in the vault and convert them to your desired format. |
+| [MySnippets](https://github.com/chetachiezikeuzor/MySnippets-Plugin) | MySnippets is a plugin that adds a status bar menu allowing the user to quickly toggle their snippets on and off 🖌. |
+| [Hypothesis Highlights](https://github.com/weichenw/obsidian-hypothesis-plugin) | Sync your Hypothesis highlights |

@@ -85,3 +85,4 @@
 | [Seraaron/agora-obsidian-theme](https://github.com/Seraaron/agora-obsidian-theme) | ![Agora](https://raw.githubusercontent.com/Seraaron/agora-obsidian-theme/master/agora-theme-preview.png "") |
 | [JoshKasap/Obsidian-Faded-Theme](https://github.com/JoshKasap/Obsidian-Faded-Theme) | ![Faded](https://raw.githubusercontent.com/JoshKasap/Obsidian-Faded-Theme/master/Faded.png "") |
 | [marcusolsson/obsidian-creature-theme](https://github.com/marcusolsson/obsidian-creature-theme) | ![Creature](https://raw.githubusercontent.com/marcusolsson/obsidian-creature-theme/master/screenshot.png "") |
+| [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) | ![Sanctum](https://raw.githubusercontent.com/jdanielmourao/obsidian-sanctum/master/cover.png "") |
