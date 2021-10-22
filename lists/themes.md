@@ -86,3 +86,4 @@
 | [JoshKasap/Obsidian-Faded-Theme](https://github.com/JoshKasap/Obsidian-Faded-Theme) | ![Faded](https://raw.githubusercontent.com/JoshKasap/Obsidian-Faded-Theme/master/Faded.png "") |
 | [marcusolsson/obsidian-creature-theme](https://github.com/marcusolsson/obsidian-creature-theme) | ![Creature](https://raw.githubusercontent.com/marcusolsson/obsidian-creature-theme/master/screenshot.png "") |
 | [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) | ![Sanctum](https://raw.githubusercontent.com/jdanielmourao/obsidian-sanctum/master/cover.png "") |
+| [MatheusZarkov/Obsidian-Slytherin](https://github.com/MatheusZarkov/Obsidian-Slytherin) | ![Slytherin](https://raw.githubusercontent.com/MatheusZarkov/Obsidian-Slytherin/master/Cover.png "") |
