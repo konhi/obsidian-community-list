@@ -356,3 +356,5 @@
 | [Obsidian Link Converter](https://github.com/ozntel/obsidian-link-converter) | Scan all your links in the vault and convert them to your desired format. |
 | [MySnippets](https://github.com/chetachiezikeuzor/MySnippets-Plugin) | MySnippets is a plugin that adds a status bar menu allowing the user to quickly toggle their snippets on and off 🖌. |
 | [Hypothesis Highlights](https://github.com/weichenw/obsidian-hypothesis-plugin) | Sync your Hypothesis highlights |
+| [Another Quick Switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher) | This is an Obsidian plugin which is another choice of Quick switcher. |
+| [Link Headers Directly](https://github.com/Signynt/link-headers-directly) | When a header is linked, preview mode will show only the header, and not the note name. |
