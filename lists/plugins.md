@@ -358,3 +358,10 @@
 | [Hypothesis Highlights](https://github.com/weichenw/obsidian-hypothesis-plugin) | Sync your Hypothesis highlights |
 | [Another Quick Switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher) | This is an Obsidian plugin which is another choice of Quick switcher. |
 | [Link Headers Directly](https://github.com/Signynt/link-headers-directly) | When a header is linked, preview mode will show only the header, and not the note name. |
+| [Meld Calc](https://github.com/meld-cp/obsidian-calc) | Do math! Evaluate math expressions within your notes. |
+| [Tabout](https://github.com/phibr0/obsidian-tabout) | Easily 'tab out' of Links or other Markdown Formatting Characters. |
+| [Pipe tricks](https://github.com/marcusolsson/obsidian-pipe-tricks) | Add support for Wikilink pipe tricks. |
+| [Fantasy Calendar](https://github.com/valentine195/obsidian-fantasy-calendar) | Fantasy calendars in Obsidian! |
+| [Pikt](https://github.com/arnau/obsidian-pikt) | An obsidian plugin to render pikchr codeblocks  |
+| [Improved VimCursor](https://github.com/hhhapz/improved-obsidian-vimcursor) | An improved experience with the cursor in obsidian |
+| [Quote of the Day](https://github.com/twentytwokhz/quote-of-the-day) | Inserts random quotes in the editor |
