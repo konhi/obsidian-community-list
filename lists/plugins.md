@@ -73,7 +73,7 @@
 | [Temple](https://github.com/garyng/obsidian-temple) | A plugin for templating in Obsidian, powered by Nunjucks. |
 | [PDF to Markdown](https://github.com/akaalias/obsidian-extract-pdf) | Save a PDF's text (headings, paragraphs, lists, etc.) to a Markdown file. |
 | [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers) | Enables relative line numbers in editor mode |
-| [Obsidian Charts](https://github.com/phibr0/obsidian-charts) | This Plugin lets you create Charts with Chartist as its backend! |
+| [Obsidian Charts](https://github.com/phibr0/obsidian-charts) | This Plugin lets you easily create Charts within Obsidian! |
 | [Discordian Theme](https://github.com/radekkozak/discordian-plugin) | Fine-grained control of Discordian Theme |
 | [Autocomplete](https://github.com/yeboster/autocomplete-obsidian) | This Plugin provides a text autocomplete feature to enhance typing speed. |
 | [Completed Task Display](https://github.com/heliostatic/completed-task-display) | Provides controls for displaying or hiding completed tasks |
@@ -365,3 +365,10 @@
 | [Pikt](https://github.com/arnau/obsidian-pikt) | An obsidian plugin to render pikchr codeblocks  |
 | [Improved VimCursor](https://github.com/hhhapz/improved-obsidian-vimcursor) | An improved experience with the cursor in obsidian |
 | [Quote of the Day](https://github.com/twentytwokhz/quote-of-the-day) | Inserts random quotes in the editor |
+| [Audio Speed Plugin](https://github.com/kaizau/obsidian-audio-speed-plugin) | Change the playback rate of audio files during markdown preview. |
+| [Limelight](https://github.com/smikula/obsidian-limelight) | Spotlight your active pane |
+| [Prompt](https://github.com/hungsu/obsidian-prompt) | Show inspirational prompts, from a prompt file in your vault. |
+| [Link Archive](https://github.com/tomzorz/obsidian-link-archive) | This plugin archives links in your note so they're available to you even if the original site goes down or gets removed. |
+| [Obsidian Chess](https://github.com/pmorim/obsidian-chess) | All you need to create your Chess related notes |
+| [HTML Tags Autocomplete](https://github.com/bicarlsen/obsidian_html_tags_autocomplete) | Automatically add closing HTML tags. |
+| [Advanced Cursors](https://github.com/SkepticMystic/advanced-cursors) | Use multiple cursors even more powerfully. |

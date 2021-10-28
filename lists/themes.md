@@ -90,3 +90,4 @@
 | [cassidoo/cardstock](https://github.com/cassidoo/cardstock) | ![Cardstock](https://raw.githubusercontent.com/cassidoo/cardstock/master/screenshot.png "") |
 | [Nilahn/pine_forest_berry](https://github.com/Nilahn/pine_forest_berry) | ![Pine Forest Berry](https://raw.githubusercontent.com/Nilahn/pine_forest_berry/master/Screenshot%20PFB%201.png "") |
 | [mimishahzad/rose-pine-moon-obsidian](https://github.com/mimishahzad/rose-pine-moon-obsidian) | ![Rosé Pine Moon](https://raw.githubusercontent.com/mimishahzad/rose-pine-moon-obsidian/master/assets/template.png "") |
+| [gracejoseph1236/obsidian-ruby](https://github.com/gracejoseph1236/obsidian-ruby) | ![Ruby](https://raw.githubusercontent.com/gracejoseph1236/obsidian-ruby/master/example.png "") |
