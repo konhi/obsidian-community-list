@@ -91,3 +91,5 @@
 | [Nilahn/pine_forest_berry](https://github.com/Nilahn/pine_forest_berry) | ![Pine Forest Berry](https://raw.githubusercontent.com/Nilahn/pine_forest_berry/master/Screenshot%20PFB%201.png "") |
 | [mimishahzad/rose-pine-moon-obsidian](https://github.com/mimishahzad/rose-pine-moon-obsidian) | ![Rosé Pine Moon](https://raw.githubusercontent.com/mimishahzad/rose-pine-moon-obsidian/master/assets/template.png "") |
 | [gracejoseph1236/obsidian-ruby](https://github.com/gracejoseph1236/obsidian-ruby) | ![Ruby](https://raw.githubusercontent.com/gracejoseph1236/obsidian-ruby/master/example.png "") |
+| [damiankorcz/Prism-Theme](https://github.com/damiankorcz/Prism-Theme) | ![Prism](https://raw.githubusercontent.com/damiankorcz/Prism-Theme/master/assets/screenshots/Community%20Themes%20Screenshot.png "") |
+| [kinmury/Golden-Book](https://github.com/kinmury/Golden-Book) | ![Golden Book](https://raw.githubusercontent.com/kinmury/Golden-Book/master/Gallery/Gallery1.png "") |

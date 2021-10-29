@@ -372,3 +372,4 @@
 | [Obsidian Chess](https://github.com/pmorim/obsidian-chess) | All you need to create your Chess related notes |
 | [HTML Tags Autocomplete](https://github.com/bicarlsen/obsidian_html_tags_autocomplete) | Automatically add closing HTML tags. |
 | [Advanced Cursors](https://github.com/SkepticMystic/advanced-cursors) | Use multiple cursors even more powerfully. |
+| [Stenography](https://github.com/bramses/stenography-obsidian) | Translate code blocks into simple English using Machine Learning with the Stenography API |
