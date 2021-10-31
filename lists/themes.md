@@ -93,3 +93,7 @@
 | [gracejoseph1236/obsidian-ruby](https://github.com/gracejoseph1236/obsidian-ruby) | ![Ruby](https://raw.githubusercontent.com/gracejoseph1236/obsidian-ruby/master/example.png "") |
 | [damiankorcz/Prism-Theme](https://github.com/damiankorcz/Prism-Theme) | ![Prism](https://raw.githubusercontent.com/damiankorcz/Prism-Theme/master/assets/screenshots/Community%20Themes%20Screenshot.png "") |
 | [kinmury/Golden-Book](https://github.com/kinmury/Golden-Book) | ![Golden Book](https://raw.githubusercontent.com/kinmury/Golden-Book/master/Gallery/Gallery1.png "") |
+| [gracejoseph1236/obsidian-carnelian](https://github.com/gracejoseph1236/obsidian-carnelian) | ![Carnelian](https://raw.githubusercontent.com/gracejoseph1236/obsidian-carnelian/master/example.png "") |
+| [selfire1/obsidian-you-theme](https://github.com/selfire1/obsidian-you-theme) | ![Obsidian You](https://raw.githubusercontent.com/selfire1/obsidian-you-theme/master/theme-picker.png "") |
+| [ebullient/obsidian-theme-ebullientworks](https://github.com/ebullient/obsidian-theme-ebullientworks) | ![Ebullientworks](https://raw.githubusercontent.com/ebullient/obsidian-theme-ebullientworks/master/images/ebullientworks-theme.jpg "") |
+| [firinael/obsidian-friendly-theme](https://github.com/firinael/obsidian-friendly-theme) | ![Friendly](https://raw.githubusercontent.com/firinael/obsidian-friendly-theme/master/screenshot.png "") |
