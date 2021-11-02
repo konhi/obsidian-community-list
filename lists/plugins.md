@@ -373,3 +373,9 @@
 | [HTML Tags Autocomplete](https://github.com/bicarlsen/obsidian_html_tags_autocomplete) | Automatically add closing HTML tags. |
 | [Advanced Cursors](https://github.com/SkepticMystic/advanced-cursors) | Use multiple cursors even more powerfully. |
 | [Stenography](https://github.com/bramses/stenography-obsidian) | Translate code blocks into simple English using Machine Learning with the Stenography API |
+| [Obsidian Webhooks](https://github.com/trashhalo/obsidian-webhooks) | Plugin and service that connects your editor to the internet of things through webhooks. |
+| [Tweet to Markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) | Save tweets as Markdown files, along with their images, polls, etc. |
+| [Habitica Sync](https://github.com/SuperChamp234/habitica-sync) | This plugin helps integrate Habitica user tasks and stats into Obsidian |
+| [Oura Plugin for Obsidian](https://github.com/kinabalu/obsidian-oura-plugin) | A plugin for importing oura ring data into a note |
+| [Metacopy](https://github.com/Mara-Li/obsidian-metacopy) | Copy the value of a frontmatter key. |
+| [Image Caption](https://github.com/bicarlsen/obsidian_image_caption) | Add caption to images. |
