@@ -379,3 +379,6 @@
 | [Oura Plugin for Obsidian](https://github.com/kinabalu/obsidian-oura-plugin) | A plugin for importing oura ring data into a note |
 | [Metacopy](https://github.com/Mara-Li/obsidian-metacopy) | Copy the value of a frontmatter key. |
 | [Image Caption](https://github.com/bicarlsen/obsidian_image_caption) | Add caption to images. |
+| [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) | Find hidden connections between notes in your vault using cool graph algorithms |
+| [Custom Attachment Location](https://github.com/RainCat1998/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like typora. |
+| [Cryptsidian](https://github.com/triumphantomato/cryptsidian) | Encrypt all files in your Obsidian Vault with a password. |
