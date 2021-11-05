@@ -100,3 +100,6 @@
 | [AndreasStandar/Obsidian-Theme---Purple-Aurora](https://github.com/AndreasStandar/Obsidian-Theme---Purple-Aurora) | ![Purple Aurora](https://raw.githubusercontent.com/AndreasStandar/Obsidian-Theme---Purple-Aurora/master/1%20Purple%20Aurora%20screenshot.png "") |
 | [ceciliamay/obsidianmd-theme-primary](https://github.com/ceciliamay/obsidianmd-theme-primary) | ![Primary](https://raw.githubusercontent.com/ceciliamay/obsidianmd-theme-primary/master/assets/primary-heroimg.png "") |
 | [zcysxy/Obsidian-Terminal-Theme](https://github.com/zcysxy/Obsidian-Terminal-Theme) | ![Terminal](https://raw.githubusercontent.com/zcysxy/Obsidian-Terminal-Theme/master/screenshots/terminal.png "") |
+| [Emrie-Candera/Bubble-Space-Theme](https://github.com/Emrie-Candera/Bubble-Space-Theme) | ![Bubble Space](https://raw.githubusercontent.com/Emrie-Candera/Bubble-Space-Theme/master/screenshot.png "") |
+| [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) | ![Things](https://raw.githubusercontent.com/colineckert/obsidian-things/master/assets/main-demo.png "") |
+| [curio-heart/obsidian-wyrd](https://github.com/curio-heart/obsidian-wyrd) | ![Wyrd](https://raw.githubusercontent.com/curio-heart/obsidian-wyrd/master/img/Wyrd.png "") |
