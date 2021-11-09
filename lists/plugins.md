@@ -382,3 +382,4 @@
 | [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) | Find hidden connections between notes in your vault using cool graph algorithms |
 | [Custom Attachment Location](https://github.com/RainCat1998/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like typora. |
 | [Cryptsidian](https://github.com/triumphantomato/cryptsidian) | Encrypt all files in your Obsidian Vault with a password. |
+| [Crypto Lookup for Obsidian](https://github.com/kinabalu/obsidian-crypto-lookup) | A plugin for Obsidian which uses the Cryptonator API to pull back prices for crypto in a target currency |
