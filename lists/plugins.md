@@ -151,7 +151,6 @@
 | [Extract url content](https://github.com/trashhalo/obsidian-extract-url) | Extract url converting content into markdown |
 | [Find and replace in selection](https://github.com/derwish-pro/obsidian-find-and-replace-in-selection) | Finds what you are looking for in the selected text and replaces it with the specified text |
 | [Buttons](https://github.com/shabegom/buttons) | Create Buttons in your Obsidian notes to run commands, open links, and insert templates |
-| [Todo.txt support](https://github.com/trashhalo/obsidian-todo-txt) | Native support for todo.txt files |
 | [Admonition](https://github.com/valentine195/obsidian-admonition) | Admonition block-styled content for Obsidian.md |
 | [Tracker](https://github.com/pyrochlore/obsidian-tracker) | Tracks occurrences and numbers in your notes |
 | [Hotkeys for templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) | Add hotkeys to insert specific templates |
