@@ -382,3 +382,7 @@
 | [Custom Attachment Location](https://github.com/RainCat1998/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like typora. |
 | [Cryptsidian](https://github.com/triumphantomato/cryptsidian) | Encrypt all files in your Obsidian Vault with a password. |
 | [Crypto Lookup for Obsidian](https://github.com/kinabalu/obsidian-crypto-lookup) | A plugin for Obsidian which uses the Cryptonator API to pull back prices for crypto in a target currency |
+| [Copy as Latex](https://github.com/mo-seph/obsidian-copy-as-latex) | Plugin to quickly copy markdown as Latex, with citations |
+| [Auto Split](https://github.com/jsartelle/obsidian-auto-split) | Open notes with split editor & preview |
+| [Word Sprint for Obsidian](https://github.com/kinabalu/obsidian-word-sprint) | Word Sprint for Obsidian plugin for your writing projects like Nanowrimo |
+| [Copy Publish URL](https://github.com/kometenstaub/copy-publish-url) | Copies the URL of the corresponding note on your Publish site to the clipboard. |

@@ -102,4 +102,5 @@
 | [zcysxy/Obsidian-Terminal-Theme](https://github.com/zcysxy/Obsidian-Terminal-Theme) | ![Terminal](https://raw.githubusercontent.com/zcysxy/Obsidian-Terminal-Theme/master/screenshots/terminal.png "") |
 | [Emrie-Candera/Bubble-Space-Theme](https://github.com/Emrie-Candera/Bubble-Space-Theme) | ![Bubble Space](https://raw.githubusercontent.com/Emrie-Candera/Bubble-Space-Theme/master/screenshot.png "") |
 | [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) | ![Things](https://raw.githubusercontent.com/colineckert/obsidian-things/master/assets/main-demo.png "") |
+| [hungsu/typomagical-obsidian](https://github.com/hungsu/typomagical-obsidian) | ![Typomagical](https://raw.githubusercontent.com/hungsu/typomagical-obsidian/master/Typomagical-split.jpg "") |
 | [curio-heart/obsidian-wyrd](https://github.com/curio-heart/obsidian-wyrd) | ![Wyrd](https://raw.githubusercontent.com/curio-heart/obsidian-wyrd/master/img/Wyrd.png "") |
