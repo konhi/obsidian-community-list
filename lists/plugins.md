@@ -392,3 +392,4 @@
 | [Language Translator](https://github.com/twentytwokhz/language-translator) | An Obsidian plugin to translate selected text in the desired language. |
 | [Extra Markdown Commands](https://github.com/chrisgrieser/obsidian-extra-md-commands) | Adds various commands, e.g. for __bold__ or <cite>. |
 | [Customizable Page Header](https://github.com/kometenstaub/customizable-page-header-buttons) | Add buttons for executing commands to the page header. |
+| [Auto Class](https://github.com/OfficerHalf/obsidian-auto-class) | Automatically apply CSS classes to markdown views based on a note's path. |
