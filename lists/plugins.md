@@ -393,3 +393,5 @@
 | [Extra Markdown Commands](https://github.com/chrisgrieser/obsidian-extra-md-commands) | Adds various commands, e.g. for __bold__ or <cite>. |
 | [Customizable Page Header](https://github.com/kometenstaub/customizable-page-header-buttons) | Add buttons for executing commands to the page header. |
 | [Auto Class](https://github.com/OfficerHalf/obsidian-auto-class) | Automatically apply CSS classes to markdown views based on a note's path. |
+| [Obsidian Cloudinary Uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) | Upload pasted images from your clipboard to Cloudinary |
+| [RSS Reader](https://github.com/joethei/obsidian-rss) | Read articles from RSS feeds and incorporate them into your notes |
