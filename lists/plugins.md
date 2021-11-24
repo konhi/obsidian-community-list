@@ -395,3 +395,4 @@
 | [Auto Class](https://github.com/OfficerHalf/obsidian-auto-class) | Automatically apply CSS classes to markdown views based on a note's path. |
 | [Obsidian Cloudinary Uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) | Upload pasted images from your clipboard to Cloudinary |
 | [RSS Reader](https://github.com/joethei/obsidian-rss) | Read articles from RSS feeds and incorporate them into your notes |
+| [Mousewheel Image zoom](https://github.com/nicojeske/mousewheel-image-zoom) | This plugin enables you to increase/decrease the size of an image by scrolling |
