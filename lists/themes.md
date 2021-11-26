@@ -59,7 +59,6 @@
 | [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) | ![Yin and Yang](https://raw.githubusercontent.com/chetachiezikeuzor/Yin-and-Yang-Theme/master/assets/screenshot.png "") |
 | [shaggyfeng/obsidian-Golden-Topaz-theme](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme) | ![Golden Topaz](https://raw.githubusercontent.com/shaggyfeng/obsidian-Golden-Topaz-theme/master/screenshot.png "") |
 | [shaggyfeng/obsidian-Pink-topaz-theme](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme) | ![Pink Topaz](https://raw.githubusercontent.com/shaggyfeng/obsidian-Pink-topaz-theme/master/screenshot.png "") |
-| [eleanorkonik/-palatinate](https://github.com/eleanorkonik/-palatinate) | ![Palatinate](https://raw.githubusercontent.com/eleanorkonik/-palatinate/master/palatinate.png "") |
 | [sergey900553/obsidian_githublike_theme](https://github.com/sergey900553/obsidian_githublike_theme) | ![Dark Moss](https://raw.githubusercontent.com/sergey900553/obsidian_githublike_theme/master/screenshot.png "") |
 | [Wittionary/mammoth-obsidian-theme](https://github.com/Wittionary/mammoth-obsidian-theme) | ![Mammoth](https://raw.githubusercontent.com/Wittionary/mammoth-obsidian-theme/master/screenshots/fullscreen-formatting-examples.png "") |
 | [luke-rmaki/rmaki-obsidian](https://github.com/luke-rmaki/rmaki-obsidian) | ![Rmaki](https://raw.githubusercontent.com/luke-rmaki/rmaki-obsidian/master/screenshot.png "") |

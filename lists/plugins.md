@@ -71,7 +71,6 @@
 | [Neo4j Graph View](https://github.com/HEmile/obsidian-neo4j-graph-view) | A plugin for advanced graph visualization and querying using Neo4j. |
 | [Snippets plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) | Execute simple scripts/snippets from obsidian. This plugin is experimental |
 | [Temple](https://github.com/garyng/obsidian-temple) | A plugin for templating in Obsidian, powered by Nunjucks. |
-| [PDF to Markdown](https://github.com/akaalias/obsidian-extract-pdf) | Save a PDF's text (headings, paragraphs, lists, etc.) to a Markdown file. |
 | [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers) | Enables relative line numbers in editor mode |
 | [Obsidian Charts](https://github.com/phibr0/obsidian-charts) | This Plugin lets you easily create Charts within Obsidian! |
 | [Discordian Theme](https://github.com/radekkozak/discordian-plugin) | Fine-grained control of Discordian Theme |
