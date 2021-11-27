@@ -291,7 +291,7 @@
 | [Obsidian Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit) | When you click an image, it will be displayed in a popup layer and you can view, drag, zoom, rotate the image. |
 | [Shell commands](https://github.com/Taitava/obsidian-shellcommands) | You can predefine system commands that you want to run frequently, and assign hotkeys for them. For example open external applications. |
 | [Hover External Link](https://github.com/jamiebrynes7/obsidian-hover-external-link) | Hover on external links to see the destination URL. |
-| [CodeMirror Options](https://github.com/nothingislost/obsidian-codemirror-options) | Configure various CodeMirror options such as text selection behavior and syntax highlighting |
+| [CodeMirror Options](https://github.com/nothingislost/obsidian-codemirror-options) | Enhance Obsidian's desktop edit mode with features such as WYSIWYG / Live Preview, Syntax Highlighting, and more. |
 | [Code Block Enhancer](https://github.com/nyable/obsidian-code-block-enhancer) | Enhance obsidian markdown code block,provides copy button,linenumber,language name tip and so on. |
 | [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link) | Get links to blocks and headings from Obsidian's right click menu. |
 | [Diagrams](https://github.com/zapthedingbat/drawio-obsidian) | Create and edit Draw.io diagrams in obsidian |
