@@ -395,3 +395,4 @@
 | [Obsidian Cloudinary Uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) | Upload pasted images from your clipboard to Cloudinary |
 | [RSS Reader](https://github.com/joethei/obsidian-rss) | Read articles from RSS feeds and incorporate them into your notes |
 | [Mousewheel Image zoom](https://github.com/nicojeske/mousewheel-image-zoom) | This plugin enables you to increase/decrease the size of an image by scrolling |
+| [Flexible Pomodoro For Obsidian](https://github.com/grassbl8d/flexible-pomo-obsidian) | Adds a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend. |
