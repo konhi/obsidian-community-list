@@ -396,3 +396,6 @@
 | [RSS Reader](https://github.com/joethei/obsidian-rss) | Read articles from RSS feeds and incorporate them into your notes |
 | [Mousewheel Image zoom](https://github.com/nicojeske/mousewheel-image-zoom) | This plugin enables you to increase/decrease the size of an image by scrolling |
 | [Flexible Pomodoro For Obsidian](https://github.com/grassbl8d/flexible-pomo-obsidian) | Adds a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend. |
+| [Lineup Builder](https://github.com/James-Fallon/obsidian-lineup-builder) | Build football lineups in Obsidian. |
+| [Reveal Active File Button](https://github.com/claremacrae/reveal-active-file-button-plugin) | Add a button to the top of the File Explorer, to reveal the active file. |
+| [Structured Plugin](https://github.com/dobrovolsky/obsidain-structure) | Structured plugin. Create hierarchy in notes using "." |
