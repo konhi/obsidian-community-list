@@ -399,3 +399,11 @@
 | [Lineup Builder](https://github.com/James-Fallon/obsidian-lineup-builder) | Build football lineups in Obsidian. |
 | [Reveal Active File Button](https://github.com/claremacrae/reveal-active-file-button-plugin) | Add a button to the top of the File Explorer, to reveal the active file. |
 | [Structured Plugin](https://github.com/dobrovolsky/obsidain-structure) | Structured plugin. Create hierarchy in notes using "." |
+| [CookLang Editor](https://github.com/deathau/cooklang-obsidian) | Edit and display CookLang recipes in Obsidian |
+| [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) | A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors 🎨. |
+| [Remotely Save](https://github.com/fyears/remotely-save) | Yet another unofficial plugin allowing users to sync notes between local device and the cloud service. |
+| [From Template](https://github.com/mo-seph/obsidian-note-from-template) | Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template |
+| [Overdue](https://github.com/parente/obsidian-overdue) | Marks items as [[Overdue]] if they are not checked off by their due date |
+| [Dialogue](https://github.com/holubj/obsidian-dialogue-plugin) | Create dialogues in Markdown. |
+| [Title Serial Number Plugin](https://github.com/yalvhe2009/obsidian-title-serial-number-plugin) | This plugin adds serial numbers to your markdown title. |
+| [Theme Design Utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) | Some utilities and Quality-of-Life features for designers of Obsidian themes. |
