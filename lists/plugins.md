@@ -407,3 +407,9 @@
 | [Dialogue](https://github.com/holubj/obsidian-dialogue-plugin) | Create dialogues in Markdown. |
 | [Title Serial Number Plugin](https://github.com/yalvhe2009/obsidian-title-serial-number-plugin) | This plugin adds serial numbers to your markdown title. |
 | [Theme Design Utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) | Some utilities and Quality-of-Life features for designers of Obsidian themes. |
+| [Generic Initiative Tracker](https://github.com/beaushinkle/obsidian-generic-initiative-tracker) | TTRPG Generic Initiative Tracker |
+| [AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) | Yet Another Anki Bridge. Focuses on a strict grammar and integrity of your data |
+| [Tressel Sync for Obsidian](https://github.com/aseem-thakar/obsidian-tressel) | Official Tressel plugin to sync/export your tweets and threads into Obsidian |
+| [Image Window](https://github.com/valentine195/obsidian-image-window) | Allow images to be opened in new Obsidian windows. |
+| [Text to Speech](https://github.com/joethei/obsidian-tts) | Text to speech for Obsidian. Hear your notes. |
+| [Link Favicons](https://github.com/joethei/obsidian-link-favicon) | See the favicon for a linked website. |

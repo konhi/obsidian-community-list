@@ -104,3 +104,4 @@
 | [hungsu/typomagical-obsidian](https://github.com/hungsu/typomagical-obsidian) | ![Typomagical](https://raw.githubusercontent.com/hungsu/typomagical-obsidian/master/Typomagical-split.jpg "") |
 | [curio-heart/obsidian-wyrd](https://github.com/curio-heart/obsidian-wyrd) | ![Wyrd](https://raw.githubusercontent.com/curio-heart/obsidian-wyrd/master/img/Wyrd.png "") |
 | [crashmoney/obsidian-typewriter](https://github.com/crashmoney/obsidian-typewriter) | ![Typewriter](https://raw.githubusercontent.com/crashmoney/obsidian-typewriter/master/cover.jpg "") |
+| [MattWilcox/obsidian-wilcox-one](https://github.com/MattWilcox/obsidian-wilcox-one) | ![WilcoxOne](https://raw.githubusercontent.com/MattWilcox/obsidian-wilcox-one/master/wilcoxonedark.png "") |
