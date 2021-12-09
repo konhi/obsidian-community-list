@@ -105,3 +105,5 @@
 | [curio-heart/obsidian-wyrd](https://github.com/curio-heart/obsidian-wyrd) | ![Wyrd](https://raw.githubusercontent.com/curio-heart/obsidian-wyrd/master/img/Wyrd.png "") |
 | [crashmoney/obsidian-typewriter](https://github.com/crashmoney/obsidian-typewriter) | ![Typewriter](https://raw.githubusercontent.com/crashmoney/obsidian-typewriter/master/cover.jpg "") |
 | [MattWilcox/obsidian-wilcox-one](https://github.com/MattWilcox/obsidian-wilcox-one) | ![WilcoxOne](https://raw.githubusercontent.com/MattWilcox/obsidian-wilcox-one/master/wilcoxonedark.png "") |
+| [kinmury/Alchemy](https://github.com/kinmury/Alchemy) | ![Alchemy](https://raw.githubusercontent.com/kinmury/Alchemy/master/Showcase/ShowcaseF.png "") |
+| [Thiews/Obsidian-Harmonic](https://github.com/Thiews/Obsidian-Harmonic) | ![Harmonic](https://raw.githubusercontent.com/Thiews/Obsidian-Harmonic/master/cover.png "") |

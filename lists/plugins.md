@@ -413,3 +413,5 @@
 | [Image Window](https://github.com/valentine195/obsidian-image-window) | Allow images to be opened in new Obsidian windows. |
 | [Text to Speech](https://github.com/joethei/obsidian-tts) | Text to speech for Obsidian. Hear your notes. |
 | [Link Favicons](https://github.com/joethei/obsidian-link-favicon) | See the favicon for a linked website. |
+| [Get Info](https://github.com/chetachiezikeuzor/Get-Info-Plugin) | Get Info is a plugin that tucks a menu inside your status bar and shows helpful information for your chosen file 📄. |
+| [Matter](https://github.com/getmatterapp/obsidian-matter) | Official Matter Obsidian integration. |
