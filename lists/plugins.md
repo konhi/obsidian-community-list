@@ -415,3 +415,5 @@
 | [Link Favicons](https://github.com/joethei/obsidian-link-favicon) | See the favicon for a linked website. |
 | [Get Info](https://github.com/chetachiezikeuzor/Get-Info-Plugin) | Get Info is a plugin that tucks a menu inside your status bar and shows helpful information for your chosen file 📄. |
 | [Matter](https://github.com/getmatterapp/obsidian-matter) | Official Matter Obsidian integration. |
+| [Linked Data Helper](https://github.com/kometenstaub/linked-data-helper) | Generate the necessary data for Linked Data Vocabularies. |
+| [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) | Add linked data to the YAML of your notes. |
