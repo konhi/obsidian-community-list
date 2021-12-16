@@ -417,3 +417,4 @@
 | [Matter](https://github.com/getmatterapp/obsidian-matter) | Official Matter Obsidian integration. |
 | [Linked Data Helper](https://github.com/kometenstaub/linked-data-helper) | Generate the necessary data for Linked Data Vocabularies. |
 | [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) | Add linked data to the YAML of your notes. |
+| [Regex Find and Replace](https://github.com/Gru80/obsidian-regex-replace) | Provides a Find/Replace dialog which optionally supports regular expressions and scope (full document or text selection). |
