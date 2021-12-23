@@ -107,7 +107,7 @@
 | [PaperCut](https://github.com/Darakah/obsidian-paper-cut) | Express an idea in the simplest possible way ... or else |
 | [Comments](https://github.com/Darakah/obsidian-comments-plugin) | Add, track and easily navigate between a note's Comments |
 | [ini Editor](https://github.com/deathau/ini-obsidian) | Edit ini files in Obsidian |
-| [Various Complements](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) | This plugin enables you to complement input in markdown files |
+| [Various Complements](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) | This plugin enables you to complete words like the auto-completion of IDE |
 | [Timelines](https://github.com/Darakah/obsidian-timelines) | Create a timeline view of all notes with the specified combination of tags |
 | [txt as md](https://github.com/deathau/txt-as-md-obsidian) | Edit txt files as markdown in Obsidian |
 | [Note Folder Autorename](https://github.com/pjeby/note-folder-autorename) | Turn notes into folders and automaticaly move/rename their folders when they move or are renamed |
@@ -419,3 +419,4 @@
 | [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) | Add linked data to the YAML of your notes. |
 | [Regex Find and Replace](https://github.com/Gru80/obsidian-regex-replace) | Provides a Find/Replace dialog which optionally supports regular expressions and scope (full document or text selection). |
 | [Publish to WordPress for Obsidian](https://github.com/devbean/obsidian-wordpress) | A plugin to publish your Obsidian documents to WordPress |
+| [Icon Shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) | Insert emoji and custom icons with shortcodes |
