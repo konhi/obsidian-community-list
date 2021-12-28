@@ -420,3 +420,5 @@
 | [Regex Find and Replace](https://github.com/Gru80/obsidian-regex-replace) | Provides a Find/Replace dialog which optionally supports regular expressions and scope (full document or text selection). |
 | [Publish to WordPress for Obsidian](https://github.com/devbean/obsidian-wordpress) | A plugin to publish your Obsidian documents to WordPress |
 | [Icon Shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) | Insert emoji and custom icons with shortcodes |
+| [TagFolder](https://github.com/vrtmrz/obsidian-tagfolder) | Show tags as folder. |
+| [Advanced Slides](https://github.com/MSzturc/obsidian-advanced-slides) | Create markdown-based presentations in Obsidian |
