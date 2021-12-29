@@ -109,3 +109,4 @@
 | [Thiews/Obsidian-Harmonic](https://github.com/Thiews/Obsidian-Harmonic) | ![Harmonic](https://raw.githubusercontent.com/Thiews/Obsidian-Harmonic/master/cover.png "") |
 | [dracula/obsidian](https://github.com/dracula/obsidian) | ![Dracula Official](https://raw.githubusercontent.com/dracula/obsidian/master/screenshot.png "") |
 | [dlccyes/obsidian-nebula](https://github.com/dlccyes/obsidian-nebula) | ![Nebula](https://raw.githubusercontent.com/dlccyes/obsidian-nebula/master/showcase1.png "") |
+| [aidanglickman/obsidian-nord-enhanced](https://github.com/aidanglickman/obsidian-nord-enhanced) | ![Obsidian Nord Enhanced](https://raw.githubusercontent.com/aidanglickman/obsidian-nord-enhanced/master/_media/scrot.png "") |
