@@ -384,7 +384,7 @@
 | [Copy as Latex](https://github.com/mo-seph/obsidian-copy-as-latex) | Plugin to quickly copy markdown as Latex, with citations |
 | [Auto Split](https://github.com/jsartelle/obsidian-auto-split) | Open notes with split editor & preview |
 | [Word Sprint for Obsidian](https://github.com/kinabalu/obsidian-word-sprint) | Word Sprint for Obsidian plugin for your writing projects like Nanowrimo |
-| [Copy Publish URL](https://github.com/kometenstaub/copy-publish-url) | Copies the URL of the corresponding note on your Publish site to the clipboard. |
+| [Publish and GitHub URL](https://github.com/kometenstaub/copy-publish-url) | Copy or open the URL of the corresponding note on your Publish site. You can also open its Git commit history on GitHub. |
 | [CardBoard](https://github.com/roovo/obsidian-card-board) | Display markdown tasks on kanban-style boards. |
 | [Bible Reference](https://github.com/tim-hub/obsidian-bible-reference) | Taking Bible Study note in Obsidian.md application easily. Automatically suggesting Bible Verses as references. |
 | [Sentence Navigator](https://github.com/timhor/obsidian-sentence-navigator) | Manipulate sentences as a unit of movement |
