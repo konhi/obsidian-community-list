@@ -423,3 +423,15 @@
 | [TagFolder](https://github.com/vrtmrz/obsidian-tagfolder) | Show tags as folder. |
 | [Advanced Slides](https://github.com/MSzturc/obsidian-advanced-slides) | Create markdown-based presentations in Obsidian |
 | [Obsidian Graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) | Render Graphviz Diagrams |
+| [Vim IM Select](https://github.com/ALONELUR/vim-im-select-obsidian) | Support auto select the apposite input method in different vim mode. |
+| [Emotion Picker](https://github.com/dartungar/obsidian-emotion-picker) | Choose an emotion from a list to insert into a note. |
+| [Quoth](https://github.com/erykwalder/quoth) | More flexible embedding. |
+| [Metronome](https://github.com/curtgrimes/obsidian-metronome-plugin) | Add interactive metronomes to your notes. |
+| [Plaintext for Obsidian](https://github.com/dbarenholz/obsidian-plaintext) | Allow opening specified files as plaintext |
+| [Native Scrollbars](https://github.com/mgmeyers/obsidian-native-scrollbars) | Enables native OS scrollbars throughout obsidian |
+| [Wrap with shortcuts](https://github.com/manic/obsidian-wrap-with-shortcuts) | Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ) |
+| [Indentation Guides](https://github.com/mgmeyers/obsidian-indentation-guides) | Adds vertical lines to the editor denoting indentation level of lists and other content. |
+| [Tomorrow's Daily Note](https://github.com/frankolson/obsidian-tomorrows-daily-note) | An obsidian plugin that creates tomorrow's daily note for preemtive planning. |
+| [Rant-Lang](https://github.com/lanice/obsidian-rant) | Thin wrapper around the high-level procedural templating language Rant |
+| [Smarter Markdown Hotkeys](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys) | Hotkeys that select words and lines in a smart way before applying markup. Multiple cursors are supported as well. |
+| [Global Hotkeys](https://github.com/mjessome/obsidian-global-hotkeys) | Configurable system-wide hotkeys for running commands in Obsidian's desktop app |
