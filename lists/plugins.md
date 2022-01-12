@@ -425,7 +425,7 @@
 | [Obsidian Graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) | Render Graphviz Diagrams |
 | [Vim IM Select](https://github.com/ALONELUR/vim-im-select-obsidian) | Support auto select the apposite input method in different vim mode. |
 | [Emotion Picker](https://github.com/dartungar/obsidian-emotion-picker) | Choose an emotion from a list to insert into a note. |
-| [Quoth](https://github.com/erykwalder/quoth) | More flexible embedding. |
+| [Quoth](https://github.com/erykwalder/quoth) | More flexible embedding. Embed precise selections, inline embeds, optionally include author and title. |
 | [Metronome](https://github.com/curtgrimes/obsidian-metronome-plugin) | Add interactive metronomes to your notes. |
 | [Plaintext for Obsidian](https://github.com/dbarenholz/obsidian-plaintext) | Allow opening specified files as plaintext |
 | [Native Scrollbars](https://github.com/mgmeyers/obsidian-native-scrollbars) | Enables native OS scrollbars throughout obsidian |
@@ -435,3 +435,6 @@
 | [Rant-Lang](https://github.com/lanice/obsidian-rant) | Thin wrapper around the high-level procedural templating language Rant |
 | [Smarter Markdown Hotkeys](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys) | Hotkeys that select words and lines in a smart way before applying markup. Multiple cursors are supported as well. |
 | [Global Hotkeys](https://github.com/mjessome/obsidian-global-hotkeys) | Configurable system-wide hotkeys for running commands in Obsidian's desktop app |
+| [TimeStamper](https://github.com/Gru80/obsidian-timestamper) | Insert a customized or predefined time- or date-stamp at the current cursor position. |
+| [JSON Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file |
+| [Foundry world Importer](https://github.com/farling42/obsidian-import-foundry) | Imports your journal entries from your selected Foundry VTT world into a folder within your Obsidian Vault |
