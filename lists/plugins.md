@@ -438,3 +438,4 @@
 | [TimeStamper](https://github.com/Gru80/obsidian-timestamper) | Insert a customized or predefined time- or date-stamp at the current cursor position. |
 | [JSON Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file |
 | [Foundry world Importer](https://github.com/farling42/obsidian-import-foundry) | Imports your journal entries from your selected Foundry VTT world into a folder within your Obsidian Vault |
+| [Attachment Name Formatting](https://github.com/JYC333/obsidian-attachment-name-formatting) | Formatting attachments name (filename attachmentType indexNumber.xxx) |
