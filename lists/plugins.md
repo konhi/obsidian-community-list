@@ -130,25 +130,25 @@
 | [Footnote Shortcut](https://github.com/akaalias/obsidian-footnotes) | Makes creating footnotes in Obsidian more fun! |
 | [Gallery](https://github.com/Darakah/obsidian-gallery) | Interactive Card like gallery display of images |
 | [NoteTweet](https://github.com/chhoumann/notetweet_obsidian) | Post tweets from Obsidian. |
-| [Code block from selection](https://github.com/derwish-pro/obsidian-code-block-from-selection) | Adds code block for the selected text. |
+| [Code block from selection](https://github.com/dy-sh/obsidian-code-block-from-selection) | Adds code block for the selected text. |
 | [Format Hotkeys](https://github.com/anstosa/format-hotkeys-obsidian) | Google Docs style formatting hotkeys for Obsidian |
 | [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) | Interactive maps inside your notes |
-| [Remember cursor position](https://github.com/derwish-pro/obsidian-remember-cursor-position) | Remember cursor and scroll position for each note |
+| [Remember cursor position](https://github.com/dy-sh/obsidian-remember-cursor-position) | Remember cursor and scroll position for each note |
 | [Pane Relief](https://github.com/pjeby/pane-relief) | Per-pane history, hotkeys for pane movement + navigation, and more |
 | [DEVONlink - Open or reveal notes in DEVONthink](https://github.com/ryanjamurphy/DEVONlink-obsidian) | Open or reveal the current note in DEVONthink. |
 | [Hotkey Helper](https://github.com/pjeby/hotkey-helper) | Easily see and access any plugin's settings or hotkey assignments (and conflicts) from the Community Plugins tab |
 | [Text Snippets](https://github.com/ArianaKhit/text-snippets-obsidian) | Snippets for faster typing |
-| [Consistent attachments and links](https://github.com/derwish-pro/obsidian-consistent-attachments-and-links) | Move note attachments and update links automatically |
+| [Consistent attachments and links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) | Move note attachments and update links automatically |
 | [PlantUML](https://github.com/joethei/obsidian-plantuml) | Generate PlantUML diagrams |
 | [Open cards in imdone from obsidian.](https://github.com/imdone/imdone-obsidian-plugin) | Open cards in imdone kanban from their source in obsidian.  Open cards from imdone in obsidian at their source. |
 | [Spotlight](https://github.com/Darakah/obsidian-spotlight) | Block that features random notes or block of a note from vault / in a specified project or with a certain combination of tags. |
-| [Unique attachments](https://github.com/derwish-pro/obsidian-unique-attachments) | Rename attachments, making their names unique (based on hashing of file content) |
+| [Unique attachments](https://github.com/dy-sh/obsidian-unique-attachments) | Rename attachments, making their names unique (based on hashing of file content) |
 | [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) | Add a little randomness to your notes! |
 | [LanguageTool Integration](https://github.com/Clemens-E/obsidian-languagetool-plugin) | advanced spell/grammar checks with the help of language-tool |
 | [Commits](https://github.com/Darakah/obsidian-commits) | Track & show commits in obsidian vault or specified project. |
 | [Outliner](https://github.com/vslinko/obsidian-outliner) | Work with your lists like in Workflowy or RoamResearch. |
 | [Extract url content](https://github.com/trashhalo/obsidian-extract-url) | Extract url converting content into markdown |
-| [Find and replace in selection](https://github.com/derwish-pro/obsidian-find-and-replace-in-selection) | Finds what you are looking for in the selected text and replaces it with the specified text |
+| [Find and replace in selection](https://github.com/dy-sh/obsidian-find-and-replace-in-selection) | Finds what you are looking for in the selected text and replaces it with the specified text |
 | [Buttons](https://github.com/shabegom/buttons) | Create Buttons in your Obsidian notes to run commands, open links, and insert templates |
 | [Admonition](https://github.com/valentine195/obsidian-admonition) | Admonition block-styled content for Obsidian.md |
 | [Tracker](https://github.com/pyrochlore/obsidian-tracker) | Tracks occurrences and numbers in your notes |
@@ -200,7 +200,7 @@
 | [Readwise Mirror](https://github.com/jsonMartin/readwise-mirror) | Mirror your Readwise library directly into an Obsidian vault |
 | [Auto pair chinese symbol](https://github.com/renmu123/obsidian-auto-pair-chinese-symbol) | Auto pair chinese symbol |
 | [Obsidian Pomodoro Plugin](https://github.com/tokuhirom/obsidian-pomodoro-plugin) | This is a simple pomodoro plugin for Obsidian. |
-| [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) | Create 5e styled statblocks in Obsidian.md |
+| [TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) | Create TTRPG styled statblocks in Obsidian.md |
 | [Zoom](https://github.com/vslinko/obsidian-zoom) | Zoom into heading and lists. |
 | [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all) | This plugin adds a button to collapse all folders in the file explorer. |
 | [Charts View](https://github.com/caronchen/obsidian-chartsview-plugin) | A charts view plugin for Obsidian, based on Ant Design Charts which is a React chart library. |
@@ -427,7 +427,7 @@
 | [Emotion Picker](https://github.com/dartungar/obsidian-emotion-picker) | Choose an emotion from a list to insert into a note. |
 | [Quoth](https://github.com/erykwalder/quoth) | More flexible embedding. Embed precise selections, inline embeds, optionally include author and title. |
 | [Metronome](https://github.com/curtgrimes/obsidian-metronome-plugin) | Add interactive metronomes to your notes. |
-| [Plaintext for Obsidian](https://github.com/dbarenholz/obsidian-plaintext) | Allow opening specified files as plaintext |
+| [Plaintext for Obsidian](https://github.com/dbarenholz/obsidian-plaintext) | Allow opening specified files as plaintext. |
 | [Native Scrollbars](https://github.com/mgmeyers/obsidian-native-scrollbars) | Enables native OS scrollbars throughout obsidian |
 | [Wrap with shortcuts](https://github.com/manic/obsidian-wrap-with-shortcuts) | Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ) |
 | [Indentation Guides](https://github.com/mgmeyers/obsidian-indentation-guides) | Adds vertical lines to the editor denoting indentation level of lists and other content. |
@@ -439,3 +439,9 @@
 | [JSON Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file |
 | [Foundry world Importer](https://github.com/farling42/obsidian-import-foundry) | Imports your journal entries from your selected Foundry VTT world into a folder within your Obsidian Vault |
 | [Attachment Name Formatting](https://github.com/JYC333/obsidian-attachment-name-formatting) | Formatting attachments name (filename attachmentType indexNumber.xxx) |
+| [Completr](https://github.com/tth05/obsidian-completr) | This plugin provides advanced auto-completion functionality for Obsidian |
+| [Binary File Manager](https://github.com/qawatake/obsidian-binary-file-manager-plugin) | Detects new binary files in the vault and create markdown files with metadata. |
+| [Local File Interface](https://github.com/qawatake/obsidian-local-file-interface-plugin) | Provides commands for moving files in and out of the vault |
+| [Siteswap](https://github.com/tdresser/obsidian-siteswap) | Visualize Juggling Pattern Siteswap via the JugglingLab gif server. |
+| [ObsidianTweaks](https://github.com/JeppeKlitgaard/ObsidianTweaks) | Adds some convenient tweaks including improved toggling and ergonomic commands |
+| [Wordle for Obsidian](https://github.com/dbarenholz/obsidian-wordle) | Creates a view where you can play Wordle. |
