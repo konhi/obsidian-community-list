@@ -24,7 +24,6 @@
 | [Day Planner](https://github.com/lynchjames/obsidian-day-planner) | An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note. |
 | [Editor Syntax Highlight](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) | Show syntax highlighing in code blocks the editor |
 | [Review](https://github.com/ryanjamurphy/review-obsidian) | Add a link to the current note to a daily note on a future date (or a past date, you time traveller). |
-| [Advanced Appearance](https://github.com/kepano/obsidian-advanced-appearance) | Change colors, fonts and other cosmetic settings |
 | [Hider](https://github.com/kepano/obsidian-hider) | Hide UI elements such as tooltips, status, titlebar and more |
 | [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings) | Control the colors and fonts in Minimal Theme |
 | [System Dark Mode](https://github.com/kepano/obsidian-system-dark-mode) | Automatically use the operating system's setting to switch between light and dark mode |
@@ -445,3 +444,10 @@
 | [Siteswap](https://github.com/tdresser/obsidian-siteswap) | Visualize Juggling Pattern Siteswap via the JugglingLab gif server. |
 | [ObsidianTweaks](https://github.com/JeppeKlitgaard/ObsidianTweaks) | Adds some convenient tweaks including improved toggling and ergonomic commands |
 | [Wordle for Obsidian](https://github.com/dbarenholz/obsidian-wordle) | Creates a view where you can play Wordle. |
+| [Obsidian Memos](https://github.com/quorafind/obsidian-memos) | A plugin works perfect with your journal |
+| [PARA Shortcuts](https://github.com/gOATiful/para-shortcuts) | This plugin serves usefull commands to setup and manage your knowledge using the PARA method. |
+| [13th Age statblocks](https://github.com/ben/obsidian-13th-age-statblocks) | Render 13th Age statblocks in Obsidian. |
+| [Dynamic Highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) | Dynamically highlight text based on cursor selection or search query with full regex, mobile, and live preview support |
+| [KOReader Sync](https://github.com/Edo78/obsidian-koreader-sync) | Sync highlights/notes from KOReader |
+| [Snippetor](https://github.com/ebullient/obsidian-snippetor) | Create and tweak common snippets |
+| [Sortable](https://github.com/alexandru-dinu/obsidian-sortable) | Wikipedia-like sortable tables. |
