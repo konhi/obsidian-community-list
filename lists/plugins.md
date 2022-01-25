@@ -451,3 +451,6 @@
 | [KOReader Sync](https://github.com/Edo78/obsidian-koreader-sync) | Sync highlights/notes from KOReader |
 | [Snippetor](https://github.com/ebullient/obsidian-snippetor) | Create and tweak common snippets |
 | [Sortable](https://github.com/alexandru-dinu/obsidian-sortable) | Wikipedia-like sortable tables. |
+| [Link Server](https://github.com/moelody/link-to-obsidian) | This plugin will open a reverse proxy server at port 3333 to get wikiLink information Obsidian API. |
+| [Weather Fetcher](https://github.com/fyears/weather-fetcher) | Fetch and insert current weather into the editor of Obsidian. |
+| [Lock Screen](https://github.com/ericbiewener/obsidian-lock-screen-plugin) | Protect your vault with a lock screen. |
