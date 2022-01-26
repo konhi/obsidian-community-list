@@ -454,3 +454,4 @@
 | [Link Server](https://github.com/moelody/link-to-obsidian) | This plugin will open a reverse proxy server at port 3333 to get wikiLink information Obsidian API. |
 | [Weather Fetcher](https://github.com/fyears/weather-fetcher) | Fetch and insert current weather into the editor of Obsidian. |
 | [Lock Screen](https://github.com/ericbiewener/obsidian-lock-screen-plugin) | Protect your vault with a lock screen. |
+| [Pinboard Sync](https://github.com/Automatt/obsidian-pinboard-sync) | Syncs Pinboard.in links with Daily Notes |

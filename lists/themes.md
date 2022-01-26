@@ -113,3 +113,4 @@
 | [bLaCkwEw/Dracula-Slim](https://github.com/bLaCkwEw/Dracula-Slim) | ![Dracula Slim](https://raw.githubusercontent.com/bLaCkwEw/Dracula-Slim/master/screenshot.png "") |
 | [jaysan0/obsidian-sandstorm](https://github.com/jaysan0/obsidian-sandstorm) | ![Sandstorm](https://raw.githubusercontent.com/jaysan0/obsidian-sandstorm/master/screenshot.png "") |
 | [nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode) | ![LYT Mode](https://raw.githubusercontent.com/nickmilo/LYT-Mode/master/lyt-mode-graphic-1.jpg "") |
+| [operator-axel/obsdian_theme--Carpe_Noctem](https://github.com/operator-axel/obsdian_theme--Carpe_Noctem) | ![Carpe Noctem](https://raw.githubusercontent.com/operator-axel/obsdian_theme--Carpe_Noctem/master/screenshot.png "") |
