@@ -115,3 +115,5 @@
 | [nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode) | ![LYT Mode](https://raw.githubusercontent.com/nickmilo/LYT-Mode/master/lyt-mode-graphic-1.jpg "") |
 | [operator-axel/obsdian_theme--Carpe_Noctem](https://github.com/operator-axel/obsdian_theme--Carpe_Noctem) | ![Carpe Noctem](https://raw.githubusercontent.com/operator-axel/obsdian_theme--Carpe_Noctem/master/screenshot.png "") |
 | [natelandau/obsidian-vintage-theme](https://github.com/natelandau/obsidian-vintage-theme) | ![Vintage Theme](https://raw.githubusercontent.com/natelandau/obsidian-vintage-theme/master/_media/light.png "") |
+| [mbeckrich/obsidian](https://github.com/mbeckrich/obsidian) | ![Catppuccin](https://raw.githubusercontent.com/mbeckrich/obsidian/master/assets/screenshot.png "") |
+| [ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named](https://github.com/ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named) | ![Theme-That-Shall-Not-Be-Named](https://raw.githubusercontent.com/ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named/master/Theme-That-Shall-Not-Be-Named.png "") |

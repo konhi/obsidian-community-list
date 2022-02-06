@@ -456,3 +456,13 @@
 | [Lock Screen](https://github.com/ericbiewener/obsidian-lock-screen-plugin) | Protect your vault with a lock screen. |
 | [Pinboard Sync](https://github.com/Automatt/obsidian-pinboard-sync) | Syncs Pinboard.in links with Daily Notes |
 | [Shortcut Launcher](https://github.com/macstories/obsidian-shortcut-launcher) | Trigger shortcuts in Apple's Shortcuts app from Obsidian with custom commands. |
+| [File Info Panel](https://github.com/CattailNu/obsidian-file-info-panel-plugin) | Creates a File Info view that displays the active file's date created, date modified, file size, and links to open the file in its native application and to open the file's folder. |
+| [Topic Linking](https://github.com/liammagee/obsidian-topic-linking) | Convert PDF files and web links to Markdown, and create topics from Markdown |
+| [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown) | Create markdown documents with multiple columns of content viewable within Obsidian's preview mode. |
+| [Copy as HTML](https://github.com/jenningsb2/copy-as-html) | This is a simple plugin that converts the selected markdown to HTML and copies it to the clipboard. |
+| [Frontmatter Tag Sugest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) | Autocompletes tags in the frontmatter tags field |
+| [Simple note quiz](https://github.com/dorisxx/Obsidian-simple-note-quiz) | Start a simple quiz on your current note. |
+| [Local REST API](https://github.com/coddingtonbear/obsidian-local-rest-api) | Unlock your automation needs by interacting with your notes over a secure REST API. |
+| [Code Block Labels](https://github.com/stbowers/obsidian-codeblock-labels) | Adds labels to fenced code blocks |
+| [Better Command Palette](https://github.com/AlexBieg/obsidian-better-command-palette) | A command palette that does all of the things you want it to do. |
+| [Relativenumber (relative line numbers)](https://github.com/thisdotrob/obsidian-relativenumber-plugin) | Displays relative line numbers in the editor's gutter. |
