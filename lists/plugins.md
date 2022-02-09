@@ -460,9 +460,14 @@
 | [Topic Linking](https://github.com/liammagee/obsidian-topic-linking) | Convert PDF files and web links to Markdown, and create topics from Markdown |
 | [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown) | Create markdown documents with multiple columns of content viewable within Obsidian's preview mode. |
 | [Copy as HTML](https://github.com/jenningsb2/copy-as-html) | This is a simple plugin that converts the selected markdown to HTML and copies it to the clipboard. |
-| [Frontmatter Tag Sugest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) | Autocompletes tags in the frontmatter tags field |
+| [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) | Autocompletes tags in the frontmatter tags field |
 | [Simple note quiz](https://github.com/dorisxx/Obsidian-simple-note-quiz) | Start a simple quiz on your current note. |
 | [Local REST API](https://github.com/coddingtonbear/obsidian-local-rest-api) | Unlock your automation needs by interacting with your notes over a secure REST API. |
 | [Code Block Labels](https://github.com/stbowers/obsidian-codeblock-labels) | Adds labels to fenced code blocks |
 | [Better Command Palette](https://github.com/AlexBieg/obsidian-better-command-palette) | A command palette that does all of the things you want it to do. |
 | [Relativenumber (relative line numbers)](https://github.com/thisdotrob/obsidian-relativenumber-plugin) | Displays relative line numbers in the editor's gutter. |
+| [Core Search Assistant](https://github.com/qawatake/obsidian-core-search-assistant-plugin) | Enhance built-in search: keyboard interface, card preview, bigger preview |
+| [Save as Gist](https://github.com/ghedamat/obsidian-save-as-gist) | Save current note as a GitHub Gist |
+| [Divide & Conquer](https://github.com/chrisgrieser/obsidian-divide-and-conquer) | Commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins. |
+| [Excel to Markdown Table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table) | An Obsidian plugin to paste Excel tables as Markdown tables in Obsidian editor. |
+| [Power Search](https://github.com/aviral-batra/obsidian-power-search) | Searches notes based on current line |
