@@ -471,3 +471,9 @@
 | [Divide & Conquer](https://github.com/chrisgrieser/obsidian-divide-and-conquer) | Commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins. |
 | [Excel to Markdown Table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table) | An Obsidian plugin to paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables in Obsidian editor. |
 | [Power Search](https://github.com/aviral-batra/obsidian-power-search) | Searches notes based on current line |
+| [Tag, Word & Link Cloud](https://github.com/joethei/obsidian-tagcloud) | Show a cloud of your tags/words/links |
+| [Persistent Graph](https://github.com/Sanqui/obsidian-persistent-graph) | Save and restore the positions of nodes on your graph. |
+| [Auto Note Mover](https://github.com/farux/obsidian-auto-note-mover) | Auto Note Mover will automatically move the active notes to their respective folders according to the rules. |
+| [Insert Heading Link](https://github.com/signynt/insert-heading-link) | Add a command to create a Link to a Heading. |
+| [Settings Search](https://github.com/valentine195/obsidian-settings-search) | Globally search settings in Obsidian.md |
+| [Footnote & Citation Indicator](https://github.com/chrisgrieser/obsidian-footnote-indicator) | Indicates the presence of footnotes in the gutter. Displays footnote and citation counts in the status bar. |
