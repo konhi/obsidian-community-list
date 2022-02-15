@@ -477,3 +477,4 @@
 | [Insert Heading Link](https://github.com/signynt/insert-heading-link) | Add a command to create a Link to a Heading. |
 | [Settings Search](https://github.com/valentine195/obsidian-settings-search) | Globally search settings in Obsidian.md |
 | [Footnote & Citation Indicator](https://github.com/chrisgrieser/obsidian-footnote-indicator) | Indicates the presence of footnotes in the gutter. Displays footnote and citation counts in the status bar. |
+| [Word Splitting for Japanese in Edit Mode](https://github.com/sonarAIT/cm-japanese-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Japanese word splitting |
