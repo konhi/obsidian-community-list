@@ -435,7 +435,7 @@
 | [Smarter Markdown Hotkeys](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys) | Hotkeys that select words and lines in a smart way before applying markup. Multiple cursors are supported as well. |
 | [Global Hotkeys](https://github.com/mjessome/obsidian-global-hotkeys) | Configurable system-wide hotkeys for running commands in Obsidian's desktop app |
 | [TimeStamper](https://github.com/Gru80/obsidian-timestamper) | Insert a customized or predefined time- or date-stamp at the current cursor position. |
-| [JSON Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file |
+| [JSON/CSV Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file |
 | [Foundry world Importer](https://github.com/farling42/obsidian-import-foundry) | Imports your journal entries from your selected Foundry VTT world into a folder within your Obsidian Vault |
 | [Attachment Name Formatting](https://github.com/JYC333/obsidian-attachment-name-formatting) | Formatting attachments name (filename attachmentType indexNumber.xxx) |
 | [Completr](https://github.com/tth05/obsidian-completr) | This plugin provides advanced auto-completion functionality for Obsidian |
@@ -478,3 +478,4 @@
 | [Settings Search](https://github.com/valentine195/obsidian-settings-search) | Globally search settings in Obsidian.md |
 | [Footnote & Citation Indicator](https://github.com/chrisgrieser/obsidian-footnote-indicator) | Indicates the presence of footnotes in the gutter. Displays footnote and citation counts in the status bar. |
 | [Word Splitting for Japanese in Edit Mode](https://github.com/sonarAIT/cm-japanese-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Japanese word splitting |
+| [AidenLx's Folder Note - folderv Component](https://github.com/aidenlx/alx-folder-note-folderv) | Optional `folderv` Component for alx-folder-note |
