@@ -119,3 +119,4 @@
 | [ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named](https://github.com/ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named) | ![Theme-That-Shall-Not-Be-Named](https://raw.githubusercontent.com/ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named/master/Theme-That-Shall-Not-Be-Named.png "") |
 | [learnerfvs/Sparkling-Wisdom-obsidian-theme-](https://github.com/learnerfvs/Sparkling-Wisdom-obsidian-theme-) | ![Sparkling Wisdom](https://raw.githubusercontent.com/learnerfvs/Sparkling-Wisdom-obsidian-theme-/master/sparkling%20wisdom.png "") |
 | [tingmelvin/willemstad-x](https://github.com/tingmelvin/willemstad-x) | ![Willemstad](https://raw.githubusercontent.com/tingmelvin/willemstad-x/master/img/Willemstad-X.png "") |
+| [caro401/royal-velvet](https://github.com/caro401/royal-velvet) | ![Royal Velvet](https://raw.githubusercontent.com/caro401/royal-velvet/master/royal-velvet.png "") |
