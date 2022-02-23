@@ -479,3 +479,5 @@
 | [Footnote & Citation Indicator](https://github.com/chrisgrieser/obsidian-footnote-indicator) | Indicates the presence of footnotes in the gutter. Displays footnote and citation counts in the status bar. |
 | [Word Splitting for Japanese in Edit Mode](https://github.com/sonarAIT/cm-japanese-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Japanese word splitting |
 | [AidenLx's Folder Note - folderv Component](https://github.com/aidenlx/alx-folder-note-folderv) | Optional `folderv` Component for alx-folder-note |
+| [Chevereto Image Uploader for Obsidian](https://github.com/kkzzhizhou/obsidian-chevereto-image-uploader) | This plugin uploads images in your clipboard to chevereto. |
+| [Todoist Text](https://github.com/wesmoncrief/obsidian-todoist-text) | This obsidian plugin integrates your Todoist tasks with markdown checkboxes. |
