@@ -474,10 +474,12 @@
 | [Tag, Word & Link Cloud](https://github.com/joethei/obsidian-tagcloud) | Show a cloud of your tags/words/links |
 | [Persistent Graph](https://github.com/Sanqui/obsidian-persistent-graph) | Save and restore the positions of nodes on your graph. |
 | [Auto Note Mover](https://github.com/farux/obsidian-auto-note-mover) | Auto Note Mover will automatically move the active notes to their respective folders according to the rules. |
-| [Insert Heading Link](https://github.com/signynt/insert-heading-link) | Add a command to create a Link to a Heading. |
+| [Insert Heading Link](https://github.com/Signynt/insert-heading-link) | Add a command to create a Link to a Heading. |
 | [Settings Search](https://github.com/valentine195/obsidian-settings-search) | Globally search settings in Obsidian.md |
 | [Footnote & Citation Indicator](https://github.com/chrisgrieser/obsidian-footnote-indicator) | Indicates the presence of footnotes in the gutter. Displays footnote and citation counts in the status bar. |
 | [Word Splitting for Japanese in Edit Mode](https://github.com/sonarAIT/cm-japanese-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Japanese word splitting |
 | [AidenLx's Folder Note - folderv Component](https://github.com/aidenlx/alx-folder-note-folderv) | Optional `folderv` Component for alx-folder-note |
 | [Chevereto Image Uploader for Obsidian](https://github.com/kkzzhizhou/obsidian-chevereto-image-uploader) | This plugin uploads images in your clipboard to chevereto. |
 | [Todoist Text](https://github.com/wesmoncrief/obsidian-todoist-text) | This obsidian plugin integrates your Todoist tasks with markdown checkboxes. |
+| [Big Calendar](https://github.com/quorafind/obsidian-big-calendar) | A big calendar for Obsidian. All events from your daily notes OR tasks used TASKS/DATAVIEW/KANBAN format. |
+| [Obsidian Social (Sekund)](https://github.com/Sekund/sekund-plugin-react) | Share notes and gather feedback |
