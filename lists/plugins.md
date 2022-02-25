@@ -483,3 +483,4 @@
 | [Todoist Text](https://github.com/wesmoncrief/obsidian-todoist-text) | This obsidian plugin integrates your Todoist tasks with markdown checkboxes. |
 | [Big Calendar](https://github.com/quorafind/obsidian-big-calendar) | A big calendar for Obsidian. All events from your daily notes OR tasks used TASKS/DATAVIEW/KANBAN format. |
 | [Obsidian Social (Sekund)](https://github.com/Sekund/sekund-plugin-react) | Share notes and gather feedback |
+| [Command Palette--](https://github.com/qawatake/obsidian-command-palette-minus-plugin) | Command palette without unwanted commands |
