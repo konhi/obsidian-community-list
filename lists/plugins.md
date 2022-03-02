@@ -126,7 +126,7 @@
 | [Chesser](https://github.com/SilentVoid13/Chesser) | A chess game viewer/editor |
 | [Activity History](https://github.com/Darakah/obsidian-activity-history) | Track activity of specified projects, Github like activity board |
 | [Chessboard Viewer](https://github.com/THeK3nger/obsidian-chessboard) | Render chess positions diagrams in note preview. |
-| [Footnote Shortcut](https://github.com/akaalias/obsidian-footnotes) | Makes creating footnotes in Obsidian more fun! |
+| [Footnote Shortcut](https://github.com/MichaBrugger/obsidian-footnotes) | Makes creating footnotes in Obsidian more fun! |
 | [Gallery](https://github.com/Darakah/obsidian-gallery) | Interactive Card like gallery display of images |
 | [NoteTweet](https://github.com/chhoumann/notetweet_obsidian) | Post tweets from Obsidian. |
 | [Code block from selection](https://github.com/dy-sh/obsidian-code-block-from-selection) | Adds code block for the selected text. |
