@@ -485,3 +485,15 @@
 | [Obsidian Social (Sekund)](https://github.com/Sekund/sekund-plugin-react) | Share notes and gather feedback |
 | [Command Palette--](https://github.com/qawatake/obsidian-command-palette-minus-plugin) | Command palette without unwanted commands |
 | [Remember File State](https://github.com/ludovicchabant/obsidian-remember-file-state) | Remembers cursor position, selection, scrolling, and more for each file |
+| [Things Link](https://github.com/gavinmn/obsidian-things-link) | Seamlessly link an Obsidian Note to a Things Project |
+| [Marjdown shortcuts](https://github.com/JulesGuesnon/obsidian-markdown-shortcuts) | Allows to write markdown from shortcuts |
+| [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) | Publish your notes to a digital garden for others to enjoy. |
+| [Living Graph](https://github.com/geoffreysflaminglasersword/obsidian-living-graph) | A for-fun graph plugin |
+| [Hotkeys Chords](https://github.com/trenta3/obsidian-hotkeys-chords) | Configurable hotkeys chords to activate obsidian commands |
+| [Key Sequence Shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) | Execute obsidian commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember. |
+| [Full Calendar](https://github.com/davish/obsidian-full-calendar) | Obsidian integration with Full Calendar (fullcalendar.io) to keep, manage, and visualize events alongside your other notes in your Vault. |
+| [Heatmap Calendar](https://github.com/Richardsl/heatmap-calendar-obsidian) | Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc. |
+| [Daily notes new tab](https://github.com/reorx/obsidian-daily-notes-new-tab) | Add command and sidebar button to open daily notes in new tab |
+| [Obsidian Advanced New Folder](https://github.com/piotryordanov/obsidian-advanced-new-folder) | This plugin lets you choose where to create a new folder. |
+| [Mark and Select](https://github.com/anselmwang/obsidian-mark-and-select) | Allow users to set mark, move cursors freely and select from mark to cursor position |
+| [Bible Linker](https://github.com/kuchejak/obsidian-bible-linker-plugin) | Link multiple bible verses easily |
