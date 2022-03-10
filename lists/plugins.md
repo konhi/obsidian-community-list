@@ -497,3 +497,12 @@
 | [Obsidian Advanced New Folder](https://github.com/piotryordanov/obsidian-advanced-new-folder) | This plugin lets you choose where to create a new folder. |
 | [Mark and Select](https://github.com/anselmwang/obsidian-mark-and-select) | Allow users to set mark, move cursors freely and select from mark to cursor position |
 | [Bible Linker](https://github.com/kuchejak/obsidian-bible-linker-plugin) | Link multiple bible verses easily |
+| [Obsidian CircuitJS](https://github.com/StevenGann/obsidian-circuitjs) | Embeds CircuitJS circuit simulations into notes |
+| [Creases](https://github.com/liamcain/obsidian-creases) | Tools for effectively folding markdown sections in Obsidian |
+| [Kobo Highlights Importer](https://github.com/bitwiseops/obsidian-kobo-highlights-import) | Import highlights from Kobo devices |
+| [Obsidian Dynamic Embed](https://github.com/dybrawin/obsidian-dynamic-embed) | Embed snippets, templates and any linkable by delegating the current scope to the embedded file, treating it as content instead of a reference. |
+| [Publish to Steemit](https://github.com/anpigon/obsidian-steemit-plugin) | A plugin for publishing Obsidian documents to Steemit. |
+| [Kindle Export](https://github.com/SimeonLukas/obsidian-kindle-export) | Export your notes to your Kindle, including embedded notes and images. |
+| [Search Everywhere](https://github.com/mom0aut/obsidian-search-everywhere) | Search Everywhere with pressing Double Shift like in IntelliJ |
+| [Text Generator](https://github.com/nhaouari/obsidian-textgenerator-plugin) | Text generator is a handy plugin that helps you generate text content using GPT-3 (OpenAI). |
+| [Markdown Table Editor](https://github.com/ganesshkumar/obsidian-table-editor) | An Obsidian plugin to provide an editor for Markdown tables. It can open CSV, Microsoft Excel/Google Sheets data as Markdown tables from Obsidian Markdown editor. |
