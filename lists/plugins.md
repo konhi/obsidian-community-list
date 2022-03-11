@@ -506,3 +506,5 @@
 | [Search Everywhere](https://github.com/mom0aut/obsidian-search-everywhere) | Search Everywhere with pressing Double Shift like in IntelliJ |
 | [Text Generator](https://github.com/nhaouari/obsidian-textgenerator-plugin) | Text generator is a handy plugin that helps you generate text content using GPT-3 (OpenAI). |
 | [Markdown Table Editor](https://github.com/ganesshkumar/obsidian-table-editor) | An Obsidian plugin to provide an editor for Markdown tables. It can open CSV, Microsoft Excel/Google Sheets data as Markdown tables from Obsidian Markdown editor. |
+| [Vim Multibyte Char Search](https://github.com/anselmwang/obsidian-vim-multibyte-char-search) | Search multibyte characters by the first character of corresponding ASCII encoding of input method. For example, for Chinese, search by the first character of Pinyin. |
+| [Extract PDF Annotations](https://github.com/munach/obsidian-extract-pdf-annotations) | Extract PDF Annotations (Notes and Highlights) and sort them by topics |
