@@ -508,3 +508,4 @@
 | [Markdown Table Editor](https://github.com/ganesshkumar/obsidian-table-editor) | An Obsidian plugin to provide an editor for Markdown tables. It can open CSV, Microsoft Excel/Google Sheets data as Markdown tables from Obsidian Markdown editor. |
 | [Vim Multibyte Char Search](https://github.com/anselmwang/obsidian-vim-multibyte-char-search) | Search multibyte characters by the first character of corresponding ASCII encoding of input method. For example, for Chinese, search by the first character of Pinyin. |
 | [Extract PDF Annotations](https://github.com/munach/obsidian-extract-pdf-annotations) | Extract PDF Annotations (Notes and Highlights) and sort them by topics |
+| [File Cleaner](https://github.com/Johnson0907/obsidian-file-cleaner) | Help you to clean empty files and unused attachments in the vault. |
