@@ -388,7 +388,6 @@
 | [Bible Reference](https://github.com/tim-hub/obsidian-bible-reference) | Taking Bible Study note in Obsidian.md application easily. Automatically suggesting Bible Verses as references. |
 | [Sentence Navigator](https://github.com/timhor/obsidian-sentence-navigator) | Manipulate sentences as a unit of movement |
 | [Language Translator](https://github.com/twentytwokhz/language-translator) | An Obsidian plugin to translate selected text in the desired language. |
-| [Extra Markdown Commands](https://github.com/chrisgrieser/obsidian-extra-md-commands) | Adds various commands, e.g. for __bold__ or <cite>. |
 | [Customizable Page Header](https://github.com/kometenstaub/customizable-page-header-buttons) | Add buttons for executing commands to the page header. |
 | [Auto Class](https://github.com/OfficerHalf/obsidian-auto-class) | Automatically apply CSS classes to markdown views based on a note's path. |
 | [Obsidian Cloudinary Uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) | Upload pasted images from your clipboard to Cloudinary |
@@ -486,12 +485,12 @@
 | [Command Palette--](https://github.com/qawatake/obsidian-command-palette-minus-plugin) | Command palette without unwanted commands |
 | [Remember File State](https://github.com/ludovicchabant/obsidian-remember-file-state) | Remembers cursor position, selection, scrolling, and more for each file |
 | [Things Link](https://github.com/gavinmn/obsidian-things-link) | Seamlessly link an Obsidian Note to a Things Project |
-| [Marjdown shortcuts](https://github.com/JulesGuesnon/obsidian-markdown-shortcuts) | Allows to write markdown from shortcuts |
+| [Markdown shortcuts](https://github.com/JulesGuesnon/obsidian-markdown-shortcuts) | Allows to write markdown from shortcuts |
 | [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) | Publish your notes to a digital garden for others to enjoy. |
 | [Living Graph](https://github.com/geoffreysflaminglasersword/obsidian-living-graph) | A for-fun graph plugin |
 | [Hotkeys Chords](https://github.com/trenta3/obsidian-hotkeys-chords) | Configurable hotkeys chords to activate obsidian commands |
 | [Key Sequence Shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) | Execute obsidian commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember. |
-| [Full Calendar](https://github.com/davish/obsidian-full-calendar) | Obsidian integration with Full Calendar (fullcalendar.io) to keep, manage, and visualize events alongside your other notes in your Vault. |
+| [Full Calendar](https://github.com/davish/obsidian-full-calendar) | Keep events and manage your calendar alongside all your other notes in your Obsidian Vault. |
 | [Heatmap Calendar](https://github.com/Richardsl/heatmap-calendar-obsidian) | Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc. |
 | [Daily notes new tab](https://github.com/reorx/obsidian-daily-notes-new-tab) | Add command and sidebar button to open daily notes in new tab |
 | [Obsidian Advanced New Folder](https://github.com/piotryordanov/obsidian-advanced-new-folder) | This plugin lets you choose where to create a new folder. |
