@@ -51,7 +51,6 @@
 | [Dangling links panel](https://github.com/graydon/obsidian-dangling-links) | Adds a panel showing any dangling links in a vault. |
 | [Dangerzone Writing](https://github.com/akaalias/dangerzone-writing-plugin) | This plugin is dangerous! When you start it, you have to write without stopping for 100 seconds. If you stop, think and look around, after 3 seconds the plugin will DELETE what you've written in this note. |
 | [Maximise Active Pane](https://github.com/deathau/maximise-active-pane-obsidian) | Simply fills the workspace with the active pane |
-| [Add Codemirror's matchbrackets.js](https://github.com/mrjackphil/obsidian-add-codemirror-matchbrackets) | This plugins adds matchbrackets.js which allows to use `di[` or `ya(` commands in Vim mode |
 | [Julian Date Quick Insert](https://github.com/THeK3nger/obsidian-juliandate) | Add a shortuct to insert the current Julian Date for astronomical observations. |
 | [Emoji Toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar) | Quickly search for and insert emojis into your editor. |
 | [Fullscreen Focus Mode](https://github.com/razumihin/obsidian-fullscreen-plugin) | Adds a command to view a single document leaf in a fullscreen focus mode |
