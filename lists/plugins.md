@@ -357,7 +357,7 @@
 | [Meld Calc](https://github.com/meld-cp/obsidian-calc) | Do math! Evaluate math expressions within your notes. |
 | [Tabout](https://github.com/phibr0/obsidian-tabout) | Easily 'tab out' of Links or other Markdown Formatting Characters. |
 | [Pipe tricks](https://github.com/marcusolsson/obsidian-pipe-tricks) | Add support for Wikilink pipe tricks. |
-| [Fantasy Calendar](https://github.com/valentine195/obsidian-fantasy-calendar) | Fantasy calendars in Obsidian! |
+| [Fantasy Calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) | Fantasy calendars in Obsidian! |
 | [Pikt](https://github.com/arnau/obsidian-pikt) | An obsidian plugin to render pikchr codeblocks  |
 | [Improved VimCursor](https://github.com/hhhapz/improved-obsidian-vimcursor) | An improved experience with the cursor in obsidian |
 | [Quote of the Day](https://github.com/twentytwokhz/quote-of-the-day) | Inserts random quotes in the editor |
@@ -398,7 +398,7 @@
 | [Structured Plugin](https://github.com/dobrovolsky/obsidain-structure) | Structured plugin. Create hierarchy in notes using "." |
 | [CookLang Editor](https://github.com/deathau/cooklang-obsidian) | Edit and display CookLang recipes in Obsidian |
 | [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) | A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors 🎨. |
-| [Remotely Save](https://github.com/fyears/remotely-save) | Yet another unofficial plugin allowing users to sync notes between local device and the cloud service (S3, Dropbox, webdav, OneDrive). |
+| [Remotely Save](https://github.com/remotely-save/remotely-save) | Yet another unofficial plugin allowing users to sync notes between local device and the cloud service (S3, Dropbox, webdav, OneDrive). |
 | [From Template](https://github.com/mo-seph/obsidian-note-from-template) | Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template |
 | [Overdue](https://github.com/parente/obsidian-overdue) | Marks items as [[Overdue]] if they are not checked off by their due date |
 | [Dialogue](https://github.com/holubj/obsidian-dialogue-plugin) | Create dialogues in Markdown. |
@@ -407,7 +407,7 @@
 | [Generic Initiative Tracker](https://github.com/beaushinkle/obsidian-generic-initiative-tracker) | TTRPG Generic Initiative Tracker |
 | [AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) | Yet Another Anki Bridge. Focuses on a strict grammar and integrity of your data |
 | [Tressel Sync for Obsidian](https://github.com/aseem-thakar/obsidian-tressel) | Official Tressel plugin to sync/export your tweets and threads into Obsidian |
-| [Image Window](https://github.com/valentine195/obsidian-image-window) | Allow images to be opened in new Obsidian windows. |
+| [Second Window](https://github.com/valentine195/obsidian-image-window) | Allow images & notes to be viewed in new Obsidian windows. |
 | [Text to Speech](https://github.com/joethei/obsidian-tts) | Text to speech for Obsidian. Hear your notes. |
 | [Link Favicons](https://github.com/joethei/obsidian-link-favicon) | See the favicon for a linked website. |
 | [Get Info](https://github.com/chetachiezikeuzor/Get-Info-Plugin) | Get Info is a plugin that tucks a menu inside your status bar and shows helpful information for your chosen file 📄. |
@@ -507,3 +507,14 @@
 | [Vim Multibyte Char Search](https://github.com/anselmwang/obsidian-vim-multibyte-char-search) | Search multibyte characters by the first character of corresponding ASCII encoding of input method. For example, for Chinese, search by the first character of Pinyin. |
 | [Extract PDF Annotations](https://github.com/munach/obsidian-extract-pdf-annotations) | Extract PDF Annotations (Notes and Highlights) and sort them by topics |
 | [File Cleaner](https://github.com/Johnson0907/obsidian-file-cleaner) | Help you to clean empty files and unused attachments in the vault. |
+| [Card View Switcher](https://github.com/qawatake/obsidian-card-view-switcher-plugin) | Quick switcher with card view |
+| [Novel Word Count](https://github.com/isaaclyman/novel-word-count-obsidian) | Displays a word or page count for each file, folder and vault in the File Explorer pane. |
+| [Navigate Cursor History](https://github.com/heycalmdown/navigate-cursor-history) | This plugin remembers the recent cursor positions history and allows you to jump to them back and forth like VSCode |
+| [Obsidian matrix](https://github.com/NastyGamer/obsidian-matrix) | Utility to easily create LaTeX matrices |
+| [Waypoint](https://github.com/IdreesInc/Waypoint) | Easily generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags! |
+| [Hover Editor](https://github.com/nothingislost/obsidian-hover-editor) | Transform the Page Preview hover popover into a fully working editor instance |
+| [Screwdriver](https://github.com/vrtmrz/obsidian-screwdriver) | Utility to put any files in and out under your vault. |
+| [Version History Diff (Sync, File Recovery & Git)](https://github.com/kometenstaub/obsidian-version-history-diff) | Diff the version history of the core Sync and File Recovery plugins and Git for the active file. Adds a command to open the core Sync version history as well. |
+| [Format code blocks of various languages](https://github.com/iVariable/Obsidian-Format-Code) | This plugin introduces commands to format code (internally uses prettier) |
+| [Buttondown](https://github.com/caro401/obsidian-buttondown) | Send your notes to your buttondown.email account as email drafts. |
+| [Lapel](https://github.com/liamcain/obsidian-lapel) | Show the heading levels in the gutter of the editor |
