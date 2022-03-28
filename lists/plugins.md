@@ -387,7 +387,7 @@
 | [Bible Reference](https://github.com/tim-hub/obsidian-bible-reference) | Taking Bible Study note in Obsidian.md application easily. Automatically suggesting Bible Verses as references. |
 | [Sentence Navigator](https://github.com/timhor/obsidian-sentence-navigator) | Manipulate sentences as a unit of movement |
 | [Language Translator](https://github.com/twentytwokhz/language-translator) | An Obsidian plugin to translate selected text in the desired language. |
-| [Customizable Page Header](https://github.com/kometenstaub/customizable-page-header-buttons) | Add buttons for executing commands to the page header. |
+| [Customizable Page Header and Title Bar](https://github.com/kometenstaub/customizable-page-header-buttons) | Add buttons for executing commands to the page header and the title bar (on desktop). |
 | [Auto Class](https://github.com/OfficerHalf/obsidian-auto-class) | Automatically apply CSS classes to markdown views based on a note's path. |
 | [Obsidian Cloudinary Uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) | Upload pasted images from your clipboard to Cloudinary |
 | [RSS Reader](https://github.com/joethei/obsidian-rss) | Read articles from RSS feeds and incorporate them into your notes |
@@ -523,3 +523,4 @@
 | [Etherpad Lite](https://github.com/egradman/obsidian-etherpad-lite) | Copy and sync notes with an Etherpad Lite server to unlock easy web-based collaboration with others |
 | [Quiet Outline](https://github.com/guopenghui/obsidian-quiet-outline) | Make outline quiet and more powerful, including no-auto-expand, rendering heading as markdown, and search support. |
 | [Daily Notes Viewer](https://github.com/Johnson0907/obsidian-daily-notes-viewer) | Help you to view some recent daily notes on one page. |
+| [Zotero Desktop Connector](https://github.com/mgmeyers/obsidian-zotero-desktop-connector) | Insert citations, bibliographies, and notes directly from Zotero desktop. |
