@@ -427,7 +427,6 @@
 | [Plaintext for Obsidian](https://github.com/dbarenholz/obsidian-plaintext) | Allow opening specified files as plaintext. |
 | [Native Scrollbars](https://github.com/mgmeyers/obsidian-native-scrollbars) | Enables native OS scrollbars throughout obsidian |
 | [Wrap with shortcuts](https://github.com/manic/obsidian-wrap-with-shortcuts) | Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ) |
-| [Indentation Guides](https://github.com/mgmeyers/obsidian-indentation-guides) | Adds vertical lines to the editor denoting indentation level of lists and other content. |
 | [Tomorrow's Daily Note](https://github.com/frankolson/obsidian-tomorrows-daily-note) | An obsidian plugin that creates tomorrow's daily note for preemtive planning. |
 | [Rant-Lang](https://github.com/lanice/obsidian-rant) | Thin wrapper around the high-level procedural templating language Rant |
 | [Smarter Markdown Hotkeys](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys) | Hotkeys that select words and lines in a smart way before applying markup. Multiple cursors are supported as well. |
