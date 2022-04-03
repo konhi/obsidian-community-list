@@ -518,7 +518,7 @@
 | [Buttondown](https://github.com/caro401/obsidian-buttondown) | Send your notes to your buttondown.email account as email drafts. |
 | [Lapel](https://github.com/liamcain/obsidian-lapel) | Show the heading levels in the gutter of the editor |
 | [Desmos](https://github.com/Nigecat/obsidian-desmos) | Embed Desmos graphs into your notes |
-| [Custom Frames](https://github.com/Ellpeck/ObsidianCustomFrames) | A plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep and more. |
+| [Custom Frames](https://github.com/Ellpeck/ObsidianCustomFrames) | A plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more. |
 | [Etherpad Lite](https://github.com/egradman/obsidian-etherpad-lite) | Copy and sync notes with an Etherpad Lite server to unlock easy web-based collaboration with others |
 | [Quiet Outline](https://github.com/guopenghui/obsidian-quiet-outline) | Make outline quiet and more powerful, including no-auto-expand, rendering heading as markdown, and search support. |
 | [Daily Notes Viewer](https://github.com/Johnson0907/obsidian-daily-notes-viewer) | Help you to view some recent daily notes on one page. |
