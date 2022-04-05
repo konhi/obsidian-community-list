@@ -523,3 +523,4 @@
 | [Quiet Outline](https://github.com/guopenghui/obsidian-quiet-outline) | Make outline quiet and more powerful, including no-auto-expand, rendering heading as markdown, and search support. |
 | [Daily Notes Viewer](https://github.com/Johnson0907/obsidian-daily-notes-viewer) | Help you to view some recent daily notes on one page. |
 | [Zotero Desktop Connector](https://github.com/mgmeyers/obsidian-zotero-desktop-connector) | Insert citations, bibliographies, and notes directly from Zotero desktop. |
+| [Telegraph Publish](https://github.com/reorx/obsidian-telegraph-publish) | Publish your Obsidian note to a Telegraph page. |
