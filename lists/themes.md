@@ -120,3 +120,4 @@
 | [tingmelvin/willemstad-x](https://github.com/tingmelvin/willemstad-x) | ![Willemstad](https://raw.githubusercontent.com/tingmelvin/willemstad-x/master/img/Willemstad-X.png "") |
 | [caro401/royal-velvet](https://github.com/caro401/royal-velvet) | ![Royal Velvet](https://raw.githubusercontent.com/caro401/royal-velvet/master/royal-velvet.png "") |
 | [sahilpatel09/Aqua-obsidian](https://github.com/sahilpatel09/Aqua-obsidian) | ![Aqua](https://raw.githubusercontent.com/sahilpatel09/Aqua-obsidian/master/dark.png "") |
+| [xRyul/ObsidianMD_Dracula_x_LYT](https://github.com/xRyul/ObsidianMD_Dracula_x_LYT) | ![Dracula + LYT](https://raw.githubusercontent.com/xRyul/ObsidianMD_Dracula_x_LYT/master/Overview.jpg "") |
