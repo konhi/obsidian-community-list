@@ -526,3 +526,7 @@
 | [Telegraph Publish](https://github.com/reorx/obsidian-telegraph-publish) | Publish your Obsidian note to a Telegraph page. |
 | [Path Title](https://github.com/jdeal/obsidian-path-title-plugin) | Adds path (or optional replacement) to the filename title of each pane |
 | [Jira Issue](https://github.com/marc0l92/obsidian-jira-issue) | Track the progress of Atlassian Jira issues from your Obsidian notes. |
+| [Smort](https://github.com/SmortApp/obsidian-smort) | Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate and share articles. |
+| [Control Characters](https://github.com/joethei/obsidian-control-characters) | Show control/non-printing characters in edit mode |
+| [AsciiDoc Blocks Plugin](https://github.com/juracy/obsidian-asciidoc-blocks) | A plugin to render asciidoc blocks in Obsidian, initially asciidoc tables. |
+| [Fleeting Notes Sync](https://github.com/fleetingnotes/fleeting-notes-obsidian) | This is a plugin to sync Fleeting Notes with Obsidian |
