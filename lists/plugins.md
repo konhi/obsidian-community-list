@@ -530,3 +530,4 @@
 | [Control Characters](https://github.com/joethei/obsidian-control-characters) | Show control/non-printing characters in edit mode |
 | [AsciiDoc Blocks Plugin](https://github.com/juracy/obsidian-asciidoc-blocks) | A plugin to render asciidoc blocks in Obsidian, initially asciidoc tables. |
 | [Fleeting Notes Sync](https://github.com/fleetingnotes/fleeting-notes-obsidian) | This is a plugin to sync Fleeting Notes with Obsidian |
+| [Chat View](https://github.com/adifyr/obsidian-chat-view) | Chat View lets you quickly and easily create elegant Chat UIs in your Markdown Files. |
