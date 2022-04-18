@@ -490,7 +490,7 @@
 | [Key Sequence Shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) | Execute obsidian commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember. |
 | [Full Calendar](https://github.com/davish/obsidian-full-calendar) | Keep events and manage your calendar alongside all your other notes in your Obsidian Vault. |
 | [Heatmap Calendar](https://github.com/Richardsl/heatmap-calendar-obsidian) | Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc. |
-| [Daily notes new tab](https://github.com/reorx/obsidian-daily-notes-new-tab) | Add command and sidebar button to open daily notes in new tab |
+| [Daily notes opener](https://github.com/reorx/obsidian-daily-notes-opener) | Easily open daily notes and periodic notes in new pane; customize periodic notes background; quick append new line to daily notes. |
 | [Obsidian Advanced New Folder](https://github.com/piotryordanov/obsidian-advanced-new-folder) | This plugin lets you choose where to create a new folder. |
 | [Mark and Select](https://github.com/anselmwang/obsidian-mark-and-select) | Allow users to set mark, move cursors freely and select from mark to cursor position |
 | [Bible Linker](https://github.com/kuchejak/obsidian-bible-linker-plugin) | Link multiple bible verses easily |
@@ -531,3 +531,9 @@
 | [AsciiDoc Blocks Plugin](https://github.com/juracy/obsidian-asciidoc-blocks) | A plugin to render asciidoc blocks in Obsidian, initially asciidoc tables. |
 | [Fleeting Notes Sync](https://github.com/fleetingnotes/fleeting-notes-obsidian) | This is a plugin to sync Fleeting Notes with Obsidian |
 | [Chat View](https://github.com/adifyr/obsidian-chat-view) | Chat View lets you quickly and easily create elegant Chat UIs in your Markdown Files. |
+| [Doubleshift](https://github.com/qwyntex/doubleshift) | Open the command palette by pressing Double Shift like in IntelliJ |
+| [List Modified](https://github.com/franciskafieh/obsidian-list-modified) | A simple obsidian plugin that links all modified files meeting certain criteria to a daily note |
+| [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX math as fast as handwriting |
+| [Better CodeBlock](https://github.com/stargrey/obsidian-better-codeblock) | Add title, line numbers, and collapse button to code blocks in reading view |
+| [Obsidian Wordnik Definitions](https://github.com/lizard-heart/obsidian-wordnik-definitions) | Grabs information from Wordnik for a topic and brings it into Obsidian notes |
+| [Typing speed](https://github.com/supercip971/obsidian-typing-speed) | A plugin for showing the current typing speed in the status bar |
