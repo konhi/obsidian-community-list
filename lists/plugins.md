@@ -537,3 +537,11 @@
 | [Better CodeBlock](https://github.com/stargrey/obsidian-better-codeblock) | Add title, line numbers, and collapse button to code blocks in reading view |
 | [Obsidian Wordnik Definitions](https://github.com/lizard-heart/obsidian-wordnik-definitions) | Grabs information from Wordnik for a topic and brings it into Obsidian notes |
 | [Typing speed](https://github.com/supercip971/obsidian-typing-speed) | A plugin for showing the current typing speed in the status bar |
+| [Obsidian Google Tasks](https://github.com/YukiGasai/obsidian-google-tasks) | Interact with your Google Tasks from inside Obsidian |
+| [Obsidian jTab](https://github.com/davfive/obsidian-jtab) | Add guitar chords and tabs to your notes with jTab codeblocks |
+| [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) | Helps you find books and create notes. |
+| [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) | Rename image after pasting, support name pattern and auto renaming. |
+| [Scroll Offset](https://github.com/lijyze/scroll-offset) | Preserve custom distances before or after cursor. |
+| [Obsius Publish](https://github.com/jonstodle/obsius-obsidian-plugin) | Make single notes instantly available on the web. |
+| [Snippet Downloader](https://github.com/Mara-Li/obsidian-snippet-downloader) | A obsidian's plugin to help to manage css snippets (download / update) from repository |
+| [Execute Code](https://github.com/twibiral/obsidian-execute-code) | Allows to execute code snippets within a note. |
