@@ -435,7 +435,7 @@
 | [JSON/CSV Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file |
 | [Foundry world Importer](https://github.com/farling42/obsidian-import-foundry) | Imports your journal entries from your selected Foundry VTT world into a folder within your Obsidian Vault |
 | [Attachment Name Formatting](https://github.com/JYC333/obsidian-attachment-name-formatting) | Formatting attachments name (filename attachmentType indexNumber.xxx) |
-| [Completr](https://github.com/tth05/obsidian-completr) | This plugin provides advanced auto-completion functionality for Obsidian |
+| [Completr](https://github.com/tth05/obsidian-completr) | This plugin provides advanced auto-completion functionality for LaTeX, Frontmatter and standard writing. |
 | [Binary File Manager](https://github.com/qawatake/obsidian-binary-file-manager-plugin) | Detects new binary files in the vault and create markdown files with metadata. |
 | [Local File Interface](https://github.com/qawatake/obsidian-local-file-interface-plugin) | Provides commands for moving files in and out of the vault |
 | [Siteswap](https://github.com/tdresser/obsidian-siteswap) | Visualize Juggling Pattern Siteswap via the JugglingLab gif server. |
