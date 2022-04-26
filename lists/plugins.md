@@ -545,3 +545,5 @@
 | [Obsius Publish](https://github.com/jonstodle/obsius-obsidian-plugin) | Make single notes instantly available on the web. |
 | [Snippet Downloader](https://github.com/Mara-Li/obsidian-snippet-downloader) | A obsidian's plugin to help to manage css snippets (download / update) from repository |
 | [Execute Code](https://github.com/twibiral/obsidian-execute-code) | Allows to execute code snippets within a note. |
+| [Obsidian Badge](https://github.com/linjunpop/obsidian-badge) | This is a plugin to show badge for Obsidian. |
+| [Korean Book Info Plugin](https://github.com/kmsk99/kr-book-info-plugin) | A plugin that crawls Yes24 to get book information. |
