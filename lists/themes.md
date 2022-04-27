@@ -122,3 +122,5 @@
 | [sahilpatel09/Aqua-obsidian](https://github.com/sahilpatel09/Aqua-obsidian) | ![Aqua](https://raw.githubusercontent.com/sahilpatel09/Aqua-obsidian/master/dark.png "") |
 | [xRyul/ObsidianMD_Dracula_x_LYT](https://github.com/xRyul/ObsidianMD_Dracula_x_LYT) | ![Dracula + LYT](https://raw.githubusercontent.com/xRyul/ObsidianMD_Dracula_x_LYT/master/Overview.jpg "") |
 | [hydescarf/Obsidian-Theme-Mado-11](https://github.com/hydescarf/Obsidian-Theme-Mado-11) | ![Mado 11](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-11/master/cover.png "") |
+| [Everblush/Obsidian](https://github.com/Everblush/Obsidian) | ![Everblush](https://raw.githubusercontent.com/Everblush/Obsidian/master/preview.png "") |
+| [kkYrusobad/AbsoluteGruv](https://github.com/kkYrusobad/AbsoluteGruv) | ![AbsoluteGruv](https://raw.githubusercontent.com/kkYrusobad/AbsoluteGruv/master/obsidian.png "") |
