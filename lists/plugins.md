@@ -553,5 +553,8 @@
 | [Mkdocs Publisher](https://github.com/Mara-Li/obsidian-mkdocs-publisher-plugin) | Obsidian's Mkdocs Publisher is an association between a github actions and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault. |
 | [Notion Video Embed](https://github.com/LastKnightCoder/obsidian-notion-video) | embed your notion video in obsidian |
 | [Obsidian Math+](https://github.com/ocapraro/obsidian-math-plus) | This is an Obsidian plugin for taking math notes using Excalidraw. |
-| [Obsidian Link](https://github.com/dennisseidel/obsidian-releases) | Create Todoist tasks and projects including bidirectional links from Obsidian |
+| [Todoist Link](https://github.com/dennisseidel/obsidian-todoist-link) | Create Todoist tasks and projects including bidirectional links from Obsidian |
 | [Rewarder](https://github.com/Gnopps/obsidian-rewarder) | Gives you rewards for completing tasks/todos, highly configurable. |
+| [Calibre](https://github.com/caronchen/obsidian-calibre-plugin) | This plugin allows you to access your calibre libraries and read books directly in Obsidian. |
+| [Omnisearch](https://github.com/scambier/obsidian-omnisearch) | A search engine that just works |
+| [Plugins Galore](https://github.com/dylanpizzo/obsidian-plugins-galore) | This is an Obsidian plugin to allow easily sideloading other plugins. |
