@@ -558,3 +558,5 @@
 | [Calibre](https://github.com/caronchen/obsidian-calibre-plugin) | This plugin allows you to access your calibre libraries and read books directly in Obsidian. |
 | [Omnisearch](https://github.com/scambier/obsidian-omnisearch) | A search engine that just works |
 | [Plugins Galore](https://github.com/dylanpizzo/obsidian-plugins-galore) | This is an Obsidian plugin to allow easily sideloading other plugins. |
+| [Auto Card Link](https://github.com/nekoshita/obsidian-auto-card-link) | Automatically fetches metadata from a url and makes it as a card-styled link. |
+| [Notion-Like Tables](https://github.com/trey-wallis/obsidian-notion-like-tables) | Create markdown tables using an interface similar to that found in Notion.so. |
