@@ -201,7 +201,7 @@
 | [TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) | Create TTRPG styled statblocks in Obsidian.md |
 | [Zoom](https://github.com/vslinko/obsidian-zoom) | Zoom into heading and lists. |
 | [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all) | This plugin adds a button to collapse all folders in the file explorer. |
-| [Charts View](https://github.com/caronchen/obsidian-chartsview-plugin) | A charts view plugin for Obsidian, based on Ant Design Charts which is a React chart library. |
+| [Charts View](https://github.com/caronchen/obsidian-chartsview-plugin) | Data visualization solution in Obsidian, support plots and graphs. |
 | [Dictionary](https://github.com/phibr0/obsidian-dictionary) | This is a multilingual Dictionary for the Obsidian Note-Taking Tool. |
 | [Liquid Templates](https://github.com/oeN/liquid-template) | Create your templates with LiquidJS tags support |
 | [Better footnote](https://github.com/aidenlx/better-fn) | Footnote popover for Obsidian |
@@ -560,3 +560,4 @@
 | [Plugins Galore](https://github.com/dylanpizzo/obsidian-plugins-galore) | This is an Obsidian plugin to allow easily sideloading other plugins. |
 | [Auto Card Link](https://github.com/nekoshita/obsidian-auto-card-link) | Automatically fetches metadata from a url and makes it as a card-styled link. |
 | [Notion-Like Tables](https://github.com/trey-wallis/obsidian-notion-like-tables) | Create markdown tables using an interface similar to that found in Notion.so. |
+| [AutoMOC](https://github.com/dalcantara7/obsidian-auto-moc) | Looks for missing linked mentions to the current note and imports them into the current note. |
