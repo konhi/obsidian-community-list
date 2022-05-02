@@ -124,3 +124,4 @@
 | [hydescarf/Obsidian-Theme-Mado-11](https://github.com/hydescarf/Obsidian-Theme-Mado-11) | ![Mado 11](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-11/master/cover.png "") |
 | [Everblush/Obsidian](https://github.com/Everblush/Obsidian) | ![Everblush](https://raw.githubusercontent.com/Everblush/Obsidian/master/preview.png "") |
 | [kkYrusobad/AbsoluteGruv](https://github.com/kkYrusobad/AbsoluteGruv) | ![AbsoluteGruv](https://raw.githubusercontent.com/kkYrusobad/AbsoluteGruv/master/obsidian.png "") |
+| [aitaDev/Violet-Evening-for-Obsidian](https://github.com/aitaDev/Violet-Evening-for-Obsidian) | ![Violet Evening](https://raw.githubusercontent.com/aitaDev/Violet-Evening-for-Obsidian/master/screenshot.png "") |

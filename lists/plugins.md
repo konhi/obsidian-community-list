@@ -561,3 +561,4 @@
 | [Auto Card Link](https://github.com/nekoshita/obsidian-auto-card-link) | Automatically fetches metadata from a url and makes it as a card-styled link. |
 | [Notion-Like Tables](https://github.com/trey-wallis/obsidian-notion-like-tables) | Create markdown tables using an interface similar to that found in Notion.so. |
 | [AutoMOC](https://github.com/dalcantara7/obsidian-auto-moc) | Looks for missing linked mentions to the current note and imports them into the current note. |
+| [Paste image Png to Jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg) | Screenshot png to jpeg and compress and rename. |
