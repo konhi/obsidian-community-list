@@ -125,3 +125,4 @@
 | [Everblush/Obsidian](https://github.com/Everblush/Obsidian) | ![Everblush](https://raw.githubusercontent.com/Everblush/Obsidian/master/preview.png "") |
 | [kkYrusobad/AbsoluteGruv](https://github.com/kkYrusobad/AbsoluteGruv) | ![AbsoluteGruv](https://raw.githubusercontent.com/kkYrusobad/AbsoluteGruv/master/obsidian.png "") |
 | [aitaDev/Violet-Evening-for-Obsidian](https://github.com/aitaDev/Violet-Evening-for-Obsidian) | ![Violet Evening](https://raw.githubusercontent.com/aitaDev/Violet-Evening-for-Obsidian/master/screenshot.png "") |
+| [danyim/obsidian-zenburn](https://github.com/danyim/obsidian-zenburn) | ![Zenburn](https://raw.githubusercontent.com/danyim/obsidian-zenburn/master/screen.png "") |
