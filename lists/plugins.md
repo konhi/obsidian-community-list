@@ -563,3 +563,4 @@
 | [AutoMOC](https://github.com/dalcantara7/obsidian-auto-moc) | Looks for missing linked mentions to the current note and imports them into the current note. |
 | [Paste image Png to Jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg) | Screenshot png to jpeg and compress and rename. |
 | [Folder Index](https://github.com/turulix/obsidian-folder-index) | Automatic MOC for folders |
+| [Filename Emoji Remover](https://github.com/YTolun/obsidian-filename-emoji-remover) | This is a simple plugin to automatically remove emojis from filenames. Main purpose is to get rid of Dropbox sync issues for Readwise imported content |
