@@ -135,7 +135,7 @@
 | [Pane Relief](https://github.com/pjeby/pane-relief) | Per-pane history, hotkeys for pane movement + navigation, and more |
 | [DEVONlink - Open or reveal notes in DEVONthink](https://github.com/ryanjamurphy/DEVONlink-obsidian) | Open or reveal the current note in DEVONthink. |
 | [Hotkey Helper](https://github.com/pjeby/hotkey-helper) | Easily see and access any plugin's settings or hotkey assignments (and conflicts) from the Community Plugins tab |
-| [Text Snippets](https://github.com/ArianaKhit/text-snippets-obsidian) | Snippets for faster typing |
+| [Text Snippets](https://github.com/ArianaKhit/text-snippets-obsidian) | Snippets for faster typing. Allows you to replace text templates, create your own, and expand text shortcuts. |
 | [Consistent attachments and links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) | Move note attachments and update links automatically |
 | [PlantUML](https://github.com/joethei/obsidian-plantuml) | Generate PlantUML diagrams |
 | [Open cards in imdone from obsidian.](https://github.com/imdone/imdone-obsidian-plugin) | Open cards in imdone kanban from their source in obsidian.  Open cards from imdone in obsidian at their source. |
@@ -566,3 +566,4 @@
 | [Filename Emoji Remover](https://github.com/YTolun/obsidian-filename-emoji-remover) | This is a simple plugin to automatically remove emojis from filenames. Main purpose is to get rid of Dropbox sync issues for Readwise imported content |
 | [ePub Reader](https://github.com/caronchen/obsidian-epub-plugin) | This is an ePub reader plugin for Obsidian. Can open document with ".epub" file extension. |
 | [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | Displays a formatted reference in the sidebar for each pandoc citekey present in the current document. |
+| [Obsidian Enhancing Export](https://github.com/mokeyish/obsidian-enhancing-export) | A enhancing export plugin base on pandoc for Obsidian. It allows to export to formats like Html, DOCX, ePub and PDF or Hugo. |
