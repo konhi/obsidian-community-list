@@ -567,3 +567,10 @@
 | [ePub Reader](https://github.com/caronchen/obsidian-epub-plugin) | This is an ePub reader plugin for Obsidian. Can open document with ".epub" file extension. |
 | [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | Displays a formatted reference in the sidebar for each pandoc citekey present in the current document. |
 | [Obsidian Enhancing Export](https://github.com/mokeyish/obsidian-enhancing-export) | A enhancing export plugin base on pandoc for Obsidian. It allows to export to formats like Html, DOCX, ePub and PDF or Hugo. |
+| [Enlightenment](https://github.com/ryanjamurphy/enlightenment-obsidian) | Pay attention to what you're paying attention to. Enlightenment adds a 'zen mode' for Preview, hiding the contents of your notes except for what's underneath your pointer. |
+| [Release Timeline](https://github.com/cakechaser/obsidian-release-timeline) | Release timeline rendered based on notes metadata with a dataview-like syntax. |
+| [Folder Focus Mode](https://github.com/grochowski/obsidian-folder-focus-mode) | Focus file explorer on chosen folder and its files and subdirectories, while hiding all the other elements. |
+| [BBCode Convertor](https://github.com/salockhart/obsidian-bbcode) | Convert Markdown files to BBCode |
+| [Upcoming](https://github.com/charliecm/obsidian-upcoming) | Open upcoming daily notes in their own panes. |
+| [Nuke Orphans](https://github.com/sandorex/nuke-orphans-plugin) | Plugin that trashes orphaned files and attachments |
+| [Front Matter Title](https://github.com/Snezhig/obsidian-front-matter-title) | Lets you define a title in frontmatter to be displayed as the filename |
