@@ -522,7 +522,7 @@
 | [Etherpad Lite](https://github.com/egradman/obsidian-etherpad-lite) | Copy and sync notes with an Etherpad Lite server to unlock easy web-based collaboration with others |
 | [Quiet Outline](https://github.com/guopenghui/obsidian-quiet-outline) | Make outline quiet and more powerful, including no-auto-expand, rendering heading as markdown, and search support. |
 | [Daily Notes Viewer](https://github.com/Johnson0907/obsidian-daily-notes-viewer) | Help you to view some recent daily notes on one page. |
-| [Zotero Desktop Connector](https://github.com/mgmeyers/obsidian-zotero-desktop-connector) | Insert citations, bibliographies, and notes directly from Zotero desktop. |
+| [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration) | Insert and import citations, bibliographies, notes, and PDF annotations from Zotero. |
 | [Telegraph Publish](https://github.com/reorx/obsidian-telegraph-publish) | Publish your Obsidian note to a Telegraph page. |
 | [Path Title](https://github.com/jdeal/obsidian-path-title-plugin) | Adds path (or optional replacement) to the filename title of each pane |
 | [Jira Issue](https://github.com/marc0l92/obsidian-jira-issue) | Track the progress of Atlassian Jira issues from your Obsidian notes. |
@@ -550,7 +550,7 @@
 | [Drag-n-Drop for blocks](https://github.com/artem-barmin/obsidian-block-drag-n-drop) | Allow moving/copying/and creation embeds for blocks with drag-n-drop just like Logseq or Roam |
 | [Link Embed](https://github.com/Seraphli/obsidian-link-embed) | This plugin allow you to convert URLs in your notes into embeded previews. |
 | [Obsidian Columns](https://github.com/tnichols217/obsidian-columns) | Allows you to create columns in Obsidian Markdown |
-| [Mkdocs Publisher](https://github.com/Mara-Li/obsidian-mkdocs-publisher-plugin) | Obsidian's Mkdocs Publisher is an association between a github actions and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault. |
+| [Github Publisher](https://github.com/Mara-Li/obsidian-github-publisher) | Github Publisher is a plugin that help you to send file in a configured Github Repository, based on a frontmatter entry state. |
 | [Notion Video Embed](https://github.com/LastKnightCoder/obsidian-notion-video) | embed your notion video in obsidian |
 | [Obsidian Math+](https://github.com/ocapraro/obsidian-math-plus) | This is an Obsidian plugin for taking math notes using Excalidraw. |
 | [Todoist Link](https://github.com/dennisseidel/obsidian-todoist-link) | Create Todoist tasks and projects including bidirectional links from Obsidian |
