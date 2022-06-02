@@ -194,7 +194,7 @@
 | [Related Notes Finder](https://github.com/lifegems/obsidian-related-notes-finder) | An Obsidian plugin that adds extra features for finding related notes. |
 | [koncham workspace](https://github.com/manogna4/obsidian-koncham-workspace) | obsidian workspace management |
 | [React Components](https://github.com/elias-sundqvist/obsidian-react-components) | Write and use React (Jsx) components in your notes. |
-| [Tasks](https://github.com/schemar/obsidian-tasks) | Task management for Obsidian |
+| [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) | Task management for Obsidian |
 | [Readwise Mirror](https://github.com/jsonMartin/readwise-mirror) | Mirror your Readwise library directly into an Obsidian vault |
 | [Auto pair chinese symbol](https://github.com/renmu123/obsidian-auto-pair-chinese-symbol) | Auto pair chinese symbol |
 | [Obsidian Pomodoro Plugin](https://github.com/tokuhirom/obsidian-pomodoro-plugin) | This is a simple pomodoro plugin for Obsidian. |
@@ -234,7 +234,7 @@
 | [Kroki](https://github.com/gregzuro/obsidian-kroki) | Render Kroki diagrams. |
 | [Timeline](https://github.com/George-debug/obsidian-timeline) | Used to build great timelines |
 | [Map View](https://github.com/esm7/obsidian-map-view) | An interactive map view for your notes. |
-| [Copy Image and URL in Preview](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy Image and Copy URL context menu in preview mode |
+| [Copy Image and URL in Preview](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy Image, Copy URL and Open PDF externally context menu in preview mode |
 | [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) | TTRPG Initiative Tracker for Obsidian.md |
 | [Cursor Location](https://github.com/spslater/obsidian-cursor-location-plugin) | This displays the location of the cursor (character and line number). |
 | [Enhancing mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) | This is a enhancing mindmap plugin for obsidian. You can edit mindmap on markdown. |
@@ -574,3 +574,11 @@
 | [Upcoming](https://github.com/charliecm/obsidian-upcoming) | Open upcoming daily notes in their own panes. |
 | [Nuke Orphans](https://github.com/sandorex/nuke-orphans-plugin) | Plugin that trashes orphaned files and attachments |
 | [Front Matter Title](https://github.com/Snezhig/obsidian-front-matter-title) | Lets you define a title in frontmatter to be displayed as the filename |
+| [Bellboy](https://github.com/shakedlokits/obsidian-bellboy) | Opinionated file structure manager. |
+| [Function Plot](https://github.com/leonhma/obsidian-functionplot) | Render mathematical functions in a markdown codeblock. |
+| [Note Auto Creator](https://github.com/SimonTC/obsidian-note-autocreation) | Automatically create notes when links are created to them. |
+| [Local Quotes](https://github.com/ka1tzyu/local-quotes) | Collect your quotes from all over the repository and embed them in different locations with refresh delays. |
+| [State Switcher](https://github.com/lijyze/obsidian-state-switcher) | Allow you switch value of specific field within custom value set, so you won't make mistake. |
+| [Media DB Plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) | A plugin that can query multiple APIs for movies, series, anime, games, music releases and wiki articles, and import them into your vault. |
+| [Sequence Hotkeys](https://github.com/moolmanruan/obsidian-sequence-hotkeys) | This plugin allows you to set hotkeys with key sequences instead of a single chord. |
+| [Packrat](https://github.com/therden/packrat) | Manage completed instances of recurring tasks that were created and completed using the Tasks plugin. |
