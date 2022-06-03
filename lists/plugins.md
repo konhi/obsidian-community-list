@@ -582,3 +582,10 @@
 | [Media DB Plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) | A plugin that can query multiple APIs for movies, series, anime, games, music releases and wiki articles, and import them into your vault. |
 | [Sequence Hotkeys](https://github.com/moolmanruan/obsidian-sequence-hotkeys) | This plugin allows you to set hotkeys with key sequences instead of a single chord. |
 | [Packrat](https://github.com/therden/packrat) | Manage completed instances of recurring tasks that were created and completed using the Tasks plugin. |
+| [ExcaliBrain](https://github.com/zsviczian/excalibrain) | ExcaliBrain is inspired by TheBrain and Breadcrumbs. It is an interactive, structured mind-map of your Obsidian Vault generated based on the folders and files in your Vault by interpreting the links, dataview fields, tags and YAML front matter in your markdown files. |
+| [Expand Bullet](https://github.com/quorafind/Obsidian-Expand-Bullet) | A plugin for transforming bullet content into note. |
+| [Database folder](https://github.com/RafaelGB/obsidian-db-folder) | Folder with the capability to store and retrieve data from a folder like database |
+| [Advanced Codeblock](https://github.com/lijyze/obsidian-advanced-codeblock) | Add additional features to code blocks. |
+| [Booksidian](https://github.com/MichaBrugger/booksidian_plugin) | A plugin to connect your Goodreads shelves to your Obsidian vault. |
+| [Simple Dice Roller](https://github.com/yeeshue99/ObsidianDiceRoller) | A plug and play solution that allows you to average and simulate dice formulas. |
+| [Obsidian Camera](https://github.com/aldrinjenson/obsidian-camera) | Create and save Snaps or Video Recordings directly from Obsidian-Desktop |
