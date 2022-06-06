@@ -587,7 +587,7 @@
 | [Database folder](https://github.com/RafaelGB/obsidian-db-folder) | Folder with the capability to store and retrieve data from a folder like database |
 | [Advanced Codeblock](https://github.com/lijyze/obsidian-advanced-codeblock) | Add additional features to code blocks. |
 | [Booksidian](https://github.com/MichaBrugger/booksidian_plugin) | A plugin to connect your Goodreads shelves to your Obsidian vault. |
-| [Simple Dice Roller](https://github.com/yeeshue99/ObsidianDiceRoller) | A plug and play solution that allows you to average and simulate dice formulas. |
+| [Simple Dice Roller](https://github.com/yeeshue99/SimpleDiceRoller) | A plug and play solution that allows you to average and simulate dice formulas. |
 | [Obsidian Camera](https://github.com/aldrinjenson/obsidian-camera) | Create and save Snaps or Video Recordings directly from Obsidian-Desktop |
 | [Markbase for Obsidian](https://github.com/markbaseteam/obsidian-markbase) | Official Markbase plugin to share your Obsidian notes online in your own digital garden |
 | [User Plugins](https://github.com/mnowotnik/obsidian-user-plugins) | Use js files or snippets to code your own quick and dirty plugins |
