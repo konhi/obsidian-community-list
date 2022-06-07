@@ -412,8 +412,6 @@
 | [Link Favicons](https://github.com/joethei/obsidian-link-favicon) | See the favicon for a linked website. |
 | [Get Info](https://github.com/chetachiezikeuzor/Get-Info-Plugin) | Get Info is a plugin that tucks a menu inside your status bar and shows helpful information for your chosen file 📄. |
 | [Matter](https://github.com/getmatterapp/obsidian-matter) | Official Matter Obsidian integration. |
-| [Linked Data Helper](https://github.com/kometenstaub/linked-data-helper) | Generate the necessary data for Linked Data Vocabularies. |
-| [Linked Data Vocabularies](https://github.com/kometenstaub/obsidian-linked-data-vocabularies) | Add linked data to the YAML of your notes. |
 | [Regex Find and Replace](https://github.com/Gru80/obsidian-regex-replace) | Provides a Find/Replace dialog which optionally supports regular expressions and scope (full document or text selection). |
 | [Publish to WordPress for Obsidian](https://github.com/devbean/obsidian-wordpress) | A plugin to publish your Obsidian documents to WordPress |
 | [Icon Shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) | Insert emoji and custom icons with shortcodes |
