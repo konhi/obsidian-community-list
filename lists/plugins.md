@@ -548,7 +548,7 @@
 | [Drag-n-Drop for blocks](https://github.com/artem-barmin/obsidian-block-drag-n-drop) | Allow moving/copying/and creation embeds for blocks with drag-n-drop just like Logseq or Roam |
 | [Link Embed](https://github.com/Seraphli/obsidian-link-embed) | This plugin allow you to convert URLs in your notes into embeded previews. |
 | [Obsidian Columns](https://github.com/tnichols217/obsidian-columns) | Allows you to create columns in Obsidian Markdown |
-| [Github Publisher](https://github.com/Mara-Li/obsidian-github-publisher) | Github Publisher is a plugin that help you to send file in a configured Github Repository, based on a frontmatter entry state. |
+| [Github Publisher](https://github.com/obsidianMkdocs/obsidian-github-publisher) | Github Publisher is a plugin that help you to send file in a configured Github Repository, based on a frontmatter entry state. |
 | [Notion Video Embed](https://github.com/LastKnightCoder/obsidian-notion-video) | embed your notion video in obsidian |
 | [Obsidian Math+](https://github.com/ocapraro/obsidian-math-plus) | This is an Obsidian plugin for taking math notes using Excalidraw. |
 | [Todoist Link](https://github.com/dennisseidel/obsidian-todoist-link) | Create Todoist tasks and projects including bidirectional links from Obsidian |
