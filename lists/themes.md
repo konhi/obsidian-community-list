@@ -66,7 +66,6 @@
 | [johackim/obsidian-darkyan](https://github.com/johackim/obsidian-darkyan) | ![Darkyan](https://raw.githubusercontent.com/johackim/obsidian-darkyan/master/screenshot.png "") |
 | [mrglitchbyte/obsidian_everforest](https://github.com/mrglitchbyte/obsidian_everforest) | ![Everforest](https://raw.githubusercontent.com/mrglitchbyte/obsidian_everforest/master/dark_v2.png "") |
 | [tylernguyen/obsidian-horizon](https://github.com/tylernguyen/obsidian-horizon) | ![Horizon](https://raw.githubusercontent.com/tylernguyen/obsidian-horizon/master/assets/preview.png "") |
-| [RuslanGagushin/Tokyo-Night-Obsidian-Theme](https://github.com/RuslanGagushin/Tokyo-Night-Obsidian-Theme) | ![Tokyo Night](https://raw.githubusercontent.com/RuslanGagushin/Tokyo-Night-Obsidian-Theme/master/screenshot.png "") |
 | [nikbrunner/obsidian-deep-work-theme](https://github.com/nikbrunner/obsidian-deep-work-theme) | ![Deep Work](https://raw.githubusercontent.com/nikbrunner/obsidian-deep-work-theme/master/screenshot.png "") |
 | [vanadium23/obsidian-blackbird-theme](https://github.com/vanadium23/obsidian-blackbird-theme) | ![Blackbird](https://raw.githubusercontent.com/vanadium23/obsidian-blackbird-theme/master/images/example.png "") |
 | [kinmury/GoldenCoffeeTheme](https://github.com/kinmury/GoldenCoffeeTheme) | ![Golden Coffee](https://raw.githubusercontent.com/kinmury/GoldenCoffeeTheme/master/Screenshots/Showcase.png "") |
