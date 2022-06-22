@@ -589,3 +589,6 @@
 | [Obsidian Camera](https://github.com/aldrinjenson/obsidian-camera) | Create and save Snaps or Video Recordings directly from Obsidian-Desktop |
 | [Markbase for Obsidian](https://github.com/markbaseteam/obsidian-markbase) | Official Markbase plugin to share your Obsidian notes online in your own digital garden |
 | [User Plugins](https://github.com/mnowotnik/obsidian-user-plugins) | Use js files or snippets to code your own quick and dirty plugins |
+| [Obsidian Ghost Publish](https://github.com/jaynguyens/obsidian-ghost-publish) | Publish to Ghost site with a single click |
+| [Timestamp Notes](https://github.com/juliang22/ObsidianTimestampNotes) | This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from. |
+| [Linkify](https://github.com/matthewhchan/linkify) | Converts matching text into links |
