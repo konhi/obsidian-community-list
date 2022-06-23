@@ -592,3 +592,9 @@
 | [Obsidian Ghost Publish](https://github.com/jaynguyens/obsidian-ghost-publish) | Publish to Ghost site with a single click |
 | [Timestamp Notes](https://github.com/juliang22/ObsidianTimestampNotes) | This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from. |
 | [Linkify](https://github.com/matthewhchan/linkify) | Converts matching text into links |
+| [braincache](https://github.com/XSPGMike/braincache_obsidian) | Create braincache flashcards from Obsidian |
+| [Share as Gist](https://github.com/timrogers/obsidian-share-as-gist) | Shares an Obsidian note as a GitHub.com gist |
+| [Code Block](https://github.com/paddan/code-block-plugin) | A plugin that converts text into code blocks with automatic language detection. |
+| [Google Calendar and Contacts Lookup](https://github.com/ntawileh/obsidian-google-lookup) | Import contact and calendar event information from your Google account |
+| [Stack Overflow Answers](https://github.com/bramses/obsidian-stack-overflow) | Copy and Paste Stack Overflow answers directly into Obsidian. |
+| [Redirect](https://github.com/jglev/obsidian-redirect) | Facilitate management of especially non-markdown files, by allowing aliases to be set on any file. |
