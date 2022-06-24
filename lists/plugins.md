@@ -598,3 +598,13 @@
 | [Google Calendar and Contacts Lookup](https://github.com/ntawileh/obsidian-google-lookup) | Import contact and calendar event information from your Google account |
 | [Stack Overflow Answers](https://github.com/bramses/obsidian-stack-overflow) | Copy and Paste Stack Overflow answers directly into Obsidian. |
 | [Redirect](https://github.com/jglev/obsidian-redirect) | Facilitate management of especially non-markdown files, by allowing aliases to be set on any file. |
+| [Zotero Bridge](https://github.com/vanakat/zotero-bridge) | Obsidian plugin to integrate with Zotero through ZotServer |
+| [Wielder](https://github.com/victorb/obsidian-wielder) | Clojure/ClojureScript inside your Obsidian documents! |
+| [Obsidian shared to Notion](https://github.com/Easychris/obsidian-to-notion) | This is a  plugin for Obsidian. This plugin share obsidian md file to notion with notion api |
+| [Image Gallery](https://github.com/lucaorio/obsidian-image-gallery) | A zero setup masonry image gallery for Obsidian |
+| [Thumbnails](https://github.com/Meikul/obsidian-thumbnails) | Insert youtube thumbnails into your notes |
+| [Table to CSV Exporter](https://github.com/metawops/obsidian-table-to-csv-export) | This plugin allows for exporting tables from a pane in reading mode into CSV files. |
+| [Task Progress Bar](https://github.com/quorafind/obsidian-task-progress-bar) | A task progress bar plugin for tasks in Obsidian. |
+| [Scroll Speed](https://github.com/flolu/obsidian-scroll-speed) | This plugin allows you to change the scroll speed inside Obsidian notes. |
+| [Translator](https://github.com/luhaifeng666/obsidian-translator) | This is a plugin for Obsidian to translate selected text. |
+| [echarts](https://github.com/cumany/obsidian-echarts) | Render echarts in obsidian |
