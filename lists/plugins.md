@@ -576,7 +576,7 @@
 | [Function Plot](https://github.com/leonhma/obsidian-functionplot) | Render mathematical functions in a markdown codeblock. |
 | [Note Auto Creator](https://github.com/SimonTC/obsidian-note-autocreation) | Automatically create notes when links are created to them. |
 | [Local Quotes](https://github.com/ka1tzyu/local-quotes) | Collect your quotes from all over the repository and embed them in different locations with refresh delays. |
-| [State Switcher](https://github.com/lijyze/obsidian-state-switcher) | Allow you switch value of specific field within custom value set, so you won't make mistake. |
+| [Yaml Manager](https://github.com/lijyze/obsidian-state-switcher) | Keep you away from directly operating yaml front matter. |
 | [Media DB Plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) | A plugin that can query multiple APIs for movies, series, anime, games, music releases and wiki articles, and import them into your vault. |
 | [Sequence Hotkeys](https://github.com/moolmanruan/obsidian-sequence-hotkeys) | This plugin allows you to set hotkeys with key sequences instead of a single chord. |
 | [Packrat](https://github.com/therden/packrat) | Manage completed instances of recurring tasks that were created and completed using the Tasks plugin. |
@@ -608,3 +608,4 @@
 | [Scroll Speed](https://github.com/flolu/obsidian-scroll-speed) | This plugin allows you to change the scroll speed inside Obsidian notes. |
 | [Translator](https://github.com/luhaifeng666/obsidian-translator) | This is a plugin for Obsidian to translate selected text. |
 | [echarts](https://github.com/cumany/obsidian-echarts) | Render echarts in obsidian |
+| [Diagrams.Net](https://github.com/jensmtg/obsidian-diagrams-net) | Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net embedded editor. |
