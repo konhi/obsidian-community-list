@@ -589,6 +589,7 @@
 | [Obsidian Camera](https://github.com/aldrinjenson/obsidian-camera) | Create and save Snaps or Video Recordings directly from Obsidian-Desktop |
 | [Markbase for Obsidian](https://github.com/markbaseteam/obsidian-markbase) | Official Markbase plugin to share your Obsidian notes online in your own digital garden |
 | [User Plugins](https://github.com/mnowotnik/obsidian-user-plugins) | Use js files or snippets to code your own quick and dirty plugins |
+| [Obsidian Better Internal Link Inserter](https://github.com/salmund/obsidian-better-link-inserter) | Allow to use the selected word as an alias in link suggestion |
 | [Obsidian Ghost Publish](https://github.com/jaynguyens/obsidian-ghost-publish) | Publish to Ghost site with a single click |
 | [Timestamp Notes](https://github.com/juliang22/ObsidianTimestampNotes) | This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from. |
 | [Linkify](https://github.com/matthewhchan/linkify) | Converts matching text into links |
@@ -609,3 +610,6 @@
 | [Translator](https://github.com/luhaifeng666/obsidian-translator) | This is a plugin for Obsidian to translate selected text. |
 | [echarts](https://github.com/cumany/obsidian-echarts) | Render echarts in obsidian |
 | [Diagrams.Net](https://github.com/jensmtg/obsidian-diagrams-net) | Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net embedded editor. |
+| [Weread Plugin](https://github.com/zhaohongxuan/obsidian-weread-plugin) | This is obsidian plugin for Tencent weread. |
+| [PostgreSQL Obsidian](https://github.com/clouedoc/postgresql-obsidian) | Upload your notes' metadata to a PostgreSQL database |
+| [Obsidian Better Internal Link Inserter](https://github.com/salmund/obsidian-better-link-inserter) | Allow to use the selected word as an alias in link suggestion |
