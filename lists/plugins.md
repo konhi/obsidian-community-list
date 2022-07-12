@@ -615,3 +615,9 @@
 | [Obsidian Better Internal Link Inserter](https://github.com/salmund/obsidian-better-link-inserter) | Allow to use the selected word as an alias in link suggestion |
 | [Zotero Link](https://github.com/vanakat/zotero-link) | Obsidian plugin to insert link to Zotero item  |
 | [Obsidian GoLinks](https://github.com/xavdid/obsidian-golinks) | This is a plugin for Obsidian that renders go/links as clickable links. |
+| [Habit Tracker](https://github.com/Narsail/habit-tracker-obsidian) | Display the Habits of a calendar week. |
+| [Typing Transformer](https://github.com/aptend/typing-transformer-obsidian) | Improved, configurable auto formatting as typing |
+| [List Callouts](https://github.com/mgmeyers/obsidian-list-callouts) | Create simple callouts in lists. |
+| [Text Expander JS](https://github.com/jon-heard/obsidian-text-expander-js) | Type text shortcuts that expand into javascript generated text. |
+| [Metadata Menu](https://github.com/mdelobelle/metadatamenu) | Adds options to file and link context menu to change metadatas of the target note. |
+| [TimeDiff plugin](https://github.com/dominiczaq/obsidian-plugin-time-diff) | Calculates and displays diff in hours and minutes between two dates in `timediff` markdown block |
