@@ -130,3 +130,4 @@
 | [MajorEnkidu/red-solitude-obsidian-theme](https://github.com/MajorEnkidu/red-solitude-obsidian-theme) | ![Red Solitude](https://raw.githubusercontent.com/MajorEnkidu/red-solitude-obsidian-theme/master/promo_screenshot.png "") |
 | [mulfok/obsidian-viridian](https://github.com/mulfok/obsidian-viridian) | ![Viridian](https://raw.githubusercontent.com/mulfok/obsidian-viridian/master/cover.png "") |
 | [sspaeti/obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) | ![Kanagawa](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa/master/dark.png "") |
+| [maldonacho/obsidian-encore-theme](https://github.com/maldonacho/obsidian-encore-theme) | ![Encore](https://raw.githubusercontent.com/maldonacho/obsidian-encore-theme/master/images/promo-image.png "") |
