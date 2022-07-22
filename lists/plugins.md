@@ -247,7 +247,6 @@
 | [Find & Replace in Selection](https://github.com/TClark1011/obsidian-find-and-replace-in-selection) | Replace text within your current selection |
 | [Embedded Code Title](https://github.com/tadashi-aikawa/obsidian-embedded-code-title) | This is an Obsidian plugin which can embeds title to code blocks. |
 | [Homepage](https://github.com/mirnovov/obsidian-homepage) | Open a specfied note on startup. |
-| [Plugin Changelogs](https://github.com/phibr0/obsidian-plugin-changelogs) | Read Plugin Changelogs inside Obsidian |
 | [Advanced Mobile Toolbar](https://github.com/phibr0/obsidian-advanced-toolbar) | Enhances the Toolbar for Obsidian Mobile |
 | [Random To-Do](https://github.com/NatiAris/obsidian-random-todo) | Open a random file containing your custom to-do marker, or a random marker at its position. |
 | [Media Extended BiliBili Plugin](https://github.com/aidenlx/mx-bili-plugin) | Add advanced bilibili videos support for Media Extended plugin |
@@ -264,10 +263,8 @@
 | [Longform](https://github.com/kevboh/longform) | A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects. |
 | [Readwise Official](https://github.com/readwiseio/obsidian-readwise) | Official Readwise <-> Obsidian integration. |
 | [Activity Logger](https://github.com/Creling/obsidian-activity-logger) | Log your activities like creating notes, modifying notes, deleting notes and so on. |
-| [Customizable Sidebar](https://github.com/phibr0/obsidian-customizable-sidebar) | This Plugin allows to add any Command to Obsidian's Sidebar Ribbon. |
 | [Toggl Track Integration](https://github.com/mcndt/obsidian-toggl-integration) | Add integration with the Toggl Track API to manage your timers inside Obsidian. |
 | [AidenLx's Folder Note](https://github.com/aidenlx/alx-folder-note) | Add description, summary and more info to folders with folder notes. |
-| [Macros](https://github.com/phibr0/obsidian-macros) | Group multiple Commands into one Macro and set delays. |
 | [Hide Sidebars When Narrow](https://github.com/mybuddymichael/obsidian-hide-sidebars-when-narrow) | Automatically hides the sidebars when your window is narrow. |
 | [Linter](https://github.com/platers/obsidian-linter) | Formats and styles your notes. |
 | [Number Headings](https://github.com/onlyafly/number-headings-obsidian) | Automatically number or re-number headings in an Obsidian document. |
@@ -621,3 +618,6 @@
 | [Text Expander JS](https://github.com/jon-heard/obsidian-text-expander-js) | Type text shortcuts that expand into javascript generated text. |
 | [Metadata Menu](https://github.com/mdelobelle/metadatamenu) | Adds options to file and link context menu to change metadatas of the target note. |
 | [TimeDiff plugin](https://github.com/dominiczaq/obsidian-plugin-time-diff) | Calculates and displays diff in hours and minutes between two dates in `timediff` markdown block |
+| [Trim Whitespace](https://github.com/zlovatt/obsidian-trim-whitespace) | Trims unnecessary whitespace from your Obsidian documents |
+| [Ninja Cursor](https://github.com/vrtmrz/ninja-cursor) | The plugin which enhance cursor visiblity. |
+| [Commander](https://github.com/phibr0/obsidian-commander) | Customize your workspace by adding commands /everywhere/ |
