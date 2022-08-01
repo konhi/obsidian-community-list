@@ -621,3 +621,8 @@
 | [Trim Whitespace](https://github.com/zlovatt/obsidian-trim-whitespace) | Trims unnecessary whitespace from your Obsidian documents |
 | [Ninja Cursor](https://github.com/vrtmrz/ninja-cursor) | The plugin which enhance cursor visiblity. |
 | [Commander](https://github.com/phibr0/obsidian-commander) | Customize your workspace by adding commands /everywhere/ |
+| [Obsidian Attendance](https://github.com/Tiim/obsidian-attendance) | Helps you take attendance directly inside of your notes. |
+| [File Hider](https://github.com/Oliver-Akins/file-hider) | Allows you to hide files and folders from the Obsidian file explorer if you don't want to see them anymore. |
+| [Sidebar Toggler](https://github.com/chrisgrieser/obsidian-sidebar-toggler) | Finer control of the Obsidian sidebars. To be used with an external window manager. |
+| [Path Finder](https://github.com/jerrywcy/obsidian-path-finder) | A plugin that can find all paths between two notes and render them as graph or text. |
+| [Focus and Highlight](https://github.com/nagi1999a/obsidian-focus-plugin) | A plugin for Obsidian that will highlight and focus on the currently selected heading |
