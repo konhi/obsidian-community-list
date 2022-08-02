@@ -68,7 +68,6 @@
 | [tylernguyen/obsidian-horizon](https://github.com/tylernguyen/obsidian-horizon) | ![Horizon](https://raw.githubusercontent.com/tylernguyen/obsidian-horizon/master/assets/preview.png "") |
 | [nikbrunner/obsidian-deep-work-theme](https://github.com/nikbrunner/obsidian-deep-work-theme) | ![Deep Work](https://raw.githubusercontent.com/nikbrunner/obsidian-deep-work-theme/master/screenshot.png "") |
 | [vanadium23/obsidian-blackbird-theme](https://github.com/vanadium23/obsidian-blackbird-theme) | ![Blackbird](https://raw.githubusercontent.com/vanadium23/obsidian-blackbird-theme/master/images/example.png "") |
-| [kinmury/GoldenCoffeeTheme](https://github.com/kinmury/GoldenCoffeeTheme) | ![Golden Coffee](https://raw.githubusercontent.com/kinmury/GoldenCoffeeTheme/master/Screenshots/Showcase.png "") |
 | [Chrismettal/Obsidian-Behave-dark](https://github.com/Chrismettal/Obsidian-Behave-dark) | ![Behave dark](https://raw.githubusercontent.com/Chrismettal/Obsidian-Behave-dark/master/Screenshot.png "") |
 | [SMUsamaShah/Obsidian-Win98-Edition](https://github.com/SMUsamaShah/Obsidian-Win98-Edition) | ![Obsidian Windows 98 Edition](https://raw.githubusercontent.com/SMUsamaShah/Obsidian-Win98-Edition/master/screenshots/main.png "") |
 | [dogwaddle/lizardmen-zettelkasten](https://github.com/dogwaddle/lizardmen-zettelkasten) | ![Lizardmen Zettelkasten](https://raw.githubusercontent.com/dogwaddle/lizardmen-zettelkasten/master/screenshot.png "") |
@@ -89,7 +88,6 @@
 | [mimishahzad/rose-pine-moon-obsidian](https://github.com/mimishahzad/rose-pine-moon-obsidian) | ![Rosé Pine Moon](https://raw.githubusercontent.com/mimishahzad/rose-pine-moon-obsidian/master/assets/template.png "") |
 | [gracejoseph1236/obsidian-ruby](https://github.com/gracejoseph1236/obsidian-ruby) | ![Ruby](https://raw.githubusercontent.com/gracejoseph1236/obsidian-ruby/master/example.png "") |
 | [damiankorcz/Prism-Theme](https://github.com/damiankorcz/Prism-Theme) | ![Prism](https://raw.githubusercontent.com/damiankorcz/Prism-Theme/master/assets/screenshots/Community%20Themes%20Screenshot.png "") |
-| [kinmury/Golden-Book](https://github.com/kinmury/Golden-Book) | ![Golden Book](https://raw.githubusercontent.com/kinmury/Golden-Book/master/Gallery/Gallery1.png "") |
 | [gracejoseph1236/obsidian-carnelian](https://github.com/gracejoseph1236/obsidian-carnelian) | ![Carnelian](https://raw.githubusercontent.com/gracejoseph1236/obsidian-carnelian/master/example.png "") |
 | [selfire1/obsidian-you-theme](https://github.com/selfire1/obsidian-you-theme) | ![Obsidian You](https://raw.githubusercontent.com/selfire1/obsidian-you-theme/master/theme-picker.png "") |
 | [ebullient/obsidian-theme-ebullientworks](https://github.com/ebullient/obsidian-theme-ebullientworks) | ![Ebullientworks](https://raw.githubusercontent.com/ebullient/obsidian-theme-ebullientworks/master/images/ebullientworks-theme.jpg "") |
@@ -103,7 +101,6 @@
 | [curio-heart/obsidian-wyrd](https://github.com/curio-heart/obsidian-wyrd) | ![Wyrd](https://raw.githubusercontent.com/curio-heart/obsidian-wyrd/master/img/Wyrd.png "") |
 | [crashmoney/obsidian-typewriter](https://github.com/crashmoney/obsidian-typewriter) | ![Typewriter](https://raw.githubusercontent.com/crashmoney/obsidian-typewriter/master/cover.jpg "") |
 | [MattWilcox/obsidian-wilcox-one](https://github.com/MattWilcox/obsidian-wilcox-one) | ![WilcoxOne](https://raw.githubusercontent.com/MattWilcox/obsidian-wilcox-one/master/wilcoxonedark.png "") |
-| [kinmury/Alchemy](https://github.com/kinmury/Alchemy) | ![Alchemy](https://raw.githubusercontent.com/kinmury/Alchemy/master/Showcase/ShowcaseF.png "") |
 | [Thiews/Obsidian-Harmonic](https://github.com/Thiews/Obsidian-Harmonic) | ![Harmonic](https://raw.githubusercontent.com/Thiews/Obsidian-Harmonic/master/cover.png "") |
 | [dracula/obsidian](https://github.com/dracula/obsidian) | ![Dracula Official](https://raw.githubusercontent.com/dracula/obsidian/master/screenshot.png "") |
 | [dlccyes/obsidian-nebula](https://github.com/dlccyes/obsidian-nebula) | ![Nebula](https://raw.githubusercontent.com/dlccyes/obsidian-nebula/master/showcase1.png "") |
@@ -131,3 +128,5 @@
 | [mulfok/obsidian-viridian](https://github.com/mulfok/obsidian-viridian) | ![Viridian](https://raw.githubusercontent.com/mulfok/obsidian-viridian/master/cover.png "") |
 | [sspaeti/obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) | ![Kanagawa](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa/master/dark.png "") |
 | [maldonacho/obsidian-encore-theme](https://github.com/maldonacho/obsidian-encore-theme) | ![Encore](https://raw.githubusercontent.com/maldonacho/obsidian-encore-theme/master/images/promo-image.png "") |
+| [kinmury/obsidian-ukiyo](https://github.com/kinmury/obsidian-ukiyo) | ![Ukiyo](https://raw.githubusercontent.com/kinmury/obsidian-ukiyo/master/Showcase.png "") |
+| [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) | ![Mado Miniflow](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-Miniflow/master/cover-light.png "") |
