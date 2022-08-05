@@ -234,7 +234,7 @@
 | [Kroki](https://github.com/gregzuro/obsidian-kroki) | Render Kroki diagrams. |
 | [Timeline](https://github.com/George-debug/obsidian-timeline) | Used to build great timelines |
 | [Map View](https://github.com/esm7/obsidian-map-view) | An interactive map view for your notes. |
-| [Copy Image and URL in Preview](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy Image, Copy URL and Open PDF externally context menu in preview mode |
+| [Copy Image and URL context menu](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy Image, Copy URL and Open PDF externally context menu in reading view (formerly preview mode) |
 | [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) | TTRPG Initiative Tracker for Obsidian.md |
 | [Cursor Location](https://github.com/spslater/obsidian-cursor-location-plugin) | This displays the location of the cursor (character and line number). |
 | [Enhancing mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) | This is a enhancing mindmap plugin for obsidian. You can edit mindmap on markdown. |
@@ -626,3 +626,5 @@
 | [Sidebar Toggler](https://github.com/chrisgrieser/obsidian-sidebar-toggler) | Finer control of the Obsidian sidebars. To be used with an external window manager. |
 | [Path Finder](https://github.com/jerrywcy/obsidian-path-finder) | A plugin that can find all paths between two notes and render them as graph or text. |
 | [Focus and Highlight](https://github.com/nagi1999a/obsidian-focus-plugin) | A plugin for Obsidian that will highlight and focus on the currently selected heading |
+| [File Cooker](https://github.com/ivaneye/obsidian-files-cooker) | Deal batch notes from Search results、current file、Dataview query string... |
+| [Hard Breaks](https://github.com/bkis/obsidian-hard-breaks) | Turn soft line breaks in Markdown into hard line breaks |
