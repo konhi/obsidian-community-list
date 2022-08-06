@@ -615,7 +615,7 @@
 | [Habit Tracker](https://github.com/Narsail/habit-tracker-obsidian) | Display the Habits of a calendar week. |
 | [Typing Transformer](https://github.com/aptend/typing-transformer-obsidian) | Improved, configurable auto formatting as typing |
 | [List Callouts](https://github.com/mgmeyers/obsidian-list-callouts) | Create simple callouts in lists. |
-| [Text Expander JS](https://github.com/jon-heard/obsidian-text-expander-js) | Type text shortcuts that expand into javascript generated text. |
+| [Inline Scripts](https://github.com/jon-heard/obsidian-inline-scripts) | Type text shortcuts which are then replaced with JavaScript generated text. |
 | [Metadata Menu](https://github.com/mdelobelle/metadatamenu) | Adds options to file and link context menu to change metadatas of the target note. |
 | [TimeDiff plugin](https://github.com/dominiczaq/obsidian-plugin-time-diff) | Calculates and displays diff in hours and minutes between two dates in `timediff` markdown block |
 | [Trim Whitespace](https://github.com/zlovatt/obsidian-trim-whitespace) | Trims unnecessary whitespace from your Obsidian documents |
@@ -628,3 +628,5 @@
 | [Focus and Highlight](https://github.com/nagi1999a/obsidian-focus-plugin) | A plugin for Obsidian that will highlight and focus on the currently selected heading |
 | [File Cooker](https://github.com/ivaneye/obsidian-files-cooker) | Deal batch notes from Search results、current file、Dataview query string... |
 | [Hard Breaks](https://github.com/bkis/obsidian-hard-breaks) | Turn soft line breaks in Markdown into hard line breaks |
+| [Open Related Url](https://github.com/dpickett/open-related-url) | Opens URLs found in a note's YAML frontmatter |
+| [PodNotes](https://github.com/chhoumann/podnotes) | Write notes on podcasts with ease. |
