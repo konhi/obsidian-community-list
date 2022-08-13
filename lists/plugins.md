@@ -265,7 +265,7 @@
 | [Activity Logger](https://github.com/Creling/obsidian-activity-logger) | Log your activities like creating notes, modifying notes, deleting notes and so on. |
 | [Toggl Track Integration](https://github.com/mcndt/obsidian-toggl-integration) | Add integration with the Toggl Track API to manage your timers inside Obsidian. |
 | [AidenLx's Folder Note](https://github.com/aidenlx/alx-folder-note) | Add description, summary and more info to folders with folder notes. |
-| [Hide Sidebars When Narrow](https://github.com/mybuddymichael/obsidian-hide-sidebars-when-narrow) | Automatically hides the sidebars when your window is narrow. |
+| [Hide Sidebars on Window Resize](https://github.com/NomarCub/obsidian-hide-sidebars-on-window-resize) | Automatically hides the sidebars when your window is narrow on window resize |
 | [Linter](https://github.com/platers/obsidian-linter) | Formats and styles your notes. |
 | [Number Headings](https://github.com/onlyafly/number-headings-obsidian) | Automatically number or re-number headings in an Obsidian document. |
 | [Force note view mode by front matter](https://github.com/bwydoogh/obsidian-force-view-mode-of-note) | This plugin allows to force the view mode for a note by using front matter: YAML block with 'obsidian_ui_mode' as key. |
@@ -284,7 +284,7 @@
 | [Tag Page Preview](https://github.com/aidurber/tag-page-preview) | Clicking a tag opens a dialog listing pages that use that tag |
 | [Relative Find](https://github.com/phibr0/obsidian-relative-find) | This Plugin lets you search relative to your Cursor Position. |
 | [Obsidian Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit) | When you click an image, it will be displayed in a popup layer and you can view, drag, zoom, rotate the image. |
-| [Shell commands](https://github.com/Taitava/obsidian-shellcommands) | You can predefine system commands that you want to run frequently, and assign hotkeys for them. For example open external applications. |
+| [Shell commands](https://github.com/Taitava/obsidian-shellcommands) | Define system commands that you want to execute via command palette, hotkeys, URI links or automated events. E.g. open external applications or perform automated file modifications. |
 | [Hover External Link](https://github.com/jamiebrynes7/obsidian-hover-external-link) | Hover on external links to see the destination URL. |
 | [CodeMirror Options](https://github.com/nothingislost/obsidian-codemirror-options) | Enhance Obsidian's desktop edit mode with features such as WYSIWYG / Live Preview, Syntax Highlighting, and more. |
 | [Code Block Enhancer](https://github.com/nyable/obsidian-code-block-enhancer) | Enhance obsidian markdown code block,provides copy button,linenumber,language name tip and so on. |
@@ -630,3 +630,10 @@
 | [Hard Breaks](https://github.com/bkis/obsidian-hard-breaks) | Turn soft line breaks in Markdown into hard line breaks |
 | [Open Related Url](https://github.com/dpickett/open-related-url) | Opens URLs found in a note's YAML frontmatter |
 | [PodNotes](https://github.com/chhoumann/podnotes) | Write notes on podcasts with ease. |
+| [Meeting notes](https://github.com/TimHi/obsidian-meeting-notes) | Automatically create meeting notes in a specified folder. |
+| [Tagged Documents Viewer](https://github.com/mgeduld/obsidian-tagged-documents-viewer) | Opens a modal with scrollable content of all documents that contain a specific tag or tags. |
+| [Simple Note Review](https://github.com/dartungar/obsidian-simple-note-review) | Simple, customizable plugin for easy note review, resurfacing  & repetition. |
+| [Better Inline Fields](https://github.com/dsarman/better-inline-fields) | Enhances Dataview style inline fields |
+| [No Dupe Leaves](https://github.com/scambier/obsidian-no-dupe-leaves) | Don't reopen notes that are already open |
+| [Open File by Magic Date](https://github.com/simplgy/obsidian-open-file-by-magic-date) | Define a hotkey and Moment.js pattern for the file that is most important to you (eg: your daily/weekly/monthly note). |
+| [Heading Shifter](https://github.com/k4a-dev/obsidian-heading-shifter) | Easily Shift and Change markdown headings. |
