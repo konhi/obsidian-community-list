@@ -637,3 +637,4 @@
 | [No Dupe Leaves](https://github.com/scambier/obsidian-no-dupe-leaves) | Don't reopen notes that are already open |
 | [Open File by Magic Date](https://github.com/simplgy/obsidian-open-file-by-magic-date) | Define a hotkey and Moment.js pattern for the file that is most important to you (eg: your daily/weekly/monthly note). |
 | [Heading Shifter](https://github.com/k4a-dev/obsidian-heading-shifter) | Easily Shift and Change markdown headings. |
+| [Group Snippets](https://github.com/Mara-Li/obsidian-group-snippets) | Create folder of snippets to activate them in one click ! |
