@@ -355,7 +355,6 @@
 | [Tabout](https://github.com/phibr0/obsidian-tabout) | Easily 'tab out' of Links or other Markdown Formatting Characters. |
 | [Pipe tricks](https://github.com/marcusolsson/obsidian-pipe-tricks) | Add support for Wikilink pipe tricks. |
 | [Fantasy Calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) | Fantasy calendars in Obsidian! |
-| [Pikt](https://github.com/arnau/obsidian-pikt) | An obsidian plugin to render pikchr codeblocks  |
 | [Improved VimCursor](https://github.com/hhhapz/improved-obsidian-vimcursor) | An improved experience with the cursor in obsidian |
 | [Quote of the Day](https://github.com/twentytwokhz/quote-of-the-day) | Inserts random quotes in the editor |
 | [Audio Speed Plugin](https://github.com/kaizau/obsidian-audio-speed-plugin) | Change the playback rate of audio files during markdown preview. |
@@ -403,7 +402,7 @@
 | [Theme Design Utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) | Some utilities and Quality-of-Life features for designers of Obsidian themes. |
 | [Generic Initiative Tracker](https://github.com/beaushinkle/obsidian-generic-initiative-tracker) | TTRPG Generic Initiative Tracker |
 | [AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) | Yet Another Anki Bridge. Focuses on a strict grammar and integrity of your data |
-| [Tressel Sync for Obsidian](https://github.com/aseem-thakar/obsidian-tressel) | Official Tressel plugin to sync/export your tweets and threads into Obsidian |
+| [Tressel Sync for Obsidian](https://github.com/tresselteam/obsidian-tressel) | Official Tressel plugin to sync/export your tweets and threads into Obsidian |
 | [Second Window](https://github.com/valentine195/obsidian-image-window) | Allow images & notes to be viewed in new Obsidian windows. |
 | [Text to Speech](https://github.com/joethei/obsidian-tts) | Text to speech for Obsidian. Hear your notes. |
 | [Link Favicons](https://github.com/joethei/obsidian-link-favicon) | See the favicon for a linked website. |
@@ -572,7 +571,7 @@
 | [Bellboy](https://github.com/shakedlokits/obsidian-bellboy) | Opinionated file structure manager. |
 | [Function Plot](https://github.com/leonhma/obsidian-functionplot) | Render mathematical functions in a markdown codeblock. |
 | [Note Auto Creator](https://github.com/SimonTC/obsidian-note-autocreation) | Automatically create notes when links are created to them. |
-| [Local Quotes](https://github.com/ka1tzyu/local-quotes) | Collect your quotes from all over the repository and embed them in different locations with refresh delays. |
+| [Local Quotes](https://github.com/decatetsu/local-quotes) | Collect your quotes from all over the repository and embed them in different locations with refresh delays. |
 | [Yaml Manager](https://github.com/lijyze/obsidian-state-switcher) | Keep you away from directly operating yaml front matter. |
 | [Media DB Plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) | A plugin that can query multiple APIs for movies, series, anime, games, music releases and wiki articles, and import them into your vault. |
 | [Sequence Hotkeys](https://github.com/moolmanruan/obsidian-sequence-hotkeys) | This plugin allows you to set hotkeys with key sequences instead of a single chord. |
