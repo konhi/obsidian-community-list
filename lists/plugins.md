@@ -583,7 +583,7 @@
 | [Booksidian](https://github.com/MichaBrugger/booksidian_plugin) | A plugin to connect your Goodreads shelves to your Obsidian vault. |
 | [Simple Dice Roller](https://github.com/yeeshue99/SimpleDiceRoller) | A plug and play solution that allows you to average and simulate dice formulas. |
 | [Obsidian Camera](https://github.com/aldrinjenson/obsidian-camera) | Create and save Snaps or Video Recordings directly from Obsidian-Desktop |
-| [Markbase for Obsidian](https://github.com/markbaseteam/obsidian-markbase) | Official Markbase plugin to share your Obsidian notes online in your own digital garden |
+| [Markbase for Obsidian](https://github.com/markbase-obsidian/obsidian-markbase) | Official Markbase plugin to share your Obsidian notes online in your own digital garden |
 | [User Plugins](https://github.com/mnowotnik/obsidian-user-plugins) | Use js files or snippets to code your own quick and dirty plugins |
 | [Obsidian Better Internal Link Inserter](https://github.com/salmund/obsidian-better-link-inserter) | Allow to use the selected word as an alias in link suggestion |
 | [Obsidian Ghost Publish](https://github.com/jaynguyens/obsidian-ghost-publish) | Publish to Ghost site with a single click |
