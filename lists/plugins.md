@@ -369,7 +369,7 @@
 | [Tweet to Markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) | Save tweets as Markdown files, along with their images, polls, etc. |
 | [Habitica Sync](https://github.com/SuperChamp234/habitica-sync) | This plugin helps integrate Habitica user tasks and stats into Obsidian |
 | [Oura Plugin for Obsidian](https://github.com/kinabalu/obsidian-oura-plugin) | A plugin for importing oura ring data into a note |
-| [Metacopy](https://github.com/Mara-Li/obsidian-metacopy) | Copy the value of a frontmatter key. |
+| [Metacopy](https://github.com/Lisandra-dev/obsidian-metacopy) | Copy the value of a frontmatter key. |
 | [Image Caption](https://github.com/bicarlsen/obsidian_image_caption) | Add caption to images. |
 | [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) | Find hidden connections between notes in your vault using cool graph algorithms |
 | [Custom Attachment Location](https://github.com/RainCat1998/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like typora. |
@@ -537,7 +537,7 @@
 | [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) | Rename image after pasting, support name pattern and auto renaming. |
 | [Scroll Offset](https://github.com/lijyze/scroll-offset) | Preserve custom distances before or after cursor. |
 | [Obsius Publish](https://github.com/jonstodle/obsius-obsidian-plugin) | Make single notes instantly available on the web. |
-| [Snippet Downloader](https://github.com/Mara-Li/obsidian-snippet-downloader) | A obsidian's plugin to help to manage css snippets (download / update) from repository |
+| [Snippet Downloader](https://github.com/Lisandra-dev/obsidian-snippet-downloader) | A obsidian's plugin to help to manage css snippets (download / update) from repository |
 | [Execute Code](https://github.com/twibiral/obsidian-execute-code) | Allows to execute code snippets within a note. |
 | [Obsidian Badge](https://github.com/linjunpop/obsidian-badge) | This is a plugin to show badge for Obsidian. |
 | [Korean Book Info Plugin](https://github.com/kmsk99/kr-book-info-plugin) | A plugin that crawls Yes24 to get book information. |
@@ -636,4 +636,4 @@
 | [No Dupe Leaves](https://github.com/scambier/obsidian-no-dupe-leaves) | Don't reopen notes that are already open |
 | [Open File by Magic Date](https://github.com/simplgy/obsidian-open-file-by-magic-date) | Define a hotkey and Moment.js pattern for the file that is most important to you (eg: your daily/weekly/monthly note). |
 | [Heading Shifter](https://github.com/k4a-dev/obsidian-heading-shifter) | Easily Shift and Change markdown headings. |
-| [Group Snippets](https://github.com/Mara-Li/obsidian-group-snippets) | Create folder of snippets to activate them in one click ! |
+| [Group Snippets](https://github.com/Lisandra-dev/obsidian-group-snippets) | Create folder of snippets to activate them in one click ! |
