@@ -638,3 +638,4 @@
 | [Heading Shifter](https://github.com/k4a-dev/obsidian-heading-shifter) | Easily Shift and Change markdown headings. |
 | [Group Snippets](https://github.com/Lisandra-dev/obsidian-group-snippets) | Create folder of snippets to activate them in one click ! |
 | [Raindrop Highlights](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin) | Sync your Raindrop.io highlights. |
+| [Note Linker](https://github.com/AlexW00/obsidian-note-linker) | Automatically find and create new links between notes. |

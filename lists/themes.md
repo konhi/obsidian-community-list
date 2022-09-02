@@ -3,7 +3,7 @@
 | [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom) | ![Atom](https://raw.githubusercontent.com/kognise/obsidian-atom/master/screenshot-hybrid.png "") |
 | [cotemaxime/obsidian-amethyst](https://github.com/cotemaxime/obsidian-amethyst) | ![Amethyst](https://raw.githubusercontent.com/cotemaxime/obsidian-amethyst/master/screenshot.png "") |
 | [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox) | ![Obsidian gruvbox](https://raw.githubusercontent.com/insanum/obsidian_gruvbox/master/dark.png "") |
-| [insanum/obsidian_nord](https://github.com/insanum/obsidian_nord) | ![Obsidian Nord](https://raw.githubusercontent.com/insanum/obsidian_nord/master/screen.png "") |
+| [insanum/obsidian_nord](https://github.com/insanum/obsidian_nord) | ![Obsidian Nord](https://raw.githubusercontent.com/insanum/obsidian_nord/master/dark.png "") |
 | [jarodise/Dracula-for-Obsidian.md](https://github.com/jarodise/Dracula-for-Obsidian.md) | ![Dracula for Obsidian](https://raw.githubusercontent.com/jarodise/Dracula-for-Obsidian.md/master/screencap.jpg "") |
 | [dogwaddle/obsidian-gastown-theme.md](https://github.com/dogwaddle/obsidian-gastown-theme.md) | ![Gastown](https://raw.githubusercontent.com/dogwaddle/obsidian-gastown-theme.md/master/ObsidianOne.png "") |
 | [deathau/80s-Neon-for-Obsidian.md](https://github.com/deathau/80s-Neon-for-Obsidian.md) | ![80s Neon](https://raw.githubusercontent.com/deathau/80s-Neon-for-Obsidian.md/master/screenshot.jpg "") |
