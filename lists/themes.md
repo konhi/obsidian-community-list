@@ -130,3 +130,4 @@
 | [maldonacho/obsidian-encore-theme](https://github.com/maldonacho/obsidian-encore-theme) | ![Encore](https://raw.githubusercontent.com/maldonacho/obsidian-encore-theme/master/images/promo-image.png "") |
 | [kinmury/obsidian-ukiyo](https://github.com/kinmury/obsidian-ukiyo) | ![Ukiyo](https://raw.githubusercontent.com/kinmury/obsidian-ukiyo/master/Showcase.png "") |
 | [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) | ![Mado Miniflow](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-Miniflow/master/cover-light.png "") |
+| [luke-rmaki/silence-obsidian](https://github.com/luke-rmaki/silence-obsidian) | ![Silence](https://raw.githubusercontent.com/luke-rmaki/silence-obsidian/master/Screenshot.png "") |
