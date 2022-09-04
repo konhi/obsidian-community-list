@@ -72,7 +72,7 @@
 | [SMUsamaShah/Obsidian-Win98-Edition](https://github.com/SMUsamaShah/Obsidian-Win98-Edition) | ![Obsidian Windows 98 Edition](https://raw.githubusercontent.com/SMUsamaShah/Obsidian-Win98-Edition/master/screenshots/main.png "") |
 | [dogwaddle/lizardmen-zettelkasten](https://github.com/dogwaddle/lizardmen-zettelkasten) | ![Lizardmen Zettelkasten](https://raw.githubusercontent.com/dogwaddle/lizardmen-zettelkasten/master/screenshot.png "") |
 | [firinael/obsidian-cidreira-coast-theme](https://github.com/firinael/obsidian-cidreira-coast-theme) | ![Cidreira Coast](https://raw.githubusercontent.com/firinael/obsidian-cidreira-coast-theme/master/screenshot.png "") |
-| [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) | ![Shimmering Focus](https://raw.githubusercontent.com/chrisgrieser/shimmering-focus/master/docs/images/Promo%2520Screenshot/promo-screenshot.png "") |
+| [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) | ![Shimmering Focus](https://raw.githubusercontent.com/chrisgrieser/shimmering-focus/master/assets/promo-screenshot.png "") |
 | [lazercaveman/obsidian-firefly-theme](https://github.com/lazercaveman/obsidian-firefly-theme) | ![Firefly](https://raw.githubusercontent.com/lazercaveman/obsidian-firefly-theme/master/firefly-theme-screenshot.png "") |
 | [cybeerboy/Deep-for-Obsidian](https://github.com/cybeerboy/Deep-for-Obsidian) | ![Deep](https://raw.githubusercontent.com/cybeerboy/Deep-for-Obsidian/master/screenshot.png "") |
 | [zacharyc/purple-owl-theme](https://github.com/zacharyc/purple-owl-theme) | ![Purple Owl](https://raw.githubusercontent.com/zacharyc/purple-owl-theme/master/purple-owl-theme.png "") |

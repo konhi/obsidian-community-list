@@ -490,7 +490,7 @@
 | [Bible Linker](https://github.com/kuchejak/obsidian-bible-linker-plugin) | Link multiple bible verses easily |
 | [Obsidian CircuitJS](https://github.com/StevenGann/obsidian-circuitjs) | Embeds CircuitJS circuit simulations into notes |
 | [Creases](https://github.com/liamcain/obsidian-creases) | Tools for effectively folding markdown sections in Obsidian |
-| [Kobo Highlights Importer](https://github.com/bitwiseops/obsidian-kobo-highlights-import) | Import highlights from Kobo devices |
+| [Kobo Highlights Importer](https://github.com/OGKevin/obsidian-kobo-highlights-import) | Import highlights from Kobo devices |
 | [Obsidian Dynamic Embed](https://github.com/dybrawin/obsidian-dynamic-embed) | Embed snippets, templates and any linkable by delegating the current scope to the embedded file, treating it as content instead of a reference. |
 | [Publish to Steemit](https://github.com/anpigon/obsidian-steemit-plugin) | A plugin for publishing Obsidian documents to Steemit. |
 | [Kindle Export](https://github.com/SimeonLukas/obsidian-kindle-export) | Export your notes to your Kindle, including embedded notes and images. |
@@ -635,7 +635,9 @@
 | [Better Inline Fields](https://github.com/dsarman/better-inline-fields) | Enhances Dataview style inline fields |
 | [No Dupe Leaves](https://github.com/scambier/obsidian-no-dupe-leaves) | Don't reopen notes that are already open |
 | [Open File by Magic Date](https://github.com/simplgy/obsidian-open-file-by-magic-date) | Define a hotkey and Moment.js pattern for the file that is most important to you (eg: your daily/weekly/monthly note). |
-| [Heading Shifter](https://github.com/k4a-dev/obsidian-heading-shifter) | Easily Shift and Change markdown headings. |
+| [Heading Shifter](https://github.com/k4a-l/obsidian-heading-shifter) | Easily Shift and Change markdown headings. |
 | [Group Snippets](https://github.com/Lisandra-dev/obsidian-group-snippets) | Create folder of snippets to activate them in one click ! |
 | [Raindrop Highlights](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin) | Sync your Raindrop.io highlights. |
 | [Note Linker](https://github.com/AlexW00/obsidian-note-linker) | Automatically find and create new links between notes. |
+| [Dashing Cursor](https://github.com/9r0x/obsidian-dashing-cursor) | Enables dashing cursor that follows the page scroll |
+| [Embedded Note Paths](https://github.com/b0o/obsidian-embedded-note-paths) | Inserts the note file path above each note. |
