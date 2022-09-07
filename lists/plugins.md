@@ -2,7 +2,7 @@
 | ------- | ------------- |
 | [Natural Language Dates](https://github.com/argenos/nldates-obsidian) | Create date-links based on natural language |
 | [Hotkeys++](https://github.com/argenos/hotkeysplus-obsidian) | Additional hotkeys to do common things in Obsidian |
-| [Obsidian Git](https://github.com/denolehov/obsidian-git) | Backup your vault with git. |
+| [Obsidian Git](https://github.com/denolehov/obsidian-git) | Backup your vault with Git |
 | [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection) | Paste URL "into" selected text. |
 | [Sliding Panes (Andy Matuschak Mode)](https://github.com/deathau/sliding-panes-obsidian) | Sliding Panes (Andy Matuschak Mode) as a plugin |
 | [Show Whitespace](https://github.com/deathau/cm-show-whitespace-obsidian) | Show whitespace in the editor |
@@ -615,7 +615,7 @@
 | [Typing Transformer](https://github.com/aptend/typing-transformer-obsidian) | Improved, configurable auto formatting as typing |
 | [List Callouts](https://github.com/mgmeyers/obsidian-list-callouts) | Create simple callouts in lists. |
 | [Inline Scripts](https://github.com/jon-heard/obsidian-inline-scripts) | Type text shortcuts which are then replaced with JavaScript generated text. |
-| [Metadata Menu](https://github.com/mdelobelle/metadatamenu) | Adds options to file and link context menu to change metadatas of the target note. |
+| [Metadata Menu](https://github.com/mdelobelle/metadatamenu) | For data quality enthusiasts and dataview users: access and manage the metadata of your notes |
 | [TimeDiff plugin](https://github.com/dominiczaq/obsidian-plugin-time-diff) | Calculates and displays diff in hours and minutes between two dates in `timediff` markdown block |
 | [Trim Whitespace](https://github.com/zlovatt/obsidian-trim-whitespace) | Trims unnecessary whitespace from your Obsidian documents |
 | [Ninja Cursor](https://github.com/vrtmrz/ninja-cursor) | The plugin which enhance cursor visiblity. |
@@ -641,3 +641,10 @@
 | [Note Linker](https://github.com/AlexW00/obsidian-note-linker) | Automatically find and create new links between notes. |
 | [Dashing Cursor](https://github.com/9r0x/obsidian-dashing-cursor) | Enables dashing cursor that follows the page scroll |
 | [Embedded Note Paths](https://github.com/b0o/obsidian-embedded-note-paths) | Inserts the note file path above each note. |
+| [QuickShare](https://github.com/mcndt/obsidian-quickshare) | Securely share your Obsidian notes with one click. Notes are end-to-end encrypted. No API keys or configuration required. |
+| [RPG Manager](https://github.com/carlonicora/obsidian-rpg-manager) | Tabletop role playing game campaign manager. |
+| [Literate Haskell](https://github.com/jajaperson/obsidian-literate-haskell) | An obsidian plugin for integrating `.lhs` files into your PKM. |
+| [Embed Code File](https://github.com/almariah/embed-code-file) | Embed code file from vault using code blocks |
+| [Bulk Rename](https://github.com/OlegLustenko/obsidian-bulk-rename) | Now You Can Rename Files Based On Pattern |
+| [Agile Task Notes](https://github.com/BoxThatBeat/obsidian-agile-task-notes) | Import your tasks from your TFS (Azure or Jira) to take notes on them and make todo-lists! |
+| [New Tab Default Page](https://github.com/chrisgrieser/new-tab-default-page) | Open a note of your choice when creating a new tab, like in the browser. |
