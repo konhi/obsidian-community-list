@@ -648,3 +648,4 @@
 | [Bulk Rename](https://github.com/OlegLustenko/obsidian-bulk-rename) | Now You Can Rename Files Based On Pattern |
 | [Agile Task Notes](https://github.com/BoxThatBeat/obsidian-agile-task-notes) | Import your tasks from your TFS (Azure or Jira) to take notes on them and make todo-lists! |
 | [New Tab Default Page](https://github.com/chrisgrieser/new-tab-default-page) | Open a note of your choice when creating a new tab, like in the browser. |
+| [Open In Other Editor](https://github.com/yekingyan/obsidian-open-in-other-editor) | Open current active file in gVim or VScode. |
