@@ -648,3 +648,11 @@
 | [Agile Task Notes](https://github.com/BoxThatBeat/obsidian-agile-task-notes) | Import your tasks from your TFS (Azure or Jira) to take notes on them and make todo-lists! |
 | [New Tab Default Page](https://github.com/chrisgrieser/new-tab-default-page) | Open a note of your choice when creating a new tab, like in the browser. |
 | [Open In Other Editor](https://github.com/yekingyan/obsidian-open-in-other-editor) | Open current active file in gVim or VScode. |
+| [Simple Mention](https://github.com/der-tobi/obsidian-simple-mention) | Get highlighted mentions and mention suggestions. Find all occurrences of a mention |
+| [Auto Hide](https://github.com/skelato1/obsidian-auto-hide) | Collapse sidebars when clicking on the editor/viewer panel |
+| [Janitor](https://github.com/Canna71/obsidian-janitor) | Performs cleanup tasks on the Obsidian vault |
+| [Script Launcher](https://github.com/AlessandroRuggiero/script-launcher) | This plugin allows you to launch scripts from the Obsidian app. You can add scripts shortcuts on your bottom bar and launch them with just one click! |
+| [Party🎉](https://github.com/shap-po/obsidian-party) | An implementation of party.js for Obsidian. Create confetti & sparkles in your notes! |
+| [Day and Night](https://github.com/CyberT17/obsidian-day-and-night) | An Obsidian plugin to automatically toggle themes between day theme and night theme on a set time schedule. |
+| [TikZJax](https://github.com/artisticat1/obsidian-tikzjax) | Render LaTeX and TikZ diagrams in your notes. |
+| [Todoist completed tasks](https://github.com/Ledaryy/obsidian-todoist-completed-tasks) | Fetches completed tasks from todoist API and adds them to the Obsidian note. |
