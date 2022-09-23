@@ -530,7 +530,7 @@
 | [Better CodeBlock](https://github.com/stargrey/obsidian-better-codeblock) | Add title, line numbers, and collapse button to code blocks in reading view |
 | [Obsidian Wordnik Definitions](https://github.com/lizard-heart/obsidian-wordnik-definitions) | Grabs information from Wordnik for a topic and brings it into Obsidian notes |
 | [Typing speed](https://github.com/supercip971/obsidian-typing-speed) | A plugin for showing the current typing speed in the status bar |
-| [Obsidian Google Tasks](https://github.com/YukiGasai/obsidian-google-tasks) | Interact with your Google Tasks from inside Obsidian |
+| [Google Tasks](https://github.com/YukiGasai/obsidian-google-tasks) | Interact with your Google Tasks from inside Obsidian |
 | [Obsidian jTab](https://github.com/davfive/obsidian-jtab) | Add guitar chords and tabs to your notes with jTab codeblocks |
 | [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) | Helps you find books and create notes. |
 | [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) | Rename image after pasting, support name pattern and auto renaming. |
@@ -656,3 +656,7 @@
 | [Day and Night](https://github.com/CyberT17/obsidian-day-and-night) | An Obsidian plugin to automatically toggle themes between day theme and night theme on a set time schedule. |
 | [TikZJax](https://github.com/artisticat1/obsidian-tikzjax) | Render LaTeX and TikZ diagrams in your notes. |
 | [Todoist completed tasks](https://github.com/Ledaryy/obsidian-todoist-completed-tasks) | Fetches completed tasks from todoist API and adds them to the Obsidian note. |
+| [Quick snippets and navigation](https://github.com/aciq/obsidian-keyboard-shortcuts) | Keyboard navigation up/down for headings
+- Configurable default code block and callout
+- Copy code block via keyboard shortcut |
+| [Google Calendar](https://github.com/YukiGasai/obsidian-google-calendar) | Interact with your Google Calendar from inside Obsidian |
