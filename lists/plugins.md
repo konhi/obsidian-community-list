@@ -660,3 +660,4 @@
 - Configurable default code block and callout
 - Copy code block via keyboard shortcut |
 | [Google Calendar](https://github.com/YukiGasai/obsidian-google-calendar) | Interact with your Google Calendar from inside Obsidian |
+| [Copy Search URL](https://github.com/czottmann/obsidian-copy-search-url) | Adds a button to the search view for copying the Obsidian search URL. |
