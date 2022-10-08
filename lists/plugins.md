@@ -662,3 +662,5 @@
 | [Google Calendar](https://github.com/YukiGasai/obsidian-google-calendar) | Interact with your Google Calendar from inside Obsidian |
 | [Copy Search URL](https://github.com/czottmann/obsidian-copy-search-url) | Adds a button to the search view for copying the Obsidian search URL. |
 | [Super Simple Time Tracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker) | Multi-purpose time trackers for your notes! |
+| [Blockquote Levels](https://github.com/czottmann/obsidian-blockquote-levels) | Adds commands for increasing/decreasing the blockquote level of the current line or selection(s). |
+| [System Theme](https://github.com/jgauth/obsidian-system-theme) | Plugin to automatically update to system theme. |
