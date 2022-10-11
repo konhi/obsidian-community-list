@@ -664,3 +664,4 @@
 | [Super Simple Time Tracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker) | Multi-purpose time trackers for your notes! |
 | [Blockquote Levels](https://github.com/czottmann/obsidian-blockquote-levels) | Adds commands for increasing/decreasing the blockquote level of the current line or selection(s). |
 | [System Theme](https://github.com/jgauth/obsidian-system-theme) | Plugin to automatically update to system theme. |
+| [Custom File Explorer sorting](https://github.com/SebastianMC/obsidian-custom-sort) | Allows for manual and automatic, config-driven reordering and sorting of files and folders in File Explorer |
