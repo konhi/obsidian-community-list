@@ -665,3 +665,10 @@
 | [Blockquote Levels](https://github.com/czottmann/obsidian-blockquote-levels) | Adds commands for increasing/decreasing the blockquote level of the current line or selection(s). |
 | [System Theme](https://github.com/jgauth/obsidian-system-theme) | Plugin to automatically update to system theme. |
 | [Custom File Explorer sorting](https://github.com/SebastianMC/obsidian-custom-sort) | Allows for manual and automatic, config-driven reordering and sorting of files and folders in File Explorer |
+| [Table Generator](https://github.com/quorafind/obsidian-table-generator) | A plugin for generate markdown table quickly like Typora. |
+| [Aosr](https://github.com/linanwx/aosr) | Another obsidian spaced repetition. It uses flashcards to help review and remember knowledge. |
+| [Meta Bind Plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) | This plugin can create input fields inside your notes and bind them to metadata fields. |
+| [Micro.publish](https://github.com/otaviocc/obsidian-microblog) | Publish notes to Micro.blog. |
+| [Sakana Widget](https://github.com/Quorafind/obsidian-sakana-widget) | Add the Sakana! Widget to your own Obsidian! |
+| [Min Width](https://github.com/doitian/obsidian-min-width) | Set the Minimum Width of the Active Pane. |
+| [Onyx Boox Annotation & Highlight Extractor](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor) | This plugin extracts annotations and highlights files exported from Onyx Boox tablets, and converts them to reference, literature and permanent notes fitting to the Zettelkasten method. |
