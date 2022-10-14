@@ -382,7 +382,6 @@
 | [Bible Reference](https://github.com/tim-hub/obsidian-bible-reference) | Taking Bible Study note in Obsidian.md application easily. Automatically suggesting Bible Verses as references. |
 | [Sentence Navigator](https://github.com/timhor/obsidian-sentence-navigator) | Manipulate sentences as a unit of movement |
 | [Language Translator](https://github.com/twentytwokhz/language-translator) | An Obsidian plugin to translate selected text in the desired language. |
-| [Customizable Page Header and Title Bar](https://github.com/kometenstaub/customizable-page-header-buttons) | Add buttons for executing commands to the page header and the title bar (on desktop). |
 | [Auto Class](https://github.com/OfficerHalf/obsidian-auto-class) | Automatically apply CSS classes to markdown views based on a note's path. |
 | [Obsidian Cloudinary Uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) | Upload pasted images from your clipboard to Cloudinary |
 | [RSS Reader](https://github.com/joethei/obsidian-rss) | Read articles from RSS feeds and incorporate them into your notes |
