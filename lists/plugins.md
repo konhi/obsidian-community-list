@@ -152,7 +152,6 @@
 | [Tracker](https://github.com/pyrochlore/obsidian-tracker) | Tracks occurrences and numbers in your notes |
 | [Hotkeys for templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) | Add hotkeys to insert specific templates |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Offers controls for adjusting theme, plugin, and snippet CSS variables |
-| [Embedded Note Titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) | Inserts the note file name as an H1 heading above each note |
 | [Advanced Obsidian URI](https://github.com/Vinzent03/obsidian-advanced-uri) | Advanced modes for Obsidian URI |
 | [Fountain](https://github.com/Darakah/obsidian-fountain) | Fountain Support for Obsidian |
 | [Word Splitting for Simplified Chinese in Edit Mode](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting |
