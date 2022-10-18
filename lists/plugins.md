@@ -498,7 +498,7 @@
 | [Extract PDF Annotations](https://github.com/munach/obsidian-extract-pdf-annotations) | Extract PDF Annotations (Notes and Highlights) and sort them by topics |
 | [File Cleaner](https://github.com/Johnson0907/obsidian-file-cleaner) | Help you to clean empty files and unused attachments in the vault. |
 | [Card View Switcher](https://github.com/qawatake/obsidian-card-view-switcher-plugin) | Quick switcher with card view |
-| [Novel Word Count](https://github.com/isaaclyman/novel-word-count-obsidian) | Displays a word or page count for each file, folder and vault in the File Explorer pane. |
+| [Novel Word Count](https://github.com/isaaclyman/novel-word-count-obsidian) | Displays a word count, page count, creation date, or other statistic for each file, folder and vault in the File Explorer pane. |
 | [Navigate Cursor History](https://github.com/heycalmdown/navigate-cursor-history) | This plugin remembers the recent cursor positions history and allows you to jump to them back and forth like VSCode |
 | [Obsidian matrix](https://github.com/NastyGamer/obsidian-matrix) | Utility to easily create LaTeX matrices |
 | [Waypoint](https://github.com/IdreesInc/Waypoint) | Easily generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags! |

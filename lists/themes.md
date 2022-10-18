@@ -131,3 +131,4 @@
 | [kinmury/obsidian-ukiyo](https://github.com/kinmury/obsidian-ukiyo) | ![Ukiyo](https://raw.githubusercontent.com/kinmury/obsidian-ukiyo/master/Showcase.png "") |
 | [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) | ![Mado Miniflow](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-Miniflow/master/cover-light.png "") |
 | [luke-rmaki/silence-obsidian](https://github.com/luke-rmaki/silence-obsidian) | ![Silence](https://raw.githubusercontent.com/luke-rmaki/silence-obsidian/master/Screenshot.png "") |
+| [erykwalder/dayspring-theme](https://github.com/erykwalder/dayspring-theme) | ![Dayspring](https://raw.githubusercontent.com/erykwalder/dayspring-theme/master/screenshots/thumbnail.png "") |
