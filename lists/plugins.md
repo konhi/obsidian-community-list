@@ -522,9 +522,9 @@
 | [AsciiDoc Blocks Plugin](https://github.com/juracy/obsidian-asciidoc-blocks) | A plugin to render asciidoc blocks in Obsidian, initially asciidoc tables. |
 | [Fleeting Notes Sync](https://github.com/fleetingnotes/fleeting-notes-obsidian) | This is a plugin to sync Fleeting Notes with Obsidian |
 | [Chat View](https://github.com/adifyr/obsidian-chat-view) | Chat View lets you quickly and easily create elegant Chat UIs in your Markdown Files. |
-| [Doubleshift](https://github.com/qwyntex/doubleshift) | Open the command palette by pressing Double Shift like in IntelliJ |
+| [Doubleshift](https://github.com/qwyntex/doubleshift) | Open the command palette by pressing Shift (or any other key) twice like in IntelliJ and create your own shortcuts |
 | [List Modified](https://github.com/franciskafieh/obsidian-list-modified) | A simple obsidian plugin that links all modified files meeting certain criteria to a daily note |
-| [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX math as fast as handwriting |
+| [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, and editor enhancements |
 | [Better CodeBlock](https://github.com/stargrey/obsidian-better-codeblock) | Add title, line numbers, and collapse button to code blocks in reading view |
 | [Obsidian Wordnik Definitions](https://github.com/lizard-heart/obsidian-wordnik-definitions) | Grabs information from Wordnik for a topic and brings it into Obsidian notes |
 | [Typing speed](https://github.com/supercip971/obsidian-typing-speed) | A plugin for showing the current typing speed in the status bar |
@@ -670,3 +670,12 @@
 | [Sakana Widget](https://github.com/Quorafind/obsidian-sakana-widget) | Add the Sakana! Widget to your own Obsidian! |
 | [Min Width](https://github.com/doitian/obsidian-min-width) | Set the Minimum Width of the Active Pane. |
 | [Onyx Boox Annotation & Highlight Extractor](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor) | This plugin extracts annotations and highlights files exported from Onyx Boox tablets, and converts them to reference, literature and permanent notes fitting to the Zettelkasten method. |
+| [Chronology](https://github.com/Canna71/obsidian-chronology) | Provides a calendar and a timeline of the notes creation and modification |
+| [Duplicate Line](https://github.com/1C0D/duplicate-line-obsidian) | To duplicate a line |
+| [ToggleList](https://github.com/thingnotok/obsidian-toggle-list) | This is a simple plugin to toggle the checklist states (paragraph/list/checklist/custom sytles...) |
+| [Squiggle](https://github.com/jqhoogland/obsidian-squiggle) | Probabilistic estimation with Squiggle in your notes. |
+| [Theme Toggler](https://github.com/larsmagnus/obsidian-theme-toggler) | Toggle the theme in Obsidian's panels. |
+| [Influx](https://github.com/jensmtg/influx) | A bullet journaling plugin that aggregates a terse stream of backlinked clippings in the footer of notes. |
+| [Week Planner](https://github.com/rwirdemann/obsidian-week-planner) | Defines commands for creating planning documents and moving tasks between them. |
+| [HTML Reader](https://github.com/nuthrash/obsidian-html-plugin) | This is a HTML file reader plugin for Obsidian. Can open documents with .html and .htm file extensions. |
+| [Dynamic RTL](https://github.com/mwxgaf/obsidian-dynamic-rtl) | Dynamic RTL/LTR direction per line/paragraph, dependant on language! |
