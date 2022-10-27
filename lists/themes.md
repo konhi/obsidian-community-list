@@ -60,7 +60,7 @@
 | [shaggyfeng/obsidian-Golden-Topaz-theme](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme) | ![Golden Topaz](https://raw.githubusercontent.com/shaggyfeng/obsidian-Golden-Topaz-theme/master/screenshot.png "") |
 | [shaggyfeng/obsidian-Pink-topaz-theme](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme) | ![Pink Topaz](https://raw.githubusercontent.com/shaggyfeng/obsidian-Pink-topaz-theme/master/screenshot.png "") |
 | [sergey900553/obsidian_githublike_theme](https://github.com/sergey900553/obsidian_githublike_theme) | ![Dark Moss](https://raw.githubusercontent.com/sergey900553/obsidian_githublike_theme/master/screenshot.png "") |
-| [Wittionary/mammoth-obsidian-theme](https://github.com/Wittionary/mammoth-obsidian-theme) | ![Mammoth](https://raw.githubusercontent.com/Wittionary/mammoth-obsidian-theme/master/screenshots/fullscreen-formatting-examples.png "") |
+| [Wittionary/mammoth-obsidian-theme](https://github.com/Wittionary/mammoth-obsidian-theme) | ![Mammoth](https://raw.githubusercontent.com/Wittionary/mammoth-obsidian-theme/master/screenshots/thumbnail.png "") |
 | [luke-rmaki/rmaki-obsidian](https://github.com/luke-rmaki/rmaki-obsidian) | ![Rmaki](https://raw.githubusercontent.com/luke-rmaki/rmaki-obsidian/master/screenshot.png "") |
 | [ArtexJay/Obsidian-CyberGlow](https://github.com/ArtexJay/Obsidian-CyberGlow) | ![Cyber Glow](https://raw.githubusercontent.com/ArtexJay/Obsidian-CyberGlow/master/Screenshot.png "") |
 | [johackim/obsidian-darkyan](https://github.com/johackim/obsidian-darkyan) | ![Darkyan](https://raw.githubusercontent.com/johackim/obsidian-darkyan/master/screenshot.png "") |

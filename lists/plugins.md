@@ -679,3 +679,6 @@
 | [Week Planner](https://github.com/rwirdemann/obsidian-week-planner) | Defines commands for creating planning documents and moving tasks between them. |
 | [HTML Reader](https://github.com/nuthrash/obsidian-html-plugin) | This is a HTML file reader plugin for Obsidian. Can open documents with .html and .htm file extensions. |
 | [Dynamic RTL](https://github.com/mwxgaf/obsidian-dynamic-rtl) | Dynamic RTL/LTR direction per line/paragraph, dependant on language! |
+| [MathLinks](https://github.com/zhaoshenzhai/obsidian-mathlinks) | Render MathJax in your links |
+| [Note Synchronizer](https://github.com/tansongchen/obsidian-note-synchronizer) | This is a plugin for synchornizing Obsidian notes to other note-based softwares like Anki, following more strictly the principles of Zettelkasten and treating each Obsidian file as a note. |
+| [URL Namer](https://github.com/zfei/obsidian-url-namer) | This plugin retrieves the HTML titles to name the raw URL links. |
