@@ -682,3 +682,7 @@
 | [MathLinks](https://github.com/zhaoshenzhai/obsidian-mathlinks) | Render MathJax in your links |
 | [Note Synchronizer](https://github.com/tansongchen/obsidian-note-synchronizer) | This is a plugin for synchornizing Obsidian notes to other note-based softwares like Anki, following more strictly the principles of Zettelkasten and treating each Obsidian file as a note. |
 | [URL Namer](https://github.com/zfei/obsidian-url-namer) | This plugin retrieves the HTML titles to name the raw URL links. |
+| [Douban](https://github.com/Wanxp/obsidian-douban) | This is a plugin that can import movies/books/musics/notes/games info data from Douban for Obsidian . |
+| [Image Inserter](https://github.com/cloudy9101/obsidian-image-inserter) | Help users easily search and insert images to editors from Unsplash. |
+| [Keyboard Analyzer](https://github.com/cogscides/obsidian-keyboard-analyzer) | See and analyse your keyboard hotkeys and shortcuts |
+| [Plugin Update Tracker](https://github.com/swar8080/obsidian-plugin-update-tracker) | Know when installed plugins have updates and evaluate the risk of upgrading |
