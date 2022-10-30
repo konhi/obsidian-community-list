@@ -246,7 +246,6 @@
 | [Find & Replace in Selection](https://github.com/TClark1011/obsidian-find-and-replace-in-selection) | Replace text within your current selection |
 | [Embedded Code Title](https://github.com/tadashi-aikawa/obsidian-embedded-code-title) | This is an Obsidian plugin which can embeds title to code blocks. |
 | [Homepage](https://github.com/mirnovov/obsidian-homepage) | Open a specfied note on startup. |
-| [Advanced Mobile Toolbar](https://github.com/phibr0/obsidian-advanced-toolbar) | Enhances the Toolbar for Obsidian Mobile |
 | [Random To-Do](https://github.com/NatiAris/obsidian-random-todo) | Open a random file containing your custom to-do marker, or a random marker at its position. |
 | [Media Extended BiliBili Plugin](https://github.com/aidenlx/mx-bili-plugin) | Add advanced bilibili videos support for Media Extended plugin |
 | [cMenu](https://github.com/chetachiezikeuzor/cMenu-Plugin) | An Obsidian.md plugin that adds a minimal text editor modal for a smoother writing/editing experience ✍🏽. |
@@ -616,7 +615,7 @@
 | [TimeDiff plugin](https://github.com/dominiczaq/obsidian-plugin-time-diff) | Calculates and displays diff in hours and minutes between two dates in `timediff` markdown block |
 | [Trim Whitespace](https://github.com/zlovatt/obsidian-trim-whitespace) | Trims unnecessary whitespace from your Obsidian documents |
 | [Ninja Cursor](https://github.com/vrtmrz/ninja-cursor) | The plugin which enhance cursor visiblity. |
-| [Commander](https://github.com/phibr0/obsidian-commander) | Customize your workspace by adding commands /everywhere/ |
+| [Commander](https://github.com/phibr0/obsidian-commander) | Customize your workspace by adding commands everywhere, create macros and supercharge your mobile toolbar. |
 | [Obsidian Attendance](https://github.com/Tiim/obsidian-attendance) | Helps you take attendance directly inside of your notes. |
 | [File Hider](https://github.com/Oliver-Akins/file-hider) | Allows you to hide files and folders from the Obsidian file explorer if you don't want to see them anymore. |
 | [Sidebar Toggler](https://github.com/chrisgrieser/obsidian-sidebar-toggler) | Finer control of the Obsidian sidebars. To be used with an external window manager. |
@@ -686,3 +685,8 @@
 | [Image Inserter](https://github.com/cloudy9101/obsidian-image-inserter) | Help users easily search and insert images to editors from Unsplash. |
 | [Keyboard Analyzer](https://github.com/cogscides/obsidian-keyboard-analyzer) | See and analyse your keyboard hotkeys and shortcuts |
 | [Plugin Update Tracker](https://github.com/swar8080/obsidian-plugin-update-tracker) | Know when installed plugins have updates and evaluate the risk of upgrading |
+| [Update Relative Links](https://github.com/val3344/obsidian-update-relative-links) | Update relative links. |
+| [Readavocado Sync](https://github.com/innneang/obsidian-readavocado-sync) | Sync your Readavocado highlights with Obsidian |
+| [Repeat](https://github.com/prncc/obsidian-repeat-plugin) | Review notes using periodic or spaced repetition. |
+| [Actions URI](https://github.com/czottmann/obsidian-actions-uri) | Adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI. |
+| [Projects](https://github.com/marcusolsson/obsidian-projects) | Project management for Obsidian. |
