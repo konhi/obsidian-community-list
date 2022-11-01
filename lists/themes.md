@@ -15,7 +15,7 @@
 | [obsidian-ezs/obsidian-ursa](https://github.com/obsidian-ezs/obsidian-ursa) | ![Ursa](https://raw.githubusercontent.com/obsidian-ezs/obsidian-ursa/master/light-theme_full.png "") |
 | [nickmilo/Cybertron](https://github.com/nickmilo/Cybertron) | ![Cybertron](https://raw.githubusercontent.com/nickmilo/Cybertron/master/Cybertron.png "") |
 | [kartik-karz/moonlight-obsidian](https://github.com/kartik-karz/moonlight-obsidian) | ![Moonlight](https://raw.githubusercontent.com/kartik-karz/moonlight-obsidian/master/moonlight-theme.png "") |
-| [seanwcom/Red-Graphite-for-Obsidian](https://github.com/seanwcom/Red-Graphite-for-Obsidian) | ![Red Graphite](https://raw.githubusercontent.com/seanwcom/Red-Graphite-for-Obsidian/master/screenshot01.png "") |
+| [seanwcom/Red-Graphite-for-Obsidian](https://github.com/seanwcom/Red-Graphite-for-Obsidian) | ![Red Graphite](https://raw.githubusercontent.com/seanwcom/Red-Graphite-for-Obsidian/master/thumbnail.png "") |
 | [kartik-karz/subtlegold-obsidian](https://github.com/kartik-karz/subtlegold-obsidian) | ![Subtlegold](https://raw.githubusercontent.com/kartik-karz/subtlegold-obsidian/master/subtlegold-theme.png "") |
 | [sainadh-d/obsidian-boom](https://github.com/sainadh-d/obsidian-boom) | ![Obsidian Boom](https://raw.githubusercontent.com/sainadh-d/obsidian-boom/master/roam-1.png "") |
 | [pgalliford/Obsidian-theme-Incredible-Hulk](https://github.com/pgalliford/Obsidian-theme-Incredible-Hulk) | ![Hulk](https://raw.githubusercontent.com/pgalliford/Obsidian-theme-Incredible-Hulk/master/Screen%20Shot.png "") |
