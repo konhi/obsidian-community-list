@@ -690,3 +690,4 @@
 | [Repeat](https://github.com/prncc/obsidian-repeat-plugin) | Review notes using periodic or spaced repetition. |
 | [Actions URI](https://github.com/czottmann/obsidian-actions-uri) | Adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI. |
 | [Projects](https://github.com/marcusolsson/obsidian-projects) | Project management for Obsidian. |
+| [Dynamic Background](https://github.com/samuelsong70/obsidian-dynamic-background) | Adding dynamic background effects to the Obsidian editor |
