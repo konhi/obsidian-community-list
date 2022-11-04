@@ -691,3 +691,6 @@
 | [Actions URI](https://github.com/czottmann/obsidian-actions-uri) | Adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI. |
 | [Projects](https://github.com/marcusolsson/obsidian-projects) | Project management for Obsidian. |
 | [Dynamic Background](https://github.com/samuelsong70/obsidian-dynamic-background) | Adding dynamic background effects to the Obsidian editor |
+| [New Note Content Pusher](https://github.com/lizard-heart/obsidian-note-content-pusher) | Plugin to add (prepend or append) specified content to a note (existing or new) without opening another pane. |
+| [Tag Summary](https://github.com/macrojd/tag-summary) | This plugin creates summaries with paragraphs or blocks of text that share the same tag(s). |
+| [Alias from heading](https://github.com/basham/obsidian-alias-from-heading) | Implicitly add an alias matching the first heading in a document. |
