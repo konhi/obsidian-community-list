@@ -694,3 +694,8 @@
 | [New Note Content Pusher](https://github.com/lizard-heart/obsidian-note-content-pusher) | Plugin to add (prepend or append) specified content to a note (existing or new) without opening another pane. |
 | [Tag Summary](https://github.com/macrojd/tag-summary) | This plugin creates summaries with paragraphs or blocks of text that share the same tag(s). |
 | [Alias from heading](https://github.com/basham/obsidian-alias-from-heading) | Implicitly add an alias matching the first heading in a document. |
+| [Obsidian OCR](https://github.com/MohrJonas/obsidian-ocr) | Use optical character recognition to search for text in you images and PDFs |
+| [Obsidian Gitlab Issues](https://github.com/benr77/obsidian-gitlab-issues) | Import Gitlab issues into your Obsidian vault. |
+| [Account Linker](https://github.com/qwegat/Obsidian-Account-Linker) | Plugin for describing external service accounts in the front matter |
+| [Symbols Prettifier](https://github.com/FlorianWoelki/obsidian-symbols-prettifier) | This plugin allows you to prettify the symbols with actual symbols you commonly type, like arrows. |
+| [Obsidian MtG](https://github.com/omardelarosa/obsidian-mtg) | A plugin for managing Magic: The Gathering decks and card lists as Obsidian notes |
