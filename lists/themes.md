@@ -131,8 +131,13 @@
 | [kinmury/obsidian-ukiyo](https://github.com/kinmury/obsidian-ukiyo) | ![Ukiyo](https://raw.githubusercontent.com/kinmury/obsidian-ukiyo/master/Showcase.png "") |
 | [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) | ![Mado Miniflow](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-Miniflow/master/img/store-cover.png "") |
 | [luke-rmaki/silence-obsidian](https://github.com/luke-rmaki/silence-obsidian) | ![Silence](https://raw.githubusercontent.com/luke-rmaki/silence-obsidian/master/Screenshot.png "") |
+| [ThisTheThe/MicroMike](https://github.com/ThisTheThe/MicroMike) | ![Micro Mike](https://raw.githubusercontent.com/ThisTheThe/MicroMike/master/screenshotThumb.png "") |
 | [erykwalder/dayspring-theme](https://github.com/erykwalder/dayspring-theme) | ![Dayspring](https://raw.githubusercontent.com/erykwalder/dayspring-theme/master/screenshots/thumbnail.png "") |
 | [zamsyt/obsidian-fusion](https://github.com/zamsyt/obsidian-fusion) | ![Fusion](https://raw.githubusercontent.com/zamsyt/obsidian-fusion/master/thumbnail.png "") |
 | [7368697661/Ultra-Lobster](https://github.com/7368697661/Ultra-Lobster) | ![Ultra Lobster](https://raw.githubusercontent.com/7368697661/Ultra-Lobster/master/preview_thumb.png "") |
 | [krios2146/obsidian-github](https://github.com/krios2146/obsidian-github) | ![GitHub theme](https://raw.githubusercontent.com/krios2146/obsidian-github/master/thumbnail.png "") |
 | [doctorfree/Obsidian-Doctorfree](https://github.com/doctorfree/Obsidian-Doctorfree) | ![Doctorfree](https://raw.githubusercontent.com/doctorfree/Obsidian-Doctorfree/master/screenshots/headings.png "") |
+| [marcoluzi/obsidian-synthwave](https://github.com/marcoluzi/obsidian-synthwave) | ![SynthWave](https://raw.githubusercontent.com/marcoluzi/obsidian-synthwave/master/screenshot.jpeg "") |
+| [ltctceplrm/oldsidian-purple](https://github.com/ltctceplrm/oldsidian-purple) | ![Oldsidian Purple](https://raw.githubusercontent.com/ltctceplrm/oldsidian-purple/master/cover.png "") |
+| [lucas-fern/obsidian-deeper-work-theme](https://github.com/lucas-fern/obsidian-deeper-work-theme) | ![deeper work](https://raw.githubusercontent.com/lucas-fern/obsidian-deeper-work-theme/master/thumbnail.png "") |
+| [ashwinjadhav818/obsidian-aura](https://github.com/ashwinjadhav818/obsidian-aura) | ![Aura](https://raw.githubusercontent.com/ashwinjadhav818/obsidian-aura/master/assets/screenshot-preview.png "") |

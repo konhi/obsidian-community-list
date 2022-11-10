@@ -45,7 +45,7 @@
 | [Wikilinks to MDLinks (Markdown Links)](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) | Convert wikilinks to markdown links and vice versa |
 | [Smart Random Note](https://github.com/erichalldev/obsidian-smart-random-note) | Open random notes with greater control |
 | [Cycle through Panes](https://github.com/phibr0/cycle-through-panes) | Cycle through your open Panes with `ctrl + Tab`, just like with Tabs in your Browser! |
-| [Music Sheet Code Blocks](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs) | Render music sheets directly from code blocks |
+| [ABC Music Sheet Code Blocks](https://github.com/abcjs-music/obsidian-plugin-abcjs) | Render music sheets directly from code blocks using ABC music notation via abcjs |
 | [Typewriter Scroll Obsidian Plugin](https://github.com/deathau/cm-typewriter-scroll-obsidian) | Typewriter-style scrolling which keeps the view centered in the editor. |
 | [Youglish Plugin](https://github.com/nhaouari/obsidian-youglish-plugin) | Use YouTube to improve your pronunciation. YouGlish plugin gives you fast, unbiased answers about how words is spoken by real people and in context. |
 | [Dangling links panel](https://github.com/graydon/obsidian-dangling-links) | Adds a panel showing any dangling links in a vault. |
@@ -699,3 +699,22 @@
 | [Account Linker](https://github.com/qwegat/Obsidian-Account-Linker) | Plugin for describing external service accounts in the front matter |
 | [Symbols Prettifier](https://github.com/FlorianWoelki/obsidian-symbols-prettifier) | This plugin allows you to prettify the symbols with actual symbols you commonly type, like arrows. |
 | [Obsidian MtG](https://github.com/omardelarosa/obsidian-mtg) | A plugin for managing Magic: The Gathering decks and card lists as Obsidian notes |
+| [More Markdown file suffix (.mdx/.svx)](https://github.com/git-no/obsidian-markdown-file-suffix) | Use additional files like .mdx / .svx as if they were markdown. |
+| [Editing Toolbar](https://github.com/cumany/obsidian-editing-toolbar) | The Editing Toolbar is modified from cmenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience. |
+| [obsidian floating toc](https://github.com/cumany/obsidian-floating-toc-plugin) | This is a floating directory plugin that hovers a widget of the current directory on the notes page. |
+| [Checkbox 3 states](https://github.com/hrenaud/obsidian-checkbox3states-plugin) | A third state to checkbox list. |
+| [Status Bar Quote](https://github.com/yesjinu/StatusBarQuote) | Show your favorite quote in obsidian status bar |
+| [qmd as md](https://github.com/danieltomasz/qmd-as-md-obsidian) | This plugin provides an initial support for viewing files with .qmd extension. QMD files contain a combination of markdown and executable code cells and are a format supported by Quarto open source publishing system. |
+| [Obsidian to Flomo](https://github.com/metal-young/obsidian-to-flomo) | Quickly share content to Flomo. |
+| [Obsidian Things3 Sync](https://github.com/royxue/obsidian-things3-sync) | A Plugin for syncing between Obsidian and Things3. Supporting with Multi Language, Tags and Date. |
+| [Mathpad](https://github.com/Canna71/obsidian-mathpad) | Computer Algebra System and Calculator for Onsidian |
+| [Ordered List Style](https://github.com/erykwalder/obsidian-list-style) | Set ordered list style inline. Alphabetic lists, roman numeral lists, etc. |
+| [Trash Explorer](https://github.com/proog/obsidian-trash-explorer) | Restore and delete files from the Obsidian .trash folder |
+| [Vika Sync](https://github.com/romantic-black/obsidain-vika-sync) | Sync your note to Vika |
+| [New Note New Window](https://github.com/Pr0dt0s/new-note-new-window) | Plugin for easily opening new notes in a floating window. |
+| [Awesome Flashcard](https://github.com/AwesomeDog/obsidian-awesome-flashcard) | Handy Anki integration for Obsidian. |
+| [Daily Note Outline](https://github.com/iiz00/obsidian-daily-note-outline) | Add a custom view which shows outline of multiple daily notes with headings, links, tags and list items |
+| [Colorful Tag](https://github.com/rien7/obsidian-colorful-tag) | You can easily add prefix or suffix to a tag and change the tag’s background or text color. |
+| [Edit Gemini](https://github.com/Basil-Mori/obsidian-edit-gemini) | Allows the user to edit and create .gmi files. |
+| [Pretty BibTeX](https://github.com/sandrofigo/obsidian-pretty-bibtex) | Shows raw BibTeX bibliography entries in a prettier way |
+| [Frontmatter Links](https://github.com/Trikzon/obsidian-frontmatter-links) | Renders links in a note's frontmatter as links. |
