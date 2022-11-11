@@ -264,7 +264,7 @@
 | [Toggl Track Integration](https://github.com/mcndt/obsidian-toggl-integration) | Add integration with the Toggl Track API to manage your timers inside Obsidian. |
 | [AidenLx's Folder Note](https://github.com/aidenlx/alx-folder-note) | Add description, summary and more info to folders with folder notes. |
 | [Hide Sidebars on Window Resize](https://github.com/NomarCub/obsidian-hide-sidebars-on-window-resize) | Automatically hides the sidebars when your window is narrow on window resize |
-| [Linter](https://github.com/platers/obsidian-linter) | Formats and styles your notes. |
+| [Linter](https://github.com/platers/obsidian-linter) | Formats and styles your notes. It can be used to format YAML tags, aliases, arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown contents like list, italics, and bold styles; and more with the use of custom rule options as well. |
 | [Number Headings](https://github.com/onlyafly/number-headings-obsidian) | Automatically number or re-number headings in an Obsidian document. |
 | [Force note view mode by front matter](https://github.com/bwydoogh/obsidian-force-view-mode-of-note) | This plugin allows to force the view mode for a note by using front matter: YAML block with 'obsidian_ui_mode' as key. |
 | [File Explorer Markdown Titles](https://github.com/Dyldog/file-explorer-markdown-titles) | Shows the first markdown header of a note in the file explorer |
@@ -718,3 +718,5 @@
 | [Edit Gemini](https://github.com/Basil-Mori/obsidian-edit-gemini) | Allows the user to edit and create .gmi files. |
 | [Pretty BibTeX](https://github.com/sandrofigo/obsidian-pretty-bibtex) | Shows raw BibTeX bibliography entries in a prettier way |
 | [Frontmatter Links](https://github.com/Trikzon/obsidian-frontmatter-links) | Renders links in a note's frontmatter as links. |
+| [Ava](https://github.com/louis030195/obsidian-ava) | AI-enhanced reflection in Obsidian |
+| [Scroll to Top Plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) | This is a plugin for Obsidian that adds a button to scroll to the top of the current note. |
