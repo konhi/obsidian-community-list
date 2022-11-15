@@ -142,3 +142,4 @@
 | [lucas-fern/obsidian-deeper-work-theme](https://github.com/lucas-fern/obsidian-deeper-work-theme) | ![deeper work](https://raw.githubusercontent.com/lucas-fern/obsidian-deeper-work-theme/master/thumbnail.png "") |
 | [ashwinjadhav818/obsidian-aura](https://github.com/ashwinjadhav818/obsidian-aura) | ![Aura](https://raw.githubusercontent.com/ashwinjadhav818/obsidian-aura/master/assets/screenshot-preview.png "") |
 | [zamsyt/obsidian-ion](https://github.com/zamsyt/obsidian-ion) | ![ion](https://raw.githubusercontent.com/zamsyt/obsidian-ion/master/thumbnail.png "") |
+| [efemkay/obsidian-listive-theme](https://github.com/efemkay/obsidian-listive-theme) | ![Listive](https://raw.githubusercontent.com/efemkay/obsidian-listive-theme/master/thumbnail.jpg "") |

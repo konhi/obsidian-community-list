@@ -666,7 +666,7 @@
 | [Aosr](https://github.com/linanwx/aosr) | Another obsidian spaced repetition. It uses flashcards to help review and remember knowledge. |
 | [Meta Bind Plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) | This plugin can create input fields inside your notes and bind them to metadata fields. |
 | [Micro.publish](https://github.com/otaviocc/obsidian-microblog) | Publish notes to Micro.blog. |
-| [Sakana Widget](https://github.com/Quorafind/obsidian-sakana-widget) | Add the Sakana! Widget to your own Obsidian! |
+| [Sakana Widget](https://github.com/quorafind/obsidian-sakana-widget) | Add the Sakana! Widget to your own Obsidian! |
 | [Min Width](https://github.com/doitian/obsidian-min-width) | Set the Minimum Width of the Active Pane. |
 | [Onyx Boox Annotation & Highlight Extractor](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor) | This plugin extracts annotations and highlights files exported from Onyx Boox tablets, and converts them to reference, literature and permanent notes fitting to the Zettelkasten method. |
 | [Chronology](https://github.com/Canna71/obsidian-chronology) | Provides a calendar and a timeline of the notes creation and modification |
@@ -720,3 +720,6 @@
 | [Frontmatter Links](https://github.com/Trikzon/obsidian-frontmatter-links) | Renders links in a note's frontmatter as links. |
 | [Ava](https://github.com/louis030195/obsidian-ava) | AI-enhanced reflection in Obsidian |
 | [Scroll to Top Plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) | This is a plugin for Obsidian that adds a button to scroll to the top of the current note. |
+| [Old Note Admonitor](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor) | This Obsidian plugin shows warnings if the note has not been updated for over specific days |
+| [Export Image plugin](https://github.com/zhouhua/obsidian-export-image) | Easily convert your article to image. |
+| [Page Gallery](https://github.com/tokenshift/obsidian-page-gallery) | Creates an embeddable gallery based on selected page contents. |
