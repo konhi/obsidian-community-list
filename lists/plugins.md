@@ -723,3 +723,4 @@
 | [Old Note Admonitor](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor) | This Obsidian plugin shows warnings if the note has not been updated for over specific days |
 | [Export Image plugin](https://github.com/zhouhua/obsidian-export-image) | Easily convert your article to image. |
 | [Page Gallery](https://github.com/tokenshift/obsidian-page-gallery) | Creates an embeddable gallery based on selected page contents. |
+| [Obsidian42 - Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) | Revealing networked thought and the strange new worlds created by your vault. |
