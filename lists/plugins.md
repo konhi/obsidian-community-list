@@ -724,3 +724,5 @@
 | [Export Image plugin](https://github.com/zhouhua/obsidian-export-image) | Easily convert your article to image. |
 | [Page Gallery](https://github.com/tokenshift/obsidian-page-gallery) | Creates an embeddable gallery based on selected page contents. |
 | [Obsidian42 - Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) | Revealing networked thought and the strange new worlds created by your vault. |
+| [Dynbedded](https://github.com/MMoMM-org/obsidian-dynbedded) | Dynamic Embeds for Obsidian.md |
+| [Copy document as HTML](https://github.com/mvdkwast/obsidian-copy-as-html) | Copy the current document to clipboard as HTML, including images. |
