@@ -726,3 +726,5 @@
 | [Obsidian42 - Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) | Revealing networked thought and the strange new worlds created by your vault. |
 | [Dynbedded](https://github.com/MMoMM-org/obsidian-dynbedded) | Dynamic Embeds for Obsidian.md |
 | [Copy document as HTML](https://github.com/mvdkwast/obsidian-copy-as-html) | Copy the current document to clipboard as HTML, including images. |
+| [Chorded Hotkeys](https://github.com/ConnorMeyers/obsidian-chorded-hotkeys) | Type multiple letters at the same time to trigger text insertion, template insertion, or command execution. |
+| [Dirtreeist](https://github.com/k4a-l/obsidian-dirtreeist) | Render a directory Structure Diagram from a markdown lists in codeblock. |
