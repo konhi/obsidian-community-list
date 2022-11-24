@@ -728,3 +728,4 @@
 | [Copy document as HTML](https://github.com/mvdkwast/obsidian-copy-as-html) | Copy the current document to clipboard as HTML, including images. |
 | [Chorded Hotkeys](https://github.com/ConnorMeyers/obsidian-chorded-hotkeys) | Type multiple letters at the same time to trigger text insertion, template insertion, or command execution. |
 | [Dirtreeist](https://github.com/k4a-l/obsidian-dirtreeist) | Render a directory Structure Diagram from a markdown lists in codeblock. |
+| [Obsidian Handlebars Template Plugin](https://github.com/sbquinlan/obsidian-handlebars) | This is a plugin for Obsidian that adds support for handlebars template blocks in notes. |
