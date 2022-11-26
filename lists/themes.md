@@ -144,3 +144,5 @@
 | [zamsyt/obsidian-ion](https://github.com/zamsyt/obsidian-ion) | ![ion](https://raw.githubusercontent.com/zamsyt/obsidian-ion/master/thumbnail.png "") |
 | [efemkay/obsidian-listive-theme](https://github.com/efemkay/obsidian-listive-theme) | ![Listive](https://raw.githubusercontent.com/efemkay/obsidian-listive-theme/master/thumbnail.jpg "") |
 | [dragonwocky/obsidian-material-ocean](https://github.com/dragonwocky/obsidian-material-ocean) | ![Material Ocean](https://raw.githubusercontent.com/dragonwocky/obsidian-material-ocean/master/thumbnail.png "") |
+| [Satchelmouth/Obsidian-Theme-WYConsole](https://github.com/Satchelmouth/Obsidian-Theme-WYConsole) | ![WY Console](https://raw.githubusercontent.com/Satchelmouth/Obsidian-Theme-WYConsole/master/WYConsole_Store_Screenshot.png "") |
+| [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme) | ![Adwaita](https://raw.githubusercontent.com/birneee/obsidian-adwaita-theme/master/generated/theme-store-preview.png "") |
