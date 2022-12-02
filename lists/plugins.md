@@ -546,7 +546,7 @@
 | [Todoist Link](https://github.com/dennisseidel/obsidian-todoist-link) | Create Todoist tasks and projects including bidirectional links from Obsidian |
 | [Rewarder](https://github.com/Gnopps/obsidian-rewarder) | Gives you rewards for completing tasks/todos, highly configurable. |
 | [Calibre](https://github.com/caronchen/obsidian-calibre-plugin) | This plugin allows you to access your calibre libraries and read books directly in Obsidian. |
-| [Omnisearch](https://github.com/scambier/obsidian-omnisearch) | A search engine that just works |
+| [Omnisearch](https://github.com/scambier/obsidian-omnisearch) | Intelligent search for your notes, PDFs, and OCR for images |
 | [Plugins Galore](https://github.com/dylanpizzo/obsidian-plugins-galore) | This is an Obsidian plugin to allow easily sideloading other plugins. |
 | [Auto Card Link](https://github.com/nekoshita/obsidian-auto-card-link) | Automatically fetches metadata from a url and makes it as a card-styled link. |
 | [Notion-Like Tables](https://github.com/trey-wallis/obsidian-notion-like-tables) | Create markdown tables using an interface similar to that found in Notion.so. |
@@ -649,7 +649,7 @@
 | [Auto Hide](https://github.com/skelato1/obsidian-auto-hide) | Collapse sidebars when clicking on the editor/viewer panel |
 | [Janitor](https://github.com/Canna71/obsidian-janitor) | Performs cleanup tasks on the Obsidian vault |
 | [Script Launcher](https://github.com/AlessandroRuggiero/script-launcher) | This plugin allows you to launch scripts from the Obsidian app. You can add scripts shortcuts on your bottom bar and launch them with just one click! |
-| [Party🎉](https://github.com/shap-po/obsidian-party) | An implementation of party.js for Obsidian. Create confetti & sparkles in your notes! |
+| [Party🎉](https://github.com/shap-po/obsidian-party) | An implementation of party.js for Obsidian. Create confetti, sparkles, and even custom effects in your notes! |
 | [Day and Night](https://github.com/CyberT17/obsidian-day-and-night) | An Obsidian plugin to automatically toggle themes between day theme and night theme on a set time schedule. |
 | [TikZJax](https://github.com/artisticat1/obsidian-tikzjax) | Render LaTeX and TikZ diagrams in your notes. |
 | [Todoist completed tasks](https://github.com/Ledaryy/obsidian-todoist-completed-tasks) | Fetches completed tasks from todoist API and adds them to the Obsidian note. |
@@ -729,3 +729,4 @@
 | [Chorded Hotkeys](https://github.com/ConnorMeyers/obsidian-chorded-hotkeys) | Type multiple letters at the same time to trigger text insertion, template insertion, or command execution. |
 | [Dirtreeist](https://github.com/k4a-l/obsidian-dirtreeist) | Render a directory Structure Diagram from a markdown lists in codeblock. |
 | [Obsidian Handlebars Template Plugin](https://github.com/sbquinlan/obsidian-handlebars) | This is a plugin for Obsidian that adds support for handlebars template blocks in notes. |
+| [3D Graph](https://github.com/AlexW00/obsidian-3d-graph) | A 3D graph for Obsidian! |
