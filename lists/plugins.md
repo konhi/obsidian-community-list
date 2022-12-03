@@ -730,3 +730,17 @@
 | [Dirtreeist](https://github.com/k4a-l/obsidian-dirtreeist) | Render a directory Structure Diagram from a markdown lists in codeblock. |
 | [Obsidian Handlebars Template Plugin](https://github.com/sbquinlan/obsidian-handlebars) | This is a plugin for Obsidian that adds support for handlebars template blocks in notes. |
 | [3D Graph](https://github.com/AlexW00/obsidian-3d-graph) | A 3D graph for Obsidian! |
+| [Relation Pane](https://github.com/mottox2/obsidian-relation-pane) | Displays a panel that summarize relations between notes. |
+| [Rapid Notes](https://github.com/valteriomon/obsidian-rapid-notes) | Create and place notes quickly in specific folders based on predefined prefixes. |
+| [Emo](https://github.com/yaleiyale/obsidian-emo-uploader) | Embed markdown online file/image links. This plugin is for uploading images to hosting or files to github in Obsidian. |
+| [DeepL](https://github.com/friebetill/obsidian-deepl) | Allows translation of selected texts into more than 25 languages with DeepL. |
+| [Quran Lookup](https://github.com/abuibrahim2/quranlookup) | Easily add Quran verses and translations in Obsidian with this text replacement plugin |
+| [Obsidian Sigma](https://github.com/monesga/obsidian-sigma) | A plugin to enable using obsidian notes as calculation sheets. |
+| [Bionic Reading](https://github.com/quorafind/obsidian-bionic-reading) | A plugin to enable bionic reading mode in Live preview mode of Obsidian. |
+| [New Bullet With Time](https://github.com/quorafind/obisidna-new-bullet-with-time) | A plugin allows you to auto add current time to new bullet line. |
+| [Markdown to Jira Converter](https://github.com/muckmuck96/obsidian-md-to-jira) | A plugin for converting notes or selections to jira markup and vice versa |
+| [Achievements](https://github.com/Zachatoo/obsidian-achievements) | Add achievements to Obsidian. |
+| [Code Preview](https://github.com/zjhcn/obsidian-code-preview) | CodeBlock preview by file path |
+| [Toggle Meta Yaml](https://github.com/hua03/obsidian-toggle-meta-yaml-plugin) | This is a simple plugin to toggle meta yaml. |
+| [Smart Links](https://github.com/kemayo/obsidian-smart-links) | Auto-linking of customizable strings |
+| [Daily Notes Editor](https://github.com/quorafind/obsidian-daily-notes-editor) | A plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view. |
