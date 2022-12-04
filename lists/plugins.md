@@ -744,3 +744,8 @@
 | [Toggle Meta Yaml](https://github.com/hua03/obsidian-toggle-meta-yaml-plugin) | This is a simple plugin to toggle meta yaml. |
 | [Smart Links](https://github.com/kemayo/obsidian-smart-links) | Auto-linking of customizable strings |
 | [Daily Notes Editor](https://github.com/quorafind/obsidian-daily-notes-editor) | A plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view. |
+| [BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) | This plugin enables viewing BPMN diagrams using bpmn-js. |
+| [Image Layouts](https://github.com/vertis/obsidian-image-layouts) | Add beautiful image layouts to your notes |
+| [Obsidian asciimath](https://github.com/widcardw/obsidian-asciimath) | Add asciimath support for Obsidian. |
+| [Double Click Tab](https://github.com/Quorafind/Obsidian-Double-Click-Tab) | A plugin to modify the default behavior when you double click on the tab title, like close tab. |
+| [Scrybble](https://github.com/Azeirah/scrybble) | Synchronize highlights from your ReMarkable tablet to Obsidian! |
