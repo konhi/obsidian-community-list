@@ -749,3 +749,5 @@
 | [Obsidian asciimath](https://github.com/widcardw/obsidian-asciimath) | Add asciimath support for Obsidian. |
 | [Double Click Tab](https://github.com/Quorafind/Obsidian-Double-Click-Tab) | A plugin to modify the default behavior when you double click on the tab title, like close tab. |
 | [Scrybble](https://github.com/Azeirah/scrybble) | Synchronize highlights from your ReMarkable tablet to Obsidian! |
+| [Auto Glossary](https://github.com/ennioitaliano/obsidian-auto-glossary) | Automatically create a glossary of files, an index of files or both in Obsidian. |
+| [SamePage](https://github.com/samepage-network/obsidian-samepage) | Official Obsidian client into the intra tool-for-thought protocol. |
