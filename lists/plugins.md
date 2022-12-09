@@ -747,7 +747,8 @@
 | [BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) | This plugin enables viewing BPMN diagrams using bpmn-js. |
 | [Image Layouts](https://github.com/vertis/obsidian-image-layouts) | Add beautiful image layouts to your notes |
 | [Obsidian asciimath](https://github.com/widcardw/obsidian-asciimath) | Add asciimath support for Obsidian. |
-| [Double Click Tab](https://github.com/Quorafind/Obsidian-Double-Click-Tab) | A plugin to modify the default behavior when you double click on the tab title, like close tab. |
+| [Double Click Tab](https://github.com/quorafind/Obsidian-Double-Click-Tab) | A plugin to modify the default behavior when you double click on the tab title, like close tab. |
 | [Scrybble](https://github.com/Azeirah/scrybble) | Synchronize highlights from your ReMarkable tablet to Obsidian! |
 | [Auto Glossary](https://github.com/ennioitaliano/obsidian-auto-glossary) | Automatically create a glossary of files, an index of files or both in Obsidian. |
 | [SamePage](https://github.com/samepage-network/obsidian-samepage) | Official Obsidian client into the intra tool-for-thought protocol. |
+| [Numerals](https://github.com/gtg922r/obsidian-numerals) | Numerals turns any code block into an advanced calculator. Evaluates math expressions on each line of a code block, including units, currency, and optional TeX rendering |

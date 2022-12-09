@@ -146,3 +146,6 @@
 | [dragonwocky/obsidian-material-ocean](https://github.com/dragonwocky/obsidian-material-ocean) | ![Material Ocean](https://raw.githubusercontent.com/dragonwocky/obsidian-material-ocean/master/thumbnail.png "") |
 | [Satchelmouth/Obsidian-Theme-WYConsole](https://github.com/Satchelmouth/Obsidian-Theme-WYConsole) | ![WY Console](https://raw.githubusercontent.com/Satchelmouth/Obsidian-Theme-WYConsole/master/WYConsole_Store_Screenshot.png "") |
 | [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme) | ![Adwaita](https://raw.githubusercontent.com/birneee/obsidian-adwaita-theme/master/generated/theme-store-preview.png "") |
+| [AmadeusWM/Obsidian-Apatheia](https://github.com/AmadeusWM/Obsidian-Apatheia) | ![Apatheia](https://raw.githubusercontent.com/AmadeusWM/Obsidian-Apatheia/master/promo_screenshot.png "") |
+| [7368697661/Origami](https://github.com/7368697661/Origami) | ![Origami](https://raw.githubusercontent.com/7368697661/Origami/master/screen.png "") |
+| [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) | ![Border](https://raw.githubusercontent.com/Akifyss/obsidian-border/master/cover.png "") |
