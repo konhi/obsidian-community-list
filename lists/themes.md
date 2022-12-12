@@ -10,7 +10,7 @@
 | [deathau/Base2Tone-For-Obsidian.md](https://github.com/deathau/Base2Tone-For-Obsidian.md) | ![Base2Tone](https://raw.githubusercontent.com/deathau/Base2Tone-For-Obsidian.md/master/colours.gif "") |
 | [deathau/Notation-for-Obsidian](https://github.com/deathau/Notation-for-Obsidian) | ![Notation](https://raw.githubusercontent.com/deathau/Notation-for-Obsidian/master/screenshot.jpg "") |
 | [deathau/obsidian-christmas-theme](https://github.com/deathau/obsidian-christmas-theme) | ![Christmas](https://raw.githubusercontent.com/deathau/obsidian-christmas-theme/master/screenshot.png "") |
-| [Slowbad/obsidian-solarized](https://github.com/Slowbad/obsidian-solarized) | ![Solarized](https://raw.githubusercontent.com/Slowbad/obsidian-solarized/master/screenshot.png "") |
+| [harmtemolder/obsidian-solarized](https://github.com/harmtemolder/obsidian-solarized) | ![Solarized](https://raw.githubusercontent.com/harmtemolder/obsidian-solarized/master/screenshot.png "") |
 | [obsidian-ezs/obsidian-comfort-color-dark](https://github.com/obsidian-ezs/obsidian-comfort-color-dark) | ![Comfort color dark](https://raw.githubusercontent.com/obsidian-ezs/obsidian-comfort-color-dark/master/screencap.png "") |
 | [obsidian-ezs/obsidian-ursa](https://github.com/obsidian-ezs/obsidian-ursa) | ![Ursa](https://raw.githubusercontent.com/obsidian-ezs/obsidian-ursa/master/light-theme_full.png "") |
 | [nickmilo/Cybertron](https://github.com/nickmilo/Cybertron) | ![Cybertron](https://raw.githubusercontent.com/nickmilo/Cybertron/master/Cybertron.png "") |
@@ -149,3 +149,4 @@
 | [AmadeusWM/Obsidian-Apatheia](https://github.com/AmadeusWM/Obsidian-Apatheia) | ![Apatheia](https://raw.githubusercontent.com/AmadeusWM/Obsidian-Apatheia/master/promo_screenshot.png "") |
 | [7368697661/Origami](https://github.com/7368697661/Origami) | ![Origami](https://raw.githubusercontent.com/7368697661/Origami/master/screen.png "") |
 | [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) | ![Border](https://raw.githubusercontent.com/Akifyss/obsidian-border/master/cover.png "") |
+| [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) | ![Typora-Vue](https://raw.githubusercontent.com/ZekunC/Obsidian-Typora-Vue-Theme/master/obsidian-typora-vue.png "") |
