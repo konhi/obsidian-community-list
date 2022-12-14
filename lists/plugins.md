@@ -752,3 +752,5 @@
 | [Auto Glossary](https://github.com/ennioitaliano/obsidian-auto-glossary) | Automatically create a glossary of files, an index of files or both in Obsidian. |
 | [SamePage](https://github.com/samepage-network/obsidian-samepage) | Official Obsidian client into the intra tool-for-thought protocol. |
 | [Numerals](https://github.com/gtg922r/obsidian-numerals) | Numerals turns any code block into an advanced calculator. Evaluates math expressions on each line of a code block, including units, currency, and optional TeX rendering |
+| [AWS DynamoDB For Obsidian](https://github.com/leenattress/obsidian-plugin-dynamodb) | Query AWS DynamoDB and render tables inside documents |
+| [Hidden Folder](https://github.com/ptrsvltns/hidden-folder-obsidian) | Hidden Folder |
