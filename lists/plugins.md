@@ -754,3 +754,5 @@
 | [Numerals](https://github.com/gtg922r/obsidian-numerals) | Numerals turns any code block into an advanced calculator. Evaluates math expressions on each line of a code block, including units, currency, and optional TeX rendering |
 | [AWS DynamoDB For Obsidian](https://github.com/leenattress/obsidian-plugin-dynamodb) | Query AWS DynamoDB and render tables inside documents |
 | [Hidden Folder](https://github.com/ptrsvltns/hidden-folder-obsidian) | Hidden Folder |
+| [MAKE.md](https://github.com/Make-md/makemd) | Make.md brings you features that supercharges Obsidian. Sort your files in custom order and add file icons using Spaces. Edit inline embeds with Flow Editor. And style your text and add new markdown blocks without writing markdown using Maker Mode. |
+| [Obsidian markdown export](https://github.com/bingryan/obsidian-markdown-export-plugin) | This is a markdown export plugin for Obsidian. |
