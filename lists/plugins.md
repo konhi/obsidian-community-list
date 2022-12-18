@@ -241,7 +241,7 @@
 | [Open vault in VSCode](https://github.com/NomarCub/obsidian-open-vscode) | Ribbon button and command to open vault as a Visual Studio Code workspace |
 | [Image Uploader](https://github.com/Creling/obsidian-image-uploader) | This plugin can upload the image in your clipboard to any image hosting automatically when pasting. |
 | [Garble Text](https://github.com/kurakart/garble-text) | Garbling text in Obsidian turns all content in the entire app (notes, sidebar, etc) into lines so you can take screenshots without exposing sensitive data. |
-| [Paste to Current Indentation](https://github.com/jglev/obsidian-paste-to-current-indentation) | This plugin allows pasting and marking text as block-quotes at any level of indentation. |
+| [Paste Mode](https://github.com/jglev/obsidian-paste-mode) | Paste content and mark block quotes at any level of indentation. |
 | [Obsimian](https://github.com/motif-software/obsimian) | Obsidian simulation framework for testing Obsidian plugins. |
 | [Find & Replace in Selection](https://github.com/TClark1011/obsidian-find-and-replace-in-selection) | Replace text within your current selection |
 | [Embedded Code Title](https://github.com/tadashi-aikawa/obsidian-embedded-code-title) | This is an Obsidian plugin which can embeds title to code blocks. |
