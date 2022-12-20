@@ -736,7 +736,7 @@
 | [DeepL](https://github.com/friebetill/obsidian-deepl) | Allows translation of selected texts into more than 25 languages with DeepL. |
 | [Quran Lookup](https://github.com/abuibrahim2/quranlookup) | Easily add Quran verses and translations in Obsidian with this text replacement plugin |
 | [Obsidian Sigma](https://github.com/monesga/obsidian-sigma) | A plugin to enable using obsidian notes as calculation sheets. |
-| [Bionic Reading](https://github.com/quorafind/obsidian-bionic-reading) | A plugin to enable bionic reading mode in Live preview mode of Obsidian. |
+| [Better Reading Mode](https://github.com/quorafind/obsidian-better-reading-mode) | A plugin to enable bionic reading mode in Live preview mode of Obsidian. |
 | [New Bullet With Time](https://github.com/quorafind/obisidna-new-bullet-with-time) | A plugin allows you to auto add current time to new bullet line. |
 | [Markdown to Jira Converter](https://github.com/muckmuck96/obsidian-md-to-jira) | A plugin for converting notes or selections to jira markup and vice versa |
 | [Achievements](https://github.com/Zachatoo/obsidian-achievements) | Add achievements to Obsidian. |
