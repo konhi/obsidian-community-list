@@ -756,3 +756,19 @@
 | [Hidden Folder](https://github.com/ptrsvltns/hidden-folder-obsidian) | Hidden Folder |
 | [MAKE.md](https://github.com/Make-md/makemd) | Make.md brings you features that supercharges Obsidian. Sort your files in custom order and add file icons using Spaces. Edit inline embeds with Flow Editor. And style your text and add new markdown blocks without writing markdown using Maker Mode. |
 | [Obsidian markdown export](https://github.com/bingryan/obsidian-markdown-export-plugin) | This is a markdown export plugin for Obsidian. |
+| [Sync Graph Settings](https://github.com/Xallt/sync-graph-settings) | This is a plugin for syncing Global Graph settings (like Color Groups) to Local Graphs |
+| [Writing](https://github.com/johackim/obsidian-writing) | Write and format your next book directly from Obsidian |
+| [Transcription](https://github.com/djmango/obsidian-transcription) | Plugin to create high-quality transcriptions via Whisper from markdown linked audio files |
+| [Obsidian Mindmap Nextgen](https://github.com/verocloud/obsidian-mindmap-nextgen) | A plugin to preview notes as Markmap mind maps |
+| [External Link Opener](https://github.com/zorazrr/obsidian-link-opener) | Open external links within Obsidian using a modal or a tab. |
+| [MathJax WikiLinks](https://github.com/aaron-jack-manning/obsidian-mathjax-wikilinks) | Allows rendering MathJax in WikiLink aliases. |
+| [Obsidian Clipper](https://github.com/jgchristopher/obsidian-clipper) | This plugin helps you capture highlights from the web. |
+| [ProZen](https://github.com/cmoskvitin/obsidian-prozen) | Enter Zen mode to focus on writing. The plugin expands current tab to full screen removing everything but content. |
+| [Aggregator](https://github.com/Seraphli/obsidian-aggregator) | This plugin helps you gather information from files, and make a summary in the file. |
+| [Autoscroll](https://github.com/petr-nazarov/obsidian-autoscroll) | This plugin allows you to automatically scroll down the content with the provided speed |
+| [Obsidian Stylist](https://github.com/ixth/obsidian-stylist) | Obsidian plugin that allows to add classes and styles on markdown blocks |
+| [Text Dataset Aid Plugin](https://github.com/conneroisu/Text-Dataset-Aid-Plugin) | This plugin for obsidian aids in the creation of fine-tuning datasets for language models. |
+| [Chord Lyrics](https://github.com/nevernotmove/obsidian-chordlyrics) | Display chord names over lyrics. Supports line wrapping, section headers and auto-detection. |
+| [Crumbs](https://github.com/tgrosinger/crumbs-obsidian) | Breadcrumb navigation |
+| [D2](https://github.com/terrastruct/d2-obsidian) | The official D2 plugin for Obsidian. D2 is a modern diagram scripting language that turns text to diagrams. |
+| [Translate](https://github.com/Fevol/obsidian-translate) | Translate text and notes with Google Translate, DeepL, Azure, and more. |
