@@ -772,3 +772,8 @@
 | [Crumbs](https://github.com/tgrosinger/crumbs-obsidian) | Breadcrumb navigation |
 | [D2](https://github.com/terrastruct/d2-obsidian) | The official D2 plugin for Obsidian. D2 is a modern diagram scripting language that turns text to diagrams. |
 | [Translate](https://github.com/Fevol/obsidian-translate) | Translate text and notes with Google Translate, DeepL, Azure, and more. |
+| [DMN Plugin](https://github.com/joleaf/obsidian-dmn-plugin) | This plugin enables viewing DMNs using dmn-js. |
+| [FuzzyTag](https://github.com/adriandersen/obsidian-fuzzytag) | Fuzzy match autocomplete tags in Frontmatter |
+| [Project Garden](https://github.com/bgoosman/obsidian-project-garden) | See all your projects in one place |
+| [Workona To Obsidian](https://github.com/Holmes555/workona-to-obsidian) | Import Workona resources through generated JSON file. |
+| [Read Later](https://github.com/Canna71/obsidian-readlater) | Synch web pages to markdown and integrate with read-it-later apps (Pocket, Instapaper) |
