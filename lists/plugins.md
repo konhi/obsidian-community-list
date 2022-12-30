@@ -777,3 +777,9 @@
 | [Project Garden](https://github.com/bgoosman/obsidian-project-garden) | See all your projects in one place |
 | [Workona To Obsidian](https://github.com/Holmes555/workona-to-obsidian) | Import Workona resources through generated JSON file. |
 | [Read Later](https://github.com/Canna71/obsidian-readlater) | Synch web pages to markdown and integrate with read-it-later apps (Pocket, Instapaper) |
+| [Surfing](https://github.com/quorafind/obsidian-surfing) | Surf the Net in Obsidian |
+| [Toggle Case](https://github.com/MatthewAlner/obsidian-toggle-case) | This plugin allows you to set a hotkey to toggle between `lowercase` `UPPERCASE` and `Title Case` |
+| [Open Gate](https://github.com/nguyenvanduocit/obsidian-open-gate) | Embed any website to Obsidian, from now all, you have anything you need in one place. |
+| [Canvas Presentation](https://github.com/quorafind/obsidian-canvas-presentation) | A plugin to help you display cards based on sequence. |
+| [Paste As Html](https://github.com/maotong06/obsidian-paste-as-html-plugin) | Paste As Html, Keep the original css style. Paste from web browser |
+| [File Forgetting Curve](https://github.com/ptrsvltns/file-forgetting-curve-obsidian) | File Forgetting Curve |
