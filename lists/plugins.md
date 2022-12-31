@@ -387,7 +387,7 @@
 | [Flexible Pomodoro For Obsidian](https://github.com/grassbl8d/flexible-pomo-obsidian) | Adds a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend. |
 | [Lineup Builder](https://github.com/James-Fallon/obsidian-lineup-builder) | Build football lineups in Obsidian. |
 | [Reveal Active File Button](https://github.com/claremacrae/reveal-active-file-button-plugin) | Add a button to the top of the File Explorer, to reveal the active file. |
-| [Structured Plugin](https://github.com/dobrovolsky/obsidain-structure) | Structured plugin. Create hierarchy in notes using "." |
+| [Structured Plugin](https://github.com/dobrovolsky/obsidian-structure) | Structured plugin. Create hierarchy in notes using "." |
 | [CookLang Editor](https://github.com/deathau/cooklang-obsidian) | Edit and display CookLang recipes in Obsidian |
 | [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) | A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors 🎨. |
 | [Remotely Save](https://github.com/remotely-save/remotely-save) | Yet another unofficial plugin allowing users to sync notes between local device and the cloud service (S3, Dropbox, webdav, OneDrive). |
@@ -652,7 +652,7 @@
 | [Party🎉](https://github.com/shap-po/obsidian-party) | An implementation of party.js for Obsidian. Create confetti, sparkles, and even custom effects in your notes! |
 | [Day and Night](https://github.com/CyberT17/obsidian-day-and-night) | An Obsidian plugin to automatically toggle themes between day theme and night theme on a set time schedule. |
 | [TikZJax](https://github.com/artisticat1/obsidian-tikzjax) | Render LaTeX and TikZ diagrams in your notes. |
-| [Todoist completed tasks](https://github.com/Ledaryy/obsidian-todoist-completed-tasks) | Fetches completed tasks from todoist API and adds them to the Obsidian note. |
+| [Todoist completed tasks](https://github.com/Ledaryy/obsidian-todoist-completed-tasks) | Add completed Todoist tasks to your Obsidian notes |
 | [Quick snippets and navigation](https://github.com/aciq/obsidian-keyboard-shortcuts) | Keyboard navigation up/down for headings
 - Configurable default code block and callout
 - Copy code block via keyboard shortcut |
@@ -783,3 +783,12 @@
 | [Canvas Presentation](https://github.com/quorafind/obsidian-canvas-presentation) | A plugin to help you display cards based on sequence. |
 | [Paste As Html](https://github.com/maotong06/obsidian-paste-as-html-plugin) | Paste As Html, Keep the original css style. Paste from web browser |
 | [File Forgetting Curve](https://github.com/ptrsvltns/file-forgetting-curve-obsidian) | File Forgetting Curve |
+| [Base Tag Renderer](https://github.com/darrenkuro/obsidian-basetag) | This plugin renders the basename of tags in preview mode. |
+| [Todo sort](https://github.com/ryangomba/obsidian-todo-sort) | Sort todos by completion status |
+| [Keyshots](https://github.com/KrazyManJ/obsidian-keyshots) | Adds classic hotkey/shortcuts commands from popular IDEs like Visual Studio Code or JetBrains Family. |
+| [Wordy](https://github.com/nqthqn/obsidian-wordy) | Thesaurus, Rhymes and more using the Datamuse API. Find related words easily. |
+| [External Link Helper](https://github.com/nakalsio/obsidian-danpung) | This is a plugin for making inserting external links easier to your notes. |
+| [Local images plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | Local Images plus plugin is a reincarnation of obsidian-local-images which main aim was downloading images in md notes to local storage. |
+| [Google Photos](https://github.com/alangrainger/obsidian-google-photos) | Google Photos integration for Obsidian |
+| [WakaTime](https://github.com/wakatime/obsidian-wakatime) | Automatic time tracking and metrics generated from your Obsidian usage activity. |
+| [Text Extractor](https://github.com/scambier/obsidian-text-extractor) | A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs. |
