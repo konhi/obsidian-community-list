@@ -792,3 +792,6 @@
 | [Google Photos](https://github.com/alangrainger/obsidian-google-photos) | Google Photos integration for Obsidian |
 | [WakaTime](https://github.com/wakatime/obsidian-wakatime) | Automatic time tracking and metrics generated from your Obsidian usage activity. |
 | [Text Extractor](https://github.com/scambier/obsidian-text-extractor) | A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs. |
+| [Review Notes Plugin](https://github.com/tjandy98/obsidian-review-notes-plugin) | This plugin shows recently modified and newly created files |
+| [GPT-3 Notes](https://github.com/micahke/obsidian-gpt3-notes) | Generate notes on any subject using OpenAI's GPT-3 language model |
+| [Audio Notes](https://github.com/jjmaldonis/obsidian-audio-notes) | Create notes for audio files. |
