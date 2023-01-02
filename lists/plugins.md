@@ -795,3 +795,4 @@
 | [Review Notes Plugin](https://github.com/tjandy98/obsidian-review-notes-plugin) | This plugin shows recently modified and newly created files |
 | [GPT-3 Notes](https://github.com/micahke/obsidian-gpt3-notes) | Generate notes on any subject using OpenAI's GPT-3 language model |
 | [Audio Notes](https://github.com/jjmaldonis/obsidian-audio-notes) | Create notes for audio files. |
+| [Checklist Reset](https://github.com/lhansford/obsidian-checklist-reset) | Adds a command to reset the state of any checklists in a document |
