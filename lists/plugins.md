@@ -796,3 +796,4 @@
 | [GPT-3 Notes](https://github.com/micahke/obsidian-gpt3-notes) | Generate notes on any subject using OpenAI's GPT-3 language model |
 | [Audio Notes](https://github.com/jjmaldonis/obsidian-audio-notes) | Create notes for audio files. |
 | [Checklist Reset](https://github.com/lhansford/obsidian-checklist-reset) | Adds a command to reset the state of any checklists in a document |
+| [Mermaid Tools](https://github.com/dartungar/obsidian-mermaid) | Improved Mermaid.js experience for Obsidian: visual toolbar with common elements & more |
