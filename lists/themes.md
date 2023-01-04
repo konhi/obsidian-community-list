@@ -43,7 +43,6 @@
 | [manassadasivuni/obsidian-molecule](https://github.com/manassadasivuni/obsidian-molecule) | ![Molecule](https://raw.githubusercontent.com/manassadasivuni/obsidian-molecule/master/images/Screenshot1.png "") |
 | [sparklau/comfort-smooth](https://github.com/sparklau/comfort-smooth) | ![Comfort Smooth](https://raw.githubusercontent.com/sparklau/comfort-smooth/master/comfort-smooth.png "") |
 | [dxcore35/Suddha-theme](https://github.com/dxcore35/Suddha-theme) | ![Suddha](https://raw.githubusercontent.com/dxcore35/Suddha-theme/master/Images/Preview1.jpg "") |
-| [mgmeyers/obsidian-california-coast-theme](https://github.com/mgmeyers/obsidian-california-coast-theme) | ![California Coast](https://raw.githubusercontent.com/mgmeyers/obsidian-california-coast-theme/master/screenshots/04.png "") |
 | [radekkozak/discordian](https://github.com/radekkozak/discordian) | ![Discordian](https://raw.githubusercontent.com/radekkozak/discordian/master/media/screenshots/discordian-full-mode.png "") |
 | [chad-bennett/al-dente-obsidian-theme](https://github.com/chad-bennett/al-dente-obsidian-theme) | ![Al Dente](https://raw.githubusercontent.com/chad-bennett/al-dente-obsidian-theme/master/aldente-screenshot.png "") |
 | [santiyounger/Wasp-Obsidian-Theme](https://github.com/santiyounger/Wasp-Obsidian-Theme) | ![Wasp](https://raw.githubusercontent.com/santiyounger/Wasp-Obsidian-Theme/master/img/wasp-dark.png "") |
@@ -150,3 +149,10 @@
 | [7368697661/Origami](https://github.com/7368697661/Origami) | ![Origami](https://raw.githubusercontent.com/7368697661/Origami/master/screen.png "") |
 | [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) | ![Border](https://raw.githubusercontent.com/Akifyss/obsidian-border/master/cover.png "") |
 | [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) | ![Typora-Vue](https://raw.githubusercontent.com/ZekunC/Obsidian-Typora-Vue-Theme/master/obsidian-typora-vue.png "") |
+| [zalenza/Abecedarium-theme](https://github.com/zalenza/Abecedarium-theme) | ![Abecedarium](https://raw.githubusercontent.com/zalenza/Abecedarium-theme/master/abecedarium_dark.png "") |
+| [Bluemoondragon07/obsidian-light-and-bright-theme](https://github.com/Bluemoondragon07/obsidian-light-and-bright-theme) | ![Light & Bright](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-light-and-bright-theme/master/light-and-bright-cover.png "") |
+| [Bluemoondragon07/Wikipedia-Theme](https://github.com/Bluemoondragon07/Wikipedia-Theme) | ![Wikipedia](https://raw.githubusercontent.com/Bluemoondragon07/Wikipedia-Theme/master/example.png "") |
+| [AllJavi/material_gruvbox_obsidian](https://github.com/AllJavi/material_gruvbox_obsidian) | ![Material Gruvbox](https://raw.githubusercontent.com/AllJavi/material_gruvbox_obsidian/master/promo_screenshot.png "") |
+| [hush-hush/obsidian_wombat](https://github.com/hush-hush/obsidian_wombat) | ![Wombat](https://raw.githubusercontent.com/hush-hush/obsidian_wombat/master/main_thumbnail.png "") |
+| [JamesLemony/obsidian_vibrant](https://github.com/JamesLemony/obsidian_vibrant) | ![Vibrant](https://raw.githubusercontent.com/JamesLemony/obsidian_vibrant/master/images/demo1.png "") |
+| [PedroHenrique17/Atomus](https://github.com/PedroHenrique17/Atomus) | ![Atomus](https://raw.githubusercontent.com/PedroHenrique17/Atomus/master/Screenshot_1.png "") |
