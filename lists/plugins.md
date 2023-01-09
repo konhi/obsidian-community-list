@@ -797,3 +797,9 @@
 | [Audio Notes](https://github.com/jjmaldonis/obsidian-audio-notes) | Create notes for audio files. |
 | [Checklist Reset](https://github.com/lhansford/obsidian-checklist-reset) | Adds a command to reset the state of any checklists in a document |
 | [Mermaid Tools](https://github.com/dartungar/obsidian-mermaid) | Improved Mermaid.js experience for Obsidian: visual toolbar with common elements & more |
+| [Boost Link Suggestions](https://github.com/jglev/obsidian-boost-link-suggestions) | Alternative inline link suggester that orders results by link count and manual boosts. |
+| [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) | Exports an obsidian document, folder, or vault as an HTML document / webpage / website with correct styling. Also has an interactive embedded dark / light theme toggle, and document outline. |
+| [File Color](https://github.com/ecustic/obsidian-file-color) | An Obsidian plugin for setting colors on folders and files in the file tree. |
+| [Set In Obsidian](https://github.com/sandorex/set-in-obsidian-plugin) | Plugin for time planning |
+| [Hugo preview obsidian](https://github.com/fzdwx/hugo-preview-obsidian) | hugo preview for obsidian |
+| [File chucker](https://github.com/kenlim/file-chucker-plugin) | Quickly move a file to a new or existing folder, then open the next file. |
