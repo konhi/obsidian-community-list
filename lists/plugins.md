@@ -803,3 +803,7 @@
 | [Set In Obsidian](https://github.com/sandorex/set-in-obsidian-plugin) | Plugin for time planning |
 | [Hugo preview obsidian](https://github.com/fzdwx/hugo-preview-obsidian) | hugo preview for obsidian |
 | [File chucker](https://github.com/kenlim/file-chucker-plugin) | Quickly move a file to a new or existing folder, then open the next file. |
+| [Hints Flow](https://github.com/slpbx/obsidian-plugin) | Save data directly to Obsidian with specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more. |
+| [ArchiveBox](https://github.com/invariant/obsidian-archivebox-plugin) | ArchiveBox.io support for external Obsidian links |
+| [Quote Share](https://github.com/nguyenvanduocit/quote-share) | This plugin allow your to easily generate beautiful gradient images from text and share them on social media |
+| [Canvas Random Note](https://github.com/jmilldotdev/obsidian-canvas-randomnote) | Add random notes from your vault to the Obsidian canvas |
