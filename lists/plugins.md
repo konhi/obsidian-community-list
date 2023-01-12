@@ -807,3 +807,6 @@
 | [ArchiveBox](https://github.com/invariant/obsidian-archivebox-plugin) | ArchiveBox.io support for external Obsidian links |
 | [Quote Share](https://github.com/nguyenvanduocit/quote-share) | This plugin allow your to easily generate beautiful gradient images from text and share them on social media |
 | [Canvas Random Note](https://github.com/jmilldotdev/obsidian-canvas-randomnote) | Add random notes from your vault to the Obsidian canvas |
+| [Spoiler Block](https://github.com/AllJavi/spoiler-block-obsidian) | Just a simple obsidian plugin to hide information until you want to reveal it |
+| [Terminal](https://github.com/polyipseity/obsidian-terminal) | Open terminals in Obsidian directly. |
+| [Contacts](https://github.com/vbeskrovnov/obsidian-contacts) | Allows to manage and organize contacts. |
