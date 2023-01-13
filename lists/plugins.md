@@ -810,3 +810,8 @@
 | [Spoiler Block](https://github.com/AllJavi/spoiler-block-obsidian) | Just a simple obsidian plugin to hide information until you want to reveal it |
 | [Terminal](https://github.com/polyipseity/obsidian-terminal) | Open terminals in Obsidian directly. |
 | [Contacts](https://github.com/vbeskrovnov/obsidian-contacts) | Allows to manage and organize contacts. |
+| [Vega Visualizations](https://github.com/Some-Regular-Person/obsidian-vega) | Create highly-customizable data visualizations like line charts and scatter plots using Vega or Vega-Lite. |
+| [Link Nodes in Canvas](https://github.com/quorafind/obsidian-link-nodes-in-canvas) | A plugin for you to add edges between notes in Canvas based on their links. |
+| [Canvas CSS class](https://github.com/Lisandra-dev/obsidian-canvas-css-class) | Add a CSS class to the canvas, but also other attributes. |
+| [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | Find links to similar notes using artificial intelligence from OpenAI. |
+| [Short Internal Links to Headings](https://github.com/scottwillmoore/obsidian-short-internal-links-to-headings) | Display internal links to headings as just the heading name. |

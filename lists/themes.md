@@ -156,5 +156,5 @@
 | [hush-hush/obsidian_wombat](https://github.com/hush-hush/obsidian_wombat) | ![Wombat](https://raw.githubusercontent.com/hush-hush/obsidian_wombat/master/main_thumbnail.png "") |
 | [JamesLemony/obsidian_vibrant](https://github.com/JamesLemony/obsidian_vibrant) | ![Vibrant](https://raw.githubusercontent.com/JamesLemony/obsidian_vibrant/master/images/demo1.png "") |
 | [PedroHenrique17/Atomus](https://github.com/PedroHenrique17/Atomus) | ![Atomus](https://raw.githubusercontent.com/PedroHenrique17/Atomus/master/Screenshot_1.png "") |
-| [faroukx/Obsidian-shiba-uni-theme](https://github.com/faroukx/Obsidian-shiba-uni-theme) | ![Shiba Uni](https://raw.githubusercontent.com/faroukx/Obsidian-shiba-uni-theme/master/shibaunibackground-512-x-288.png "") |
+| [faroukx/Obsidian-shiba-inu-theme](https://github.com/faroukx/Obsidian-shiba-inu-theme) | ![Shiba Inu](https://raw.githubusercontent.com/faroukx/Obsidian-shiba-inu-theme/master/shibainubackgroundshowcase.png "") |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | ![AnuPpuccin](https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/master/preview.png "") |
