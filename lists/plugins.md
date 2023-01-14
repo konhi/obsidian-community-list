@@ -718,7 +718,7 @@
 | [Edit Gemini](https://github.com/Basil-Mori/obsidian-edit-gemini) | Allows the user to edit and create .gmi files. |
 | [Pretty BibTeX](https://github.com/sandrofigo/obsidian-pretty-bibtex) | Shows raw BibTeX bibliography entries in a prettier way |
 | [Frontmatter Links](https://github.com/Trikzon/obsidian-frontmatter-links) | Renders links in a note's frontmatter as links. |
-| [Ava](https://github.com/louis030195/obsidian-ava) | AI-enhanced reflection in Obsidian |
+| [Ava](https://github.com/louis030195/obsidian-ava) | Quickly format your notes with ChatGPT |
 | [Scroll to Top Plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) | This is a plugin for Obsidian that adds a button to scroll to the top of the current note. |
 | [Old Note Admonitor](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor) | This Obsidian plugin shows warnings if the note has not been updated for over specific days |
 | [Export Image plugin](https://github.com/zhouhua/obsidian-export-image) | Easily convert your article to image. |
@@ -815,3 +815,4 @@
 | [Canvas CSS class](https://github.com/Lisandra-dev/obsidian-canvas-css-class) | Add a CSS class to the canvas, but also other attributes. |
 | [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | Find links to similar notes using artificial intelligence from OpenAI. |
 | [Short Internal Links to Headings](https://github.com/scottwillmoore/obsidian-short-internal-links-to-headings) | Display internal links to headings as just the heading name. |
+| [Hyphenation](https://github.com/7596ff/obsidian-hyphenation) | Enables justified text and hyphenation |
