@@ -158,3 +158,4 @@
 | [PedroHenrique17/Atomus](https://github.com/PedroHenrique17/Atomus) | ![Atomus](https://raw.githubusercontent.com/PedroHenrique17/Atomus/master/Screenshot_1.png "") |
 | [faroukx/Obsidian-shiba-inu-theme](https://github.com/faroukx/Obsidian-shiba-inu-theme) | ![Shiba Inu](https://raw.githubusercontent.com/faroukx/Obsidian-shiba-inu-theme/master/shibainubackgroundshowcase.png "") |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | ![AnuPpuccin](https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/master/preview.png "") |
+| [Bluemoondragon07/chime-theme](https://github.com/Bluemoondragon07/chime-theme) | ![🔔 Chime](https://raw.githubusercontent.com/Bluemoondragon07/chime-theme/master/Chime.png "") |
