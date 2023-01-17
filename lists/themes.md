@@ -159,3 +159,5 @@
 | [faroukx/Obsidian-shiba-inu-theme](https://github.com/faroukx/Obsidian-shiba-inu-theme) | ![Shiba Inu](https://raw.githubusercontent.com/faroukx/Obsidian-shiba-inu-theme/master/shibainubackgroundshowcase.png "") |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | ![AnuPpuccin](https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/master/preview.png "") |
 | [Bluemoondragon07/chime-theme](https://github.com/Bluemoondragon07/chime-theme) | ![🔔 Chime](https://raw.githubusercontent.com/Bluemoondragon07/chime-theme/master/Chime.png "") |
+| [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) | ![Abyssal](https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/master/abyssal-thumbnail.png "") |
+| [lnbgc/obsidian-jotter](https://github.com/lnbgc/obsidian-jotter) | ![Jotter](https://raw.githubusercontent.com/lnbgc/obsidian-jotter/master/jotter.png "") |
