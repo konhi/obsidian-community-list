@@ -816,3 +816,9 @@
 | [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | Find links to similar notes using artificial intelligence from OpenAI. |
 | [Short Internal Links to Headings](https://github.com/scottwillmoore/obsidian-short-internal-links-to-headings) | Display internal links to headings as just the heading name. |
 | [Hyphenation](https://github.com/7596ff/obsidian-hyphenation) | Enables justified text and hyphenation |
+| [S3 attachments storage](https://github.com/TechTheAwesome/obsidian-s3) | An Obsidian plugin for storage and retrieval of media attachments on S3 compatible services. |
+| [Order List](https://github.com/lizard-heart/obsidian-order-list-plugin) | Adds 'Order selected list' command to take the selected list and order it by the number at the end. |
+| [Audio Player](https://github.com/noonesimg/obsidian-audio-player) | Audio player with background playback, bookmarks and wave visualiser instead of the default html5 audio |
+| [Task Marker](https://github.com/wenlzhang/obsidian-task-marker) | Change task statuses with hotkeys and context menu. Complete, cancel and mark tasks, as well as cycle among selected task statuses. |
+| [Weekly Review](https://github.com/brandonkboswell/weekly-review) | This is opens all of the files you have created in the last week. |
+| [GPT](https://github.com/jmilldotdev/obsidian-gpt) | GPT & Large Language Model completions in Obsidian editor via API |
