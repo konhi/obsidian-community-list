@@ -154,7 +154,7 @@
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Offers controls for adjusting theme, plugin, and snippet CSS variables |
 | [Advanced Obsidian URI](https://github.com/Vinzent03/obsidian-advanced-uri) | Advanced modes for Obsidian URI |
 | [Fountain](https://github.com/Darakah/obsidian-fountain) | Fountain Support for Obsidian |
-| [Word Splitting for Simplified Chinese in Edit Mode](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting |
+| [Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting |
 | [Table Extended](https://github.com/aidenlx/table-extended) | Enable extended table support with MultiMarkdown 6 syntax |
 | [Privacy Glasses](https://github.com/jillalberts/privacy-glasses) | Provides a ribbon icon and command to blur onscreen text for better privacy |
 | [Highlight Public Notes](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin) | This plugin warns that a note is public (based on a frontmatter attribute) by colorizing the note red. |
@@ -324,7 +324,7 @@
 | [Prominent Starred Files](https://github.com/valentine195/obsidian-prominent-starred-files) | Prominently display starred notes in the file explorer |
 | [OzanShare Publish](https://github.com/ozntel/ozanshare-publish-plugin) | Publish your markdown notes with a single click from your vault. (Closed Source) |
 | [Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts) | Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code (vscode) or Sublime Text |
-| [Task Collector (TC)](https://github.com/ebullient/obsidian-task-collector) | Manage completed tasks within a document |
+| [Task Collector (TC)](https://github.com/ebullient/obsidian-task-collector) | Change task status and collect tasks within a document using hotkeys and context menus. |
 | [Metadata Extractor](https://github.com/kometenstaub/metadata-extractor) | Metadata export (on a schedule) for integration with third-party apps like launchers or graph analysis software. |
 | [Quick Latex for Obsidian](https://github.com/joeyuping/quick_latex_obsidian) | A simple plugin to simplify and speedup latex math typing. |
 | [Itinerary](https://github.com/coddingtonbear/obsidian-itinerary) | Make planning your trip or event easier by rendering a calendar from event information found in your notes. |
@@ -822,3 +822,6 @@
 | [Task Marker](https://github.com/wenlzhang/obsidian-task-marker) | Change task statuses with hotkeys and context menu. Complete, cancel and mark tasks, as well as cycle among selected task statuses. |
 | [Weekly Review](https://github.com/brandonkboswell/weekly-review) | This is opens all of the files you have created in the last week. |
 | [GPT](https://github.com/jmilldotdev/obsidian-gpt) | GPT & Large Language Model completions in Obsidian editor via API |
+| [Pending notes](https://github.com/ulisesantana/obsidian-pending-notes) | Obsidian plugin for searching links without notes in your vault. |
+| [Email Block](https://github.com/joleaf/obsidian-email-block-plugin) | This plugin renders an email code block. |
+| [Code Emitter](https://github.com/mokeyish/obsidian-code-emitter) | An obsidian plugin that allows code blocks executed interactively in sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript etc. |

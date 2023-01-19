@@ -161,3 +161,4 @@
 | [Bluemoondragon07/chime-theme](https://github.com/Bluemoondragon07/chime-theme) | ![🔔 Chime](https://raw.githubusercontent.com/Bluemoondragon07/chime-theme/master/Chime.png "") |
 | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) | ![Abyssal](https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/master/abyssal-thumbnail.png "") |
 | [lnbgc/obsidian-jotter](https://github.com/lnbgc/obsidian-jotter) | ![Jotter](https://raw.githubusercontent.com/lnbgc/obsidian-jotter/master/jotter.png "") |
+| [PipeItToDevNull/PLN](https://github.com/PipeItToDevNull/PLN) | ![PLN](https://raw.githubusercontent.com/PipeItToDevNull/PLN/master/screenshot.png "") |
