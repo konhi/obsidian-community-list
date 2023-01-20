@@ -162,3 +162,4 @@
 | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) | ![Abyssal](https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/master/abyssal-thumbnail.png "") |
 | [lnbgc/obsidian-jotter](https://github.com/lnbgc/obsidian-jotter) | ![Jotter](https://raw.githubusercontent.com/lnbgc/obsidian-jotter/master/jotter.png "") |
 | [PipeItToDevNull/PLN](https://github.com/PipeItToDevNull/PLN) | ![PLN](https://raw.githubusercontent.com/PipeItToDevNull/PLN/master/screenshot.png "") |
+| [clbn/dracula-gemini](https://github.com/clbn/dracula-gemini) | ![Dracula Gemini](https://raw.githubusercontent.com/clbn/dracula-gemini/master/images/cover-thumbnail.png "") |
