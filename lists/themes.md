@@ -134,7 +134,7 @@
 | [erykwalder/dayspring-theme](https://github.com/erykwalder/dayspring-theme) | ![Dayspring](https://raw.githubusercontent.com/erykwalder/dayspring-theme/master/screenshots/thumbnail.png "") |
 | [zamsyt/obsidian-fusion](https://github.com/zamsyt/obsidian-fusion) | ![Fusion](https://raw.githubusercontent.com/zamsyt/obsidian-fusion/master/thumbnail.png "") |
 | [7368697661/Ultra-Lobster](https://github.com/7368697661/Ultra-Lobster) | ![Ultra Lobster](https://raw.githubusercontent.com/7368697661/Ultra-Lobster/master/preview_thumb.png "") |
-| [krios2146/obsidian-github](https://github.com/krios2146/obsidian-github) | ![GitHub theme](https://raw.githubusercontent.com/krios2146/obsidian-github/master/thumbnail.png "") |
+| [krios2146/obsidian-theme-github](https://github.com/krios2146/obsidian-theme-github) | ![GitHub Theme](https://raw.githubusercontent.com/krios2146/obsidian-theme-github/master/thumbnail.png "") |
 | [doctorfree/Obsidian-Doctorfree](https://github.com/doctorfree/Obsidian-Doctorfree) | ![Doctorfree](https://raw.githubusercontent.com/doctorfree/Obsidian-Doctorfree/master/screenshots/headings.png "") |
 | [marcoluzi/obsidian-synthwave](https://github.com/marcoluzi/obsidian-synthwave) | ![SynthWave](https://raw.githubusercontent.com/marcoluzi/obsidian-synthwave/master/screenshot.jpeg "") |
 | [ltctceplrm/oldsidian-purple](https://github.com/ltctceplrm/oldsidian-purple) | ![Oldsidian Purple](https://raw.githubusercontent.com/ltctceplrm/oldsidian-purple/master/cover.png "") |
