@@ -825,3 +825,5 @@
 | [Pending notes](https://github.com/ulisesantana/obsidian-pending-notes) | Obsidian plugin for searching links without notes in your vault. |
 | [Email Block](https://github.com/joleaf/obsidian-email-block-plugin) | This plugin renders an email code block. |
 | [Code Emitter](https://github.com/mokeyish/obsidian-code-emitter) | An obsidian plugin that allows code blocks executed interactively in sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript etc. |
+| [Plugin Groups](https://github.com/Mocca101/obsidian-plugin-groups) | Manage your Plugins with groups: Enable & disable multiple plugins at once or delay their startup to speed up your Obsidian start up time. |
+| [IVRE](https://github.com/ivre/obsidian-ivre-plugin) | IVRE integration for Obsidian: grab data from IVRE and bring it into Obsidian notes. |
