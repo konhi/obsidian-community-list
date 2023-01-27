@@ -827,3 +827,6 @@
 | [Code Emitter](https://github.com/mokeyish/obsidian-code-emitter) | An obsidian plugin that allows code blocks executed interactively in sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript etc. |
 | [Plugin Groups](https://github.com/Mocca101/obsidian-plugin-groups) | Manage your Plugins with groups: Enable & disable multiple plugins at once or delay their startup to speed up your Obsidian start up time. |
 | [IVRE](https://github.com/ivre/obsidian-ivre-plugin) | IVRE integration for Obsidian: grab data from IVRE and bring it into Obsidian notes. |
+| [Canvas Conversation](https://github.com/AndreBaltazar8/obsidian-canvas-conversation) | A plugin for Obsidian that allows you to create a canvas conversation using ChatGPT. |
+| [Image Captions](https://github.com/alangrainger/obsidian-image-captions) | Adds captions to images when there is alt-text specified |
+| [The One Ring 2E Statblocks](https://github.com/modality/obsidian-the-one-ring-2e-statblocks) | Render NPC and adversary statblocks for The One Ring 2E roleplaying game. |
