@@ -830,3 +830,5 @@
 | [Canvas Conversation](https://github.com/AndreBaltazar8/obsidian-canvas-conversation) | A plugin for Obsidian that allows you to create a canvas conversation using ChatGPT. |
 | [Image Captions](https://github.com/alangrainger/obsidian-image-captions) | Adds captions to images when there is alt-text specified |
 | [The One Ring 2E Statblocks](https://github.com/modality/obsidian-the-one-ring-2e-statblocks) | Render NPC and adversary statblocks for The One Ring 2E roleplaying game. |
+| [Reference Map](https://github.com/anoopkcn/obsidian-reference-map) | Reference and citation map for literature review and discovery. |
+| [Khoj](https://github.com/debanjum/khoj) | Natural, Incremental Search for your Second Brain 🦅 |
