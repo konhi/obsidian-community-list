@@ -832,3 +832,4 @@
 | [The One Ring 2E Statblocks](https://github.com/modality/obsidian-the-one-ring-2e-statblocks) | Render NPC and adversary statblocks for The One Ring 2E roleplaying game. |
 | [Reference Map](https://github.com/anoopkcn/obsidian-reference-map) | Reference and citation map for literature review and discovery. |
 | [Khoj](https://github.com/debanjum/khoj) | Natural, Incremental Search for your Second Brain 🦅 |
+| [Custom File Extensions and Types](https://github.com/MeepTech/obsidian-custom-file-extensions-plugin) | This plugin allows simple and modular control over what views open what file extensions from the app settings. |
