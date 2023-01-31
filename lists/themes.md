@@ -163,3 +163,5 @@
 | [lnbgc/obsidian-jotter](https://github.com/lnbgc/obsidian-jotter) | ![Jotter](https://raw.githubusercontent.com/lnbgc/obsidian-jotter/master/jotter.png "") |
 | [PipeItToDevNull/PLN](https://github.com/PipeItToDevNull/PLN) | ![PLN](https://raw.githubusercontent.com/PipeItToDevNull/PLN/master/screenshot.png "") |
 | [clbn/dracula-gemini](https://github.com/clbn/dracula-gemini) | ![Dracula Gemini](https://raw.githubusercontent.com/clbn/dracula-gemini/master/images/cover-thumbnail.png "") |
+| [minheeyoon/Dawn](https://github.com/minheeyoon/Dawn) | ![Dawn](https://raw.githubusercontent.com/minheeyoon/Dawn/master/assets/00-screenshot-small.png "") |
+| [JorgEdmundo/cybertron-shifted](https://github.com/JorgEdmundo/cybertron-shifted) | ![Cybertron Shifted](https://raw.githubusercontent.com/JorgEdmundo/cybertron-shifted/master/CybertronShifted.png "") |
