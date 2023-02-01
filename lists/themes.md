@@ -165,3 +165,4 @@
 | [clbn/dracula-gemini](https://github.com/clbn/dracula-gemini) | ![Dracula Gemini](https://raw.githubusercontent.com/clbn/dracula-gemini/master/images/cover-thumbnail.png "") |
 | [minheeyoon/Dawn](https://github.com/minheeyoon/Dawn) | ![Dawn](https://raw.githubusercontent.com/minheeyoon/Dawn/master/assets/00-screenshot-small.png "") |
 | [JorgEdmundo/cybertron-shifted](https://github.com/JorgEdmundo/cybertron-shifted) | ![Cybertron Shifted](https://raw.githubusercontent.com/JorgEdmundo/cybertron-shifted/master/CybertronShifted.png "") |
+| [NicolasGHS/Rezin-theme](https://github.com/NicolasGHS/Rezin-theme) | ![Rezin](https://raw.githubusercontent.com/NicolasGHS/Rezin-theme/master/assets/image.png "") |
