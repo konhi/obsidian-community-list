@@ -834,3 +834,4 @@
 | [Khoj](https://github.com/debanjum/khoj) | Natural, Incremental Search for your Second Brain 🦅 |
 | [Custom File Extensions and Types](https://github.com/MeepTech/obsidian-custom-file-extensions-plugin) | This plugin allows simple and modular control over what views open what file extensions from the app settings. |
 | [Incremental ID](https://github.com/adziok/obsidian-incremental-id) | Allow to generate Jira like ids. |
+| [Canvas Mindmap](https://github.com/quorafind/obsidian-canvas-mindmap) | A plugin to make your canvas work like a mindmap. |
