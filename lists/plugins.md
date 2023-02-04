@@ -63,7 +63,7 @@
 | [Rollover Daily Todos](https://github.com/shichongrui/obsidian-rollover-daily-todos) | This plugin will rollover any unchecked checkboxes from your last daily note into today's note |
 | [Automatically Reveal Active File](https://github.com/shichongrui/obsidian-reveal-active-file) | This plugin will automatically reveal the currently active file in the side navigation. |
 | [Export To TeX](https://github.com/raineszm/obsidian-export-to-tex) | Export vault files in a format amenable to pasting into a TeX document |
-| [Extended MathJax](https://github.com/xldenis/obsidian-latex) | Enables additional MathJax packages and adds a global preamble for MathJax |
+| [Extended MathJax](https://github.com/wei2912/obsidian-latex) | Enables additional MathJax packages and adds a global preamble for MathJax |
 | [Apple Reminders](https://github.com/urishiraval/obsidian-apple-reminders-plugin) | A plugin to attempt to bring Apple Reminders into Obsidian. |
 | [Contextual Typography](https://github.com/mgmeyers/obsidian-contextual-typography) | This plugin adds a data-tag-name attribute to all top-level divs in preview mode containing the child's tag name, allowing contextual typography styling. |
 | [Neo4j Graph View](https://github.com/HEmile/obsidian-neo4j-graph-view) | A plugin for advanced graph visualization and querying using Neo4j. |
@@ -366,7 +366,7 @@
 | [Tweet to Markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) | Save tweets as Markdown files, along with their images, polls, etc. |
 | [Habitica Sync](https://github.com/SuperChamp234/habitica-sync) | This plugin helps integrate Habitica user tasks and stats into Obsidian |
 | [Oura Plugin for Obsidian](https://github.com/kinabalu/obsidian-oura-plugin) | A plugin for importing oura ring data into a note |
-| [Metacopy](https://github.com/Lisandra-dev/obsidian-metacopy) | Copy the value of a frontmatter key. |
+| [Metacopy & URL](https://github.com/Lisandra-dev/obsidian-metacopy) | Copy the value of a frontmatter key and allows to create link from it using various settings. |
 | [Image Caption](https://github.com/bicarlsen/obsidian_image_caption) | Add caption to images. |
 | [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) | Find hidden connections between notes in your vault using cool graph algorithms |
 | [Custom Attachment Location](https://github.com/RainCat1998/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like typora. |
@@ -540,7 +540,7 @@
 | [Drag-n-Drop for blocks](https://github.com/artem-barmin/obsidian-block-drag-n-drop) | Allow moving/copying/and creation embeds for blocks with drag-n-drop just like Logseq or Roam |
 | [Link Embed](https://github.com/Seraphli/obsidian-link-embed) | This plugin allow you to convert URLs in your notes into embeded previews. |
 | [Obsidian Columns](https://github.com/tnichols217/obsidian-columns) | Allows you to create columns in Obsidian Markdown |
-| [Github Publisher](https://github.com/obsidianMkdocs/obsidian-github-publisher) | Github Publisher is a plugin that help you to send file in a configured Github Repository, based on a frontmatter entry state. |
+| [Github Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) | Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more! |
 | [Notion Video Embed](https://github.com/LastKnightCoder/obsidian-notion-video) | embed your notion video in obsidian |
 | [Obsidian Math+](https://github.com/ocapraro/obsidian-math-plus) | This is an Obsidian plugin for taking math notes using Excalidraw. |
 | [Todoist Link](https://github.com/dennisseidel/obsidian-todoist-link) | Create Todoist tasks and projects including bidirectional links from Obsidian |
@@ -794,7 +794,7 @@
 | [Text Extractor](https://github.com/scambier/obsidian-text-extractor) | A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs. |
 | [Review Notes Plugin](https://github.com/tjandy98/obsidian-review-notes-plugin) | This plugin shows recently modified and newly created files |
 | [GPT-3 Notes](https://github.com/micahke/obsidian-gpt3-notes) | Generate notes on any subject using OpenAI's GPT-3 language model |
-| [Audio Notes](https://github.com/jjmaldonis/obsidian-audio-notes) | Create notes for audio files. |
+| [Audio Notes](https://github.com/jjmaldonis/obsidian-audio-notes) | Create notes for podcasts and audio files, and automatically generate transcripts while listening so you can quickly take notes on the best parts of the podcast. |
 | [Checklist Reset](https://github.com/lhansford/obsidian-checklist-reset) | Adds a command to reset the state of any checklists in a document |
 | [Mermaid Tools](https://github.com/dartungar/obsidian-mermaid) | Improved Mermaid.js experience for Obsidian: visual toolbar with common elements & more |
 | [Boost Link Suggestions](https://github.com/jglev/obsidian-boost-link-suggestions) | Alternative inline link suggester that orders results by link count and manual boosts. |
