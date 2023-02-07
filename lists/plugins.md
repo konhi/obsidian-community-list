@@ -408,7 +408,6 @@
 | [Publish to WordPress for Obsidian](https://github.com/devbean/obsidian-wordpress) | A plugin to publish your Obsidian documents to WordPress |
 | [Icon Shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) | Insert emoji and custom icons with shortcodes |
 | [TagFolder](https://github.com/vrtmrz/obsidian-tagfolder) | Show tags as folder. |
-| [Advanced Slides](https://github.com/MSzturc/obsidian-advanced-slides) | Create markdown-based presentations in Obsidian |
 | [Obsidian Graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) | Render Graphviz Diagrams |
 | [Vim IM Select](https://github.com/ALONELUR/vim-im-select-obsidian) | Support auto select the apposite input method in different vim mode. |
 | [Emotion Picker](https://github.com/dartungar/obsidian-emotion-picker) | Choose an emotion from a list to insert into a note. |
