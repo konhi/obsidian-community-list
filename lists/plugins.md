@@ -834,3 +834,7 @@
 | [Custom File Extensions and Types](https://github.com/MeepTech/obsidian-custom-file-extensions-plugin) | This plugin allows simple and modular control over what views open what file extensions from the app settings. |
 | [Incremental ID](https://github.com/adziok/obsidian-incremental-id) | Allow to generate Jira like ids. |
 | [Canvas Mindmap](https://github.com/quorafind/obsidian-canvas-mindmap) | A plugin to make your canvas work like a mindmap. |
+| [Link Exploder](https://github.com/benhughes/obsidian-link-exploder) | Link Exploder creates a canvas from a note, embedding it's incoming (i.e. backlinks) and outgoing links onto the canvas (as well as the their linked notes). |
+| [Cycle In Sidebar](https://github.com/houcheng/obsidian-cycle-in-sidebar-plugin) | This a plugin provides hotkeys to cycle through tabs in the left or right sidebars. |
+| [Adamantine Pick](https://github.com/notlibrary/obsidian-adamantine-pick) | Embeddable Pikchr diagrams renderer plugin for Obsidian |
+| [Antidote Grammar Checker Integration](https://github.com/heziode/obsidian-antidote) | Unofficial integration of Antidote, a powerful English and French grammar checker |
