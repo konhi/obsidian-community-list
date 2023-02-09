@@ -838,3 +838,4 @@
 | [Cycle In Sidebar](https://github.com/houcheng/obsidian-cycle-in-sidebar-plugin) | This a plugin provides hotkeys to cycle through tabs in the left or right sidebars. |
 | [Adamantine Pick](https://github.com/notlibrary/obsidian-adamantine-pick) | Embeddable Pikchr diagrams renderer plugin for Obsidian |
 | [Antidote Grammar Checker Integration](https://github.com/heziode/obsidian-antidote) | Unofficial integration of Antidote, a powerful English and French grammar checker |
+| [S3 Image Uploader](https://github.com/jvsteiner/s3-image-uploader) | An image uploader for Obsidian that allows you to self host images on AWS S3. |
