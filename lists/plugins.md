@@ -839,3 +839,8 @@
 | [Adamantine Pick](https://github.com/notlibrary/obsidian-adamantine-pick) | Embeddable Pikchr diagrams renderer plugin for Obsidian |
 | [Antidote Grammar Checker Integration](https://github.com/heziode/obsidian-antidote) | Unofficial integration of Antidote, a powerful English and French grammar checker |
 | [S3 Image Uploader](https://github.com/jvsteiner/s3-image-uploader) | An image uploader for Obsidian that allows you to self host images on AWS S3. |
+| [Canvas Filter](https://github.com/IKoshelev/Obsidian-Canvas-Filter) | This plugin lets you filter Canvas to only show items of specific color, tags or only connected to currently selected node. |
+| [Note aliases](https://github.com/pulsovi/obsidian-note-aliases) | This plugin manages aliases of notes in Obsidian. |
+| [Text Wrapper](https://github.com/smx0/obs-text-wrapper) | Quickly wrap selected text with HTML tags by using a shortcut or from the command palette |
+| [Kill and Yank](https://github.com/inouetakuya/obsidian-kill-and-yank) | Enable kill and yank (like Emacs) in the editor |
+| [Double Colon Conceal](https://github.com/msrch/obsidian-double-colon-conceal) | Display double colon (i.e. Dataview inline fields) as a single colon in reading view (preview mode) for more natural experience. |
