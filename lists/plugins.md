@@ -844,3 +844,8 @@
 | [Text Wrapper](https://github.com/smx0/obs-text-wrapper) | Quickly wrap selected text with HTML tags by using a shortcut or from the command palette |
 | [Kill and Yank](https://github.com/inouetakuya/obsidian-kill-and-yank) | Enable kill and yank (like Emacs) in the editor |
 | [Double Colon Conceal](https://github.com/msrch/obsidian-double-colon-conceal) | Display double colon (i.e. Dataview inline fields) as a single colon in reading view (preview mode) for more natural experience. |
+| [🪝 Grappling Hook](https://github.com/chrisgrieser/grappling-hook) | Obsidian Plugin for blazingly fast file switching. For people for whom using the Quick Switcher still takes too much time. |
+| [Tag Search](https://github.com/rwblickhan/obsidian-tag-search) | Fuzzy-find your tags! |
+| [YTranscript](https://github.com/lstrzepek/obsidian-yt-transcript) | Easily fetch transcription for any Youtube video |
+| [Habit Calendar](https://github.com/hedonihilist/obsidian-habit-calendar) | Monthly Habit Calendar for DataviewJS. This plugin helps you render a calendar inside DataviewJS code block, showing your habit status within a month. |
+| [Console Markdown Plugin](https://github.com/dellermann/obsidian-console) | Renders console commands and their output. |
