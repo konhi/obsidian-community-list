@@ -197,7 +197,7 @@
 | [Readwise Mirror](https://github.com/jsonMartin/readwise-mirror) | Mirror your Readwise library directly into an Obsidian vault |
 | [Auto pair chinese symbol](https://github.com/renmu123/obsidian-auto-pair-chinese-symbol) | Auto pair chinese symbol |
 | [Obsidian Pomodoro Plugin](https://github.com/tokuhirom/obsidian-pomodoro-plugin) | This is a simple pomodoro plugin for Obsidian. |
-| [TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) | Create TTRPG styled statblocks in Obsidian.md |
+| [Fantasy Statblocks](https://github.com/valentine195/fantasy-statblocks) | Create Fantasy Statblocks in Obsidian.md |
 | [Zoom](https://github.com/vslinko/obsidian-zoom) | Zoom into heading and lists. |
 | [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all) | This plugin adds a button to collapse all folders in the file explorer. |
 | [Charts View](https://github.com/caronchen/obsidian-chartsview-plugin) | Data visualization solution in Obsidian, support plots and graphs. |
