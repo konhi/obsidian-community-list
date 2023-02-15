@@ -123,7 +123,7 @@
 | [danyim/obsidian-zenburn](https://github.com/danyim/obsidian-zenburn) | ![Zenburn](https://raw.githubusercontent.com/danyim/obsidian-zenburn/master/screen.png "") |
 | [roberts-code/obsidian-theme-modern-dark](https://github.com/roberts-code/obsidian-theme-modern-dark) | ![Modern Dark](https://raw.githubusercontent.com/roberts-code/obsidian-theme-modern-dark/master/screenshot.png "") |
 | [learnerfvs/WiseLight](https://github.com/learnerfvs/WiseLight) | ![WiseLight](https://raw.githubusercontent.com/learnerfvs/WiseLight/master/WiseLight%20Cover.png "") |
-| [MajorEnkidu/red-solitude-obsidian-theme](https://github.com/MajorEnkidu/red-solitude-obsidian-theme) | ![Red Solitude](https://raw.githubusercontent.com/MajorEnkidu/red-solitude-obsidian-theme/master/promo_screenshot.png "") |
+| [MajorEnkidu/solitude-obsidian-theme](https://github.com/MajorEnkidu/solitude-obsidian-theme) | ![Solitude](https://raw.githubusercontent.com/MajorEnkidu/solitude-obsidian-theme/master/promo_screenshot.png "") |
 | [mulfok/obsidian-viridian](https://github.com/mulfok/obsidian-viridian) | ![Viridian](https://raw.githubusercontent.com/mulfok/obsidian-viridian/master/cover.png "") |
 | [sspaeti/obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) | ![Kanagawa](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa/master/dark.png "") |
 | [maldonacho/obsidian-encore-theme](https://github.com/maldonacho/obsidian-encore-theme) | ![Encore](https://raw.githubusercontent.com/maldonacho/obsidian-encore-theme/master/images/promo-image.png "") |
@@ -168,3 +168,4 @@
 | [NicolasGHS/Rezin-theme](https://github.com/NicolasGHS/Rezin-theme) | ![Rezin](https://raw.githubusercontent.com/NicolasGHS/Rezin-theme/master/assets/image.png "") |
 | [threethan/obsidian-material-flat-theme/](https://github.com/threethan/obsidian-material-flat-theme/) | ![Material Flat](https://raw.githubusercontent.com/threethan/obsidian-material-flat-theme//master/screenshot.png "") |
 | [frank0713/nightingale-obsidian](https://github.com/frank0713/nightingale-obsidian) | ![Nightingale](https://raw.githubusercontent.com/frank0713/nightingale-obsidian/master/image/cover.png "") |
+| [sergey900553/obsidian_dekurai_theme](https://github.com/sergey900553/obsidian_dekurai_theme) | ![Dekurai](https://raw.githubusercontent.com/sergey900553/obsidian_dekurai_theme/master/screenshot.png "") |
