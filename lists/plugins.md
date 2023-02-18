@@ -850,3 +850,8 @@
 | [YTranscript](https://github.com/lstrzepek/obsidian-yt-transcript) | Easily fetch transcription for any Youtube video |
 | [Habit Calendar](https://github.com/hedonihilist/obsidian-habit-calendar) | Monthly Habit Calendar for DataviewJS. This plugin helps you render a calendar inside DataviewJS code block, showing your habit status within a month. |
 | [Console Markdown Plugin](https://github.com/dellermann/obsidian-console) | Renders console commands and their output. |
+| [Quip](https://github.com/sblakey/obsidian-quip) | Commands to publish Obsidian notes to Quip.com |
+| [Custom Classes](https://github.com/LilaRest/obsidian-custom-classes) | Add your own HTML classes to chosen Markdown elements directly from your notes. |
+| [Babashka](https://github.com/filipesilva/obsidian-babashka) | Evaluate Clojure(Script) codeblocks in Babashka. |
+| [DMN Eval](https://github.com/joleaf/obsidian-dmn-eval-plugin) | This plugin enables evaluating/executing DMNs. |
+| [Restore Tab Key](https://github.com/jrymk/restore-tab-key) | Restore tab key behaviour: tab key inserts a tab, the way it should be. |

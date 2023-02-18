@@ -170,3 +170,5 @@
 | [frank0713/nightingale-obsidian](https://github.com/frank0713/nightingale-obsidian) | ![Nightingale](https://raw.githubusercontent.com/frank0713/nightingale-obsidian/master/image/cover.png "") |
 | [sergey900553/obsidian_dekurai_theme](https://github.com/sergey900553/obsidian_dekurai_theme) | ![Dekurai](https://raw.githubusercontent.com/sergey900553/obsidian_dekurai_theme/master/screenshot.png "") |
 | [callumhackett/obsidian_polka_theme](https://github.com/callumhackett/obsidian_polka_theme) | ![Polka](https://raw.githubusercontent.com/callumhackett/obsidian_polka_theme/master/polka.png "") |
+| [gbraad/obsidian-tomorrow-night-bright-theme](https://github.com/gbraad/obsidian-tomorrow-night-bright-theme) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/gbraad/obsidian-tomorrow-night-bright-theme/master/images/example.png "") |
+| [mProjectsCode/obsidian-lemons-theme](https://github.com/mProjectsCode/obsidian-lemons-theme) | ![Lemons Theme](https://raw.githubusercontent.com/mProjectsCode/obsidian-lemons-theme/master/lemons-theme-picture-low-res.PNG "") |
