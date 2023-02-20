@@ -855,3 +855,4 @@
 | [Babashka](https://github.com/filipesilva/obsidian-babashka) | Evaluate Clojure(Script) codeblocks in Babashka. |
 | [DMN Eval](https://github.com/joleaf/obsidian-dmn-eval-plugin) | This plugin enables evaluating/executing DMNs. |
 | [Restore Tab Key](https://github.com/jrymk/restore-tab-key) | Restore tab key behaviour: tab key inserts a tab, the way it should be. |
+| [Omnivore](https://github.com/omnivore-app/obsidian-omnivore) | This is an Omnivore plugin for Obsidian. |
