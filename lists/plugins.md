@@ -463,7 +463,6 @@
 | [Auto Note Mover](https://github.com/farux/obsidian-auto-note-mover) | Auto Note Mover will automatically move the active notes to their respective folders according to the rules. |
 | [Insert Heading Link](https://github.com/Signynt/insert-heading-link) | Add a command to create a Link to a Heading. |
 | [Settings Search](https://github.com/valentine195/obsidian-settings-search) | Globally search settings in Obsidian.md |
-| [Footnote & Citation Indicator](https://github.com/chrisgrieser/obsidian-footnote-indicator) | Indicates the presence of footnotes in the gutter. Displays footnote and citation counts in the status bar. |
 | [Word Splitting for Japanese in Edit Mode](https://github.com/sonarAIT/cm-japanese-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Japanese word splitting |
 | [AidenLx's Folder Note - folderv Component](https://github.com/aidenlx/alx-folder-note-folderv) | Optional `folderv` Component for alx-folder-note |
 | [Chevereto Image Uploader for Obsidian](https://github.com/kkzzhizhou/obsidian-chevereto-image-uploader) | This plugin uploads images in your clipboard to chevereto. |
@@ -618,7 +617,6 @@
 | [Commander](https://github.com/phibr0/obsidian-commander) | Customize your workspace by adding commands everywhere, create macros and supercharge your mobile toolbar. |
 | [Obsidian Attendance](https://github.com/Tiim/obsidian-attendance) | Helps you take attendance directly inside of your notes. |
 | [File Hider](https://github.com/Oliver-Akins/file-hider) | Allows you to hide files and folders from the Obsidian file explorer if you don't want to see them anymore. |
-| [Sidebar Toggler](https://github.com/chrisgrieser/obsidian-sidebar-toggler) | Finer control of the Obsidian sidebars. To be used with an external window manager. |
 | [Path Finder](https://github.com/jerrywcy/obsidian-path-finder) | A plugin that can find all paths between two notes and render them as graph or text. |
 | [Focus and Highlight](https://github.com/nagi1999a/obsidian-focus-plugin) | A plugin for Obsidian that will highlight and focus on the currently selected heading |
 | [File Cooker](https://github.com/ivaneye/obsidian-files-cooker) | Deal batch notes from Search results、current file、Dataview query string... |
@@ -777,7 +775,7 @@
 | [Project Garden](https://github.com/bgoosman/obsidian-project-garden) | See all your projects in one place |
 | [Workona To Obsidian](https://github.com/Holmes555/workona-to-obsidian) | Import Workona resources through generated JSON file. |
 | [Read Later](https://github.com/Canna71/obsidian-readlater) | Synch web pages to markdown and integrate with read-it-later apps (Pocket, Instapaper) |
-| [Surfing](https://github.com/quorafind/obsidian-surfing) | Surf the Net in Obsidian |
+| [Surfing](https://github.com/quorafind/obsidian-surfing) | Surf the Net in Obsidian like a web browser. |
 | [Toggle Case](https://github.com/MatthewAlner/obsidian-toggle-case) | This plugin allows you to set a hotkey to toggle between `lowercase` `UPPERCASE` and `Title Case` |
 | [Open Gate](https://github.com/nguyenvanduocit/obsidian-open-gate) | Embed any website to Obsidian, from now all, you have anything you need in one place. |
 | [Canvas Presentation](https://github.com/quorafind/obsidian-canvas-presentation) | A plugin to help you display cards based on sequence. |
