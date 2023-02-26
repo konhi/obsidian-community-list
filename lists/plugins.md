@@ -115,7 +115,7 @@
 | [Meld Encrypt](https://github.com/meld-cp/obsidian-encrypt) | Hide secrets in your notes |
 | [Vault Statistics](https://github.com/bkyle/obsidian-vault-statistics-plugin) | Status bar item with vault statistics such as number of notes, files, attachments, and links |
 | [Obsidian TODO \| Text-based GTD](https://github.com/larslockefeer/obsidian-plugin-todo) | Text-based GTD in Obsidian. Collects all outstanding TODOs from your vault and presents them in lists Today, Scheduled, Inbox and Someday/Maybe. |
-| [Hotkeys for specific files](https://github.com/Vinzent03/obsidian-hotkeys-for-specific-files) | Set hotkeys for specific files and open them just with your keyboard. |
+| [Hotkeys for specific files](https://github.com/Vinzent03/obsidian-hotkeys-for-specific-files) | Add commands for specific files and open them with a hotkey |
 | [CSV Editor](https://github.com/deathau/csv-obsidian) | Edit CSV files in Obsidian |
 | [Table of Contents](https://github.com/hipstersmoothie/obsidian-plugin-toc) | Create a table of contents for a note. |
 | [Mochi Cards Exporter](https://github.com/kalbetredev/mochi-cards-exporter) | Export Markdown notes to Mochi cards from within obsidian |
@@ -150,9 +150,9 @@
 | [Buttons](https://github.com/shabegom/buttons) | Create Buttons in your Obsidian notes to run commands, open links, and insert templates |
 | [Admonition](https://github.com/valentine195/obsidian-admonition) | Admonition block-styled content for Obsidian.md |
 | [Tracker](https://github.com/pyrochlore/obsidian-tracker) | Tracks occurrences and numbers in your notes |
-| [Hotkeys for templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) | Add hotkeys to insert specific templates |
+| [Hotkeys for templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) | Add commands to insert specific templates with a hotkey |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Offers controls for adjusting theme, plugin, and snippet CSS variables |
-| [Advanced Obsidian URI](https://github.com/Vinzent03/obsidian-advanced-uri) | Advanced modes for Obsidian URI |
+| [Advanced URI](https://github.com/Vinzent03/obsidian-advanced-uri) | Control everything in Obsidian with URI |
 | [Fountain](https://github.com/Darakah/obsidian-fountain) | Fountain Support for Obsidian |
 | [Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting |
 | [Table Extended](https://github.com/aidenlx/table-extended) | Enable extended table support with MultiMarkdown 6 syntax |
@@ -854,3 +854,14 @@
 | [DMN Eval](https://github.com/joleaf/obsidian-dmn-eval-plugin) | This plugin enables evaluating/executing DMNs. |
 | [Restore Tab Key](https://github.com/jrymk/restore-tab-key) | Restore tab key behaviour: tab key inserts a tab, the way it should be. |
 | [Omnivore](https://github.com/omnivore-app/obsidian-omnivore) | This is an Omnivore plugin for Obsidian. |
+| [Inbox](https://github.com/Zachatoo/obsidian-inbox) | Show in app notification on startup if there is data to process in the "inbox" note. |
+| [Text Progress Bar](https://github.com/michaeladams/obsidian-text-progress-bar) | Display low-fi text progress bars in your notes. |
+| [Reading comments](https://github.com/BumbrT/obsidian-reading-comments) | Plugin allows you to create inline comments while you read books or articles in Obsidian. Comments could be grouped hierarchically by tags. |
+| [ProgressBar](https://github.com/zwpaper/obsidian-progressbar) | Render CodeBlock into a ProgressBar based on Time or Manually. |
+| [Kindle CSV Converter](https://github.com/alvaro-cas/kindle-csv-converter-obsidian) | Import your Kindle notes in .csv format to Obsidian. |
+| [Material Symbols](https://github.com/cberane/obsidian-material-symbols) | This plugin adds the material symbols (outlined) to obsidian |
+| [Unicode Search](https://github.com/BambusControl/obsidian-unicode-search) | Search and insert Unicode characters into your editor |
+| [Awesome Reader](https://github.com/AwesomeDog/obsidian-awesome-reader) | Make Obsidian a proper Reader. |
+| [LaTeX Algorithms](https://github.com/SamZhang02/obsidian-latex-algorithms) | Plugin to facilitate writing algorithm blocks in LaTeX |
+| [Contextual Comments](https://github.com/1C0D/Obsidian-Contextual-Comments) | General comments or langage related (in codeblocks) + 2 commands trim end lines (All doc/codeblocks). |
+| [Heading Level Indent](https://github.com/svonjoi/obsidian-heading-level-indent) | Indenting content under headers based on their level. |
