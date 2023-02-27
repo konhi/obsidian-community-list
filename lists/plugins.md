@@ -842,7 +842,7 @@
 | [Note aliases](https://github.com/pulsovi/obsidian-note-aliases) | This plugin manages aliases of notes in Obsidian. |
 | [Text Wrapper](https://github.com/smx0/obs-text-wrapper) | Quickly wrap selected text with HTML tags by using a shortcut or from the command palette |
 | [Kill and Yank](https://github.com/inouetakuya/obsidian-kill-and-yank) | Enable kill and yank (like Emacs) in the editor |
-| [Double Colon Conceal](https://github.com/msrch/obsidian-double-colon-conceal) | Display double colon (i.e. Dataview inline fields) as a single colon in reading view (preview mode) for more natural experience. |
+| [Double Colon Conceal](https://github.com/msrch/obsidian-double-colon-conceal) | Display double colon (i.e. Dataview inline fields) as a single colon for more natural reading experience. |
 | [🪝 Grappling Hook](https://github.com/chrisgrieser/grappling-hook) | Obsidian Plugin for blazingly fast file switching. For people for whom using the Quick Switcher still takes too much time. |
 | [Tag Search](https://github.com/rwblickhan/obsidian-tag-search) | Fuzzy-find your tags! |
 | [YTranscript](https://github.com/lstrzepek/obsidian-yt-transcript) | Easily fetch transcription for any Youtube video |
@@ -865,3 +865,4 @@
 | [LaTeX Algorithms](https://github.com/SamZhang02/obsidian-latex-algorithms) | Plugin to facilitate writing algorithm blocks in LaTeX |
 | [Contextual Comments](https://github.com/1C0D/Obsidian-Contextual-Comments) | General comments or langage related (in codeblocks) + 2 commands trim end lines (All doc/codeblocks). |
 | [Heading Level Indent](https://github.com/svonjoi/obsidian-heading-level-indent) | Indenting content under headers based on their level. |
+| [Open files with commands](https://github.com/LostPaul/ob-open-files-with-commands) | Create commands that only open one file at the time and that can be used with the commander plugin. |
