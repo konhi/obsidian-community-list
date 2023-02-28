@@ -134,12 +134,12 @@
 | [erykwalder/dayspring-theme](https://github.com/erykwalder/dayspring-theme) | ![Dayspring](https://raw.githubusercontent.com/erykwalder/dayspring-theme/master/screenshots/thumbnail.png "") |
 | [zamsyt/obsidian-fusion](https://github.com/zamsyt/obsidian-fusion) | ![Fusion](https://raw.githubusercontent.com/zamsyt/obsidian-fusion/master/thumbnail.png "") |
 | [7368697661/Ultra-Lobster](https://github.com/7368697661/Ultra-Lobster) | ![Ultra Lobster](https://raw.githubusercontent.com/7368697661/Ultra-Lobster/master/preview_thumb.png "") |
-| [krios2146/obsidian-theme-github](https://github.com/krios2146/obsidian-theme-github) | ![GitHub Theme](https://raw.githubusercontent.com/krios2146/obsidian-theme-github/master/thumbnail.png "") |
+| [krios2146/obsidian-theme-github](https://github.com/krios2146/obsidian-theme-github) | ![GitHub Theme](https://raw.githubusercontent.com/krios2146/obsidian-theme-github/master/imgs/thumbnail.png "") |
 | [doctorfree/Obsidian-Doctorfree](https://github.com/doctorfree/Obsidian-Doctorfree) | ![Doctorfree](https://raw.githubusercontent.com/doctorfree/Obsidian-Doctorfree/master/screenshots/headings.png "") |
 | [marcoluzi/obsidian-synthwave](https://github.com/marcoluzi/obsidian-synthwave) | ![SynthWave](https://raw.githubusercontent.com/marcoluzi/obsidian-synthwave/master/screenshot.jpeg "") |
 | [ltctceplrm/oldsidian-purple](https://github.com/ltctceplrm/oldsidian-purple) | ![Oldsidian Purple](https://raw.githubusercontent.com/ltctceplrm/oldsidian-purple/master/cover.png "") |
 | [lucas-fern/obsidian-deeper-work-theme](https://github.com/lucas-fern/obsidian-deeper-work-theme) | ![deeper work](https://raw.githubusercontent.com/lucas-fern/obsidian-deeper-work-theme/master/thumbnail.png "") |
-| [ashwinjadhav818/obsidian-aura](https://github.com/ashwinjadhav818/obsidian-aura) | ![Aura](https://raw.githubusercontent.com/ashwinjadhav818/obsidian-aura/master/assets/screenshot-preview.png "") |
+| [ashwinjadhav818/obsidian-aura](https://github.com/ashwinjadhav818/obsidian-aura) | ![Aura](https://raw.githubusercontent.com/ashwinjadhav818/obsidian-aura/master/assets/showcase-preview.png "") |
 | [zamsyt/obsidian-ion](https://github.com/zamsyt/obsidian-ion) | ![ion](https://raw.githubusercontent.com/zamsyt/obsidian-ion/master/thumbnail.png "") |
 | [efemkay/obsidian-listive-theme](https://github.com/efemkay/obsidian-listive-theme) | ![Listive](https://raw.githubusercontent.com/efemkay/obsidian-listive-theme/master/thumbnail.jpg "") |
 | [dragonwocky/obsidian-material-ocean](https://github.com/dragonwocky/obsidian-material-ocean) | ![Material Ocean](https://raw.githubusercontent.com/dragonwocky/obsidian-material-ocean/master/thumbnail.png "") |
