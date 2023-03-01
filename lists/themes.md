@@ -174,3 +174,5 @@
 | [mProjectsCode/obsidian-lemons-theme](https://github.com/mProjectsCode/obsidian-lemons-theme) | ![Lemons Theme](https://raw.githubusercontent.com/mProjectsCode/obsidian-lemons-theme/master/lemons-theme-picture-low-res.PNG "") |
 | [subframe7536/obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) | ![Maple](https://raw.githubusercontent.com/subframe7536/obsidian-theme-maple/master/img/screenshot.png "") |
 | [Bluemoondragon07/obsidian-big-and-bold](https://github.com/Bluemoondragon07/obsidian-big-and-bold) | ![Big & Bold](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-big-and-bold/master/cover.png "") |
+| [diegoeis/obsidianotion](https://github.com/diegoeis/obsidianotion) | ![Obsidianotion](https://raw.githubusercontent.com/diegoeis/obsidianotion/master/cover.png "") |
+| [Victologo/elegance-theme](https://github.com/Victologo/elegance-theme) | ![Elegance](https://raw.githubusercontent.com/Victologo/elegance-theme/master/assets/Miniatura%20-%20Elegance%20(tema%20para%20Obisidian).jpg "") |

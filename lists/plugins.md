@@ -869,3 +869,4 @@
 | [No Empty Windows](https://github.com/popscallion/obsidian-no-empty-windows) | Closes Obsidian window with cmd+W on Mac when the last tab is closed. |
 | [Marp](https://github.com/JichouP/obsidian-marp-plugin) | Plugin for using Marp on Obsidian. |
 | [O2](https://github.com/songkg7/o2) | This is a syntax converting plugin to make obsidian markdown syntax compatible with other markdown syntax. |
+| [Close Similar Tabs](https://github.com/1C0D/Obsidian-Close-Similar-Tabs) | Close similar tabs. |
