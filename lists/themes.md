@@ -176,3 +176,4 @@
 | [Bluemoondragon07/obsidian-big-and-bold](https://github.com/Bluemoondragon07/obsidian-big-and-bold) | ![Big & Bold](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-big-and-bold/master/cover.png "") |
 | [diegoeis/obsidianotion](https://github.com/diegoeis/obsidianotion) | ![Obsidianotion](https://raw.githubusercontent.com/diegoeis/obsidianotion/master/cover.png "") |
 | [Victologo/elegance-theme](https://github.com/Victologo/elegance-theme) | ![Elegance](https://raw.githubusercontent.com/Victologo/elegance-theme/master/assets/Miniatura%20-%20Elegance%20(tema%20para%20Obisidian).jpg "") |
+| [tcmmichaelb139/obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) | ![Tokyo Night](https://raw.githubusercontent.com/tcmmichaelb139/obsidian-tokyonight/master/dark.png "") |
