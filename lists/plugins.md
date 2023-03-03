@@ -819,7 +819,7 @@
 | [Audio Player](https://github.com/noonesimg/obsidian-audio-player) | Audio player with background playback, bookmarks and wave visualiser instead of the default html5 audio |
 | [Task Marker](https://github.com/wenlzhang/obsidian-task-marker) | Change task statuses with hotkeys and context menu. Complete, cancel and mark tasks, as well as cycle among selected task statuses. |
 | [Weekly Review](https://github.com/brandonkboswell/weekly-review) | This is opens all of the files you have created in the last week. |
-| [GPT](https://github.com/jmilldotdev/obsidian-gpt) | GPT & Large Language Model completions in Obsidian editor via API |
+| [GPT](https://github.com/jmilldotdev/obsidian-gpt) | Obsidian plugin for getting language model completions from ChatGPT, GPT-3, and others |
 | [Pending notes](https://github.com/ulisesantana/obsidian-pending-notes) | Obsidian plugin for searching links without notes in your vault. |
 | [Email Block](https://github.com/joleaf/obsidian-email-block-plugin) | This plugin renders an email code block. |
 | [Code Emitter](https://github.com/mokeyish/obsidian-code-emitter) | An obsidian plugin that allows code blocks executed interactively in sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript etc. |
@@ -870,3 +870,10 @@
 | [Marp](https://github.com/JichouP/obsidian-marp-plugin) | Plugin for using Marp on Obsidian. |
 | [O2](https://github.com/songkg7/o2) | This is a syntax converting plugin to make obsidian markdown syntax compatible with other markdown syntax. |
 | [Close Similar Tabs](https://github.com/1C0D/Obsidian-Close-Similar-Tabs) | Close similar tabs. |
+| [Create Note in Folder](https://github.com/Lisandra-dev/obsidian-create-note-in-folder) | Add commands to create a note in a specific folder. |
+| [Apple Books Highlights](https://github.com/atfzl/obsidian-apple-books-plugin) | Sync your Apple Books highlights automatically. |
+| [MSG Handler](https://github.com/ozntel/obsidian-msg-handler) | Easily display and search MSG files from Outlook in your Obsidian Vault |
+| [ObsiDOOM](https://github.com/twibiral/ObsiDOOM) | Play DOOM and many other retro games in your Obsidian app. You can also play Prince of Persia, Mortal Combat, GTA, Sim City, and Need for Speed. |
+| [Advanced Paste](https://github.com/kxxt/obsidian-advanced-paste) | This plugin provides advanced paste commands and enables you to create custom transforms for pasting. |
+| [Obsidian-compatible Watcher for ActivityWatch](https://github.com/LordGrimmauld/aw-watcher-obsidian) | This is a plugin bridging compatibility between ActivityWatch and Obsidian to allow detailed tracking od time spent in Obsidian. |
+| [Mixa](https://github.com/mixasite/obsidian-mixa) | Publish your notes and blog posts with Mixa directly from Obsidian |
