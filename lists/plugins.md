@@ -817,7 +817,7 @@
 | [S3 attachments storage](https://github.com/TechTheAwesome/obsidian-s3) | An Obsidian plugin for storage and retrieval of media attachments on S3 compatible services. |
 | [Order List](https://github.com/lizard-heart/obsidian-order-list-plugin) | Adds 'Order selected list' command to take the selected list and order it by the number at the end. |
 | [Audio Player](https://github.com/noonesimg/obsidian-audio-player) | Audio player with background playback, bookmarks and wave visualiser instead of the default html5 audio |
-| [Task Marker](https://github.com/wenlzhang/obsidian-task-marker) | Change task statuses with hotkeys and context menu. Complete, cancel and mark tasks, as well as cycle among selected task statuses. |
+| [Task Marker](https://github.com/wenlzhang/obsidian-task-marker) | Change task status and append text with hotkeys and context menu. Create, complete, cancel and mark tasks, cycle among configured task statuses, and append text (automatically). |
 | [Weekly Review](https://github.com/brandonkboswell/weekly-review) | This is opens all of the files you have created in the last week. |
 | [GPT](https://github.com/jmilldotdev/obsidian-gpt) | Obsidian plugin for getting language model completions from ChatGPT, GPT-3, and others |
 | [Pending notes](https://github.com/ulisesantana/obsidian-pending-notes) | Obsidian plugin for searching links without notes in your vault. |
