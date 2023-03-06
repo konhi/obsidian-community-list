@@ -877,3 +877,4 @@
 | [Advanced Paste](https://github.com/kxxt/obsidian-advanced-paste) | This plugin provides advanced paste commands and enables you to create custom transforms for pasting. |
 | [Obsidian-compatible Watcher for ActivityWatch](https://github.com/LordGrimmauld/aw-watcher-obsidian) | This is a plugin bridging compatibility between ActivityWatch and Obsidian to allow detailed tracking od time spent in Obsidian. |
 | [Mixa](https://github.com/mixasite/obsidian-mixa) | Publish your notes and blog posts with Mixa directly from Obsidian |
+| [Vextab](https://github.com/luigman/obsidian-vextab) | An Obsidian plugin for rendering guitar tablature and music notation using Vextab. |
