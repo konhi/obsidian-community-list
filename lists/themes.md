@@ -177,3 +177,6 @@
 | [diegoeis/obsidianotion](https://github.com/diegoeis/obsidianotion) | ![Obsidianotion](https://raw.githubusercontent.com/diegoeis/obsidianotion/master/cover.png "") |
 | [Victologo/elegance-theme](https://github.com/Victologo/elegance-theme) | ![Elegance](https://raw.githubusercontent.com/Victologo/elegance-theme/master/assets/Miniatura%20-%20Elegance%20(tema%20para%20Obisidian).jpg "") |
 | [tcmmichaelb139/obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) | ![Tokyo Night](https://raw.githubusercontent.com/tcmmichaelb139/obsidian-tokyonight/master/dark.png "") |
+| [mrowa44/obsidian-ia-writer](https://github.com/mrowa44/obsidian-ia-writer) | ![iA Writer](https://raw.githubusercontent.com/mrowa44/obsidian-ia-writer/master/promo_screenshot.png "") |
+| [Bluemoondragon07/obsidian-notation-2](https://github.com/Bluemoondragon07/obsidian-notation-2) | ![Notation 2](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-notation-2/master/cover-small.png "") |
+| [Jopp-gh/Obsidian-Dune84](https://github.com/Jopp-gh/Obsidian-Dune84) | ![Dune](https://raw.githubusercontent.com/Jopp-gh/Obsidian-Dune84/master/Dune-Obsidian.jpg "") |
