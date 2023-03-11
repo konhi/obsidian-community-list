@@ -878,3 +878,11 @@
 | [Obsidian-compatible Watcher for ActivityWatch](https://github.com/LordGrimmauld/aw-watcher-obsidian) | This is a plugin bridging compatibility between ActivityWatch and Obsidian to allow detailed tracking od time spent in Obsidian. |
 | [Mixa](https://github.com/mixasite/obsidian-mixa) | Publish your notes and blog posts with Mixa directly from Obsidian |
 | [Vextab](https://github.com/luigman/obsidian-vextab) | An Obsidian plugin for rendering guitar tablature and music notation using Vextab. |
+| [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) | Easily create and customize callouts. |
+| [Awesome Image](https://github.com/AwesomeDog/obsidian-awesome-image) | One-stop solution for image management and viewing. |
+| [Callout Integrator](https://github.com/Cleoche/obsidian-callout-integrator) | Integrate long blocks of text into callouts |
+| [Emoji Magic](https://github.com/simplgy/obsidian-emoji-magic) | Easily add emoji, with a powerful keyword search. 🔮 ✨ 🐇 |
+| [Optimize Canvas Connections](https://github.com/felixchenier/obsidian-optimize-canvas-connections) | A plugin that declutters a canvas by reconnecting notes using their nearest edges. |
+| [Home tab](https://github.com/olrenso/obsidian-home-tab) | A browser-like search tab for your local files. |
+| [ChatGPT MD](https://github.com/bramses/chatgpt-md) | A (nearly) seamless integration of ChatGPT into Obsidian. |
+| [OpenWeather](https://github.com/willasm/obsidian-open-weather) | This plugin returns the current weather from OpenWeather in a configurable string format. |
