@@ -886,3 +886,4 @@
 | [Home tab](https://github.com/olrenso/obsidian-home-tab) | A browser-like search tab for your local files. |
 | [ChatGPT MD](https://github.com/bramses/chatgpt-md) | A (nearly) seamless integration of ChatGPT into Obsidian. |
 | [OpenWeather](https://github.com/willasm/obsidian-open-weather) | This plugin returns the current weather from OpenWeather in a configurable string format. |
+| [Emoji Titler](https://github.com/HyeonseoNam/obsidian-emoji-titler) | This plugin is emoji titler to easily insert an emoji in the title using a keyboard shortcut. |
