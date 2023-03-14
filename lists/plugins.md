@@ -887,3 +887,6 @@
 | [ChatGPT MD](https://github.com/bramses/chatgpt-md) | A (nearly) seamless integration of ChatGPT into Obsidian. |
 | [OpenWeather](https://github.com/willasm/obsidian-open-weather) | This plugin returns the current weather from OpenWeather in a configurable string format. |
 | [Emoji Titler](https://github.com/HyeonseoNam/obsidian-emoji-titler) | This plugin is emoji titler to easily insert an emoji in the title using a keyboard shortcut. |
+| [Perilous Writing](https://github.com/sameersismail/obsidian-perilous-writing) | Write continuously—or lose all progress. |
+| [ibook](https://github.com/bingryan/obsidian-ibook-plugin) | plugin for Apple ibook. |
+| [Floating Highlights](https://github.com/KarthikRaju391/obsidian-float) | Enhanced highlights for Obsidian |
