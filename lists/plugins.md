@@ -869,7 +869,7 @@
 | [No Empty Windows](https://github.com/popscallion/obsidian-no-empty-windows) | Closes Obsidian window with cmd+W on Mac when the last tab is closed. |
 | [Marp](https://github.com/JichouP/obsidian-marp-plugin) | Plugin for using Marp on Obsidian. |
 | [O2](https://github.com/songkg7/o2) | This is a syntax converting plugin to make obsidian markdown syntax compatible with other markdown syntax. |
-| [Close Similar Tabs](https://github.com/1C0D/Obsidian-Close-Similar-Tabs) | Close similar tabs. |
+| [Close Similar Tabs](https://github.com/1C0D/Obsidian-Close-Similar-Tabs) | Avoid to have a file opened several times in your tabs. (+setting: by window or everywhere) |
 | [Create Note in Folder](https://github.com/Lisandra-dev/obsidian-create-note-in-folder) | Add commands to create a note in a specific folder. |
 | [Apple Books Highlights](https://github.com/atfzl/obsidian-apple-books-plugin) | Sync your Apple Books highlights automatically. |
 | [MSG Handler](https://github.com/ozntel/obsidian-msg-handler) | Easily display and search MSG files from Outlook in your Obsidian Vault |
