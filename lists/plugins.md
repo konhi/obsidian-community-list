@@ -171,7 +171,6 @@
 | [Python lab plugin](https://github.com/cristianvasquez/obsidian-lab) | An interface to experiment with python scripts and more. |
 | [Kanban](https://github.com/mgmeyers/obsidian-kanban) | Create markdown-backed Kanban boards in Obsidian |
 | [Incremental Writing](https://github.com/bjsi/incremental-writing) | Incrementally review notes and blocks over time. |
-| [Kindle Highlights](https://github.com/hadynz/obsidian-kindle-plugin) | Sync your Kindle book highlights using your Amazon login or uploading your My Clippings file |
 | [Metatable](https://github.com/arnau/obsidian-metatable) | Display the whole frontmatter section as a collapsible table |
 | [Ozan's Image in Editor Plugin](https://github.com/ozntel/oz-image-in-editor-obsidian) | View Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview. |
 | [Recall](https://github.com/martin-jw/obsidian-recall) | A flexible and configurable spaced repetition plugin with multiple algorithms to choose from. |
