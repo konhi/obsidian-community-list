@@ -180,3 +180,5 @@
 | [mrowa44/obsidian-ia-writer](https://github.com/mrowa44/obsidian-ia-writer) | ![iA Writer](https://raw.githubusercontent.com/mrowa44/obsidian-ia-writer/master/promo_screenshot.png "") |
 | [Bluemoondragon07/obsidian-notation-2](https://github.com/Bluemoondragon07/obsidian-notation-2) | ![Notation 2](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-notation-2/master/cover-small.png "") |
 | [Jopp-gh/Obsidian-Dune84](https://github.com/Jopp-gh/Obsidian-Dune84) | ![Dune](https://raw.githubusercontent.com/Jopp-gh/Obsidian-Dune84/master/Dune-Obsidian.jpg "") |
+| [Satchelmouth/Obsidian-Theme-Sanguine](https://github.com/Satchelmouth/Obsidian-Theme-Sanguine) | ![Sanguine](https://raw.githubusercontent.com/Satchelmouth/Obsidian-Theme-Sanguine/master/Sanguine_Store_Screenshot.png "") |
+| [FireIsGood/obsidian-everforest-enchanted](https://github.com/FireIsGood/obsidian-everforest-enchanted) | ![Everforest Enchanted](https://raw.githubusercontent.com/FireIsGood/obsidian-everforest-enchanted/master/promo_screenshot.png "") |
