@@ -890,3 +890,4 @@
 | [Perilous Writing](https://github.com/sameersismail/obsidian-perilous-writing) | Write continuously—or lose all progress. |
 | [ibook](https://github.com/bingryan/obsidian-ibook-plugin) | plugin for Apple ibook. |
 | [Floating Highlights](https://github.com/KarthikRaju391/obsidian-float) | Enhanced highlights for Obsidian |
+| [Zen](https://github.com/Maxymillion/zen) | A focus mode Obsidian plugin. |
