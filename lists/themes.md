@@ -183,3 +183,5 @@
 | [Satchelmouth/Obsidian-Theme-Sanguine](https://github.com/Satchelmouth/Obsidian-Theme-Sanguine) | ![Sanguine](https://raw.githubusercontent.com/Satchelmouth/Obsidian-Theme-Sanguine/master/Sanguine_Store_Screenshot.png "") |
 | [FireIsGood/obsidian-everforest-enchanted](https://github.com/FireIsGood/obsidian-everforest-enchanted) | ![Everforest Enchanted](https://raw.githubusercontent.com/FireIsGood/obsidian-everforest-enchanted/master/promo_screenshot.png "") |
 | [KeithLerner/ObsidianMDsQdthOne](https://github.com/KeithLerner/ObsidianMDsQdthOne) | ![sQdthOne](https://raw.githubusercontent.com/KeithLerner/ObsidianMDsQdthOne/master/GitCapture.png "") |
+| [ScottKirvan/GitHubDHC](https://github.com/ScottKirvan/GitHubDHC) | ![GitHubDHC](https://raw.githubusercontent.com/ScottKirvan/GitHubDHC/master/imgs/thumbnail.png "") |
+| [lukasbach/obsidian-proper-dark](https://github.com/lukasbach/obsidian-proper-dark) | ![Proper Dark](https://raw.githubusercontent.com/lukasbach/obsidian-proper-dark/master/thumb.png "") |

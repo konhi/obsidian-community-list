@@ -891,3 +891,18 @@
 | [ibook](https://github.com/bingryan/obsidian-ibook-plugin) | plugin for Apple ibook. |
 | [Floating Highlights](https://github.com/KarthikRaju391/obsidian-float) | Enhanced highlights for Obsidian |
 | [Zen](https://github.com/Maxymillion/zen) | A focus mode Obsidian plugin. |
+| [Fast Image Cleaner](https://github.com/martinniee/Obsidian-fast-image-cleaner) | This plugin allows you to quickly remove image attachment and referenced link from your documents in both LIVE , READ mode by right-click menu |
+| [Fantasy Content Generator](https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator) | A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building Needs |
+| [Tasks Calendar Wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper) | This is a simple wrapper for Obsidian-Tasks-Calendar (https://github.com/702573N/Obsidian-Tasks-Calendar) and Obsidian-Tasks-Timeline (https://github.com/702573N/Obsidian-Tasks-Timeline). |
+| [Awesome Brain Manager](https://github.com/JuckZ/awesome-brain-manager) | A toolkit tries to solve all the trivial problems most people usually encountered in obsidian. |
+| [Open In New Tab](https://github.com/patleeman/obsidian-open-in-new-tab) | Opens files in new tabs like a browser |
+| [Commando](https://github.com/qaptoR/Commando) | Enables repeated calls of a command using defined or per-invocation values |
+| [File Publisher](https://github.com/yiglas/obsidian-file-publisher) | Publishes a file to a given POST api. |
+| [Global Search and Replace](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace) | Search and replace in all vault files |
+| [Image Upload Toolkit](https://github.com/addozhang/obsidian-image-upload-toolkit) | An obsidian plugin for uploading local images embedded in markdown to remote store and export markdown for publishing to static site. Currently, it supports Imgur and Aliyun OSS. |
+| [Gene 🧬](https://github.com/MatissJurevics/Gene-AI) | A plugin for generating text using the OpenAI API. |
+| [LaTeX to unicode converter](https://github.com/fjdu/obsidian-latex-unicode) | Convert LaTeX commands into unicode sqeuences |
+| [Natural Language Syntax Highlighting](https://github.com/artisticat1/nl-syntax-highlighting) | Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the editor |
+| [Focus Active Sentence](https://github.com/artisticat1/focus-active-sentence) | Highlight the sentence the cursor is currently resting on. |
+| [Journal Review](https://github.com/Kageetai/obsidian-plugin-journal-review) | Review your daily notes on their anniversaries, like "what happened today last year". |
+| [Brainframe](https://github.com/pedersen/obsidian-brainframe) | Tools to make Obsidian more into our second brains |
