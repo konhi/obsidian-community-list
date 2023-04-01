@@ -482,7 +482,7 @@
 | [Daily notes opener](https://github.com/reorx/obsidian-daily-notes-opener) | Easily open daily notes and periodic notes in new pane; customize periodic notes background; quick append new line to daily notes. |
 | [Obsidian Advanced New Folder](https://github.com/piotryordanov/obsidian-advanced-new-folder) | This plugin lets you choose where to create a new folder. |
 | [Mark and Select](https://github.com/anselmwang/obsidian-mark-and-select) | Allow users to set mark, move cursors freely and select from mark to cursor position |
-| [Bible Linker](https://github.com/kuchejak/obsidian-bible-linker-plugin) | Link multiple bible verses easily |
+| [Bible Linker](https://github.com/kuchejak/obsidian-bible-linker-plugin) | Link/Copy multiple Bible verses easily using your own Bible files. Compatible with the Bible Study Kit. |
 | [Obsidian CircuitJS](https://github.com/StevenGann/obsidian-circuitjs) | Embeds CircuitJS circuit simulations into notes |
 | [Creases](https://github.com/liamcain/obsidian-creases) | Tools for effectively folding markdown sections in Obsidian |
 | [Kobo Highlights Importer](https://github.com/OGKevin/obsidian-kobo-highlights-import) | Import highlights from Kobo devices |

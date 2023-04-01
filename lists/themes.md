@@ -185,3 +185,4 @@
 | [KeithLerner/ObsidianMDsQdthOne](https://github.com/KeithLerner/ObsidianMDsQdthOne) | ![sQdthOne](https://raw.githubusercontent.com/KeithLerner/ObsidianMDsQdthOne/master/GitCapture.png "") |
 | [ScottKirvan/GitHubDHC](https://github.com/ScottKirvan/GitHubDHC) | ![GitHubDHC](https://raw.githubusercontent.com/ScottKirvan/GitHubDHC/master/imgs/thumbnail.png "") |
 | [lukasbach/obsidian-proper-dark](https://github.com/lukasbach/obsidian-proper-dark) | ![Proper Dark](https://raw.githubusercontent.com/lukasbach/obsidian-proper-dark/master/thumb.png "") |
+| [isax785/obsidian-sparkling-night](https://github.com/isax785/obsidian-sparkling-night) | ![Sparkling Night](https://raw.githubusercontent.com/isax785/obsidian-sparkling-night/master/img/sparkling_night.png "") |
