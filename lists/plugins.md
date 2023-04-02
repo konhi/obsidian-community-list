@@ -906,3 +906,4 @@
 | [Focus Active Sentence](https://github.com/artisticat1/focus-active-sentence) | Highlight the sentence the cursor is currently resting on. |
 | [Journal Review](https://github.com/Kageetai/obsidian-plugin-journal-review) | Review your daily notes on their anniversaries, like "what happened today last year". |
 | [Brainframe](https://github.com/pedersen/obsidian-brainframe) | Tools to make Obsidian more into our second brains |
+| [Gemmy](https://github.com/ericaxu/Gemmy) | Obsidian Unhelper. 2023 April Fool's plugin brought to you by Obsidian. |
