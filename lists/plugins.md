@@ -448,7 +448,7 @@
 | [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown) | Create markdown documents with multiple columns of content viewable within Obsidian's preview mode. |
 | [Copy as HTML](https://github.com/jenningsb2/copy-as-html) | This is a simple plugin that converts the selected markdown to HTML and copies it to the clipboard. |
 | [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) | Autocompletes tags in the frontmatter tags field |
-| [Simple note quiz](https://github.com/dorisxx/Obsidian-simple-note-quiz) | Start a simple quiz on your current note. |
+| [Simple Note Quiz](https://github.com/beginner137/Obsidian-simple-note-quiz) | Start a simple quiz on your current note. |
 | [Local REST API](https://github.com/coddingtonbear/obsidian-local-rest-api) | Unlock your automation needs by interacting with your notes over a secure REST API. |
 | [Code Block Labels](https://github.com/stbowers/obsidian-codeblock-labels) | Adds labels to fenced code blocks |
 | [Better Command Palette](https://github.com/AlexBieg/obsidian-better-command-palette) | A command palette that does all of the things you want it to do. |
@@ -907,3 +907,14 @@
 | [Journal Review](https://github.com/Kageetai/obsidian-plugin-journal-review) | Review your daily notes on their anniversaries, like "what happened today last year". |
 | [Brainframe](https://github.com/pedersen/obsidian-brainframe) | Tools to make Obsidian more into our second brains |
 | [Gemmy](https://github.com/ericaxu/Gemmy) | Obsidian Unhelper. 2023 April Fool's plugin brought to you by Obsidian. |
+| [Source Code Note](https://github.com/waiting0324/obsidian-code-note) | This plugin can help you organize source code note easily. |
+| [Jelly Snippets](https://github.com/rabirabirara/obsidian-jelly-snippets) | A simple text snippets plugin. |
+| [Prioritize](https://github.com/EloiMusk/obsidian-prio-plugin) | Prioritize your tasks and notes in Obsidian. |
+| [Import/Export TiddlyWiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) | Import and export TiddlyWiki from and to Obsidian. |
+| [Reveal file in explorer](https://github.com/1C0D/Obsidian-Reveal-File-in-explorer) | Clicking header title reveal active file in explorer |
+| [Floating Search](https://github.com/quorafind/obsidian-float-search) | Enhanced highlights for Obsidian |
+| [Avatar](https://github.com/froehlichA/obsidian-avatar) | Display an avatar image in your notes. |
+| [Meld Build](https://github.com/meld-cp/obsidian-build) | Write and execute (sandboxed) JavaScript to render templates, query DataView and create dynamic notes. |
+| [Page Properties](https://github.com/necauqua/obsidian-page-properties) | Add page properties similar to Logseq |
+| [Testing Vault](https://github.com/pedersen/obsidian-testing-vault) | Randomized vault generator with links between notes, front matter, tags, orphan and leaf notes. |
+| [Easy toggle sidebars](https://github.com/1C0D/obsidian-easy-toggle-sidebars) | toggle sidebars double-clicking middle mouse button or each sidebar clicking middle mouse button and moving mouse towards the corresponding sidebar. |
