@@ -912,7 +912,7 @@
 | [Prioritize](https://github.com/EloiMusk/obsidian-prio-plugin) | Prioritize your tasks and notes in Obsidian. |
 | [Import/Export TiddlyWiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) | Import and export TiddlyWiki from and to Obsidian. |
 | [Reveal file in explorer](https://github.com/1C0D/Obsidian-Reveal-File-in-explorer) | Clicking header title reveal active file in explorer |
-| [Floating Search](https://github.com/quorafind/obsidian-float-search) | Enhanced highlights for Obsidian |
+| [Floating Search](https://github.com/quorafind/obsidian-float-search) | A plugin for searching text by using Obsidian default search view. |
 | [Avatar](https://github.com/froehlichA/obsidian-avatar) | Display an avatar image in your notes. |
 | [Meld Build](https://github.com/meld-cp/obsidian-build) | Write and execute (sandboxed) JavaScript to render templates, query DataView and create dynamic notes. |
 | [Page Properties](https://github.com/necauqua/obsidian-page-properties) | Add page properties similar to Logseq |
