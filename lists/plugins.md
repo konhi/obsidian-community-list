@@ -812,7 +812,7 @@
 | [Link Nodes in Canvas](https://github.com/quorafind/obsidian-link-nodes-in-canvas) | A plugin for you to add edges between notes in Canvas based on their links. |
 | [Canvas CSS class](https://github.com/Lisandra-dev/obsidian-canvas-css-class) | Add a CSS class to the canvas, but also other attributes. |
 | [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | Chat with your notes & find links to similar content using artificial intelligence like OpenAI Embeddings, GPT-3.5 & GPT-4. |
-| [Short Internal Links to Headings](https://github.com/scottwillmoore/obsidian-short-internal-links-to-headings) | Display internal links to headings as just the heading name. |
+| [Short links](https://github.com/scottwillmoore/obsidian-short-links) | Display short internal links to files, notes, headings, and blocks. |
 | [Hyphenation](https://github.com/7596ff/obsidian-hyphenation) | Enables justified text and hyphenation |
 | [S3 attachments storage](https://github.com/TechTheAwesome/obsidian-s3) | An Obsidian plugin for storage and retrieval of media attachments on S3 compatible services. |
 | [Order List](https://github.com/lizard-heart/obsidian-order-list-plugin) | Adds 'Order selected list' command to take the selected list and order it by the number at the end. |
@@ -911,7 +911,7 @@
 | [Jelly Snippets](https://github.com/rabirabirara/obsidian-jelly-snippets) | A simple text snippets plugin. |
 | [Prioritize](https://github.com/EloiMusk/obsidian-prio-plugin) | Prioritize your tasks and notes in Obsidian. |
 | [Import/Export TiddlyWiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) | Import and export TiddlyWiki from and to Obsidian. |
-| [Reveal file in explorer](https://github.com/1C0D/Obsidian-Reveal-File-in-explorer) | Clicking header title reveal active file in explorer |
+| [Reveal file in explorer](https://github.com/1C0D/Obsidian-Reveal-File-in-explorer) | Clicking header title reveal active file in explorer and (option) when opening file + option to fold other directories |
 | [Floating Search](https://github.com/quorafind/obsidian-float-search) | A plugin for searching text by using Obsidian default search view. |
 | [Avatar](https://github.com/froehlichA/obsidian-avatar) | Display an avatar image in your notes. |
 | [Meld Build](https://github.com/meld-cp/obsidian-build) | Write and execute (sandboxed) JavaScript to render templates, query DataView and create dynamic notes. |
