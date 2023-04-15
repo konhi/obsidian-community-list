@@ -916,4 +916,4 @@
 | [Meld Build](https://github.com/meld-cp/obsidian-build) | Write and execute (sandboxed) JavaScript to render templates, query DataView and create dynamic notes. |
 | [Page Properties](https://github.com/necauqua/obsidian-page-properties) | Add page properties similar to Logseq |
 | [Testing Vault](https://github.com/pedersen/obsidian-testing-vault) | Randomized vault generator with links between notes, front matter, tags, orphan and leaf notes. |
-| [Easy toggle sidebars](https://github.com/1C0D/obsidian-easy-toggle-sidebars) | toggle sidebars double-clicking middle mouse button or each sidebar clicking middle mouse button and moving mouse towards the corresponding sidebar. |
+| [Easy toggle sidebars](https://github.com/1C0D/obsidian-easy-toggle-sidebars) | toggle both sidebars (double middle mouse click or own shortcut) or each sidebar clicking middle mouse button and moving mouse towards the corresponding sidebar. |
