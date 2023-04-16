@@ -41,7 +41,7 @@
 | [Link indexer](https://github.com/aviskase/obsidian-link-indexer) | Generate index notes with links based on various conditions |
 | [macOS Keyboard Navigation](https://github.com/ryanjamurphy/macOS-keyboard-nav-obsidian) | Enables alt+↑ and alt+↓ keyboard navigation in Obsidian. |
 | [Extract Highlights](https://github.com/akaalias/extract-highlights-plugin) | Allows to extracts all ==highlights== in a note into your clipboard |
-| [Find unlinked files](https://github.com/Vinzent03/find-unlinked-files) | Find files that are not linked anywhere and would otherwise be lost in your vault |
+| [Find orphaned files and broken links](https://github.com/Vinzent03/find-unlinked-files) | Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks. |
 | [Wikilinks to MDLinks (Markdown Links)](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) | Convert wikilinks to markdown links and vice versa |
 | [Smart Random Note](https://github.com/erichalldev/obsidian-smart-random-note) | Open random notes with greater control |
 | [Cycle through Panes](https://github.com/phibr0/cycle-through-panes) | Cycle through your open Panes with `ctrl + Tab`, just like with Tabs in your Browser! |
