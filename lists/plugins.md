@@ -906,6 +906,7 @@
 | [Journal Review](https://github.com/Kageetai/obsidian-plugin-journal-review) | Review your daily notes on their anniversaries, like "what happened today last year". |
 | [Brainframe](https://github.com/pedersen/obsidian-brainframe) | Tools to make Obsidian more into our second brains |
 | [Gemmy](https://github.com/ericaxu/Gemmy) | Obsidian Unhelper. 2023 April Fool's plugin brought to you by Obsidian. |
+| [Gemmy](https://github.com/ericaxu/Gemmy) | Obsidian Unhelper. 2023 April Fool's plugin brought to you by Obsidian. |
 | [Source Code Note](https://github.com/waiting0324/obsidian-code-note) | This plugin can help you organize source code note easily. |
 | [Jelly Snippets](https://github.com/rabirabirara/obsidian-jelly-snippets) | A simple text snippets plugin. |
 | [Prioritize](https://github.com/EloiMusk/obsidian-prio-plugin) | Prioritize your tasks and notes in Obsidian. |
@@ -917,3 +918,16 @@
 | [Page Properties](https://github.com/necauqua/obsidian-page-properties) | Add page properties similar to Logseq |
 | [Testing Vault](https://github.com/pedersen/obsidian-testing-vault) | Randomized vault generator with links between notes, front matter, tags, orphan and leaf notes. |
 | [Easy toggle sidebars](https://github.com/1C0D/obsidian-easy-toggle-sidebars) | toggle both sidebars (double middle mouse click or own shortcut) or each sidebar clicking middle mouse button and moving mouse towards the corresponding sidebar. |
+| [x86 Assembly Flow Graphing](https://github.com/dwolfe884/obsidian-x86-flow-graph) | This plugin converts well formatted x86 assembly into appropriate flow graphs using Obsidian canvases. |
+| [Search Obsidian in Google](https://github.com/qazxcdswe123/search-obsidian-in-google) | A simple plugin to search the current note in Google (or other search engines). |
+| [OZ Calendar](https://github.com/ozntel/oz-calendar) | View your notes in Calendar using any YAML key with a date |
+| [Send Tasks to OmniFocus](https://github.com/lizard-heart/obsidian-to-omnifocus) | An Obsidian plugin will extract tasks from the current note and create them in OmniFocus. |
+| [AI Commander](https://github.com/yzh503/obsidian-aicommander-plugin) | Generate audio transcripts, images, and text in context of PDF attachments or web search results using OpenAI and Bing API. |
+| [Pseudocode](https://github.com/Yaotian-Liu/obsidian-pseudocode) | This is an obsidian plugin that helps to render a LaTeX-style pseudocode inside a code block. |
+| [Advanced Merger](https://github.com/antoKeinanen/obsidian-advanced-merger) | Merge a folder of notes for easier export. |
+| [Unfilled Stats Highlighter](https://github.com/White7292/obsidian-hd-unfilled-stats-highlighter) | This plugin is designed to streamline your stat/habit tracking process by automatically identifying and prefixing unfilled stats, making them easier to spot and fill out. |
+| [GPT Assistant](https://github.com/M7mdisk/obsidian-gpt) | Use a GPT-3 based model on your notes and get personalized answers from your knowledge base. |
+| [Companion](https://github.com/rizerphe/obsidian-companion) | A github copilot-like interface for obsidian that can use ChatGPT under the hood. |
+| [Get Stock Information](https://github.com/mikejongbloet/obsidian-get-stock-information) | This plugin takes a stock symbol and returns a callout block with the latest stock information. |
+| [Frontmatter Alias Display](https://github.com/muhammadv-i/obsidian-frontmatter-alias-display) | A plugin for Obsidian to show front-matter aliases as display names in the File Explorer. |
+| [Character Insertion](https://github.com/TakamiChie/Obsidian_CharacterInsertionPlugin) | Plugin to insert a specified symbol under the cursor |
