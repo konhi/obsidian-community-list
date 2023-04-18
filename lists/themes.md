@@ -187,3 +187,5 @@
 | [lukasbach/obsidian-proper-dark](https://github.com/lukasbach/obsidian-proper-dark) | ![Proper Dark](https://raw.githubusercontent.com/lukasbach/obsidian-proper-dark/master/thumb.png "") |
 | [isax785/obsidian-sparkling-night](https://github.com/isax785/obsidian-sparkling-night) | ![Sparkling Night](https://raw.githubusercontent.com/isax785/obsidian-sparkling-night/master/img/sparkling_night.png "") |
 | [Bluemoondragon07/Obsidian-Serenity](https://github.com/Bluemoondragon07/Obsidian-Serenity) | ![Serenity](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Serenity/master/cover-small.png "") |
+| [OlivierPS/Olivier-s-Theme](https://github.com/OlivierPS/Olivier-s-Theme) | ![Olivier’s Theme](https://raw.githubusercontent.com/OlivierPS/Olivier-s-Theme/master/main-screenshot.png "") |
+| [G2Jose/synthwave-84-obsidian-theme](https://github.com/G2Jose/synthwave-84-obsidian-theme) | ![Synthwave '84](https://raw.githubusercontent.com/G2Jose/synthwave-84-obsidian-theme/master/screenshot-512x288.png "") |

@@ -602,7 +602,6 @@
 | [Diagrams.Net](https://github.com/jensmtg/obsidian-diagrams-net) | Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net embedded editor. |
 | [Weread Plugin](https://github.com/zhaohongxuan/obsidian-weread-plugin) | This is obsidian plugin for Tencent weread. |
 | [PostgreSQL Obsidian](https://github.com/clouedoc/postgresql-obsidian) | Upload your notes' metadata to a PostgreSQL database |
-| [Obsidian Better Internal Link Inserter](https://github.com/salmund/obsidian-better-link-inserter) | Allow to use the selected word as an alias in link suggestion |
 | [Zotero Link](https://github.com/vanakat/zotero-link) | Obsidian plugin to insert link to Zotero item  |
 | [Obsidian GoLinks](https://github.com/xavdid/obsidian-golinks) | This is a plugin for Obsidian that renders go/links as clickable links. |
 | [Habit Tracker](https://github.com/Narsail/habit-tracker-obsidian) | Display the Habits of a calendar week. |
@@ -905,7 +904,6 @@
 | [Focus Active Sentence](https://github.com/artisticat1/focus-active-sentence) | Highlight the sentence the cursor is currently resting on. |
 | [Journal Review](https://github.com/Kageetai/obsidian-plugin-journal-review) | Review your daily notes on their anniversaries, like "what happened today last year". |
 | [Brainframe](https://github.com/pedersen/obsidian-brainframe) | Tools to make Obsidian more into our second brains |
-| [Gemmy](https://github.com/ericaxu/Gemmy) | Obsidian Unhelper. 2023 April Fool's plugin brought to you by Obsidian. |
 | [Gemmy](https://github.com/ericaxu/Gemmy) | Obsidian Unhelper. 2023 April Fool's plugin brought to you by Obsidian. |
 | [Source Code Note](https://github.com/waiting0324/obsidian-code-note) | This plugin can help you organize source code note easily. |
 | [Jelly Snippets](https://github.com/rabirabirara/obsidian-jelly-snippets) | A simple text snippets plugin. |
