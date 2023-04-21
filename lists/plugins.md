@@ -245,7 +245,7 @@
 | [Obsimian](https://github.com/motif-software/obsimian) | Obsidian simulation framework for testing Obsidian plugins. |
 | [Find & Replace in Selection](https://github.com/TClark1011/obsidian-find-and-replace-in-selection) | Replace text within your current selection |
 | [Embedded Code Title](https://github.com/tadashi-aikawa/obsidian-embedded-code-title) | This is an Obsidian plugin which can embeds title to code blocks. |
-| [Homepage](https://github.com/mirnovov/obsidian-homepage) | Open a specfied note on startup. |
+| [Homepage](https://github.com/mirnovov/obsidian-homepage) | Open a specified note, canvas, or workspace on startup, or set it for quick access later. |
 | [Random To-Do](https://github.com/NatiAris/obsidian-random-todo) | Open a random file containing your custom to-do marker, or a random marker at its position. |
 | [Media Extended BiliBili Plugin](https://github.com/aidenlx/mx-bili-plugin) | Add advanced bilibili videos support for Media Extended plugin |
 | [cMenu](https://github.com/chetachiezikeuzor/cMenu-Plugin) | An Obsidian.md plugin that adds a minimal text editor modal for a smoother writing/editing experience ✍🏽. |
@@ -929,3 +929,17 @@
 | [Get Stock Information](https://github.com/mikejongbloet/obsidian-get-stock-information) | This plugin takes a stock symbol and returns a callout block with the latest stock information. |
 | [Frontmatter Alias Display](https://github.com/muhammadv-i/obsidian-frontmatter-alias-display) | A plugin for Obsidian to show front-matter aliases as display names in the File Explorer. |
 | [Character Insertion](https://github.com/TakamiChie/Obsidian_CharacterInsertionPlugin) | Plugin to insert a specified symbol under the cursor |
+| [Whisper](https://github.com/nikdanilov/whisper-obsidian-plugin) | Hands-Free Note-Taking for Obsidian with Whisper |
+| [Colorful Note Borders](https://github.com/rusi/obsidian-colorful-note-borders) | Add customizable colorful borders to notes based on folder location or frontmatter metadata, enhancing visual organization in Obsidian. |
+| [Code Files](https://github.com/lukasbach/obsidian-code-files) | Edit Code Files in Obsidian with VSCode's powerful Monaco Editor |
+| [Flashcard Learning](https://github.com/gaetanmuck/obsidian-flashcard-learning) | Improved flashcard learning system |
+| [Any Block](https://github.com/LincZero/obsidian-any-block) | You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`.  |
+| [WuCai highlights Official](https://github.com/makediff/obsidian-wucai) | Sync WuCai highlights into your notes |
+| [File Order](https://github.com/lukasbach/obsidian-file-order) | Use number-prefixes in your file names to define a custom order, and drag-and-drop the files to update that order |
+| [No Tabs](https://github.com/TS-Tobias/obsidian-no-tabs) | Replaces the previous tab when creating a new note |
+| [Tab Rotator](https://github.com/autohub7/obsidian-tab-rotator) | This plugin rotates opened files to the left or right with a specified interval. |
+| [Bulk open selected links](https://github.com/autohub7/obsidian-open-selected-links) | This plugin allows users to easily open all selected links in edit mode. |
+| [Semantic Search](https://github.com/bbawj/obsidian-semantic-search) | Semantic search for files using OpenAI's text embeddings |
+| [Select current line](https://github.com/gokulk16/select-current-line-plugin) | Selects the current line where the cursor is placed. Press 'ESC' button to select. |
+| [Wikipedia Search](https://github.com/StrangeGirlMurph/obsidian-wikipedia-search) | Search for Wikipedia articles and link them. |
+| [Vim Toggle](https://github.com/conneroisu/vim-toggle) | (It toggles vim on/off) Allows for the the toggling and customization of said toggling within settings. |
