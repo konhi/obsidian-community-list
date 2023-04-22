@@ -943,3 +943,16 @@
 | [Select current line](https://github.com/gokulk16/select-current-line-plugin) | Selects the current line where the cursor is placed. Press 'ESC' button to select. |
 | [Wikipedia Search](https://github.com/StrangeGirlMurph/obsidian-wikipedia-search) | Search for Wikipedia articles and link them. |
 | [Vim Toggle](https://github.com/conneroisu/vim-toggle) | (It toggles vim on/off) Allows for the the toggling and customization of said toggling within settings. |
+| [Draw Harada Method](https://github.com/yildbs/obsidian-harada-method-plugin) | This plugin is used to draw the harada method. Create your own 1 goal, 8 plans, and 64 actions! |
+| [Marp Slides](https://github.com/samuele-cozzi/obsidian-marp-slides) | Create Marp presentations in Obsidian |
+| [Flomo Importer](https://github.com/jia6y/flomo-to-obsidian) | Make Flomo memos to Obsidian Notes. |
+| [Tolino notes Importer](https://github.com/juergenbr/obsidian-tolino-notes-import) | This is a plugin for Obsidian to import notes from a Tolino E-Reader |
+| [Codeblock Customizer](https://github.com/mugiwara85/CodeblockCustomizer) | This Obsidian plugin lets you customize your codeblocks in editing, and reading mode as well. |
+| [Auto Classifier](https://github.com/hyeonseonam/auto-classifier) | This plugin automatically classify tag from your notes using ChatGPT API. It analyze your note (It can be title, frontmatter, content or selected area) and automatically insert tag where you set. |
+| [AI Assistant](https://github.com/qgrail/obsidian-ai-assistant) | AI Assistant plugin for Obsidian |
+| [Cron](https://github.com/cdloh/obsidian-cron) | Simple CRON / schedular plugin to regularly run user scripts or Obsidian commands. |
+| [Tray](https://github.com/dragonwocky/obsidian-tray) | Run Obsidian from the system tray for customisable window management & global quick notes |
+| [Dynamic Timetable](https://github.com/L7Cy/obsidian-dynamic-timetable) | Calculate the estimated time of completion from the estimated time of the task and dynamically create a timetable. |
+| [Soomda](https://github.com/michaellee/soomda) | Quickly hide your sidebars |
+| [Vault name in status bar](https://github.com/1C0D/Obsidian-Vault-Name-in-Status-Bar) | See your vault name in the status bar and click on it ot reduce it |
+| [Quickly](https://github.com/tmfelwu/obsidian-inbox) | Quickly navigate and create notes through OS shortcut keys. |
