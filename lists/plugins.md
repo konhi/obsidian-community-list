@@ -130,7 +130,7 @@
 | [NoteTweet](https://github.com/chhoumann/notetweet_obsidian) | Post tweets from Obsidian. |
 | [Code block from selection](https://github.com/dy-sh/obsidian-code-block-from-selection) | Adds code block for the selected text. |
 | [Format Hotkeys](https://github.com/anstosa/format-hotkeys-obsidian) | Google Docs style formatting hotkeys for Obsidian |
-| [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) | Interactive maps inside your notes |
+| [Obsidian Leaflet](https://github.com/javalent/obsidian-leaflet) | Interactive maps inside your notes |
 | [Remember cursor position](https://github.com/dy-sh/obsidian-remember-cursor-position) | Remember cursor and scroll position for each note |
 | [Pane Relief](https://github.com/pjeby/pane-relief) | Per-pane history, hotkeys for pane movement + navigation, and more |
 | [DEVONlink - Open or reveal notes in DEVONthink](https://github.com/ryanjamurphy/DEVONlink-obsidian) | Open or reveal the current note in DEVONthink. |
@@ -141,14 +141,14 @@
 | [Open cards in imdone from obsidian.](https://github.com/imdone/imdone-obsidian-plugin) | Open cards in imdone kanban from their source in obsidian.  Open cards from imdone in obsidian at their source. |
 | [Spotlight](https://github.com/Darakah/obsidian-spotlight) | Block that features random notes or block of a note from vault / in a specified project or with a certain combination of tags. |
 | [Unique attachments](https://github.com/dy-sh/obsidian-unique-attachments) | Rename attachments, making their names unique (based on hashing of file content) |
-| [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) | Add a little randomness to your notes! |
+| [Dice Roller](https://github.com/javalent/dice-roller) | Add a little randomness to your notes! |
 | [LanguageTool Integration](https://github.com/Clemens-E/obsidian-languagetool-plugin) | advanced spell/grammar checks with the help of language-tool |
 | [Commits](https://github.com/Darakah/obsidian-commits) | Track & show commits in obsidian vault or specified project. |
 | [Outliner](https://github.com/vslinko/obsidian-outliner) | Work with your lists like in Workflowy or RoamResearch. |
 | [Extract url content](https://github.com/trashhalo/obsidian-extract-url) | Extract url converting content into markdown |
 | [Find and replace in selection](https://github.com/dy-sh/obsidian-find-and-replace-in-selection) | Finds what you are looking for in the selected text and replaces it with the specified text |
 | [Buttons](https://github.com/shabegom/buttons) | Create Buttons in your Obsidian notes to run commands, open links, and insert templates |
-| [Admonition](https://github.com/valentine195/obsidian-admonition) | Admonition block-styled content for Obsidian.md |
+| [Admonition](https://github.com/javalent/admonitions) | Admonition block-styled content for Obsidian.md |
 | [Tracker](https://github.com/pyrochlore/obsidian-tracker) | Tracks occurrences and numbers in your notes |
 | [Hotkeys for templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) | Add commands to insert specific templates with a hotkey |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Offers controls for adjusting theme, plugin, and snippet CSS variables |
@@ -197,7 +197,7 @@
 | [Readwise Mirror](https://github.com/jsonMartin/readwise-mirror) | Mirror your Readwise library directly into an Obsidian vault |
 | [Auto pair chinese symbol](https://github.com/renmu123/obsidian-auto-pair-chinese-symbol) | Auto pair chinese symbol |
 | [Obsidian Pomodoro Plugin](https://github.com/tokuhirom/obsidian-pomodoro-plugin) | This is a simple pomodoro plugin for Obsidian. |
-| [Fantasy Statblocks](https://github.com/valentine195/fantasy-statblocks) | Create Fantasy Statblocks in Obsidian.md |
+| [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks) | Create Fantasy Statblocks in Obsidian.md |
 | [Zoom](https://github.com/vslinko/obsidian-zoom) | Zoom into heading and lists. |
 | [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all) | This plugin adds a button to collapse all folders in the file explorer. |
 | [Charts View](https://github.com/caronchen/obsidian-chartsview-plugin) | Data visualization solution in Obsidian, support plots and graphs. |
@@ -234,7 +234,7 @@
 | [Timeline](https://github.com/George-debug/obsidian-timeline) | Used to build great timelines |
 | [Map View](https://github.com/esm7/obsidian-map-view) | An interactive map view for your notes. |
 | [Copy Image and URL context menu](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy Image, Copy URL and Open PDF externally context menu in reading view (formerly preview mode) |
-| [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) | TTRPG Initiative Tracker for Obsidian.md |
+| [Initiative Tracker](https://github.com/javalent/initiative-tracker) | TTRPG Initiative Tracker for Obsidian.md |
 | [Cursor Location](https://github.com/spslater/obsidian-cursor-location-plugin) | This displays the location of the cursor (character and line number). |
 | [Enhancing mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) | This is a enhancing mindmap plugin for obsidian. You can edit mindmap on markdown. |
 | [Breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) | Visualise the hierarchy of your vault using a breadcrumb trail or matrix view |
@@ -250,7 +250,7 @@
 | [Media Extended BiliBili Plugin](https://github.com/aidenlx/mx-bili-plugin) | Add advanced bilibili videos support for Media Extended plugin |
 | [cMenu](https://github.com/chetachiezikeuzor/cMenu-Plugin) | An Obsidian.md plugin that adds a minimal text editor modal for a smoother writing/editing experience ✍🏽. |
 | [Daf Yomi](https://github.com/lyonsquark/obsidian-daf-yomi) | Prepare Daf Yomi notes |
-| [Markdown Attributes](https://github.com/valentine195/obsidian-markdown-attributes) | Add markdown attributes to elements in Obsidian.md |
+| [Markdown Attributes](https://github.com/javalent/markdown-attributes) | Add markdown attributes to elements in Obsidian.md |
 | [Wavedrom](https://github.com/kingsquirrel152/obsidian-wavedrom) | Simple plugin for creating wavedrom plots. |
 | [Phone to Roam to Obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian) | An Obsidian client for phonetoroam.com |
 | [Budget WYSIWYG](https://github.com/OwnJoke/obsidian-budget-wysiwyg) | This is a plugin that automatically switches between preview mode and source mode based on if you are typing or not. |
@@ -321,7 +321,7 @@
 | [Obsidian42 - Text Transporter](https://github.com/TfTHacker/obsidian42-text-transporter) | Advanced text tools for working with text in your vault |
 | [MarginNote Companion](https://github.com/aidenlx/marginnote-companion) | An Obsidian plugin to bridge MarginNote 3 and Obsidian |
 | [Netwik](https://github.com/fivol/netwik-obsidian) | Union Vault. This plugin provides access to global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants |
-| [Prominent Starred Files](https://github.com/valentine195/obsidian-prominent-starred-files) | Prominently display starred notes in the file explorer |
+| [Prominent Bookmarked Files](https://github.com/javalent/prominent-files) | Prominently display bookmarked notes in the file explorer |
 | [OzanShare Publish](https://github.com/ozntel/ozanshare-publish-plugin) | Publish your markdown notes with a single click from your vault. (Closed Source) |
 | [Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts) | Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code (vscode) or Sublime Text |
 | [Task Collector (TC)](https://github.com/ebullient/obsidian-task-collector) | Change task status and collect tasks within a document using hotkeys and context menus. |
@@ -399,7 +399,7 @@
 | [Generic Initiative Tracker](https://github.com/beaushinkle/obsidian-generic-initiative-tracker) | TTRPG Generic Initiative Tracker |
 | [AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) | Yet Another Anki Bridge. Focuses on a strict grammar and integrity of your data |
 | [Tressel Sync for Obsidian](https://github.com/tresselteam/obsidian-tressel) | Official Tressel plugin to sync/export your tweets and threads into Obsidian |
-| [Second Window](https://github.com/valentine195/obsidian-image-window) | Allow images & notes to be viewed in new Obsidian windows. |
+| [Second Window](https://github.com/javalent/second-window) | Allow images & notes to be viewed in new Obsidian windows. |
 | [Text to Speech](https://github.com/joethei/obsidian-tts) | Text to speech for Obsidian. Hear your notes. |
 | [Link Favicons](https://github.com/joethei/obsidian-link-favicon) | See the favicon for a linked website. |
 | [Get Info](https://github.com/chetachiezikeuzor/Get-Info-Plugin) | Get Info is a plugin that tucks a menu inside your status bar and shows helpful information for your chosen file 📄. |
@@ -462,7 +462,7 @@
 | [Persistent Graph](https://github.com/Sanqui/obsidian-persistent-graph) | Save and restore the positions of nodes on your graph. |
 | [Auto Note Mover](https://github.com/farux/obsidian-auto-note-mover) | Auto Note Mover will automatically move the active notes to their respective folders according to the rules. |
 | [Insert Heading Link](https://github.com/Signynt/insert-heading-link) | Add a command to create a Link to a Heading. |
-| [Settings Search](https://github.com/valentine195/obsidian-settings-search) | Globally search settings in Obsidian.md |
+| [Settings Search](https://github.com/javalent/settings-search) | Globally search settings in Obsidian.md |
 | [Word Splitting for Japanese in Edit Mode](https://github.com/sonarAIT/cm-japanese-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Japanese word splitting |
 | [AidenLx's Folder Note - folderv Component](https://github.com/aidenlx/alx-folder-note-folderv) | Optional `folderv` Component for alx-folder-note |
 | [Chevereto Image Uploader for Obsidian](https://github.com/kkzzhizhou/obsidian-chevereto-image-uploader) | This plugin uploads images in your clipboard to chevereto. |
