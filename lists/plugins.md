@@ -956,3 +956,9 @@
 | [Soomda](https://github.com/michaellee/soomda) | Quickly hide your sidebars. |
 | [Vault name in status bar](https://github.com/1C0D/Obsidian-Vault-Name-in-Status-Bar) | See your vault name in the status bar and click on it ot reduce it. |
 | [Quickly](https://github.com/tmfelwu/obsidian-inbox) | Quickly navigate and create notes through OS shortcut keys. |
+| [HK Code Block](https://github.com/HeekangPark/obsidian-hk-code-block) | Obsidian plugin developed by Heekang Park; Make code block looking good on reading view |
+| [Tistory Poster](https://github.com/idreamer/tistory-poster) | This plugin posts a note in Obsidian to Tistory blogging platform. |
+| [Link Range](https://github.com/rmellmer/obsidian-link-range) | This Obsidian plugin brings ranged wiki-link support to Obsidian. |
+| [Ring a secretary](https://github.com/vrtmrz/ring-a-secretary) | Yet another ChatGPT-powered digital secretary |
+| [Latex Matrices](https://github.com/Deltekk/Obsidian-Latex-Matrices) | Speedup latex matrices writing. |
+| [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename) | Renames notes keeping previous title in existing links |
