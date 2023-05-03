@@ -929,7 +929,7 @@
 | [Get Stock Information](https://github.com/mikejongbloet/obsidian-get-stock-information) | Takes a stock symbol and returns a callout block with the latest stock information. |
 | [Frontmatter Alias Display](https://github.com/muhammadv-i/obsidian-frontmatter-alias-display) | Show frontmatter aliases as display names in the File Explorer. |
 | [Character Insertion](https://github.com/TakamiChie/Obsidian_CharacterInsertionPlugin) | Plugin to insert a specified symbol under the cursor. |
-| [Whisper](https://github.com/nikdanilov/whisper-obsidian-plugin) | Hands-free note-taking for Obsidian with Whisper. |
+| [Whisper](https://github.com/nikdanilov/whisper-obsidian-plugin) | Speech-to-text using OpenAI Whisper. |
 | [Colorful Note Borders](https://github.com/rusi/obsidian-colorful-note-borders) | Add customizable colorful borders to notes based on folder location or frontmatter metadata, enhancing visual organization in Obsidian. |
 | [Code Files](https://github.com/lukasbach/obsidian-code-files) | Edit Code Files in Obsidian with VS Code's powerful Monaco Editor. |
 | [Flashcard Learning](https://github.com/gaetanmuck/obsidian-flashcard-learning) | Improved flashcard learning system. |
@@ -962,3 +962,5 @@
 | [Ring a secretary](https://github.com/vrtmrz/ring-a-secretary) | Yet another ChatGPT-powered digital secretary |
 | [Latex Matrices](https://github.com/Deltekk/Obsidian-Latex-Matrices) | Speedup latex matrices writing. |
 | [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename) | Renames notes keeping previous title in existing links |
+| [Folder notes](https://github.com/LostPaul/obsidian-folder-notes) | Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion. |
+| [Pocketbook Cloud Highlight Importer](https://github.com/lenalebt/obsidian-pocketbook-cloud-highlight-importer) | Imports notes and highlights from your Pocketbook Cloud account into your vault. |
