@@ -8,7 +8,6 @@
 | [Show Whitespace](https://github.com/deathau/cm-show-whitespace-obsidian) | Show whitespace in the editor. |
 | [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) | Improved table navigation, formatting, and manipulation. |
 | [Leader Hotkeys](https://github.com/tgrosinger/leader-hotkeys-obsidian) | Add leader hotkey support to any command (like tmux or vim). |
-| [Slated](https://github.com/tgrosinger/slated-obsidian) | Task management and repetition. |
 | [Recent Files](https://github.com/tgrosinger/recent-files-obsidian) | Display a list of recently opened files. |
 | [Ledger](https://github.com/tgrosinger/ledger-obsidian) | Plain text accounting. |
 | [Note Refactor](https://github.com/lynchjames/note-refactor-obsidian) | Extract note content into new notes and split notes. |
@@ -30,7 +29,6 @@
 | [Discord Rich Presence](https://github.com/lukeleppan/obsidian-discordrpc) | Update your Discord Status to show your friends what you are working on in Obsidian. |
 | [Templater](https://github.com/SilentVoid13/Templater) | Create and use templates. |
 | [Convert url to preview (iframe)](https://github.com/FHachez/obsidian-convert-url-to-iframe) | Convert a URL (e.g. YouTube) into an iframe (preview). |
-| [Copy button for code blocks](https://github.com/jdbrice/obsidian-code-block-copy) | Copy button for code blocks. |
 | [Search++](https://github.com/nhaouari/searchpp) | Allow inserting text context search results on the active note, the plugin is based on the plugin mrj-text-expand-witb-text by MrJackphil. |
 | [Better Word Count](https://github.com/lukeleppan/better-word-count) | Counts the words of selected text in the editor. |
 | [Workbench](https://github.com/ryanjamurphy/workbench-obsidian) | Keep a workbench of knowledge materials. |
@@ -77,7 +75,6 @@
 | [PDF Highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights) | Extract highlights, underlines and annotations from your PDFs into Obsidian. |
 | [YouHaveBeenStaring](https://github.com/fxal/obsidian-youhavebeenstaring-plugin) | Tells you in the status bar for how long you've been staring at your Obsidian vault. Well - at least how long your vault is open. |
 | [metatemplates](https://github.com/avirut/obsidian-metatemplates) | Generate notes from templates using YAML frontmatter. |
-| [query2table](https://github.com/avirut/obsidian-query2table) | Represent files returned by a query as a table of their YAML frontmatter. |
 | [Imgur Plugin](https://github.com/gavvvr/obsidian-imgur-plugin) | Uploads images from your clipboard to imgur.com and embeds uploaded image to your note. |
 | [Checklist](https://github.com/delashum/obsidian-checklist-plugin) | Consolidate checklists across all files into a single view. |
 | [Text Expander](https://github.com/konodyuk/obsidian-text-expander) | Expand text shortcuts, run shell commands and Python scripts right in your editor. |
@@ -177,7 +174,6 @@
 | [Recall](https://github.com/martin-jw/obsidian-recall) | A flexible and configurable spaced repetition plugin with multiple algorithms to choose from. |
 | [Tidy Footnotes](https://github.com/charliecm/obsidian-tidy-footnotes) | Tidy your footnotes seamlessly. |
 | [Beeminder Word Count Plugin](https://github.com/kenzan100/beeminder-obsidian-word-count) | Post word counts directly from Obsidian md file to Beeminder. |
-| [Indentation Lines](https://github.com/Arch-Storm/obsidian-indent-lines) | Creates connection-lines for ordered and unordered lists. |
 | [QR Code Generator Plugin](https://github.com/rudimuc/obsidian-qrcode) | QR code generator. |
 | [Focus Mode](https://github.com/ryanpcmcquen/obsidian-focus-mode) | Add Focus Mode to Obsidian. |
 | [Underline](https://github.com/Benature/obsidian-underline) | Add underline with shortcut. |
@@ -226,7 +222,6 @@
 | [QuickAdd](https://github.com/chhoumann/quickadd) | Quickly add new notes or content to your vault. |
 | [Pluck](https://github.com/kevboh/obsidian-pluck) | Quickly create notes in Obsidian from web pages. |
 | [Pandoc](https://github.com/OliverBalfour/obsidian-pandoc) | Pandoc export plugin for Obsidian. It provides commands to export to formats like DOCX, ePub and PDF. |
-| [tq](https://github.com/tgrosinger/tq-obsidian) | File-based Task Management. |
 | [Habit Tracker](https://github.com/duoani/obsidian-habit-tracker) | Creates a simple month view for visualizing your punch records. |
 | [Amazing Marvin](https://github.com/ikuyarihS/obsidian-amazingmarvin-plugin) | A simple plugin to help getting data from Amazing Marvin. |
 | [Status Bar Pomodoro Timer](https://github.com/kzhovn/statusbar-pomo-obsidian) | Adds a pomodoro timer to your status bar. |
@@ -268,7 +263,6 @@
 | [Number Headings](https://github.com/onlyafly/number-headings-obsidian) | Automatically number or re-number headings in an Obsidian document. |
 | [Force note view mode](https://github.com/bwydoogh/obsidian-force-view-mode-of-note) | Force the view mode for a note by using frontmatter: YAML block with 'obsidian_ui_mode' as key. |
 | [File Explorer Markdown Titles](https://github.com/Dyldog/file-explorer-markdown-titles) | Shows the first Markdown header of a note in the file explorer. |
-| [Code Copy](https://github.com/superDuperCyberTechno/obsidian-code-copy) | Adds a button to code blocks to copy the code within. Trims whitespaces. |
 | [Theme Picker](https://github.com/kenset/obsidian-theme-picker) | Quickly preview and select installed themes |
 | [Emoji Shortcodes](https://github.com/phibr0/obsidian-emoji-shortcodes) | Enable the use of Markdown Emoji shortcodes :smile:, just like in Slack or Discord. |
 | [Reminder](https://github.com/uphy/obsidian-reminder) | Manage Markdown TODOs with reminder. |
@@ -279,7 +273,6 @@
 | [Rich Links](https://github.com/dhamaniasad/obsidian-rich-links) | Rich Links plugin that allows you to convert URLs in your notes to rich link previews. |
 | [Obsidian Anki Sync](https://github.com/debanjandhar12/Obsidian-Anki-Sync) | Make flashcards and sync them to Anki. |
 | [Window Collapse](https://github.com/gquental/obsidian-window-collapse) | Provides an easy way to collapse the sidebars without going fullscreen. |
-| [Tag Page Preview](https://github.com/Aidurber/tag-page-preview) | Clicking a tag opens a dialog listing pages that use that tag. |
 | [Relative Find](https://github.com/phibr0/obsidian-relative-find) | Search relative to your cursor position. |
 | [Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit) | When you click an image, it will be displayed in a popup layer and you can view, drag, zoom, rotate the image. |
 | [Shell commands](https://github.com/Taitava/obsidian-shellcommands) | Define system commands that you want to execute via command palette, hotkeys, URI links or automated events. E.g. open external applications or perform automated file modifications. |
@@ -305,7 +298,6 @@
 | [Jupyter](https://github.com/tillahoffmann/obsidian-jupyter) | Run Python code in Obsidian using Jupyter. |
 | [HackerNews](https://github.com/arpitbbhayani/obsidian-hackernews) | Periodically fetches and displays top stories from HackerNews. |
 | [Reset Font Size](https://github.com/luckman212/obsidian-reset-font-size) | Adds button and command to reset the font size back to its default value. |
-| [Dynamic Table of Contents](https://github.com/Aidurber/obsidian-plugin-dynamic-toc) | Generate Tables of Contents that stay up to date with your document outline. |
 | [Podcast Note](https://github.com/marcjulianschwarz/obsidian-podcast-note) | Podcast Note lets you automatically add podcast information to your notes. |
 | [Stille](https://github.com/michaellee/stille) | Focus on your writing, a section at a time. |
 | [Obsidian markmind](https://github.com/MarkMindCkm/obsidian-markmind) | Mind map, outline and PDF annotate tool for Obsidian. (Closed Source) |
@@ -354,7 +346,6 @@
 | [Fantasy Calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) | Fantasy calendars in Obsidian! |
 | [Improved VimCursor](https://github.com/hhhapz/improved-obsidian-vimcursor) | An improved experience with the cursor in Obsidian. |
 | [Quote of the Day](https://github.com/twentytwokhz/quote-of-the-day) | Inserts random quotes in the editor. |
-| [Audio Speed Plugin](https://github.com/kaizau/obsidian-audio-speed-plugin) | Change the playback rate of audio files during Markdown preview. |
 | [Limelight](https://github.com/smikula/obsidian-limelight) | Spotlight your active pane. |
 | [Prompt](https://github.com/hungsu/obsidian-prompt) | Show inspirational prompts, from a prompt file in your vault. |
 | [Link Archive](https://github.com/tomzorz/obsidian-link-archive) | Archive links in your note so they're available to you even if the original site goes down or gets removed. |
@@ -430,7 +421,6 @@
 | [Local File Interface](https://github.com/qawatake/obsidian-local-file-interface-plugin) | Provides commands for moving files in and out of the vault |
 | [Siteswap](https://github.com/tdresser/obsidian-siteswap) | Visualize Juggling Pattern Siteswap via the JugglingLab gif server. |
 | [ObsidianTweaks](https://github.com/JeppeKlitgaard/ObsidianTweaks) | Adds some convenient tweaks including improved toggling and ergonomic commands |
-| [Wordle](https://github.com/dbarenholz/obsidian-wordle) | Creates a view where you can play Wordle. |
 | [Obsidian Memos](https://github.com/Quorafind/Obsidian-Memos) | Works perfect with your journal |
 | [PARA Shortcuts](https://github.com/gOATiful/para-shortcuts) | Serves useful commands to setup and manage your knowledge using the PARA method. |
 | [13th Age Statblocks](https://github.com/ben/obsidian-13th-age-statblocks) | Render 13th Age statblocks in Obsidian. |
@@ -438,7 +428,6 @@
 | [KOReader Highlights](https://github.com/Edo78/obsidian-koreader-sync) | Sync highlights/notes from KOReader |
 | [Snippetor](https://github.com/ebullient/obsidian-snippetor) | Create and tweak common snippets |
 | [Sortable](https://github.com/alexandru-dinu/obsidian-sortable) | Wikipedia-like sortable tables. |
-| [Link Server](https://github.com/moelody/link-to-server) | Opens a reverse proxy server at port 3333 to get wikilink information from Obsidian API. |
 | [Weather Fetcher](https://github.com/fyears/weather-fetcher) | Fetch and insert current weather into the editor of Obsidian. |
 | [Lock Screen](https://github.com/ericbiewener/obsidian-lock-screen-plugin) | Protect your vault with a lock screen. |
 | [Pinboard Sync](https://github.com/Automatt/obsidian-pinboard-sync) | Syncs Pinboard.in links with Daily Notes |
@@ -479,7 +468,6 @@
 | [Full Calendar](https://github.com/davish/obsidian-full-calendar) | Keep events and manage your calendar alongside all your other notes in your Obsidian vault. |
 | [Heatmap Calendar](https://github.com/Richardsl/heatmap-calendar-obsidian) | Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc. |
 | [Daily notes opener](https://github.com/reorx/obsidian-daily-notes-opener) | Easily open daily notes and periodic notes in new pane; customize periodic notes background; quick append new line to daily notes. |
-| [Advanced New Folder](https://github.com/piotryordanov/obsidian-advanced-new-folder) | Lets you choose where to create a new folder. |
 | [Mark and Select](https://github.com/anselmwang/obsidian-mark-and-select) | Set mark, move cursors freely and select from mark to cursor position. |
 | [Bible Linker](https://github.com/kuchejak/obsidian-bible-linker-plugin) | Link/Copy multiple Bible verses easily using your own Bible files. Compatible with the Bible Study Kit. |
 | [Obsidian CircuitJS](https://github.com/StevenGann/obsidian-circuitjs) | Embeds CircuitJS circuit simulations into notes. |
@@ -550,7 +538,7 @@
 | [Notion-Like Tables](https://github.com/trey-wallis/obsidian-notion-like-tables) | Create Markdown tables using an interface similar to that found in Notion. |
 | [AutoMOC](https://github.com/dalcantara7/obsidian-auto-moc) | Looks for missing linked mentions to the current note and imports them into the current note. |
 | [Paste image Png to Jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg) | Screenshot png to jpeg and compress and rename. |
-| [Folder Index](https://github.com/turulix/obsidian-folder-index) | Automatic MOC for folders. |
+| [Folder Index](https://github.com/turulix/obsidian-folder-index) | Automatically generate a Map of Content for the current Folder and Subfolders. |
 | [Filename Emoji Remover](https://github.com/YTolun/obsidian-filename-emoji-remover) | Automatically remove emojis from filenames. Main purpose is to get rid of Dropbox sync issues for Readwise imported content. |
 | [ePub Reader](https://github.com/caronchen/obsidian-epub-plugin) | ePub reader plugin for Obsidian. Can open document with ".epub" file extension. |
 | [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | Displays a formatted reference in the sidebar for each pandoc citekey present in the current document. |
@@ -579,8 +567,6 @@
 | [Obsidian Camera](https://github.com/aldrinjenson/obsidian-camera) | Create and save Snaps or Video Recordings directly from Obsidian desktop. |
 | [Markbase for Obsidian](https://github.com/markbase-obsidian/obsidian-markbase) | Official Markbase plugin to share your Obsidian notes online in your own digital garden. |
 | [User Plugins](https://github.com/mnowotnik/obsidian-user-plugins) | Use js files or snippets to code your own quick and dirty plugins. |
-| [Obsidian Better Internal Link Inserter](https://github.com/salmund/obsidian-better-link-inserter) | Allow to use the selected word as an alias in link suggestion. |
-| [Obsidian Ghost Publish](https://github.com/jaynguyens/obsidian-ghost-publish) | Publish to Ghost site with a single click. |
 | [Timestamp Notes](https://github.com/juliang22/ObsidianTimestampNotes) | Allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from. |
 | [Linkify](https://github.com/matthewhchan/linkify) | Converts matching text into links. |
 | [braincache](https://github.com/XSPGMike/braincache_obsidian) | Create braincache flashcards from Obsidian. |
@@ -632,7 +618,6 @@
 | [Raindrop Highlights](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin) | Sync your Raindrop.io highlights. |
 | [Note Linker](https://github.com/AlexW00/obsidian-note-linker) | Automatically find and create new links between notes. |
 | [Dashing Cursor](https://github.com/9r0x/obsidian-dashing-cursor) | Enables dashing cursor that follows the page scroll. |
-| [Embedded Note Paths](https://github.com/b0o/obsidian-embedded-note-paths) | Inserts the note file path above each note. |
 | [QuickShare](https://github.com/mcndt/obsidian-quickshare) | Securely share your Obsidian notes with one click. Notes are end-to-end encrypted. No API keys or configuration required. |
 | [RPG Manager](https://github.com/carlonicora/obsidian-rpg-manager) | Tabletop role playing game campaign manager. |
 | [Literate Haskell](https://github.com/jajaperson/obsidian-literate-haskell) | Integrate .lhs files into your PKM. |
@@ -964,3 +949,13 @@
 | [Smart Rename](https://github.com/mnaoumov/obsidian-smart-rename) | Renames notes keeping previous title in existing links |
 | [Folder notes](https://github.com/LostPaul/obsidian-folder-notes) | Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion. |
 | [Pocketbook Cloud Highlight Importer](https://github.com/lenalebt/obsidian-pocketbook-cloud-highlight-importer) | Imports notes and highlights from your Pocketbook Cloud account into your vault. |
+| [Pivotal Tracker Integration](https://github.com/jonnydeates/obsidian-pivotal-tracker-integration-plugin) | Pull stories, bugs, chores from pivotal tracker |
+| [File Diff](https://github.com/friebetill/obsidian-file-diff) | View the differences between two files with merge options. |
+| [text2anki-openai](https://github.com/manibatra/obsidian-text2anki-openai) | This is an obsidian plugin that uses OpenAI to generate flashcards from text and add them to Anki. |
+| [Ultimate Todoist Sync](https://github.com/HeroBlackInk/ultimate-todoist-sync-for-obsidian) | This is the best Todoist task synchronization plugin for Obsidian so far. |
+| [Reading View Enhancer](https://github.com/Galacsh/obsidian-reading-view-enhancer) | Enhances reading view. Use arrow keys to fold/unfold elements. |
+| [Crossbow](https://github.com/shoedler/crossbow) | Find backlinks in your notes |
+| [Google Keep Import](https://github.com/daledesilva/obsidian_google-keep-import) | Allows import of Google Keep backup json files and their attachments. Can also be used to import other files. |
+| [Image OCR](https://github.com/kaffarell/obsidian-tesseract-ocr) | Runs ocr on images and pastes result in description. |
+| [GPT-LiteInquirer](https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin) | Experience OpenAI ChatGPT assistance directly within Obsidian, drafting content without interrupting your creative flow. |
+| [Loom](https://github.com/cosmicoptima/loom) | Loom in Obsidian |
