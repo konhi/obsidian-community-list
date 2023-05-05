@@ -166,7 +166,7 @@
 | [minheeyoon/Dawn](https://github.com/minheeyoon/Dawn) | ![Dawn](https://raw.githubusercontent.com/minheeyoon/Dawn/master/assets/00-screenshot-small.png "") |
 | [JorgEdmundo/cybertron-shifted](https://github.com/JorgEdmundo/cybertron-shifted) | ![Cybertron Shifted](https://raw.githubusercontent.com/JorgEdmundo/cybertron-shifted/master/CybertronShifted.png "") |
 | [NicolasGHS/Rezin-theme](https://github.com/NicolasGHS/Rezin-theme) | ![Rezin](https://raw.githubusercontent.com/NicolasGHS/Rezin-theme/master/assets/image.png "") |
-| [threethan/obsidian-material-flat-theme/](https://github.com/threethan/obsidian-material-flat-theme/) | ![Material Flat](https://raw.githubusercontent.com/threethan/obsidian-material-flat-theme//master/screenshot.png "") |
+| [threethan/obsidian-material-flat-theme](https://github.com/threethan/obsidian-material-flat-theme) | ![Material Flat](https://raw.githubusercontent.com/threethan/obsidian-material-flat-theme/master/screenshot.png "") |
 | [frank0713/nightingale-obsidian](https://github.com/frank0713/nightingale-obsidian) | ![Nightingale](https://raw.githubusercontent.com/frank0713/nightingale-obsidian/master/image/cover.png "") |
 | [sergey900553/obsidian_dekurai_theme](https://github.com/sergey900553/obsidian_dekurai_theme) | ![Dekurai](https://raw.githubusercontent.com/sergey900553/obsidian_dekurai_theme/master/screenshot.png "") |
 | [callumhackett/obsidian_polka_theme](https://github.com/callumhackett/obsidian_polka_theme) | ![Polka](https://raw.githubusercontent.com/callumhackett/obsidian_polka_theme/master/polka.png "") |

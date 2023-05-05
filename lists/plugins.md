@@ -910,7 +910,7 @@
 | [Advanced Merger](https://github.com/antoKeinanen/obsidian-advanced-merger) | Merge a folder of notes for easier export. |
 | [Unfilled Stats Highlighter](https://github.com/White7292/obsidian-hd-unfilled-stats-highlighter) | Streamline your stat/habit tracking process by automatically identifying and prefixing unfilled stats, making them easier to spot and fill out. |
 | [GPT Assistant](https://github.com/M7mdisk/obsidian-gpt) | Use a GPT-3 based model on your notes and get personalized answers from your knowledge base. |
-| [Companion](https://github.com/rizerphe/obsidian-companion) | A GitHub copilot-like interface for Obsidian that can use ChatGPT under the hood. |
+| [Companion](https://github.com/rizerphe/obsidian-companion) | Autocomplete with AI, including ChatGPT, through a copilot-like interface. |
 | [Get Stock Information](https://github.com/mikejongbloet/obsidian-get-stock-information) | Takes a stock symbol and returns a callout block with the latest stock information. |
 | [Frontmatter Alias Display](https://github.com/muhammadv-i/obsidian-frontmatter-alias-display) | Show frontmatter aliases as display names in the File Explorer. |
 | [Character Insertion](https://github.com/TakamiChie/Obsidian_CharacterInsertionPlugin) | Plugin to insert a specified symbol under the cursor. |
@@ -959,3 +959,16 @@
 | [Image OCR](https://github.com/kaffarell/obsidian-tesseract-ocr) | Runs ocr on images and pastes result in description. |
 | [GPT-LiteInquirer](https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin) | Experience OpenAI ChatGPT assistance directly within Obsidian, drafting content without interrupting your creative flow. |
 | [Loom](https://github.com/cosmicoptima/loom) | Loom in Obsidian |
+| [Links](https://github.com/mii-key/obsidian-links) | Manipulate links |
+| [Confluence Integration](https://github.com/markdown-confluence/obsidian-integration) | Publish markdown content from Obsidian to Atlassian Confluence. It supports some Obsidian markdown extensions for richer content. |
+| [Copilot](https://github.com/logancyang/obsidian-copilot) | A ChatGPT Copilot in Obsidian. |
+| [GitHub Issue Augmentation](https://github.com/samprintz/obsidian-issue-augmentation-plugin) | Augments GitHub issue IDs |
+| [Persistent Links](https://github.com/ivan-lednev/obsidian-persistent-links) | Automatically repair internal links to blocks and headings when moving them between files |
+| [Personal Assistant](https://github.com/edonyzpc/personal-assistant) | Streamline workflows within Obsidian, managing memos and plugins with just one command. |
+| [April's Automatic Timelines](https://github.com/April-Gras/obsidian-auto-timelines) | Simple timeline generator for story tellers |
+| [AI Mentor](https://github.com/clementpoiret/ai-mentor) | Meet your open source AI mentor in Obsidian. Ask questions, get answers, and learn new things. |
+| [Game Search](https://github.com/CMorooney/obsidian-game-search-plugin) | Help insert game metadata into game notes or journals |
+| [Linked Data Vocabularies](https://github.com/kometenstaub/linked-data-vocabularies) | Add Library of Congress Subject Headings (LCSH) as metadata to your notes. |
+| [Linked Data Helper](https://github.com/kometenstaub/linked-data-helper) | Prepare data needed by Linked Data Vocabularies. |
+| [Show Diff](https://github.com/ivan-lednev/obsidian-automatic-changelog) | Render Git diffs in Obsidian files |
+| [Markdoc](https://github.com/kamoshi/obsidian-markdoc) | Basic support for Markdoc files. |
