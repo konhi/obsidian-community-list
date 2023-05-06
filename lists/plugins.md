@@ -972,3 +972,7 @@
 | [Linked Data Helper](https://github.com/kometenstaub/linked-data-helper) | Prepare data needed by Linked Data Vocabularies. |
 | [Show Diff](https://github.com/ivan-lednev/obsidian-automatic-changelog) | Render Git diffs in Obsidian files |
 | [Markdoc](https://github.com/kamoshi/obsidian-markdoc) | Basic support for Markdoc files. |
+| [Colored Text](https://github.com/erincayaz/obsidian-colored-text) | Color the selected texts. |
+| [Slide Note](https://github.com/Phantom1003/obsidian-slide-note) | Conveniently take notes on PDF course slides :P |
+| [Chem](https://github.com/Acylation/obsidian-chem) | Providing chemistry supports. Rendering SMILES strings into chemistry structures. |
+| [Last Modified Timestamp in Status Bar](https://github.com/Yustynn/obsidian-last-modified-timestamp-in-status-bar) | Dynamic display of file modification timestamp in the status bar. |
