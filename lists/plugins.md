@@ -976,3 +976,7 @@
 | [Slide Note](https://github.com/Phantom1003/obsidian-slide-note) | Conveniently take notes on PDF course slides :P |
 | [Chem](https://github.com/Acylation/obsidian-chem) | Providing chemistry supports. Rendering SMILES strings into chemistry structures. |
 | [Last Modified Timestamp in Status Bar](https://github.com/Yustynn/obsidian-last-modified-timestamp-in-status-bar) | Dynamic display of file modification timestamp in the status bar. |
+| [Askify Sync](https://github.com/helloworldkr/Askify-Obsidian-Sync) | Syncing between Obsidian and Askify. |
+| [Android nomedia](https://github.com/calomancer/android.nomedia) | Hides media from your Vault on Android devices by adding the 'nomedia' file to each folder. |
+| [Custom State for Task List](https://github.com/OkamiWong/obsidian-custom-state-for-task-list) | Add custom states to task list items. |
+| [Fuzzy Chinese Pinyin](https://github.com/lazyloong/obsidian-fuzzy-chinese) | Provide the function of fuzzy search using Chinese Pinyin. |
