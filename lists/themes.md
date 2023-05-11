@@ -190,3 +190,4 @@
 | [OlivierPS/Olivier-s-Theme](https://github.com/OlivierPS/Olivier-s-Theme) | ![Olivier’s Theme](https://raw.githubusercontent.com/OlivierPS/Olivier-s-Theme/master/main-screenshot.png "") |
 | [G2Jose/synthwave-84-obsidian-theme](https://github.com/G2Jose/synthwave-84-obsidian-theme) | ![Synthwave '84](https://raw.githubusercontent.com/G2Jose/synthwave-84-obsidian-theme/master/screenshot-512x288.png "") |
 | [whereiswhere/iB-Writer](https://github.com/whereiswhere/iB-Writer) | ![iB Writer](https://raw.githubusercontent.com/whereiswhere/iB-Writer/master/store-screenshot.png "") |
+| [oqipoDev/Buena-Vista-Theme](https://github.com/oqipoDev/Buena-Vista-Theme) | ![Buena Vista](https://raw.githubusercontent.com/oqipoDev/Buena-Vista-Theme/master/img/thumb.png "") |
