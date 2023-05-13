@@ -980,3 +980,4 @@
 | [Android nomedia](https://github.com/calomancer/android.nomedia) | Hides media from your Vault on Android devices by adding the 'nomedia' file to each folder. |
 | [Custom State for Task List](https://github.com/OkamiWong/obsidian-custom-state-for-task-list) | Add custom states to task list items. |
 | [Fuzzy Chinese Pinyin](https://github.com/lazyloong/obsidian-fuzzy-chinese) | Provide the function of fuzzy search using Chinese Pinyin. |
+| [Auto Template Trigger](https://github.com/numeroflip/obsidian-auto-template-prompt) | Automatically prompt for a template, when creating a note. |
