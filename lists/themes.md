@@ -192,3 +192,6 @@
 | [whereiswhere/iB-Writer](https://github.com/whereiswhere/iB-Writer) | ![iB Writer](https://raw.githubusercontent.com/whereiswhere/iB-Writer/master/store-screenshot.png "") |
 | [oqipoDev/Buena-Vista-Theme](https://github.com/oqipoDev/Buena-Vista-Theme) | ![Buena Vista](https://raw.githubusercontent.com/oqipoDev/Buena-Vista-Theme/master/img/thumb.png "") |
 | [Thiews/obsidian-simplicity](https://github.com/Thiews/obsidian-simplicity) | ![Simplicity](https://raw.githubusercontent.com/Thiews/obsidian-simplicity/master/cover.png "") |
+| [drbap/magicuser-theme-for-obsidian](https://github.com/drbap/magicuser-theme-for-obsidian) | ![MagicUser](https://raw.githubusercontent.com/drbap/magicuser-theme-for-obsidian/master/screenshot.png "") |
+| [PrettyBoyCosmo/ProtocolBlue](https://github.com/PrettyBoyCosmo/ProtocolBlue) | ![ProtocolBlue](https://raw.githubusercontent.com/PrettyBoyCosmo/ProtocolBlue/master/assets/image.png "") |
+| [thegixo/YueObsidian](https://github.com/thegixo/YueObsidian) | ![Yue](https://raw.githubusercontent.com/thegixo/YueObsidian/master/assets/main-demo.png "") |
