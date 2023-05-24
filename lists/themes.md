@@ -195,3 +195,4 @@
 | [drbap/magicuser-theme-for-obsidian](https://github.com/drbap/magicuser-theme-for-obsidian) | ![MagicUser](https://raw.githubusercontent.com/drbap/magicuser-theme-for-obsidian/master/screenshot.png "") |
 | [PrettyBoyCosmo/ProtocolBlue](https://github.com/PrettyBoyCosmo/ProtocolBlue) | ![ProtocolBlue](https://raw.githubusercontent.com/PrettyBoyCosmo/ProtocolBlue/master/assets/image.png "") |
 | [thegixo/YueObsidian](https://github.com/thegixo/YueObsidian) | ![Yue](https://raw.githubusercontent.com/thegixo/YueObsidian/master/assets/main-demo.png "") |
+| [abrahambahez/Brutalism](https://github.com/abrahambahez/Brutalism) | ![Brutalism](https://raw.githubusercontent.com/abrahambahez/Brutalism/master/brutalism_dark.png "") |
