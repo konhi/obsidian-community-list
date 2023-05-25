@@ -406,7 +406,6 @@
 | [Quoth](https://github.com/erykwalder/quoth) | More flexible embedding. Embed precise selections, inline embeds, optionally include author and title. |
 | [Metronome](https://github.com/curtgrimes/obsidian-metronome-plugin) | Add interactive metronomes to your notes. |
 | [Plaintext](https://github.com/dbarenholz/obsidian-plaintext) | Allow opening specified files as plaintext. |
-| [Native Scrollbars](https://github.com/mgmeyers/obsidian-native-scrollbars) | Enables native OS scrollbars throughout Obsidian. |
 | [Wrap with shortcuts](https://github.com/manic/obsidian-wrap-with-shortcuts) | Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ). |
 | [Tomorrow's Daily Note](https://github.com/frankolson/obsidian-tomorrows-daily-note) | Creates tomorrow's daily note for preemtive planning. |
 | [Rant-Lang](https://github.com/lanice/obsidian-rant) | Thin wrapper around the high-level procedural templating language Rant. |
