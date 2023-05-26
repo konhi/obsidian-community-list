@@ -980,3 +980,4 @@
 | [Custom State for Task List](https://github.com/OkamiWong/obsidian-custom-state-for-task-list) | Add custom states to task list items. |
 | [Fuzzy Chinese Pinyin](https://github.com/lazyloong/obsidian-fuzzy-chinese) | Provide the function of fuzzy search using Chinese Pinyin. |
 | [Auto Template Trigger](https://github.com/numeroflip/obsidian-auto-template-prompt) | Automatically prompt for a template, when creating a note. |
+| [Ketcher](https://github.com/yuleicul/obsidian-ketcher) | View or draw chemical structures and reactions using Ketcher. |
