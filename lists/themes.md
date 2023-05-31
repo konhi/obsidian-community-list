@@ -196,3 +196,4 @@
 | [PrettyBoyCosmo/ProtocolBlue](https://github.com/PrettyBoyCosmo/ProtocolBlue) | ![ProtocolBlue](https://raw.githubusercontent.com/PrettyBoyCosmo/ProtocolBlue/master/assets/image.png "") |
 | [thegixo/YueObsidian](https://github.com/thegixo/YueObsidian) | ![Yue](https://raw.githubusercontent.com/thegixo/YueObsidian/master/assets/main-demo.png "") |
 | [abrahambahez/Brutalism](https://github.com/abrahambahez/Brutalism) | ![Brutalism](https://raw.githubusercontent.com/abrahambahez/Brutalism/master/brutalism_dark.png "") |
+| [arozx/obsidian_tokyo-night-storm](https://github.com/arozx/obsidian_tokyo-night-storm) | ![Tokyo Night Storm](https://raw.githubusercontent.com/arozx/obsidian_tokyo-night-storm/master/tokyo-night-storm.png "") |

@@ -981,3 +981,8 @@
 | [Fuzzy Chinese Pinyin](https://github.com/lazyloong/obsidian-fuzzy-chinese) | Provide the function of fuzzy search using Chinese Pinyin. |
 | [Auto Template Trigger](https://github.com/numeroflip/obsidian-auto-template-prompt) | Automatically prompt for a template, when creating a note. |
 | [Ketcher](https://github.com/yuleicul/obsidian-ketcher) | View or draw chemical structures and reactions using Ketcher. |
+| [Open Plugin Settings](https://github.com/lisandra-dev/open-plugin-settings-commands) | Create a command to open a specified plugin settings. |
+| [MathLive](https://github.com/danzilberdan/obsidian-mathlive) | Faster and more intuitive MathJax editing using MathLive. |
+| [Auto Hide Cursor](https://github.com/moismat/obsidian-auto-hide-cursor) | Hides the cursor when scrolling and shows it again when moving the mouse. |
+| [PubScale](https://github.com/piriwata/pubScale) | Seamlessly sync markdown notes into PlanetScale tables. |
+| [Rofi Helper](https://github.com/digitalsignalperson/obsidian-rofi-helper) | Adds a leaf ID parameter to the URI protocol for switching between open obsidian tabs with Rofi. A sample Rofi script is included. |
