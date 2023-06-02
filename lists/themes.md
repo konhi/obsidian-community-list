@@ -197,3 +197,4 @@
 | [thegixo/YueObsidian](https://github.com/thegixo/YueObsidian) | ![Yue](https://raw.githubusercontent.com/thegixo/YueObsidian/master/assets/main-demo.png "") |
 | [abrahambahez/Brutalism](https://github.com/abrahambahez/Brutalism) | ![Brutalism](https://raw.githubusercontent.com/abrahambahez/Brutalism/master/brutalism_dark.png "") |
 | [arozx/obsidian_tokyo-night-storm](https://github.com/arozx/obsidian_tokyo-night-storm) | ![Tokyo Night Storm](https://raw.githubusercontent.com/arozx/obsidian_tokyo-night-storm/master/tokyo-night-storm.png "") |
+| [Nikolai2038/strict-obsidian-theme](https://github.com/Nikolai2038/strict-obsidian-theme) | ![Strict](https://raw.githubusercontent.com/Nikolai2038/strict-obsidian-theme/master/screenshot_edit_mode.png "") |
