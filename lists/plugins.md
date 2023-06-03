@@ -986,3 +986,7 @@
 | [Auto Hide Cursor](https://github.com/moismat/obsidian-auto-hide-cursor) | Hides the cursor when scrolling and shows it again when moving the mouse. |
 | [PubScale](https://github.com/piriwata/pubScale) | Seamlessly sync markdown notes into PlanetScale tables. |
 | [Rofi Helper](https://github.com/digitalsignalperson/obsidian-rofi-helper) | Adds a leaf ID parameter to the URI protocol for switching between open obsidian tabs with Rofi. A sample Rofi script is included. |
+| [Mood Tracker](https://github.com/dartungar/obsidian-mood-tracker) | Track your moods & emotions easily. Visualize tracked history and browse the past entries. |
+| [Plugin Manager](https://github.com/ohm-en/obsidian-plugin-manager) | Extends plugin management of Obsidian. |
+| [Better MathJax](https://github.com/greasycat/BetterMathjax) | Provide math autocompletion and customizable snippets. |
+| [Interlinear Glossing](https://github.com/Mijyuoon/obsidian-ling-gloss) | Format interlinear glosses used in linguistics texts. |
