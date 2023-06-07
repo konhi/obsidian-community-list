@@ -199,3 +199,4 @@
 | [arozx/obsidian_tokyo-night-storm](https://github.com/arozx/obsidian_tokyo-night-storm) | ![Tokyo Night Storm](https://raw.githubusercontent.com/arozx/obsidian_tokyo-night-storm/master/tokyo-night-storm.png "") |
 | [Nikolai2038/strict-obsidian-theme](https://github.com/Nikolai2038/strict-obsidian-theme) | ![Strict](https://raw.githubusercontent.com/Nikolai2038/strict-obsidian-theme/master/screenshot_edit_mode.png "") |
 | [sq1000000/NeuBorder](https://github.com/sq1000000/NeuBorder) | ![NeuBorder](https://raw.githubusercontent.com/sq1000000/NeuBorder/master/img/cover.png "") |
+| [Bluemoondragon07/Obsidian-Bolt](https://github.com/Bluemoondragon07/Obsidian-Bolt) | ![Bolt](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Bolt/master/cover.png "") |
