@@ -905,7 +905,7 @@
 | [OZ Calendar](https://github.com/ozntel/oz-calendar) | View your notes in Calendar using any YAML key with a date. |
 | [Send Tasks to OmniFocus](https://github.com/lizard-heart/obsidian-to-omnifocus) | Extract tasks from the current note and create them in OmniFocus. |
 | [AI Commander](https://github.com/yzh503/obsidian-aicommander-plugin) | Generate audio transcripts, images, and text in context of PDF attachments or web search results using OpenAI and Bing API. |
-| [Pseudocode](https://github.com/Yaotian-Liu/obsidian-pseudocode) | Helps render LaTeX-style pseudocode inside a code block. |
+| [Pseudocode](https://github.com/ytliu74/obsidian-pseudocode) | Helps render LaTeX-style pseudocode inside a code block. |
 | [Advanced Merger](https://github.com/antoKeinanen/obsidian-advanced-merger) | Merge a folder of notes for easier export. |
 | [Unfilled Stats Highlighter](https://github.com/White7292/obsidian-hd-unfilled-stats-highlighter) | Streamline your stat/habit tracking process by automatically identifying and prefixing unfilled stats, making them easier to spot and fill out. |
 | [GPT Assistant](https://github.com/M7mdisk/obsidian-gpt) | Use a GPT-3 based model on your notes and get personalized answers from your knowledge base. |
