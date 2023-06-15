@@ -200,3 +200,5 @@
 | [Nikolai2038/strict-obsidian-theme](https://github.com/Nikolai2038/strict-obsidian-theme) | ![Strict](https://raw.githubusercontent.com/Nikolai2038/strict-obsidian-theme/master/screenshot_edit_mode.png "") |
 | [sq1000000/NeuBorder](https://github.com/sq1000000/NeuBorder) | ![NeuBorder](https://raw.githubusercontent.com/sq1000000/NeuBorder/master/img/cover.png "") |
 | [Bluemoondragon07/Obsidian-Bolt](https://github.com/Bluemoondragon07/Obsidian-Bolt) | ![Bolt](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Bolt/master/cover.png "") |
+| [Bluemoondragon07/Obsidian-Origin](https://github.com/Bluemoondragon07/Obsidian-Origin) | ![Origin](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Origin/master/origin.png "") |
+| [zaklezaja/obsidian-oozy](https://github.com/zaklezaja/obsidian-oozy) | ![Oozy](https://raw.githubusercontent.com/zaklezaja/obsidian-oozy/master/preview-cover.png "") |

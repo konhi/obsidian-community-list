@@ -990,3 +990,4 @@
 | [Plugin Manager](https://github.com/ohm-en/obsidian-plugin-manager) | Extends plugin management of Obsidian. |
 | [Better MathJax](https://github.com/greasycat/BetterMathjax) | Provide math autocompletion and customizable snippets. |
 | [Interlinear Glossing](https://github.com/Mijyuoon/obsidian-ling-gloss) | Format interlinear glosses used in linguistics texts. |
+| [brAIn](https://github.com/lusob/obsidian-brain) | A ChatGPT powered chatbot specifically focused on question answering over your Obsidian vault notes. |
