@@ -811,7 +811,7 @@
 | [Image Captions](https://github.com/alangrainger/obsidian-image-captions) | Adds captions to images when there is alt-text specified. |
 | [The One Ring 2E Statblocks](https://github.com/modality/obsidian-the-one-ring-2e-statblocks) | Render NPC and adversary statblocks for The One Ring 2E roleplaying game. |
 | [Reference Map](https://github.com/anoopkcn/obsidian-reference-map) | Reference and citation map for literature review and discovery. |
-| [Khoj](https://github.com/debanjum/khoj) | Natural, Incremental Search for your Second Brain. |
+| [Khoj](https://github.com/khoj-ai/khoj) | An AI personal assistant for your digital brain. |
 | [Custom File Extensions and Types](https://github.com/MeepTech/obsidian-custom-file-extensions-plugin) | Allows simple and modular control over what views open what file extensions from the app settings. |
 | [Incremental ID](https://github.com/adziok/obsidian-incremental-id) | Allow you to generate Jira-like IDs. |
 | [Canvas Mindmap](https://github.com/Quorafind/Obsidian-Canvas-MindMap) | Make your canvas work like a mindmap. |
@@ -991,3 +991,14 @@
 | [Better MathJax](https://github.com/greasycat/BetterMathjax) | Provide math autocompletion and customizable snippets. |
 | [Interlinear Glossing](https://github.com/Mijyuoon/obsidian-ling-gloss) | Format interlinear glosses used in linguistics texts. |
 | [brAIn](https://github.com/lusob/obsidian-brain) | A ChatGPT powered chatbot specifically focused on question answering over your Obsidian vault notes. |
+| [Sync Google Calendar](https://github.com/dexin-qi/obsidian-sync-calendar) | Synchronize events from Google Calendar and manage them like tasks. |
+| [Share to Cubox](https://github.com/Redwinam/obsidian-cubox) | Share Obsidian notes to Cubox. |
+| [Attachment Management](https://github.com/trganda/obsidian-attachment-management) | Attachment management plugin to custom the attachment path and auto rename etc. |
+| [Chess Study](https://github.com/chrislicodes/obsidian-chess-study) | A chess study helper and PGN viewer/editor. |
+| [Image To Lskypro](https://github.com/NekoTarou/lskypro-auto-upload) | Auto upload images from clipboard to Lskypro. |
+| [Dendron Tree](https://github.com/levirs565/obsidian-dendron-tree) | Add tree for exploring Dendron note. |
+| [Silicon AI](https://github.com/deepfates/silicon) | Add some intelligence to your notes with Silicon AI |
+| [Mermaid.js Helper (OMH)](https://github.com/FrancescoDiCursi/Mermaid.js-Helper-OMH-plugin) | plug in that helps in mermaid.js workflow and more |
+| [Telegram Sync](https://github.com/soberhacker/obsidian-telegram-sync) | Transfer messages and files from Telegram bot to Obsidian. |
+| [Pieces for Developers](https://github.com/pieces-app/obsidian-pieces) | Streamline your coding workflow in Obsidian with the Pieces For Developers plugin, offering powerful features for capturing, managing, translating, and enhancing code snippets. (Closed Source) |
+| [Blur](https://github.com/gapmiss/blur) | Create obfuscated blocks of text. |
