@@ -202,3 +202,6 @@
 | [Bluemoondragon07/Obsidian-Bolt](https://github.com/Bluemoondragon07/Obsidian-Bolt) | ![Bolt](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Bolt/master/cover.png "") |
 | [Bluemoondragon07/Obsidian-Origin](https://github.com/Bluemoondragon07/Obsidian-Origin) | ![Origin](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Origin/master/origin.png "") |
 | [zaklezaja/obsidian-oozy](https://github.com/zaklezaja/obsidian-oozy) | ![Oozy](https://raw.githubusercontent.com/zaklezaja/obsidian-oozy/master/preview-cover.png "") |
+| [schrunchee/obsidian-covert-theme](https://github.com/schrunchee/obsidian-covert-theme) | ![Covert](https://raw.githubusercontent.com/schrunchee/obsidian-covert-theme/master/obsidian_covert_theme_sm3.jpg "") |
+| [saket61195/Dracula_obsidian_theme](https://github.com/saket61195/Dracula_obsidian_theme) | ![Dracula Plus](https://raw.githubusercontent.com/saket61195/Dracula_obsidian_theme/master/demo1.png "") |
+| [SalemElatar/salem-obsidian-theme](https://github.com/SalemElatar/salem-obsidian-theme) | ![SALEM](https://raw.githubusercontent.com/SalemElatar/salem-obsidian-theme/master/screenshot.png "") |

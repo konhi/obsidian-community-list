@@ -1002,3 +1002,4 @@
 | [Telegram Sync](https://github.com/soberhacker/obsidian-telegram-sync) | Transfer messages and files from Telegram bot to Obsidian. |
 | [Pieces for Developers](https://github.com/pieces-app/obsidian-pieces) | Streamline your coding workflow in Obsidian with the Pieces For Developers plugin, offering powerful features for capturing, managing, translating, and enhancing code snippets. (Closed Source) |
 | [Blur](https://github.com/gapmiss/blur) | Create obfuscated blocks of text. |
+| [Canvas Links](https://github.com/aqav/obsidian-canvas-links) | Add views to show "outgoing links" and "backlinks" of canvas in Obsidian. |
