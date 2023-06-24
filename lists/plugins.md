@@ -333,7 +333,6 @@
 | [Self-hosted LiveSync](https://github.com/vrtmrz/obsidian-livesync) | Community implementation of self-hosted livesync. Reflect your vault changes to some other devices immediately. Please make sure to disable other synchronize solutions to avoid content corruption or duplication. |
 | [Plotly](https://github.com/Dmytro-Shulha/obsidian-plotly) | Embed Plotly charts in your notes. |
 | [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) | Get the first section of Wikipedia for a note title or search term. |
-| [Vale](https://github.com/marcusolsson/obsidian-vale) | Check your document for style consistency using Vale. |
 | [Lumberjack 🪓 🪵](https://github.com/ryanjamurphy/lumberjack-obsidian) | Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing. |
 | [Obsidian Link Converter](https://github.com/ozntel/obsidian-link-converter) | Scan all your links in the vault and convert them to your desired format. |
 | [MySnippets](https://github.com/chetachiezikeuzor/MySnippets-Plugin) | Adds a status bar menu allowing the user to quickly toggle their snippets on and off. |
@@ -342,7 +341,6 @@
 | [Link Headers Directly](https://github.com/Signynt/link-headers-directly) | When a header is linked, preview mode will show only the header, and not the note name. |
 | [Meld Calc](https://github.com/meld-cp/obsidian-calc) | Do math! Evaluate math expressions within your notes. |
 | [Tabout](https://github.com/phibr0/obsidian-tabout) | Easily 'tab out' of Links or other Markdown Formatting Characters. |
-| [Pipe tricks](https://github.com/marcusolsson/obsidian-pipe-tricks) | Add support for Wikilink pipe tricks. |
 | [Fantasy Calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) | Fantasy calendars in Obsidian! |
 | [Improved VimCursor](https://github.com/hhhapz/improved-obsidian-vimcursor) | An improved experience with the cursor in Obsidian. |
 | [Quote of the Day](https://github.com/twentytwokhz/quote-of-the-day) | Inserts random quotes in the editor. |
@@ -801,7 +799,6 @@
 | [Audio Player](https://github.com/noonesimg/obsidian-audio-player) | Audio player with background playback, bookmarks and wave visualiser instead of the default HTML5 audio. |
 | [Task Marker](https://github.com/wenlzhang/obsidian-task-marker) | Change task status and append text with hotkeys and context menu. Create, complete, cancel and mark tasks, cycle among configured task statuses, and append text (automatically). |
 | [Weekly Review](https://github.com/brandonkboswell/weekly-review) | Opens all of the files you have created in the last week. |
-| [GPT](https://github.com/jmilldotdev/obsidian-gpt) | Get language model completions from ChatGPT, GPT-3, and others. |
 | [Pending notes](https://github.com/ulisesantana/obsidian-pending-notes) | Search links without notes in your vault. |
 | [Email Block](https://github.com/joleaf/obsidian-email-block-plugin) | Renders an email code block. |
 | [Code Emitter](https://github.com/mokeyish/obsidian-code-emitter) | Allows code blocks to be executed interactively in a sandbox like Jupyter notebooks. Supported language Rust, Kotlin, Python, JavaScript, TypeScript, etc. |
@@ -840,7 +837,6 @@
 | [Text Progress Bar](https://github.com/michaeladams/obsidian-text-progress-bar) | Display low-fi text progress bars in your notes. |
 | [Reading comments](https://github.com/BumbrT/obsidian-reading-comments) | Plugin allows you to create inline comments while you read books or articles in Obsidian. Comments could be grouped hierarchically by tags. |
 | [ProgressBar](https://github.com/zwpaper/obsidian-progressbar) | Render CodeBlock into a ProgressBar based on Time or Manually. |
-| [Kindle CSV Converter](https://github.com/alvaro-cas/kindle-csv-converter-obsidian) | Import your Kindle notes in .csv format to Obsidian. |
 | [Material Symbols](https://github.com/cberane/obsidian-material-symbols) | Adds the material symbols (outlined) to Obsidian. |
 | [Unicode Search](https://github.com/BambusControl/obsidian-unicode-search) | Search and insert Unicode characters into your editor. |
 | [Awesome Reader](https://github.com/AwesomeDog/obsidian-awesome-reader) | Make Obsidian a proper Reader. |
@@ -1003,3 +999,4 @@
 | [Pieces for Developers](https://github.com/pieces-app/obsidian-pieces) | Streamline your coding workflow in Obsidian with the Pieces For Developers plugin, offering powerful features for capturing, managing, translating, and enhancing code snippets. (Closed Source) |
 | [Blur](https://github.com/gapmiss/blur) | Create obfuscated blocks of text. |
 | [Canvas Links](https://github.com/aqav/obsidian-canvas-links) | Add views to show "outgoing links" and "backlinks" of canvas in Obsidian. |
+| [HamsterBase Official](https://github.com/hamsterbase/obsidian-hamsterbase) | Official HamsterBase -> Obsidian integration |
