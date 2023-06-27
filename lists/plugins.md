@@ -1000,3 +1000,6 @@
 | [Blur](https://github.com/gapmiss/blur) | Create obfuscated blocks of text. |
 | [Canvas Links](https://github.com/aqav/obsidian-canvas-links) | Add views to show "outgoing links" and "backlinks" of canvas in Obsidian. |
 | [HamsterBase Official](https://github.com/hamsterbase/obsidian-hamsterbase) | Official HamsterBase -> Obsidian integration |
+| [TodoTxt](https://github.com/mvgrimes/obsidian-todotxt-plugin) | Manage Todo.txt files. |
+| [Arcana](https://github.com/A-F-V/obsidian-arcana) | Supercharge your note-taking through AI-powered insights and suggestions. |
+| [Auto Anki](https://github.com/ad2969/obsidian-auto-anki) | Using AI to automate card creation for Spaced Repetion in Anki. |
