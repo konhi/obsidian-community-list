@@ -205,3 +205,4 @@
 | [schrunchee/obsidian-covert-theme](https://github.com/schrunchee/obsidian-covert-theme) | ![Covert](https://raw.githubusercontent.com/schrunchee/obsidian-covert-theme/master/obsidian_covert_theme_sm3.jpg "") |
 | [saket61195/Dracula_obsidian_theme](https://github.com/saket61195/Dracula_obsidian_theme) | ![Dracula Plus](https://raw.githubusercontent.com/saket61195/Dracula_obsidian_theme/master/demo1.png "") |
 | [SalemElatar/salem-obsidian-theme](https://github.com/SalemElatar/salem-obsidian-theme) | ![SALEM](https://raw.githubusercontent.com/SalemElatar/salem-obsidian-theme/master/screenshot.png "") |
+| [7368697661/gummy](https://github.com/7368697661/gummy) | ![gummy](https://raw.githubusercontent.com/7368697661/gummy/master/preview_thumb.png "") |

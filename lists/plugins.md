@@ -532,7 +532,7 @@
 | [Omnisearch](https://github.com/scambier/obsidian-omnisearch) | Intelligent search for your notes, PDFs, and OCR for images. |
 | [Plugins Galore](https://github.com/plugins-galore/obsidian-plugins-galore) | Easily sideload other plugins. |
 | [Auto Card Link](https://github.com/nekoshita/obsidian-auto-card-link) | Automatically fetches metadata from a URL and makes it as a card-styled link. |
-| [Notion-Like Tables](https://github.com/trey-wallis/obsidian-notion-like-tables) | Create Markdown tables using an interface similar to that found in Notion. |
+| [Dashboards](https://github.com/trey-wallis/obsidian-dashboards) | Powerful dashboard suite inspired by Notion.so. |
 | [AutoMOC](https://github.com/dalcantara7/obsidian-auto-moc) | Looks for missing linked mentions to the current note and imports them into the current note. |
 | [Paste image Png to Jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg) | Screenshot png to jpeg and compress and rename. |
 | [Folder Index](https://github.com/turulix/obsidian-folder-index) | Automatically generate a Map of Content for the current Folder and Subfolders. |
@@ -869,7 +869,7 @@
 | [ibook](https://github.com/bingryan/obsidian-ibook-plugin) | Export your Apple iBook hightlights and annotations into your Obsidian vault. |
 | [Floating Highlights](https://github.com/KarthikRaju391/obsidian-float) | Enhanced highlights for Obsidian. |
 | [Zen](https://github.com/Maxymillion/zen) | A focus mode Obsidian plugin. |
-| [Fast Image Cleaner](https://github.com/martinniee/Obsidian-fast-image-cleaner) | Quickly remove image attachments and referenced links from your documents in both Live Preview and Read mode using the right-click menu. |
+| [Fast Image Cleaner](https://github.com/martinniee/Obsidian-fast-image-cleaner) | This plugin can fast delete image (or video, audio, file .....) attachment and remove referenced link by right clicking on the context menu option.  |
 | [Fantasy Content Generator](https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator) | A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building Needs. |
 | [Tasks Calendar Wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper) | Simple wrapper for Obsidian Tasks Calendar and Obsidian Tasks Timeline. |
 | [Awesome Brain Manager](https://github.com/JuckZ/awesome-brain-manager) | A toolkit tries to solve all the trivial problems most people usually encountered in Obsidian. |
@@ -1003,3 +1003,4 @@
 | [TodoTxt](https://github.com/mvgrimes/obsidian-todotxt-plugin) | Manage Todo.txt files. |
 | [Arcana](https://github.com/A-F-V/obsidian-arcana) | Supercharge your note-taking through AI-powered insights and suggestions. |
 | [Auto Anki](https://github.com/ad2969/obsidian-auto-anki) | Using AI to automate card creation for Spaced Repetion in Anki. |
+| [APIRequest](https://github.com/Rooyca/obsidian-api-request) | Request and retrieve data from APIs. The responses are delivered in a JSON format for easy integration with your notes. |
