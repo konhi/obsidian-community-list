@@ -995,7 +995,7 @@
 | [Dendron Tree](https://github.com/levirs565/obsidian-dendron-tree) | Add tree for exploring Dendron note. |
 | [Silicon AI](https://github.com/deepfates/silicon) | Add some intelligence to your notes with Silicon AI |
 | [Mermaid.js Helper (OMH)](https://github.com/FrancescoDiCursi/Mermaid.js-Helper-OMH-plugin) | plug in that helps in mermaid.js workflow and more |
-| [Telegram Sync](https://github.com/soberhacker/obsidian-telegram-sync) | Transfer messages and files from Telegram bot to Obsidian. |
+| [Telegram Sync](https://github.com/soberhacker/obsidian-telegram-sync) | Transfer messages and files from Telegram to Obsidian. |
 | [Pieces for Developers](https://github.com/pieces-app/obsidian-pieces) | Streamline your coding workflow in Obsidian with the Pieces For Developers plugin, offering powerful features for capturing, managing, translating, and enhancing code snippets. (Closed Source) |
 | [Blur](https://github.com/gapmiss/blur) | Create obfuscated blocks of text. |
 | [Canvas Links](https://github.com/aqav/obsidian-canvas-links) | Add views to show "outgoing links" and "backlinks" of canvas in Obsidian. |
@@ -1004,3 +1004,7 @@
 | [Arcana](https://github.com/A-F-V/obsidian-arcana) | Supercharge your note-taking through AI-powered insights and suggestions. |
 | [Auto Anki](https://github.com/ad2969/obsidian-auto-anki) | Using AI to automate card creation for Spaced Repetion in Anki. |
 | [APIRequest](https://github.com/Rooyca/obsidian-api-request) | Request and retrieve data from APIs. The responses are delivered in a JSON format for easy integration with your notes. |
+| [Link with alias](https://github.com/pvojtechovsky/obsidian-link-with-alias) | Creates links and aliases in front matter of target document. |
+| [HackerOne](https://github.com/Neolex-Security/obsidian-hackerone) | This is a HackerOne plugin to fetch your bug reports inside Obsidian. |
+| [Confluence to Obsidian](https://github.com/KkEi34/confluence-to-obsidian-plugin) | Import Confluence space into Obsidian vault. |
+| [Flashcards LLM](https://github.com/crybot/obsidian-flashcards-llm) | Use Large Language Models (such as ChatGPT) to automatically generate flashcards from obsidian notes |
