@@ -959,7 +959,7 @@
 | [Copilot](https://github.com/logancyang/obsidian-copilot) | A ChatGPT Copilot in Obsidian. |
 | [GitHub Issue Augmentation](https://github.com/samprintz/obsidian-issue-augmentation-plugin) | Augments GitHub issue IDs |
 | [Persistent Links](https://github.com/ivan-lednev/obsidian-persistent-links) | Automatically repair internal links to blocks and headings when moving them between files |
-| [Personal Assistant](https://github.com/edonyzpc/personal-assistant) | Streamline workflows within Obsidian, managing memos and plugins with just one command. |
+| [Personal Assistant](https://github.com/edonyzpc/personal-assistant) | Streamline workflows within Obsidian, managing memos, formatted records, callouts, frontmatter, local graph, themes and plugins with just one command. |
 | [April's Automatic Timelines](https://github.com/April-Gras/obsidian-auto-timelines) | Simple timeline generator for story tellers |
 | [AI Mentor](https://github.com/clementpoiret/ai-mentor) | Meet your open source AI mentor in Obsidian. Ask questions, get answers, and learn new things. |
 | [Game Search](https://github.com/CMorooney/obsidian-game-search-plugin) | Help insert game metadata into game notes or journals |
@@ -1008,3 +1008,5 @@
 | [HackerOne](https://github.com/Neolex-Security/obsidian-hackerone) | This is a HackerOne plugin to fetch your bug reports inside Obsidian. |
 | [Confluence to Obsidian](https://github.com/KkEi34/confluence-to-obsidian-plugin) | Import Confluence space into Obsidian vault. |
 | [Flashcards LLM](https://github.com/crybot/obsidian-flashcards-llm) | Use Large Language Models (such as ChatGPT) to automatically generate flashcards from obsidian notes |
+| [Recipe Grabber](https://github.com/seethroughdev/obsidian-recipe-grabber) | Quickly grab the important contents of any online recipe. |
+| [Note archiver](https://github.com/thenomadlad/obsidian-note-archiver) | Tools to archive your notes in another folder |
