@@ -1010,3 +1010,5 @@
 | [Flashcards LLM](https://github.com/crybot/obsidian-flashcards-llm) | Use Large Language Models (such as ChatGPT) to automatically generate flashcards from obsidian notes |
 | [Recipe Grabber](https://github.com/seethroughdev/obsidian-recipe-grabber) | Quickly grab the important contents of any online recipe. |
 | [Note archiver](https://github.com/thenomadlad/obsidian-note-archiver) | Tools to archive your notes in another folder |
+| [Iconoir Icons](https://github.com/gapmiss/iconoir-icons) | A plugin for creating & displaying customized SVG Iconoir icons. |
+| [Automatic List Styles](https://github.com/WiseGuru/obsidian-automatic-list-styles) | Automatically formats the styles of ordered lists, incrementing the list style for each layer |
