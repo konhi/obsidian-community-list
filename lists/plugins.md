@@ -1014,3 +1014,5 @@
 | [Automatic List Styles](https://github.com/WiseGuru/obsidian-automatic-list-styles) | Automatically formats the styles of ordered lists, incrementing the list style for each layer |
 | [Shukuchi](https://github.com/tadashi-aikawa/shukuchi) | Teleport to links (URL or internal link) and jump to their destinations. |
 | [Chat Stream](https://github.com/rpggio/obsidian-chat-stream) | Create branching GPT chats using canvas notes. |
+| [BlindFold](https://github.com/vzsky/blindfold-obsidian) | Fold text by making it completely hidden. |
+| [Financial Doc](https://github.com/yet-another-tool/obsidian-findoc) | Financial Documentation and Tracking using CSV format and Chart.js directly in Obsidian |
