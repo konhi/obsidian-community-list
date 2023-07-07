@@ -1016,3 +1016,4 @@
 | [Chat Stream](https://github.com/rpggio/obsidian-chat-stream) | Create branching GPT chats using canvas notes. |
 | [BlindFold](https://github.com/vzsky/blindfold-obsidian) | Fold text by making it completely hidden. |
 | [Financial Doc](https://github.com/yet-another-tool/obsidian-findoc) | Financial Documentation and Tracking using CSV format and Chart.js directly in Obsidian |
+| [File Include](https://github.com/tillahoffmann/obsidian-file-include) | Include or embed files in Obsidian markdown. |
