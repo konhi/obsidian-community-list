@@ -771,7 +771,7 @@
 | [WakaTime](https://github.com/wakatime/obsidian-wakatime) | Automatic time tracking and metrics generated from your Obsidian usage activity. |
 | [Text Extractor](https://github.com/scambier/obsidian-text-extractor) | A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs. |
 | [Review Notes Plugin](https://github.com/tjandy98/obsidian-review-notes-plugin) | Shows recently modified and newly created files. |
-| [GPT-3 Notes](https://github.com/micahke/obsidian-gpt3-notes) | Generate notes on any subject using OpenAI's GPT-3 language model. |
+| [GPT Notes](https://github.com/micahke/obsidian-gpt3-notes) | Generate notes on any subject using OpenAI's GPT-3.5 and GPT-4 language models. |
 | [Audio Notes](https://github.com/jjmaldonis/obsidian-audio-notes) | Create notes for podcasts and audio files, and automatically generate transcripts while listening so you can quickly take notes on the best parts of the podcast. |
 | [Checklist Reset](https://github.com/lhansford/obsidian-checklist-reset) | Adds a command to reset the state of any checklists in a document. |
 | [Mermaid Tools](https://github.com/dartungar/obsidian-mermaid) | Improved Mermaid.js experience for Obsidian: visual toolbar with common elements & more. |
@@ -1017,3 +1017,4 @@
 | [BlindFold](https://github.com/vzsky/blindfold-obsidian) | Fold text by making it completely hidden. |
 | [Financial Doc](https://github.com/yet-another-tool/obsidian-findoc) | Financial Documentation and Tracking using CSV format and Chart.js directly in Obsidian |
 | [File Include](https://github.com/tillahoffmann/obsidian-file-include) | Include or embed files in Obsidian markdown. |
+| [Vault Chat](https://github.com/exoascension/vault-chat) | A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas! |
