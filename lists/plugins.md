@@ -532,7 +532,7 @@
 | [Omnisearch](https://github.com/scambier/obsidian-omnisearch) | Intelligent search for your notes, PDFs, and OCR for images. |
 | [Plugins Galore](https://github.com/plugins-galore/obsidian-plugins-galore) | Easily sideload other plugins. |
 | [Auto Card Link](https://github.com/nekoshita/obsidian-auto-card-link) | Automatically fetches metadata from a URL and makes it as a card-styled link. |
-| [Dashboards](https://github.com/trey-wallis/obsidian-dashboards) | Powerful dashboard suite inspired by Notion.so. |
+| [DataLoom](https://github.com/trey-wallis/obsidian-dataloom) | Weave together data from diverse sources into a cohesive table view. Inspired by Excel spreadsheets and Notion.so. |
 | [AutoMOC](https://github.com/dalcantara7/obsidian-auto-moc) | Looks for missing linked mentions to the current note and imports them into the current note. |
 | [Paste image Png to Jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg) | Screenshot png to jpeg and compress and rename. |
 | [Folder Index](https://github.com/turulix/obsidian-folder-index) | Automatically generate a Map of Content for the current Folder and Subfolders. |
