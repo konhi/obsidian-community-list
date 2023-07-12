@@ -837,6 +837,7 @@
 | [Text Progress Bar](https://github.com/michaeladams/obsidian-text-progress-bar) | Display low-fi text progress bars in your notes. |
 | [Reading comments](https://github.com/BumbrT/obsidian-reading-comments) | Plugin allows you to create inline comments while you read books or articles in Obsidian. Comments could be grouped hierarchically by tags. |
 | [ProgressBar](https://github.com/zwpaper/obsidian-progressbar) | Render CodeBlock into a ProgressBar based on Time or Manually. |
+| [Kindle CSV Converter](https://github.com/alvaro-cas/kindle-csv-converter-obsidian) | Import your Kindle notes in .csv format to Obsidian. |
 | [Material Symbols](https://github.com/cberane/obsidian-material-symbols) | Adds the material symbols (outlined) to Obsidian. |
 | [Unicode Search](https://github.com/BambusControl/obsidian-unicode-search) | Search and insert Unicode characters into your editor. |
 | [Awesome Reader](https://github.com/AwesomeDog/obsidian-awesome-reader) | Make Obsidian a proper Reader. |
@@ -1018,3 +1019,6 @@
 | [Financial Doc](https://github.com/yet-another-tool/obsidian-findoc) | Financial Documentation and Tracking using CSV format and Chart.js directly in Obsidian |
 | [File Include](https://github.com/tillahoffmann/obsidian-file-include) | Include or embed files in Obsidian markdown. |
 | [Vault Chat](https://github.com/exoascension/vault-chat) | A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas! |
+| [Memos Sync](https://github.com/hyoban/obsidian-memos-plugin) | Keep in sync with your memos. |
+| [Mermaid Themes](https://github.com/jvsteiner/mermaid-themes) | Alternate support for mermaid.js that supports themeing and customization. |
+| [Background Image](https://github.com/shmolf/obsidian-editor-background) | This allows you to specify a remote URL as the background image, and a few settings to tweak the experience.. |
