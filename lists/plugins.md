@@ -1022,3 +1022,5 @@
 | [Memos Sync](https://github.com/hyoban/obsidian-memos-plugin) | Keep in sync with your memos. |
 | [Mermaid Themes](https://github.com/jvsteiner/mermaid-themes) | Alternate support for mermaid.js that supports themeing and customization. |
 | [Background Image](https://github.com/shmolf/obsidian-editor-background) | This allows you to specify a remote URL as the background image, and a few settings to tweak the experience.. |
+| [Html Server](https://github.com/Pr0dt0s/obsidian-html-server) | This plugin lets you spin up a local http server to access your vault via a web browser. |
+| [Importer](https://github.com/obsidianmd/obsidian-importer) | Import notes from other apps like Evernote. |
