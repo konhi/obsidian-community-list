@@ -692,7 +692,6 @@
 | [New Note New Window](https://github.com/Pr0dt0s/new-note-new-window) | Plugin for easily opening new notes in a floating window. |
 | [Awesome Flashcard](https://github.com/AwesomeDog/obsidian-awesome-flashcard) | Handy Anki integration for Obsidian. |
 | [Daily Note Outline](https://github.com/iiz00/obsidian-daily-note-outline) | Add a custom view which shows outline of multiple daily notes with headings, links, tags and list items. |
-| [Colorful Tag](https://github.com/rien7/obsidian-colorful-tag) | You can easily add prefix or suffix to a tag and change the tag’s background or text color. |
 | [Edit Gemini](https://github.com/Basil-Mori/obsidian-edit-gemini) | Edit and create .gmi files. |
 | [Pretty BibTeX](https://github.com/sandrofigo/obsidian-pretty-bibtex) | Shows raw BibTeX bibliography entries in a prettier way |
 | [Frontmatter Links](https://github.com/Trikzon/obsidian-frontmatter-links) | Renders links in a note's frontmatter as links. |
@@ -739,7 +738,6 @@
 | [Transcription](https://github.com/djmango/obsidian-transcription) | Plugin to create high-quality transcriptions via Whisper from Markdown linked audio files. |
 | [Mindmap Nextgen](https://github.com/verocloud/obsidian-mindmap-nextgen) | Preview notes as Markmap mind maps. |
 | [External Link Opener](https://github.com/zorazrr/obsidian-link-opener) | Open external links within Obsidian using a modal or a tab. |
-| [MathJax WikiLinks](https://github.com/aaron-jack-manning/obsidian-mathjax-wikilinks) | Allows rendering MathJax in WikiLink aliases. |
 | [Obsidian Clipper](https://github.com/jgchristopher/obsidian-clipper) | Helps you capture highlights from the web. |
 | [ProZen](https://github.com/cmoskvitin/obsidian-prozen) | Enter Zen mode to focus on writing. The plugin expands current tab to full screen removing everything but content. |
 | [Aggregator](https://github.com/Seraphli/obsidian-aggregator) | Helps you gather information from files, and make a summary in the file. |
@@ -922,7 +920,7 @@
 | [Bulk open selected links](https://github.com/autohub7/obsidian-open-selected-links) | Easily open all selected links in edit mode. |
 | [Semantic Search](https://github.com/bbawj/obsidian-semantic-search) | Semantic search for files using OpenAI's text embeddings. |
 | [Select current line](https://github.com/gokulk16/select-current-line-plugin) | Selects the current line where the cursor is placed. Press 'ESC' key to select. |
-| [Wikipedia Search](https://github.com/StrangeGirlMurph/obsidian-wikipedia-search) | Search for Wikipedia articles and link them. |
+| [Wikipedia Search](https://github.com/StrangeGirlMurph/obsidian-wikipedia-search) | Search, link and open Wikipedia articles, all within the app! |
 | [Vim Toggle](https://github.com/conneroisu/vim-toggle) | (It toggles vim on/off) Allows for the the toggling and customization of said toggling within settings. |
 | [Draw Harada Method](https://github.com/yildbs/obsidian-harada-method-plugin) | Draw the harada method. Create your own 1 goal, 8 plans, and 64 actions! |
 | [Marp Slides](https://github.com/samuele-cozzi/obsidian-marp-slides) | Create Marp presentations in Obsidian. |
