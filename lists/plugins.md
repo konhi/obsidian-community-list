@@ -1022,3 +1022,6 @@
 | [Background Image](https://github.com/shmolf/obsidian-editor-background) | This allows you to specify a remote URL as the background image, and a few settings to tweak the experience.. |
 | [Html Server](https://github.com/Pr0dt0s/obsidian-html-server) | This plugin lets you spin up a local http server to access your vault via a web browser. |
 | [Importer](https://github.com/obsidianmd/obsidian-importer) | Import notes from other apps like Evernote. |
+| [Cloudinary](https://github.com/uday-samsani/obsidian-cloudinary) | Upload content(images, videos, audio) to Cloudinary and insert(copy or drag both) them into your notes. |
+| [Flowershow](https://github.com/datopian/obsidian-flowershow) | Publish with Flowershow directly from your Obsidian vault. |
+| [Movie](https://github.com/onuraycicek/obsidian-movie) | Search movies info and trailers. |
