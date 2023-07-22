@@ -209,3 +209,4 @@
 | [MFdev-coder/obsidian-feather](https://github.com/MFdev-coder/obsidian-feather) | ![Feather](https://raw.githubusercontent.com/MFdev-coder/obsidian-feather/master/assets/Screenshot.png "") |
 | [Ooopz/obsidianmd-theme-comfort-dark](https://github.com/Ooopz/obsidianmd-theme-comfort-dark) | ![Comfort Dark](https://raw.githubusercontent.com/Ooopz/obsidianmd-theme-comfort-dark/master/screenshot.png "") |
 | [jonsnow231/Minimal-Resources](https://github.com/jonsnow231/Minimal-Resources) | ![Minimal-Resources](https://raw.githubusercontent.com/jonsnow231/Minimal-Resources/master/screenshot.png "") |
+| [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) | ![Simple](https://raw.githubusercontent.com/diegoeis/simple-obsidian/master/cover.png "") |

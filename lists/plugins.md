@@ -1025,3 +1025,15 @@
 | [Cloudinary](https://github.com/uday-samsani/obsidian-cloudinary) | Upload content(images, videos, audio) to Cloudinary and insert(copy or drag both) them into your notes. |
 | [Flowershow](https://github.com/datopian/obsidian-flowershow) | Publish with Flowershow directly from your Obsidian vault. |
 | [Movie](https://github.com/onuraycicek/obsidian-movie) | Search movies info and trailers. |
+| [Markdown Link Space Encoder](https://github.com/rkosova/obsidian-markdown-link-space-encoder) | Simple plugin to automatically encode spaces to %20 in Markdown-style links |
+| [BMO Chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) | Improve your knowledge management with a chatbot that understands context and retrieves relevant information using Large Language Models (LLMs). |
+| [SupSub](https://github.com/wjgoarxiv/obsidian-supsub) | Easily format superscripts and subscripts in your notes. |
+| [Typst Renderer](https://github.com/fenjalien/obsidian-typst) | Renders `typst` code blocks and math blocks to images with Typst. |
+| [AI Notes Summary](https://github.com/irbull/obsidian-ai-summary) | Uses OpenAI to generate a summary of referenced notes. |
+| [Query all the things](https://github.com/sytone/obsidian-queryallthethings) | Execute SQL base queries against your data in Obsidian and render it how you want using templates. |
+| [Lilypond](https://github.com/dot-asterisk-nl/obsidian-lilypond) | Render Lilypond templates. |
+| [Chemical Structure Renderer](https://github.com/xaya1001/obsidian-Chemical-Structure-Renderer) | Render chemical structures from SMILES strings into PNG or SVG format using Ketcher and Indigo Service. |
+| [Time Ruler](https://github.com/joshuatazrein/obsidian-time-ruler) | A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview). |
+| [Logstravaganza](https://github.com/czottmann/obsidian-logstravaganza) | A simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note. |
+| [Markdown Blogger](https://github.com/afazio1/obsidian-markdown-blogger) | Allows developers to push markdown notes to their local blog, portfolio, or static site. Works with Astro.js, Next.js, and any other framework configured to render markdown pages. |
+| [Simple RSS](https://github.com/monnierant/obsidian-simple-rss) | Collect RSS articles into notes. |
