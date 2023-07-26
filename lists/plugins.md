@@ -1037,3 +1037,8 @@
 | [Logstravaganza](https://github.com/czottmann/obsidian-logstravaganza) | A simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note. |
 | [Markdown Blogger](https://github.com/afazio1/obsidian-markdown-blogger) | Allows developers to push markdown notes to their local blog, portfolio, or static site. Works with Astro.js, Next.js, and any other framework configured to render markdown pages. |
 | [Simple RSS](https://github.com/monnierant/obsidian-simple-rss) | Collect RSS articles into notes. |
+| [Quick Links](https://github.com/iafisher/obsidian-quick-links) | Create quick link shortcuts to Wikipedia and other sites |
+| [Editor Width Slider](https://github.com/MugishoMp/obsidian-editor-width-slider) | Customize Obsidian's editor width with a slider for a tailored editing experience. |
+| [Markdown Tree](https://github.com/carvah/markdown-tree-plugin) | Create a beautiful and intuitive directory tree using Markdown-oriented code style using tabs, spaces and enters. |
+| [Auto Front Matter](https://github.com/conorzhong/obsidian-auto-front-matter) | Auto update front matter |
+| [EmoTagsTitler](https://github.com/Cyfine/EmoTagsTitler) | Add the emojis contained in the tags to the beginning of the note title. |
