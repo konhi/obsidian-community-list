@@ -1042,3 +1042,11 @@
 | [Markdown Tree](https://github.com/carvah/markdown-tree-plugin) | Create a beautiful and intuitive directory tree using Markdown-oriented code style using tabs, spaces and enters. |
 | [Auto Front Matter](https://github.com/conorzhong/obsidian-auto-front-matter) | Auto update front matter |
 | [EmoTagsTitler](https://github.com/Cyfine/EmoTagsTitler) | Add the emojis contained in the tags to the beginning of the note title. |
+| [Advanced Random Note](https://github.com/karstenpedersen/obsidian-advanced-random-note) | Create commands from custom queries to open random notes. |
+| [Git Url](https://github.com/khuongduy354/obsidian-git-url) | This plugin create a url to your file on your git remote repo  |
+| [Pathfinder 2E Action Icons](https://github.com/thiagocoutinhor/pf2-action-icons) | This is an plugin for displaying Pathfinder 2E action icons in Obsidian |
+| [Badges](https://github.com/gapmiss/badges) | Add inline badges/callouts to notes. |
+| [Readability Score](https://github.com/zuchka/obsidian-readability) | Score the readabilty of your writing using the Flesch Reading Ease (FRE) formula. |
+| [Hide Folders](https://github.com/JonasDoesThings/obsidian-hide-folders) | Quickly toggle the visibility of specific folders in the file navigator based on configured names. Useful for hiding attachment folders. |
+| [Style Importer](https://github.com/joshrouwhorst/style-importer) | Import a stylesheet from a URL into your snippets folder. |
+| [APL Render](https://github.com/vzsky/apl-obsidian) | render APL syntax |
