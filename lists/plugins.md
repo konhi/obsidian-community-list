@@ -1050,3 +1050,7 @@
 | [Hide Folders](https://github.com/JonasDoesThings/obsidian-hide-folders) | Quickly toggle the visibility of specific folders in the file navigator based on configured names. Useful for hiding attachment folders. |
 | [Style Importer](https://github.com/joshrouwhorst/style-importer) | Import a stylesheet from a URL into your snippets folder. |
 | [APL Render](https://github.com/vzsky/apl-obsidian) | render APL syntax |
+| [Add an ID to the front matter](https://github.com/llimllib/obsidian-guid-plugin) | Add a globally unique ID to every markdown document's front matter |
+| [Due When](https://github.com/andrewbaxter439/due-when) | This adds shortcuts to insert due dates for end of this week or end of next week. |
+| [Style Text](https://github.com/juanjoarranz/style-text-obsidian-plugin) | Apply custom CSS styles to selected text in your Obsidian Notes. |
+| [Notes dater](https://github.com/paultreanor/notes-dater) | Adds created on and last updated on dates of the active note to the status bar. |
