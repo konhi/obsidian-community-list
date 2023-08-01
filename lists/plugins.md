@@ -550,7 +550,7 @@
 | [Bellboy](https://github.com/shakedlokits/obsidian-bellboy) | Opinionated file structure manager. |
 | [Function Plot](https://github.com/leonhma/obsidian-functionplot) | Render mathematical functions in a Markdown codeblock. |
 | [Note Auto Creator](https://github.com/SimonTC/obsidian-note-autocreation) | Automatically create notes when links are created to them. |
-| [Local Quotes](https://github.com/sundevista/local-quotes) | Collect your quotes from all over the repository and embed them in different locations with refresh delays. |
+| [Local Quotes](https://github.com/sundevista/local-quotes) | Collect your quotes from all over the vault and embed them in different locations and watch them refreshing in real-time. |
 | [Yaml Manager](https://github.com/lijyze/obsidian-state-switcher) | Keep you away from directly operating YAML frontmatter. |
 | [Media DB Plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) | Query multiple APIs for movies, series, anime, games, music releases and wiki articles, and import them into your vault. |
 | [Sequence Hotkeys](https://github.com/moolmanruan/obsidian-sequence-hotkeys) | Set hotkeys with key sequences instead of a single chord. |
