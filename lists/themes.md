@@ -126,7 +126,7 @@
 | [MajorEnkidu/solitude-obsidian-theme](https://github.com/MajorEnkidu/solitude-obsidian-theme) | ![Solitude](https://raw.githubusercontent.com/MajorEnkidu/solitude-obsidian-theme/master/promo_screenshot.png "") |
 | [mulfok/obsidian-viridian](https://github.com/mulfok/obsidian-viridian) | ![Viridian](https://raw.githubusercontent.com/mulfok/obsidian-viridian/master/cover.png "") |
 | [sspaeti/obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) | ![Kanagawa](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa/master/dark.png "") |
-| [maldonacho/obsidian-encore-theme](https://github.com/maldonacho/obsidian-encore-theme) | ![Encore](https://raw.githubusercontent.com/maldonacho/obsidian-encore-theme/master/images/promo-image.png "") |
+| [carbonateb/obsidian-encore-theme](https://github.com/carbonateb/obsidian-encore-theme) | ![Encore](https://raw.githubusercontent.com/carbonateb/obsidian-encore-theme/master/images/promo-image.png "") |
 | [kinmury/obsidian-ukiyo](https://github.com/kinmury/obsidian-ukiyo) | ![Ukiyo](https://raw.githubusercontent.com/kinmury/obsidian-ukiyo/master/Showcase.png "") |
 | [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) | ![Mado Miniflow](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-Miniflow/master/img/store-cover.png "") |
 | [luke-rmaki/silence-obsidian](https://github.com/luke-rmaki/silence-obsidian) | ![Silence](https://raw.githubusercontent.com/luke-rmaki/silence-obsidian/master/Screenshot.png "") |

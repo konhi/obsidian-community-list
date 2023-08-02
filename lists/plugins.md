@@ -1054,3 +1054,16 @@
 | [Due When](https://github.com/andrewbaxter439/due-when) | This adds shortcuts to insert due dates for end of this week or end of next week. |
 | [Style Text](https://github.com/juanjoarranz/style-text-obsidian-plugin) | Apply custom CSS styles to selected text in your Obsidian Notes. |
 | [Notes dater](https://github.com/paultreanor/notes-dater) | Adds created on and last updated on dates of the active note to the status bar. |
+| [Air Quotes](https://github.com/alangrainger/obsidian-air-quotes) | Search and insert quotes from a source text as you type |
+| [Vault 2 Book](https://github.com/Mitra98t/vault2book-plugin) | Converts your notes to a book creating a single file containing all the notes linked |
+| [Markdown Chords](https://github.com/dnotes/obsidian-markdown-chords) | Add musical chord notation and chord diagrams for stringed instruments (e.g. guitar) in Markdown. Supports chords in any Western scale/mode, including extended jazz chords. |
+| [Laws of Form](https://github.com/Kevger/obsidian-laws-of-form) | Allows you to create, manage and display Laws of Form expressions like ((a)) (b) = a (b). |
+| [Notes Sync Share](https://github.com/Alt-er/obsidian-sync-share) | Sync and share (publish) your notes in your own private service. |
+| [NAI 4 Obsidian](https://github.com/SalokinGreen/NAI4Obsidian) | Generate text with NovelAI's models.. |
+| [Password Protection](https://github.com/qing3962/password-protection) | Protect your private notes and diary with a password, no encrypt, no decrypt. |
+| [LDS Scriptures Reference](https://github.com/pacokwon/obsidian-lds-scriptures-plugin) | Easily insert references to LDS scriptures |
+| [Edit History](https://github.com/antoniotejada/obsidian-edit-history) | Keeps an automatic edit history of your notes, review the history, diff against or restore previous edits. |
+| [Google Bard Assistant](https://github.com/aldhanekaa/GoogleBardObsidian) | Explore new possibilities of learning with Integration of Google Bard! It's totally free, it also can show images from your question! |
+| [Memorization](https://github.com/nwindian/Memorization-Plugin) | Generates study index notes using a spaced repetition algorithm (SM-2). |
+| [TinyPNG Image](https://github.com/ckt1031/obsidian-tinypng-plugin) | Compress images using TinyPNG to save your storage. |
+| [Code::Stats](https://github.com/Miskamyasa/obsidian-codestats) | The Code::Stats plugin allows you to track your coding progress and earn XP for writing markdown in the Obsidian editor. |
