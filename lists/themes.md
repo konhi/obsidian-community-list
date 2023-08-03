@@ -210,3 +210,5 @@
 | [Ooopz/obsidianmd-theme-comfort-dark](https://github.com/Ooopz/obsidianmd-theme-comfort-dark) | ![Comfort Dark](https://raw.githubusercontent.com/Ooopz/obsidianmd-theme-comfort-dark/master/screenshot.png "") |
 | [jonsnow231/Minimal-Resources](https://github.com/jonsnow231/Minimal-Resources) | ![Minimal-Resources](https://raw.githubusercontent.com/jonsnow231/Minimal-Resources/master/screenshot.png "") |
 | [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) | ![Simple](https://raw.githubusercontent.com/diegoeis/simple-obsidian/master/cover.png "") |
+| [Carrie999/comfort](https://github.com/Carrie999/comfort) | ![Comfort](https://raw.githubusercontent.com/Carrie999/comfort/master/screenshot.png "") |
+| [davidjroos/obsidian-notswift](https://github.com/davidjroos/obsidian-notswift) | ![NotSwift](https://raw.githubusercontent.com/davidjroos/obsidian-notswift/master/screenie.png "") |
