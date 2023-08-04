@@ -1078,3 +1078,4 @@
 | [Ruled template](https://github.com/YPetremann/obsidian-ruled-template) | This plugin allow to use templates bassed on rules when creating a new file. |
 | [AI Tools](https://github.com/solderneer/obsidian-ai-tools) | Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI. |
 | [oblogger](https://github.com/lofttech/obsidian-oblogger) | tag explorer and frontmatter logger |
+| [Simple CanvaSearch](https://github.com/ddalexb/obsidian-simple-canvasearch) | Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas. |
