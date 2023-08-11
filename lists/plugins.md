@@ -42,7 +42,7 @@
 | [Find orphaned files and broken links](https://github.com/Vinzent03/find-unlinked-files) | Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks. |
 | [Wikilinks to MDLinks](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) | Convert wikilinks to Markdown links and vice versa. |
 | [Smart Random Note](https://github.com/erichalldev/obsidian-smart-random-note) | Open random notes with greater control. |
-| [Cycle through Panes](https://github.com/phibr0/cycle-through-panes) | Cycle through your open panes with `ctrl + Tab`, just like with tabs in your browser! |
+| [Tab Switcher](https://github.com/Vinzent03/tab-switcher) | Switch your tabs with Ctrl + Tab in recently used order like in a browser. |
 | [ABC Music Notation](https://github.com/abcjs-music/obsidian-plugin-abcjs) | Render music sheets directly from code blocks using ABC music notation via abcjs |
 | [Typewriter Scroll](https://github.com/deathau/cm-typewriter-scroll-obsidian) | Typewriter-style scrolling which keeps the view centered in the editor. |
 | [Youglish Plugin](https://github.com/nhaouari/obsidian-youglish-plugin) | Use YouTube to improve your pronunciation. YouGlish plugin gives you fast, unbiased answers about how words is spoken by real people and in context. |
@@ -1021,7 +1021,7 @@
 | [Mermaid Themes](https://github.com/jvsteiner/mermaid-themes) | Alternate support for mermaid.js that supports themeing and customization. |
 | [Background Image](https://github.com/shmolf/obsidian-editor-background) | This allows you to specify a remote URL as the background image, and a few settings to tweak the experience.. |
 | [Html Server](https://github.com/Pr0dt0s/obsidian-html-server) | This plugin lets you spin up a local http server to access your vault via a web browser. |
-| [Importer](https://github.com/obsidianmd/obsidian-importer) | Import notes from other apps like Evernote. |
+| [Importer](https://github.com/obsidianmd/obsidian-importer) | Import data from Notion, Evernote, Google Keep, Bear, and HTML files. |
 | [Cloudinary](https://github.com/uday-samsani/obsidian-cloudinary) | Upload content(images, videos, audio) to Cloudinary and insert(copy or drag both) them into your notes. |
 | [Flowershow](https://github.com/datopian/obsidian-flowershow) | Publish with Flowershow directly from your Obsidian vault. |
 | [Movie](https://github.com/onuraycicek/obsidian-movie) | Search movies info and trailers. |
