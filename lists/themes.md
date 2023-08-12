@@ -212,3 +212,4 @@
 | [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) | ![Simple](https://raw.githubusercontent.com/diegoeis/simple-obsidian/master/cover.png "") |
 | [Carrie999/comfort](https://github.com/Carrie999/comfort) | ![Comfort](https://raw.githubusercontent.com/Carrie999/comfort/master/screenshot.png "") |
 | [davidjroos/obsidian-notswift](https://github.com/davidjroos/obsidian-notswift) | ![NotSwift](https://raw.githubusercontent.com/davidjroos/obsidian-notswift/master/screenie.png "") |
+| [lab-do/obsidian-neo](https://github.com/lab-do/obsidian-neo) | ![Neo](https://raw.githubusercontent.com/lab-do/obsidian-neo/master/cover.png "") |

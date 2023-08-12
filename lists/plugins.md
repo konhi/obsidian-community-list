@@ -25,7 +25,6 @@
 | [Review](https://github.com/ryanjamurphy/review-obsidian) | Add a link to the current note to a daily note on a future date (or a past date, you time traveller). |
 | [Hider](https://github.com/kepano/obsidian-hider) | Hide UI elements such as tooltips, status, titlebar and more. |
 | [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings) | Control the colors and fonts in Minimal Theme. |
-| [System Dark Mode](https://github.com/kepano/obsidian-system-dark-mode) | Automatically use the operating system's setting to switch between light and dark mode. |
 | [Discord Rich Presence](https://github.com/lukeleppan/obsidian-discordrpc) | Update your Discord Status to show your friends what you are working on in Obsidian. |
 | [Templater](https://github.com/SilentVoid13/Templater) | Create and use templates. |
 | [Convert url to preview (iframe)](https://github.com/FHachez/obsidian-convert-url-to-iframe) | Convert a URL (e.g. YouTube) into an iframe (preview). |
@@ -195,7 +194,7 @@
 | [Pomodoro](https://github.com/tokuhirom/obsidian-pomodoro-plugin) | Simple pomodoro plugin for Obsidian. |
 | [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks) | Create Fantasy Statblocks in Obsidian. |
 | [Zoom](https://github.com/vslinko/obsidian-zoom) | Zoom into heading and lists. |
-| [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all) | Adds a button to collapse all folders in the file explorer. |
+| [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all) | Extends collapse/expand all with commands that can be bound to hotkeys. |
 | [Charts View](https://github.com/caronchen/obsidian-chartsview-plugin) | Data visualization solution in Obsidian, support plots and graphs. |
 | [Dictionary](https://github.com/phibr0/obsidian-dictionary) | A multilingual dictionary for Obsidian. |
 | [Liquid Templates](https://github.com/oeN/liquid-template) | Create your templates with LiquidJS tags support. |
@@ -516,7 +515,6 @@
 | [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) | Rename image after pasting, support name pattern and auto renaming. |
 | [Scroll Offset](https://github.com/lijyze/scroll-offset) | Preserve custom distances before or after cursor. |
 | [Obsius Publish](https://github.com/jonstodle/obsius-obsidian-plugin) | Make single notes instantly available on the web. |
-| [Snippet Downloader](https://github.com/Lisandra-dev/obsidian-snippet-downloader) | A Obsidian's plugin to help to manage CSS snippets (download / update) from repository. |
 | [Execute Code](https://github.com/twibiral/obsidian-execute-code) | Execute code snippets within a note. |
 | [Obsidian Badge](https://github.com/linjunpop/obsidian-badge) | Show badge for Obsidian. |
 | [Korean Book Info Plugin](https://github.com/kmsk99/kr-book-info-plugin) | Crawls Yes24 to get book information. |
