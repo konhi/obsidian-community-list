@@ -1024,7 +1024,7 @@
 | [Flowershow](https://github.com/datopian/obsidian-flowershow) | Publish with Flowershow directly from your Obsidian vault. |
 | [Movie](https://github.com/onuraycicek/obsidian-movie) | Search movies info and trailers. |
 | [Markdown Link Space Encoder](https://github.com/rkosova/obsidian-markdown-link-space-encoder) | Simple plugin to automatically encode spaces to %20 in Markdown-style links |
-| [BMO Chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) | Improve your knowledge management with a chatbot that understands context and retrieves relevant information using Large Language Models (LLMs). |
+| [BMO Chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) | Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as OpenAI's "gpt-3.5-turbo" and "gpt-4" for Obsidian. |
 | [SupSub](https://github.com/wjgoarxiv/obsidian-supsub) | Easily format superscripts and subscripts in your notes. |
 | [Typst Renderer](https://github.com/fenjalien/obsidian-typst) | Renders `typst` code blocks and math blocks to images with Typst. |
 | [AI Notes Summary](https://github.com/irbull/obsidian-ai-summary) | Uses OpenAI to generate a summary of referenced notes. |
@@ -1071,9 +1071,12 @@
 | [Auto Hyperlink](https://github.com/take6/obsidian-plugin-auto-hyperlink) | Insert hyperlink according to user-defined rule |
 | [Quick Plugin Switcher](https://github.com/1C0D/obsidian-quick-plugin-switcher) | Adds a ribbon icon to quickly switch plugins with filters (all, enabled, disabled, most switched) |
 | [Colored Tags](https://github.com/pfrankov/obsidian-colored-tags) | Colorizes tags in different colors. The color depends on the tag content. Colors of nested tags are mixed with parent tags. Text color contrast is automatically matched to comply with AA level WCAG 2.1. |
-| [Jira Cloud](https://github.com/OfficerHalf/obsidian-jira-cloud) | An unofficial integration to bring Jira Issues into your Obsidian notes. |
 | [Markdown Sync Scroll](https://github.com/XeroAlpha/markdown-sync-scroll) | Allow two linked markdown views to scroll synchronously. |
 | [Ruled template](https://github.com/YPetremann/obsidian-ruled-template) | This plugin allow to use templates bassed on rules when creating a new file. |
 | [AI Tools](https://github.com/solderneer/obsidian-ai-tools) | Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI. |
 | [oblogger](https://github.com/lofttech/obsidian-oblogger) | tag explorer and frontmatter logger |
 | [Simple CanvaSearch](https://github.com/ddalexb/obsidian-simple-canvasearch) | Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas. |
+| [ZettelGPT](https://github.com/OverRaddit/ZettelGPT) | Effortlessly generate context-aware answers from ChatGPT within Obsidian, while maintaining a visually clear and organized conversation history. |
+| [Invio](https://github.com/frontend-engineering/Invio) | Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online. |
+| [Periodic PARA](https://github.com/quanru/obsidian-periodic-para) | Assist in practicing the PARA system with periodic notes. |
+| [Source Scanner](https://github.com/gerrie-myburgh/source-scanner) | Scanner that extracts comments from source and places it in md files |
