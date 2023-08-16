@@ -82,7 +82,7 @@
 | [marcusolsson/obsidian-creature-theme](https://github.com/marcusolsson/obsidian-creature-theme) | ![Creature](https://raw.githubusercontent.com/marcusolsson/obsidian-creature-theme/master/screenshot.png "") |
 | [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) | ![Sanctum](https://raw.githubusercontent.com/jdanielmourao/obsidian-sanctum/master/cover.png "") |
 | [MatheusZarkov/Obsidian-Slytherin](https://github.com/MatheusZarkov/Obsidian-Slytherin) | ![Slytherin](https://raw.githubusercontent.com/MatheusZarkov/Obsidian-Slytherin/master/Cover.png "") |
-| [cassidoo/cardstock](https://github.com/cassidoo/cardstock) | ![Cardstock](https://raw.githubusercontent.com/cassidoo/cardstock/master/screenshot.png "") |
+| [cassidoo/cardstock](https://github.com/cassidoo/cardstock) | ![Cardstock](https://raw.githubusercontent.com/cassidoo/cardstock/master/miniscreenshot.png "") |
 | [Nilahn/pine_forest_berry](https://github.com/Nilahn/pine_forest_berry) | ![Pine Forest Berry](https://raw.githubusercontent.com/Nilahn/pine_forest_berry/master/Screenshot%20PFB%201.png "") |
 | [mimishahzad/rose-pine-moon-obsidian](https://github.com/mimishahzad/rose-pine-moon-obsidian) | ![Rosé Pine Moon](https://raw.githubusercontent.com/mimishahzad/rose-pine-moon-obsidian/master/assets/template.png "") |
 | [gracejoseph1236/obsidian-ruby](https://github.com/gracejoseph1236/obsidian-ruby) | ![Ruby](https://raw.githubusercontent.com/gracejoseph1236/obsidian-ruby/master/example.png "") |
@@ -213,3 +213,6 @@
 | [Carrie999/comfort](https://github.com/Carrie999/comfort) | ![Comfort](https://raw.githubusercontent.com/Carrie999/comfort/master/screenshot.png "") |
 | [davidjroos/obsidian-notswift](https://github.com/davidjroos/obsidian-notswift) | ![NotSwift](https://raw.githubusercontent.com/davidjroos/obsidian-notswift/master/screenie.png "") |
 | [lab-do/obsidian-neo](https://github.com/lab-do/obsidian-neo) | ![Neo](https://raw.githubusercontent.com/lab-do/obsidian-neo/master/cover.png "") |
+| [SakuraIsayeki/vanilla-amoled-theme](https://github.com/SakuraIsayeki/vanilla-amoled-theme) | ![Vanilla AMOLED](https://raw.githubusercontent.com/SakuraIsayeki/vanilla-amoled-theme/master/sample-screenshot-sm.png "") |
+| [Fro-Q/Qlean](https://github.com/Fro-Q/Qlean) | ![Qlean](https://raw.githubusercontent.com/Fro-Q/Qlean/master/assets/Qlean.png "") |
+| [Possibly-Matt/obsidian-aura-theme](https://github.com/Possibly-Matt/obsidian-aura-theme) | ![Aura Dark](https://raw.githubusercontent.com/Possibly-Matt/obsidian-aura-theme/master/img/aura_dark_diagonal.png "") |

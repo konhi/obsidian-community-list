@@ -1080,3 +1080,27 @@
 | [Invio](https://github.com/frontend-engineering/Invio) | Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online. |
 | [Periodic PARA](https://github.com/quanru/obsidian-periodic-para) | Assist in practicing the PARA system with periodic notes. |
 | [Source Scanner](https://github.com/gerrie-myburgh/source-scanner) | Scanner that extracts comments from source and places it in md files |
+| [Markdown to Slack Message](https://github.com/idreamer/markdown-to-slack-message) | Converts a markdown note to the Slack message blocks that enable you to send to your slack. |
+| [Micro templates](https://github.com/epszaw/obsidian-micro-templates) | Flexible embedded micro templates powered by javascript functions |
+| [Poker](https://github.com/mAAdhaTTah/obsidian-poker) | Easily document and view your poker hands. |
+| [Color Palette](https://github.com/ALegendsTale/obsidian-color-palette) | Create and insert color palettes into your notes. |
+| [Link Tree](https://github.com/joshuatazrein/obsidian-link-tree) | View file links and backlinks as a recursively expandable, filterable list with editable text, combining the structure of outliners like Dynalist & WorkFlowy with the flexibility of Obsidian. |
+| [Custom list character](https://github.com/lilian-pouliquen/obsidian-custom-list-character) | Adds the ability to choose the character to use when creating a bullet list between '-', '*' and '+' |
+| [Arrows](https://github.com/xefyrdev/obsidian-arrows) | Write actual arrow chracters without having to copy-paste them. |
+| [ICS](https://github.com/muness/obsidian-ics) | Adds events from calendar ics published on the web to daily note on demand. Gets the date to search for events on from the currently open daily note. |
+| [Fantasy name generator](https://github.com/lukewh/fantasy-name) | Insert a random fantasy name. |
+| [TagMany](https://github.com/joshua-martius/tagmany) | This plugin allows you to add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once. |
+| [Better Search Views](https://github.com/ivan-lednev/better-search-views) | Upgrade global search, backlinks and queries with outliner-like context trees. |
+| [Dida Todo Sync](https://github.com/eightHundreds/obsidian-dida-sync) | Sync 滴答清单(ticktick) to obsidian |
+| [Better Comment Toggle](https://github.com/MrGVSV/obsidian-better-comment-toggle) | Improved comment toggling. |
+| [Mini Toolbar](https://github.com/quorafind/obsidian-mini-toolbar) | Mini context toolbar in editor for Obsidian. |
+| [SyncFTP](https://github.com/alex-donnan/SyncFTP) | Allows user to connect to an SFTP and push/pull file changes to it. |
+| [Obligator](https://github.com/Newbrict/obsidian-obligator) | Obligator is a replacement for daily-todos which copies over unchecked todo items under a specified header |
+| [Fill in the Blank (FITB)](https://github.com/mister-mcgee/obsidian-fill-in-the-blank) | Use --magic-- to render inline text as blank line(s) instead. |
+| [InlineCodeHighlight](https://github.com/Dimava/inline-code-highlight) | Highlight inline `'md **code**` blocks as well as you do the ```md **big**``` ones. |
+| [Index Checker](https://github.com/pavloDeshko/obsidian-index-checker) | Make sure your index (MOC) files contain all links they should contain. |
+| [Syncthing Integration](https://github.com/LBF38/obsidian-syncthing-integration) | Syncthing integration in Obsidian. |
+| [RunJS](https://github.com/eoureo/obsidian-runjs) | RunJS is a plugin for running JavaScript code in Obsidian (https://obsidian.md). |
+| [Touch Bar Macros](https://github.com/frostplexx/obsidian-touchbar-macros) | Run custom macros from your Mac's Touch Bar. |
+| [Obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) | A bridge from your Obsidian Vault to Docusaurus |
+| [Quail](https://github.com/lyricat/obsidian-quail) | Save, publish, delivery notes via Quail.ink as newsletters and blogs |
