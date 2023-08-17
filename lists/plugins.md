@@ -1104,3 +1104,5 @@
 | [Touch Bar Macros](https://github.com/frostplexx/obsidian-touchbar-macros) | Run custom macros from your Mac's Touch Bar. |
 | [Obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) | A bridge from your Obsidian Vault to Docusaurus |
 | [Quail](https://github.com/lyricat/obsidian-quail) | Save, publish, delivery notes via Quail.ink as newsletters and blogs |
+| [GTD No Next Step](https://github.com/saibotsivad/obsidian-gtd-no-next-step) | Adds a badge to Getting Things Done (GTD) "project" files with no defined next step. |
+| [Safe Filename Linter](https://github.com/sneaky-foxes/obsidian-safe-filename-linter) | Lints filenames for invalid or troublesome characters |
