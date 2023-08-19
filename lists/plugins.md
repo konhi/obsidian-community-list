@@ -1106,3 +1106,6 @@
 | [Quail](https://github.com/lyricat/obsidian-quail) | Save, publish, delivery notes via Quail.ink as newsletters and blogs |
 | [GTD No Next Step](https://github.com/saibotsivad/obsidian-gtd-no-next-step) | Adds a badge to Getting Things Done (GTD) "project" files with no defined next step. |
 | [Safe Filename Linter](https://github.com/sneaky-foxes/obsidian-safe-filename-linter) | Lints filenames for invalid or troublesome characters |
+| [Copy Inline Code](https://github.com/Alddar/obsidian-copy-inline-code-plugin) | Easily copy the contents of an inline code element with a single click. |
+| [At People](https://github.com/saibotsivad/obsidian-at-people) | Use the familiar @ notation to cross link to people files in a people folder. |
+| [ArchWiki Reader](https://github.com/Jackboxx/archwiki-obsidian) | Read any ArchWiki page directly in Obsidian |
