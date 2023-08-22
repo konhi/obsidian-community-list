@@ -1109,3 +1109,4 @@
 | [Copy Inline Code](https://github.com/Alddar/obsidian-copy-inline-code-plugin) | Easily copy the contents of an inline code element with a single click. |
 | [At People](https://github.com/saibotsivad/obsidian-at-people) | Use the familiar @ notation to cross link to people files in a people folder. |
 | [ArchWiki Reader](https://github.com/Jackboxx/archwiki-obsidian) | Read any ArchWiki page directly in Obsidian |
+| [Easy Bake](https://github.com/mgmeyers/obsidian-easy-bake) | Easily compile many Obsidian notes down to a single file. |
