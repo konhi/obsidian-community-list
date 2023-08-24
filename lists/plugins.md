@@ -1110,3 +1110,6 @@
 | [At People](https://github.com/saibotsivad/obsidian-at-people) | Use the familiar @ notation to cross link to people files in a people folder. |
 | [ArchWiki Reader](https://github.com/Jackboxx/archwiki-obsidian) | Read any ArchWiki page directly in Obsidian |
 | [Easy Bake](https://github.com/mgmeyers/obsidian-easy-bake) | Easily compile many Obsidian notes down to a single file. |
+| [Yet Another Obsidian Synchronizer](https://github.com/mahyarmirrashed/yaos) | This is yet another obsidian synchronizer that uses Git to synchronize your vault contents across devices. |
+| [Finnish Spellcheck](https://github.com/antoKeinanen/obsidian-finnish-spellcheck) | Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä, joka hyödyntää Voikkoa. |
+| [Execute Python](https://github.com/williamechols/obsidian-execute-python) | lightweight Python code snippet executor with runtime input support |
