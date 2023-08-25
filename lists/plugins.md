@@ -1113,3 +1113,4 @@
 | [Yet Another Obsidian Synchronizer](https://github.com/mahyarmirrashed/yaos) | This is yet another obsidian synchronizer that uses Git to synchronize your vault contents across devices. |
 | [Finnish Spellcheck](https://github.com/antoKeinanen/obsidian-finnish-spellcheck) | Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä, joka hyödyntää Voikkoa. |
 | [Execute Python](https://github.com/williamechols/obsidian-execute-python) | lightweight Python code snippet executor with runtime input support |
+| [Birthday-Tracker](https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin) | Keep track of all birthdays of your family and friends. |
