@@ -636,7 +636,6 @@
 | [Copy Search URL](https://github.com/czottmann/obsidian-copy-search-url) | Adds a button to the search view for copying the Obsidian search URL. |
 | [Super Simple Time Tracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker) | Multi-purpose time trackers for your notes! |
 | [Blockquote Levels](https://github.com/czottmann/obsidian-blockquote-levels) | Adds commands for increasing/decreasing the blockquote level of the current line or selection(s). |
-| [System Theme](https://github.com/jgauth/obsidian-system-theme) | Plugin to automatically update to system theme. |
 | [Custom File Explorer sorting](https://github.com/SebastianMC/obsidian-custom-sort) | Allows for manual and automatic, config-driven reordering and sorting of files and folders in File Explorer. |
 | [Table Generator](https://github.com/Quorafind/Obsidian-Table-Generator) | Generate Markdown tables quickly like Typora. |
 | [Aosr](https://github.com/linanwx/aosr) | Another Obsidian spaced repetition. It uses flashcards to help review and remember knowledge. |
@@ -1114,3 +1113,36 @@
 | [Finnish Spellcheck](https://github.com/antoKeinanen/obsidian-finnish-spellcheck) | Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä, joka hyödyntää Voikkoa. |
 | [Execute Python](https://github.com/williamechols/obsidian-execute-python) | lightweight Python code snippet executor with runtime input support |
 | [Birthday-Tracker](https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin) | Keep track of all birthdays of your family and friends. |
+| [Lovely-Mindmap](https://github.com/xincan1949/lovely-mindmap) | Build your own knowledge graph with smiles :-) |
+| [LinkShelf](https://github.com/joelseq/obsidian-linkshelf) | Save links from your browser directly into Obsidian. |
+| [Modules](https://github.com/polyipseity/obsidian-modules) | Load JavaScript and related languages like TypeScript modules from the vault and the Internet. |
+| [CodeBlock Tabs](https://github.com/JeminMau/Obsidian-CodeBlock-Tabs) | Create tab group for contiguous CodeBlocks. |
+| [MDX](https://github.com/yuleicul/obsidian-mdx) | Preview MDX in Obsidian, with support for Code Hike. |
+| [Emacs text editor](https://github.com/Klojer/obsidian-emacs-text-editor) | Partial emulation of Emacs text editor for Obisidian. |
+| [Waka time box](https://github.com/simonla/obsidian_waka_box) | Show daily coding activity from WakaTime. |
+| [Codename](https://github.com/dstack/obsidian-codename) | A plugin to solve the hardest problem - naming things. |
+| [Speech To Text Keyboard Helper](https://github.com/mwoz123/speech-to-text-keyboard-helper) | As Google Speech to Text Android keyboard does not handle e.g. _new line_ command, this plugin makes available such commands via Obsidian command pallete. |
+| [Uncheck All](https://github.com/ShacharHarshuv/obsidian-uncheck-all) | Uncheck all checkboxes in the current note using one command |
+| [Voice](https://github.com/chrisurf/obsidian-voice) | Listen to your notes being read aloud. |
+| [Cloze](https://github.com/DearVikki/obsidian-cloze-plugin) | Convert highlights, underlines, bolded texts or any selected texts into clozes. |
+| [Wikidata Importer](https://github.com/samwho/obsidian-wikidata-importer) | Import data from Wikidata into your vault. |
+| [Copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion) | Adds a highly configurable copilot-like auto-completion to Obsidian using the ChatGPT API |
+| [Unitade](https://github.com/Falcion/UnitadeOBSIDIAN) | Effortlessly treat any file extension as note, organize diverse file formats in your vault. |
+| [Python Scripter](https://github.com/nickrallison/obsidian-python-scripter) | Run Python scripts directly as Obsidian commands |
+| [Quick note](https://github.com/jamesgreenblue/obsidian-quicknote) | Create a quick note in a floating window (on command or by right-clicking the Obsidian app icon) |
+| [Update frontmatter modified date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) | Automatically update a frontmatter modified date field when the file is modified |
+| [Multi Tag](https://github.com/fez-github/obsidian-multi-tag) | Adds a tag to multiple notes at once.  Either right-click a folder, or select multiple notes and right-click the selection. |
+| [Zettelkasten LLM Tools](https://github.com/glovguy/obsidian-gpt-zettelkasten) | Zettelkasten note taking powered by Large Language Models (e.g. semantic search). |
+| [Reflection](https://github.com/brandonkboswell/reflection) | Shows daily and weekly notes from this day in years past. |
+| [AI Research Assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) | A Prompt Engineering research utility for generative AI models like OpenAI's ChatGPT that facilitates archiving and searching conversations and live editing a conversation's context/memory. |
+| [Wallabag](https://github.com/huseyz/obsidian-wallabag) | Sync your Wallabag articles. |
+| [Red Pen](https://github.com/lucasmelin/red-pen) | Red Pen acts as a proofreader for your writing. |
+| [Zotero Sync](https://github.com/frthjf/obsidian-zotero-sync-client) | Zotero API client to sync your Zotero library into your vault |
+| [Harpoon](https://github.com/rodrez/obsidian-harpoon) | Use shortcuts to manage and navigate your top four frequently-used files in Obsidian. |
+| [Nostr Writer](https://github.com/jamesmagoo/nostr-writer) | Publish your writing directly to Nostr.. |
+| [Image Converter](https://github.com/xryul/obsidian-image-converter) | Convert, compress and resize images from one format to another by dragging and dropping or pasting into the note. |
+| [Data Entry](https://github.com/waynevanson/data-entry-obsidian-plugin) | Create forms that save data simply; the data view of data entry. |
+| [@ Symbol Linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) | Adds ability to link with @ (the At Symbol) in Obsidian. Can scope @ linking to a specific directory e.g. Contacts/ |
+| [Attachment Manager](https://github.com/chenfeicqq/obsidian-attachment-manager) | Attachment Manager: Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
+附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。 |
+| [Solve](https://github.com/LiamRiddell/obsidian-solve) | Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From date magic ('Now + 20 days') to arithmetic flair ('10 + 5 / (2 * 2)'), your trusted sidekick in every note. More brilliance on the way! |
