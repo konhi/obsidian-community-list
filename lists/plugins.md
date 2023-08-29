@@ -1069,7 +1069,7 @@
 | [Code Styler](https://github.com/mayurankv/Obsidian-Code-Styler) | Style codeblocks and inline code in reading view and editing view. |
 | [Auto Hyperlink](https://github.com/take6/obsidian-plugin-auto-hyperlink) | Insert hyperlink according to user-defined rule |
 | [Quick Plugin Switcher](https://github.com/1C0D/obsidian-quick-plugin-switcher) | Adds a ribbon icon to quickly switch plugins with filters (all, enabled, disabled, most switched) |
-| [Colored Tags](https://github.com/pfrankov/obsidian-colored-tags) | Colorizes tags in different colors. The color depends on the tag content. Colors of nested tags are mixed with parent tags. Text color contrast is automatically matched to comply with AA level WCAG 2.1. |
+| [Colored Tags](https://github.com/pfrankov/obsidian-colored-tags) | Colorizes tags in different colors to visually distinguish them from each other. Colors of nested tags are mixed with parent tags. Text color contrast is automatically matched to comply with AA level WCAG 2.1 |
 | [Markdown Sync Scroll](https://github.com/XeroAlpha/markdown-sync-scroll) | Allow two linked markdown views to scroll synchronously. |
 | [Ruled template](https://github.com/YPetremann/obsidian-ruled-template) | This plugin allow to use templates bassed on rules when creating a new file. |
 | [AI Tools](https://github.com/solderneer/obsidian-ai-tools) | Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI. |
