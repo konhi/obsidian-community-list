@@ -20,7 +20,7 @@
 | [Shortcuts extender](https://github.com/ryjjin/Obsidian-shortcuts-extender) | Use shortcuts for input special symbols without language switching. |
 | [Add links to current note](https://github.com/mrjackphil/obsidian-crosslink-between-notes) | Adds a command to add a link to the current note at the bottom of selected notes. |
 | [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) | Enhanced Quick Switcher, search open panels, and symbols. |
-| [Day Planner](https://github.com/lynchjames/obsidian-day-planner) | Day planning and managing pomodoro timers from a task list in a Markdown note. |
+| [Day Planner](https://github.com/ivan-lednev/obsidian-day-planner) | Day planning from a task list in a Markdown note. |
 | [Editor Syntax Highlight](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) | Show syntax highlighing in code blocks the editor. |
 | [Review](https://github.com/ryanjamurphy/review-obsidian) | Add a link to the current note to a daily note on a future date (or a past date, you time traveller). |
 | [Hider](https://github.com/kepano/obsidian-hider) | Hide UI elements such as tooltips, status, titlebar and more. |
@@ -1146,3 +1146,5 @@
 | [Attachment Manager](https://github.com/chenfeicqq/obsidian-attachment-manager) | Attachment Manager: Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
 附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。 |
 | [Solve](https://github.com/LiamRiddell/obsidian-solve) | Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From date magic ('Now + 20 days') to arithmetic flair ('10 + 5 / (2 * 2)'), your trusted sidekick in every note. More brilliance on the way! |
+| [Nested tags graph](https://github.com/drPilman/obsidian-graph-nested-tags) | Links nested tags in graph view |
+| [YouVersion Linker](https://github.com/jaanonim/obsidian-youversion-linker) | Automatically link bible verses in your notes to YouVersion bible. |

@@ -216,3 +216,5 @@
 | [SakuraIsayeki/vanilla-amoled-theme](https://github.com/SakuraIsayeki/vanilla-amoled-theme) | ![Vanilla AMOLED](https://raw.githubusercontent.com/SakuraIsayeki/vanilla-amoled-theme/master/sample-screenshot-sm.png "") |
 | [Fro-Q/Qlean](https://github.com/Fro-Q/Qlean) | ![Qlean](https://raw.githubusercontent.com/Fro-Q/Qlean/master/assets/Qlean.png "") |
 | [Possibly-Matt/obsidian-aura-theme](https://github.com/Possibly-Matt/obsidian-aura-theme) | ![Aura Dark](https://raw.githubusercontent.com/Possibly-Matt/obsidian-aura-theme/master/img/aura_dark_diagonal.png "") |
+| [fatiger92/obsidian_venom_theme](https://github.com/fatiger92/obsidian_venom_theme) | ![Venom](https://raw.githubusercontent.com/fatiger92/obsidian_venom_theme/master/screenshot.png "") |
+| [Warrobot10/Serika-for-obsidian](https://github.com/Warrobot10/Serika-for-obsidian) | ![Serika](https://raw.githubusercontent.com/Warrobot10/Serika-for-obsidian/master/Serika.png "") |
