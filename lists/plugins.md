@@ -1148,3 +1148,9 @@
 | [Solve](https://github.com/LiamRiddell/obsidian-solve) | Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From date magic ('Now + 20 days') to arithmetic flair ('10 + 5 / (2 * 2)'), your trusted sidekick in every note. More brilliance on the way! |
 | [Nested tags graph](https://github.com/drPilman/obsidian-graph-nested-tags) | Links nested tags in graph view |
 | [YouVersion Linker](https://github.com/jaanonim/obsidian-youversion-linker) | Automatically link bible verses in your notes to YouVersion bible. |
+| [Checkbox Reorder](https://github.com/Erl-koenig/obsidian-checkboxReorder) | Reorder completed checkboxes to the end of the according list. |
+| [Gnome Terminal Loader](https://github.com/CheeseCake87/gnome-terminal-loader) | Adds sidebar action icons to quickly open the Gnome Terminal or to have the Gnome Terminal run a Python module. |
+| [Media Sync](https://github.com/fnya/media-sync) | Downloads images from the image URLs in documents and displays the content. |
+| [autoLiterature](https://github.com/hucorz/obsidian-autoLiterature) | Assist you in taking notes for your literature. |
+| [Local Backup](https://github.com/cgcel/obsidian-local-backup) | Automatically creates a backup of the vault on Obsidian starts. |
+| [ChatGPT Definition](https://github.com/julix14/chatGPT-Obsidian) | Let your AI assistant ChatGPT define words and concepts for you. |
