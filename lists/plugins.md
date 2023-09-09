@@ -1154,3 +1154,16 @@
 | [autoLiterature](https://github.com/hucorz/obsidian-autoLiterature) | Assist you in taking notes for your literature. |
 | [Local Backup](https://github.com/cgcel/obsidian-local-backup) | Automatically creates a backup of the vault on Obsidian starts. |
 | [ChatGPT Definition](https://github.com/julix14/chatGPT-Obsidian) | Let your AI assistant ChatGPT define words and concepts for you. |
+| [ChatGPT Definition](https://github.com/julix14/chatGPT-Obsidian) | Let your AI assistant ChatGPT define words and concepts for you. |
+| [Postfix](https://github.com/bhagyas/obsidian-postfix-plugin) | Use postfix completions to automatically format text. |
+| [Typing Assistant](https://github.com/Jambo2018/notion-assistant-plugin) | Support multiple shortcut menus to improve input efficiency |
+| [Excalidraw CN](https://github.com/korbinzhao/obsidian-excalidraw-cn-plugin) | Excalidraw supporting Chinese hand write font by default. |
+| [BattleSnake Board Viewer](https://github.com/EnderInvader/battlesnake-viewer) | Render BattleSnake positions diagrams in note preview. |
+| [MTG Card Links](https://github.com/aedans/mtg-card-links) | Link to Magic the Gathering cards by enclosing the card name in square brackets. |
+| [Floccus Bookmarks to Markdown](https://github.com/mddevils/floccus-bookmarks-to-markdown) | Bring your Bookmarks from Floccus to your Obsidian. |
+| [Writeas Blog Publisher](https://github.com/encima/obsidian-writeas-plugin) | Publish notes to any write.as blogs you own |
+| [Header Enhancer](https://github.com/HoBeedzc/obsidian-header-enhancer-plugin) | Level up your headers, customize your notes. Header Enhancer makes your notes header better and more useful. |
+| [MLIR Syntax Highlight](https://github.com/Lewuathe/obsidian-mlir-syntax-highlight) | Show syntax highlighing for MLIR in code blocks the editor. |
+| [Handwritten Notes](https://github.com/FBarrca/obsidian-handwritten-notes) | Annotate PDFs and create handwritten notes inside your vault. |
+| [Flashcard Generator](https://github.com/chloedia/Obsidian_Quiz_Generator) | This is a quiz generator plugin for Obsidian. This plugin let's you generate important questions on your note. |
+| [Spreadsheets](https://github.com/divamgupta/obsidian-spreadsheets) | Create and edit advanced spreadsheets with Obsidian. Rich formatting, formulas, cells, filtering and more! |
