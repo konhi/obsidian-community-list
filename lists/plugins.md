@@ -1167,3 +1167,11 @@
 | [Handwritten Notes](https://github.com/FBarrca/obsidian-handwritten-notes) | Annotate PDFs and create handwritten notes inside your vault. |
 | [Flashcard Generator](https://github.com/chloedia/Obsidian_Quiz_Generator) | This is a quiz generator plugin for Obsidian. This plugin let's you generate important questions on your note. |
 | [Spreadsheets](https://github.com/divamgupta/obsidian-spreadsheets) | Create and edit advanced spreadsheets with Obsidian. Rich formatting, formulas, cells, filtering and more! |
+| [TickTick](https://github.com/viduycheung/ticktick-obsidian) | Check and create tasks in TickTick via Obsidian |
+| [Webdav File Explorer](https://github.com/red0orange/obsidian-webdav-file-explorer) | Allows you to explore your webdav files. |
+| [Sheets Extended](https://github.com/NicoNekoru/obsidan-advanced-table-xt) | Vertical headers, merged cells, and custom css tables with advanced table compatability |
+| [Auto Journal](https://github.com/Ebonsignori/obsidian-auto-journal) | Opinionated journaling automation like daily notes but with backfills for the days when Obsidian wasn't opened. |
+| [Nifty Links](https://github.com/x-Ai/obsidian-nifty-links) | Generate elegant, Notion-style rich link cards to enhance your note-taking experience. |
+| [Exercises](https://github.com/AlexCCavaco/obsidian-exercises) | Create Interactive Exercises along side your Obsidian Notes |
+| [Math Booster](https://github.com/RyotaUshio/obsidian-math-booster) | Turn your Obsidian into LaTeX on steroids. Dynamically numbered theorem environments & equations, theorems/equations live suggestion, showing backlinks to theorems/equations and live-rendering equations inside callouts & quotes. |
+| [File Explorer++](https://github.com/kelszo/obsidian-file-explorer-plus) | Hide and pin files and folders in the file explorer using custom filters, such as wildcards and regex, based on their names, paths, and tags. Additionally, achieve the same with a single click in the file menu. |
