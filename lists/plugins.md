@@ -1175,3 +1175,7 @@
 | [Exercises](https://github.com/AlexCCavaco/obsidian-exercises) | Create Interactive Exercises along side your Obsidian Notes |
 | [Math Booster](https://github.com/RyotaUshio/obsidian-math-booster) | Turn your Obsidian into LaTeX on steroids. Dynamically numbered theorem environments & equations, theorems/equations live suggestion, showing backlinks to theorems/equations and live-rendering equations inside callouts & quotes. |
 | [File Explorer++](https://github.com/kelszo/obsidian-file-explorer-plus) | Hide and pin files and folders in the file explorer using custom filters, such as wildcards and regex, based on their names, paths, and tags. Additionally, achieve the same with a single click in the file menu. |
+| [Vox](https://github.com/vincentbavitz/obsidian-vox) | Intelligently trancribe and categorize your voice notes |
+| [GitHub Embeds](https://github.com/MrGVSV/obsidian-github-embeds) | Embed GitHub issues, PRs, and code snippets directly in Obsidian. |
+| [Tenki](https://github.com/ms3056/Tenki) | A simple weather display. |
+| [Tokei](https://github.com/ms3056/Tokei) | A simple time and date display. |
