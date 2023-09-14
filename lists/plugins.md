@@ -1154,7 +1154,6 @@
 | [autoLiterature](https://github.com/hucorz/obsidian-autoLiterature) | Assist you in taking notes for your literature. |
 | [Local Backup](https://github.com/cgcel/obsidian-local-backup) | Automatically creates a backup of the vault on Obsidian starts. |
 | [ChatGPT Definition](https://github.com/julix14/chatGPT-Obsidian) | Let your AI assistant ChatGPT define words and concepts for you. |
-| [ChatGPT Definition](https://github.com/julix14/chatGPT-Obsidian) | Let your AI assistant ChatGPT define words and concepts for you. |
 | [Postfix](https://github.com/bhagyas/obsidian-postfix-plugin) | Use postfix completions to automatically format text. |
 | [Typing Assistant](https://github.com/Jambo2018/notion-assistant-plugin) | Support multiple shortcut menus to improve input efficiency |
 | [Excalidraw CN](https://github.com/korbinzhao/obsidian-excalidraw-cn-plugin) | Excalidraw supporting Chinese hand write font by default. |
