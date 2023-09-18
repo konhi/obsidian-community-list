@@ -1178,3 +1178,6 @@
 | [GitHub Embeds](https://github.com/MrGVSV/obsidian-github-embeds) | Embed GitHub issues, PRs, and code snippets directly in Obsidian. |
 | [Tenki](https://github.com/ms3056/Tenki) | A simple weather display. |
 | [Tokei](https://github.com/ms3056/Tokei) | A simple time and date display. |
+| [Codeblock Template](https://github.com/sylcool/obsidian-codeblock-template) | A template plugin that allows for the reuse of content within Code Blocks, with the ability to utilize variables.  |
+| [2Hop Links Plus](https://github.com/L7Cy/obsidian-2hop-links-plus) | Related links up to 2 hops away are displayed in a card format, allowing for easy browsing through connections between notes. Each card contains a preview of the corresponding note. |
+| [Custom Font Loader](https://github.com/pourmand1376/obsidian-custom-font) | Customize your Obsidian vault with any font you want (+ Support for Android and iOS) |
