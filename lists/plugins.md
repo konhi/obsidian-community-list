@@ -20,7 +20,7 @@
 | [Shortcuts extender](https://github.com/ryjjin/Obsidian-shortcuts-extender) | Use shortcuts for input special symbols without language switching. |
 | [Add links to current note](https://github.com/mrjackphil/obsidian-crosslink-between-notes) | Adds a command to add a link to the current note at the bottom of selected notes. |
 | [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) | Enhanced Quick Switcher, search open panels, and symbols. |
-| [Day Planner](https://github.com/ivan-lednev/obsidian-day-planner) | Day planning from a task list in a Markdown note. |
+| [Day Planner](https://github.com/ivan-lednev/obsidian-day-planner) | Day planning from a task list in a Markdown note with enhanced time block functionality. |
 | [Editor Syntax Highlight](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) | Show syntax highlighing in code blocks the editor. |
 | [Review](https://github.com/ryanjamurphy/review-obsidian) | Add a link to the current note to a daily note on a future date (or a past date, you time traveller). |
 | [Hider](https://github.com/kepano/obsidian-hider) | Hide UI elements such as tooltips, status, titlebar and more. |
@@ -1181,3 +1181,7 @@
 | [Codeblock Template](https://github.com/sylcool/obsidian-codeblock-template) | A template plugin that allows for the reuse of content within Code Blocks, with the ability to utilize variables.  |
 | [2Hop Links Plus](https://github.com/L7Cy/obsidian-2hop-links-plus) | Related links up to 2 hops away are displayed in a card format, allowing for easy browsing through connections between notes. Each card contains a preview of the corresponding note. |
 | [Custom Font Loader](https://github.com/pourmand1376/obsidian-custom-font) | Customize your Obsidian vault with any font you want (+ Support for Android and iOS) |
+| [Pickly PageBlend](https://github.com/dmitrichev/pickly-page-blend) | Publish your Obsidian notes in one click. |
+| [AI Editor](https://github.com/buszk/obsidian-ai-editor) | Elevate your Obsidian workflow with customizable LLM actions. |
+| [Workbooks](https://github.com/Canna71/obsidian-sheets) | Work with Spreadsheets inside your notes |
+| [Day Planner (OG)](https://github.com/ebullient/obsidian-day-planner-og) | Day planning from a simple task list in a Markdown note (bare bones, preserves the features and behavior of the original plugin) |
