@@ -912,7 +912,6 @@
 | [Any Block](https://github.com/LincZero/obsidian-any-block) | You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`.  |
 | [WuCai highlights Official](https://github.com/makediff/obsidian-wucai) | Sync WuCai highlights into your notes |
 | [File Order](https://github.com/lukasbach/obsidian-file-order) | Use number-prefixes in your file names to define a custom order, and drag-and-drop the files to update that order. |
-| [No Tabs](https://github.com/TS-Tobias/obsidian-no-tabs) | Replaces the previous tab when creating a new note. |
 | [Tab Rotator](https://github.com/autohub7/obsidian-tab-rotator) | Rotates opened files to the left or right with a specified interval. |
 | [Bulk open selected links](https://github.com/autohub7/obsidian-open-selected-links) | Easily open all selected links in edit mode. |
 | [Semantic Search](https://github.com/bbawj/obsidian-semantic-search) | Semantic search for files using OpenAI's text embeddings. |
