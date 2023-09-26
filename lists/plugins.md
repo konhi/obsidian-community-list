@@ -168,7 +168,6 @@
 | [Kanban](https://github.com/mgmeyers/obsidian-kanban) | Create Markdown-backed Kanban boards in Obsidian. |
 | [Incremental Writing](https://github.com/bjsi/incremental-writing) | Incrementally review notes and blocks over time. |
 | [Kindle Highlights](https://github.com/hadynz/obsidian-kindle-plugin) | Sync your Kindle book highlights using your Amazon login or uploading your My Clippings file. |
-| [Metatable](https://github.com/arnau/obsidian-metatable) | Display the whole frontmatter section as a collapsible table. |
 | [Ozan's Image in Editor Plugin](https://github.com/ozntel/oz-image-in-editor-obsidian) | View Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview. |
 | [Recall](https://github.com/martin-jw/obsidian-recall) | A flexible and configurable spaced repetition plugin with multiple algorithms to choose from. |
 | [Tidy Footnotes](https://github.com/charliecm/obsidian-tidy-footnotes) | Tidy your footnotes seamlessly. |
@@ -291,7 +290,7 @@
 | [Quick Explorer](https://github.com/pjeby/quick-explorer) | Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard |
 | [Banners](https://github.com/noatpad/obsidian-banners) | Add banner images to your notes! |
 | [Obsidian42 - Jump-to-Date](https://github.com/TfTHacker/obsidian42-jump-to-date) | Popup calendar for quickly navigating dates. |
-| [Icon Folder](https://github.com/FlorianWoelki/obsidian-icon-folder) | Add icons to your folders. |
+| [Iconize](https://github.com/FlorianWoelki/obsidian-iconize) | Add icons to anything you desire in Obsidian, including files, folders, and text. |
 | [Ghost Fade Focus](https://github.com/skipadu/obsidian-ghost-fade-focus) | Focused on the current line, others faded like a ghost! |
 | [Folder Note Core](https://github.com/aidenlx/folder-note-core) | Provide core features and API for folder notes |
 | [Jupyter](https://github.com/tillahoffmann/obsidian-jupyter) | Run Python code in Obsidian using Jupyter. |
@@ -1113,7 +1112,7 @@
 | [Execute Python](https://github.com/williamechols/obsidian-execute-python) | lightweight Python code snippet executor with runtime input support |
 | [Birthday-Tracker](https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin) | Keep track of all birthdays of your family and friends. |
 | [Lovely-Mindmap](https://github.com/xincan1949/lovely-mindmap) | Build your own knowledge graph with smiles :-) |
-| [LinkShelf](https://github.com/joelseq/obsidian-linkshelf) | Save links from your browser directly into Obsidian. |
+| [LinkStowr](https://github.com/joelseq/obsidian-linkstowr) | Save links from your browser directly into Obsidian. |
 | [Modules](https://github.com/polyipseity/obsidian-modules) | Load JavaScript and related languages like TypeScript modules from the vault and the Internet. |
 | [CodeBlock Tabs](https://github.com/JeminMau/Obsidian-CodeBlock-Tabs) | Create tab group for contiguous CodeBlocks. |
 | [MDX](https://github.com/yuleicul/obsidian-mdx) | Preview MDX in Obsidian, with support for Code Hike. |
@@ -1122,7 +1121,7 @@
 | [Codename](https://github.com/dstack/obsidian-codename) | A plugin to solve the hardest problem - naming things. |
 | [Speech To Text Keyboard Helper](https://github.com/mwoz123/speech-to-text-keyboard-helper) | As Google Speech to Text Android keyboard does not handle e.g. _new line_ command, this plugin makes available such commands via Obsidian command pallete. |
 | [Uncheck All](https://github.com/ShacharHarshuv/obsidian-uncheck-all) | Uncheck all checkboxes in the current note using one command |
-| [Voice](https://github.com/chrisurf/obsidian-voice) | Listen to your notes being read aloud. |
+| [Voice](https://github.com/chrisurf/obsidian-voice) | Let your notes talk and speak to you and enhance your Obsidian experience to effortlessly listen to your notes being read aloud and enjoy the power of sound, audio, and speech. |
 | [Cloze](https://github.com/DearVikki/obsidian-cloze-plugin) | Convert highlights, underlines, bolded texts or any selected texts into clozes. |
 | [Wikidata Importer](https://github.com/samwho/obsidian-wikidata-importer) | Import data from Wikidata into your vault. |
 | [Copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion) | Adds a highly configurable copilot-like auto-completion to Obsidian using the ChatGPT API |
@@ -1151,7 +1150,7 @@
 | [Gnome Terminal Loader](https://github.com/CheeseCake87/gnome-terminal-loader) | Adds sidebar action icons to quickly open the Gnome Terminal or to have the Gnome Terminal run a Python module. |
 | [Media Sync](https://github.com/fnya/media-sync) | Downloads images from the image URLs in documents and displays the content. |
 | [autoLiterature](https://github.com/hucorz/obsidian-autoLiterature) | Assist you in taking notes for your literature. |
-| [Local Backup](https://github.com/cgcel/obsidian-local-backup) | Automatically creates a backup of the vault on Obsidian starts. |
+| [Local Backup](https://github.com/cgcel/obsidian-local-backup) | Automatically creates a local backup of the vault. |
 | [ChatGPT Definition](https://github.com/julix14/chatGPT-Obsidian) | Let your AI assistant ChatGPT define words and concepts for you. |
 | [Postfix](https://github.com/bhagyas/obsidian-postfix-plugin) | Use postfix completions to automatically format text. |
 | [Typing Assistant](https://github.com/Jambo2018/notion-assistant-plugin) | Support multiple shortcut menus to improve input efficiency |
@@ -1184,3 +1183,4 @@
 | [AI Editor](https://github.com/buszk/obsidian-ai-editor) | Elevate your Obsidian workflow with customizable LLM actions. |
 | [Workbooks](https://github.com/Canna71/obsidian-sheets) | Work with Spreadsheets inside your notes |
 | [Day Planner (OG)](https://github.com/ebullient/obsidian-day-planner-og) | Day planning from a simple task list in a Markdown note (bare bones, preserves the features and behavior of the original plugin) |
+| [Automatic Table Of Contents](https://github.com/johansatge/obsidian-automatic-table-of-contents) | Create a table of contents in a note, that updates itself when the note changes |

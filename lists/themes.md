@@ -102,7 +102,7 @@
 | [MattWilcox/obsidian-wilcox-one](https://github.com/MattWilcox/obsidian-wilcox-one) | ![WilcoxOne](https://raw.githubusercontent.com/MattWilcox/obsidian-wilcox-one/master/wilcoxonedark.png "") |
 | [Thiews/Obsidian-Harmonic](https://github.com/Thiews/Obsidian-Harmonic) | ![Harmonic](https://raw.githubusercontent.com/Thiews/Obsidian-Harmonic/master/cover.png "") |
 | [dracula/obsidian](https://github.com/dracula/obsidian) | ![Dracula Official](https://raw.githubusercontent.com/dracula/obsidian/master/screenshot.png "") |
-| [dlccyes/obsidian-nebula](https://github.com/dlccyes/obsidian-nebula) | ![Nebula](https://raw.githubusercontent.com/dlccyes/obsidian-nebula/master/showcase1.png "") |
+| [dlccyes/obsidian-nebula](https://github.com/dlccyes/obsidian-nebula) | ![Nebula](https://raw.githubusercontent.com/dlccyes/obsidian-nebula/master/thumbnail.png "") |
 | [aidanglickman/obsidian-nord-enhanced](https://github.com/aidanglickman/obsidian-nord-enhanced) | ![Obsidian Nord Enhanced](https://raw.githubusercontent.com/aidanglickman/obsidian-nord-enhanced/master/_media/scrot.png "") |
 | [bLaCkwEw/Dracula-Slim](https://github.com/bLaCkwEw/Dracula-Slim) | ![Dracula Slim](https://raw.githubusercontent.com/bLaCkwEw/Dracula-Slim/master/screenshot.png "") |
 | [jaysan0/obsidian-sandstorm](https://github.com/jaysan0/obsidian-sandstorm) | ![Sandstorm](https://raw.githubusercontent.com/jaysan0/obsidian-sandstorm/master/screenshot.png "") |
@@ -218,3 +218,4 @@
 | [Possibly-Matt/obsidian-aura-theme](https://github.com/Possibly-Matt/obsidian-aura-theme) | ![Aura Dark](https://raw.githubusercontent.com/Possibly-Matt/obsidian-aura-theme/master/img/aura_dark_diagonal.png "") |
 | [fatiger92/obsidian_venom_theme](https://github.com/fatiger92/obsidian_venom_theme) | ![Venom](https://raw.githubusercontent.com/fatiger92/obsidian_venom_theme/master/screenshot.png "") |
 | [Warrobot10/Serika-for-obsidian](https://github.com/Warrobot10/Serika-for-obsidian) | ![Serika](https://raw.githubusercontent.com/Warrobot10/Serika-for-obsidian/master/Serika.png "") |
+| [rmvdesign/autotape-theme](https://github.com/rmvdesign/autotape-theme) | ![Autotape](https://raw.githubusercontent.com/rmvdesign/autotape-theme/master/Screen.png "") |
