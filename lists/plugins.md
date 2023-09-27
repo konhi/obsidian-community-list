@@ -1184,3 +1184,11 @@
 | [Workbooks](https://github.com/Canna71/obsidian-sheets) | Work with Spreadsheets inside your notes |
 | [Day Planner (OG)](https://github.com/ebullient/obsidian-day-planner-og) | Day planning from a simple task list in a Markdown note (bare bones, preserves the features and behavior of the original plugin) |
 | [Automatic Table Of Contents](https://github.com/johansatge/obsidian-automatic-table-of-contents) | Create a table of contents in a note, that updates itself when the note changes |
+| [Search Templates Library](https://github.com/Pentchaff/obsidian-search-library) | Allows you to save search templates for future re-use. |
+| [Vertical Tabs View](https://github.com/hdykokd/obsidian-vertical-tabs-view) | Provides a vertical tabs view. |
+| [Just Share Please](https://github.com/Ellpeck/ObsidianJustSharePlease) | Quickly and easily share individual notes online using an anonymized link. Also easy to self-host! |
+| [Potato Indexer](https://github.com/LoyalPotato/potato-indexer) | Allow generation of a content index based on your selection or of the whole file. |
+| [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode) | Typewriter scrolling, highlighting of the current line, dimming of unfocused paragraphs and more |
+| [JS Engine](https://github.com/mProjectsCode/obsidian-js-engine-plugin) | Run JavaScript from within your notes. |
+| [Mononote](https://github.com/czottmann/obsidian-mononote) | Ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab. |
+| [Cannoli](https://github.com/DeabLabs/cannoli) | Create and run LLM scripts on the Obsidian Canvas. |
