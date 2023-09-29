@@ -1195,3 +1195,4 @@
 | [Multiple Notes Outline](https://github.com/iiz00/obsidian-multiple-notes-outline) | Add custom views which show outlines of multiple notes with headings, links, tags and list items. |
 | [URL Display](https://github.com/lin-stephanie/obsidian-url-display) | Extract and display external URLs of the note in Obsidian. |
 | [Change Case](https://github.com/dbrockman/obsidian-change-case) | Plugin to let you change the case (UPPER CASE, camelCase, snake_case, etc) of the current selection. |
+| [Send to Ghost](https://github.com/southpaw1496/obsidian-send-to-ghost) | Send and publish notes to your Ghost blog with a single click |
