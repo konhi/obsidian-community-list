@@ -246,7 +246,6 @@
 | [Markdown Attributes](https://github.com/javalent/markdown-attributes) | Add Markdown attributes to elements in Obsidian. |
 | [WaveDrom](https://github.com/kingsquirrel152/obsidian-wavedrom) | Simple plugin for creating wavedrom plots. |
 | [Phone to Roam to Obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian) | An Obsidian client for phonetoroam.com |
-| [Budget WYSIWYG](https://github.com/OwnJoke/obsidian-budget-wysiwyg) | Automatically switches between preview mode and source mode based on if you are typing or not. |
 | [Pocket](https://github.com/nybbles/obsidian-pocket) | Access your Pocket reading list entries and create notes for them easily. |
 | [Obsidian42 - WordNet Dictionary](https://github.com/TfTHacker/Obsidian-WordNet) | Brings WordNet, a large lexical database of English developed by Princeton University to Obsidian. |
 | [Multi-line Formatting](https://github.com/nmady/obsidian-multi-line-formatting) | Apply formatting to selected text, dealing with the paragraph breaks. |
@@ -275,7 +274,6 @@
 | [Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit) | When you click an image, it will be displayed in a popup layer and you can view, drag, zoom, rotate the image. |
 | [Shell commands](https://github.com/Taitava/obsidian-shellcommands) | Define system commands that you want to execute via command palette, hotkeys, URI links or automated events. E.g. open external applications or perform automated file modifications. |
 | [Hover External Link](https://github.com/jamiebrynes7/obsidian-hover-external-link) | Hover on external links to see the destination URL. |
-| [CodeMirror Options](https://github.com/nothingislost/obsidian-codemirror-options) | Enhance Obsidian's desktop edit mode with features such as WYSIWYG / Live Preview, Syntax Highlighting, and more. |
 | [Code Block Enhancer](https://github.com/nyable/obsidian-code-block-enhancer) | Enhance Obsidian Markdown code block,provides copy button,linenumber,language name tip and so on. |
 | [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link) | Get links to blocks and headings from Obsidian's right click menu. |
 | [Diagrams](https://github.com/zapthedingbat/drawio-obsidian) | Create and edit Draw.io diagrams in Obsidian. |
@@ -306,7 +304,6 @@
 | [Enhance Copy Note](https://github.com/kzhovn/copy-command-obsidian) | Augments native Obsidian note copying. |
 | [Customizable Menu](https://github.com/kzhovn/obsidian-customizable-menu) | Add any command to Obsidian's right-click menu. |
 | [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus) | Quickly switch and manage workspaces |
-| [Simple Embeds](https://github.com/samwarnick/obsidian-simple-embeds) | Replace Twitter and YouTube links with embeds when previewing a file. |
 | [ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) | Collect interesting information from you clipboard into your vault. A website will be converted to MD, Tweets and YouTube Videos embedded, plain text will just saved into a new notice. |
 | [Obsidian42 - Text Transporter](https://github.com/TfTHacker/obsidian42-text-transporter) | Advanced text tools for working with text in your vault. |
 | [MarginNote Companion](https://github.com/aidenlx/marginnote-companion) | Bridge MarginNote 3 and Obsidian. |
@@ -517,7 +514,6 @@
 | [Execute Code](https://github.com/twibiral/obsidian-execute-code) | Execute code snippets within a note. |
 | [Obsidian Badge](https://github.com/linjunpop/obsidian-badge) | Show badge for Obsidian. |
 | [Korean Book Info Plugin](https://github.com/kmsk99/kr-book-info-plugin) | Crawls Yes24 to get book information. |
-| [Drag-n-Drop for blocks](https://github.com/artem-barmin/obsidian-block-drag-n-drop) | Allow moving/copying/and creation embeds for blocks with drag-n-drop just like Logseq or Roam Research. |
 | [Link Embed](https://github.com/Seraphli/obsidian-link-embed) | Convert URLs in your notes into embeded previews. |
 | [Obsidian Columns](https://github.com/tnichols217/obsidian-columns) | Create columns in Obsidian Markdown. |
 | [Github Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) | Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more! |
@@ -772,7 +768,6 @@
 | [Boost Link Suggestions](https://github.com/jglev/obsidian-boost-link-suggestions) | Alternative inline link suggester that orders results by link count and manual boosts. |
 | [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) | Exports an Obsidian document, folder, or vault as an HTML document / webpage / website with correct styling. Also has an interactive embedded dark / light theme toggle, and document outline. |
 | [File Color](https://github.com/ecustic/obsidian-file-color) | Set colors on folders and files in the file tree. |
-| [Set In Obsidian](https://github.com/sandorex/set-in-obsidian-plugin) | Plugin for time planning. |
 | [Hugo preview Obsidian](https://github.com/fzdwx/hugo-preview-obsidian) | Hugo preview for Obsidian. |
 | [File Chucker](https://github.com/kenlim/file-chucker-plugin) | Quickly move a file to a new or existing folder, then open the next file. |
 | [Hints Flow](https://github.com/slpbx/obsidian-plugin) | Save data directly to Obsidian with specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more. |
@@ -1083,7 +1078,6 @@
 | [Color Palette](https://github.com/ALegendsTale/obsidian-color-palette) | Create and insert color palettes into your notes. |
 | [Link Tree](https://github.com/joshuatazrein/obsidian-link-tree) | View file links and backlinks as a recursively expandable, filterable list with editable text, combining the structure of outliners like Dynalist & WorkFlowy with the flexibility of Obsidian. |
 | [Custom list character](https://github.com/lilian-pouliquen/obsidian-custom-list-character) | Adds the ability to choose the character to use when creating a bullet list between '-', '*' and '+' |
-| [Arrows](https://github.com/xefyrdev/obsidian-arrows) | Write actual arrow chracters without having to copy-paste them. |
 | [ICS](https://github.com/muness/obsidian-ics) | Adds events from calendar ics published on the web to daily note on demand. Gets the date to search for events on from the currently open daily note. |
 | [Fantasy name generator](https://github.com/lukewh/fantasy-name) | Insert a random fantasy name. |
 | [TagMany](https://github.com/joshua-martius/tagmany) | This plugin allows you to add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once. |
@@ -1196,3 +1190,4 @@
 | [URL Display](https://github.com/lin-stephanie/obsidian-url-display) | Extract and display external URLs of the note in Obsidian. |
 | [Change Case](https://github.com/dbrockman/obsidian-change-case) | Plugin to let you change the case (UPPER CASE, camelCase, snake_case, etc) of the current selection. |
 | [Send to Ghost](https://github.com/southpaw1496/obsidian-send-to-ghost) | Send and publish notes to your Ghost blog with a single click |
+| [Content Linker](https://github.com/Medill-East/obsidian-content-linker) | A plugin for searching and adding bi-directional links to existing content in Obsidian Vault. |
