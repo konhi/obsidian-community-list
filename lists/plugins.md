@@ -1191,3 +1191,4 @@
 | [Change Case](https://github.com/dbrockman/obsidian-change-case) | Plugin to let you change the case (UPPER CASE, camelCase, snake_case, etc) of the current selection. |
 | [Send to Ghost](https://github.com/southpaw1496/obsidian-send-to-ghost) | Send and publish notes to your Ghost blog with a single click |
 | [Content Linker](https://github.com/Medill-East/obsidian-content-linker) | A plugin for searching and adding bi-directional links to existing content in Obsidian Vault. |
+| [Swiss army knife](https://github.com/mwoz123/swiss-army-knife-obsidian) | Collection of various utilities (e.g. duplicate empty line remover) |
