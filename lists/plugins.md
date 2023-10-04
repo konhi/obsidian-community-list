@@ -1192,3 +1192,10 @@
 | [Send to Ghost](https://github.com/southpaw1496/obsidian-send-to-ghost) | Send and publish notes to your Ghost blog with a single click |
 | [Content Linker](https://github.com/Medill-East/obsidian-content-linker) | A plugin for searching and adding bi-directional links to existing content in Obsidian Vault. |
 | [Swiss army knife](https://github.com/mwoz123/swiss-army-knife-obsidian) | Collection of various utilities (e.g. duplicate empty line remover) |
+| [Share to NotionNext](https://github.com/jxpeng98/obsidian-to-NotionNext) | Shares file to Notion with Notion API for NotionNext web deploy, originally created by EasyChris/obsidian-to-notion. |
+| [No more flickering inline math](https://github.com/RyotaUshio/obsidian-inline-math) | No longer disturbed by flickering inline math in Obsidian. |
+| [Expiration-Date-Tracker](https://github.com/Raboro/obsidian-expiration-date-tracker-plugin) | Keep track of all expiration dates, for example, for your groceries. |
+| [Email Reader](https://github.com/pulsovi/obsidian_eml_reader) | Provide a preview mode for embeded `*.eml` files. |
+| [Size History](https://github.com/pbrw/obsidian-size-history) | Admire the growth of your Obsidian vault with a "hand-drawn" chart. |
+| [ZettelFlow](https://github.com/RafaelGB/Obsidian-ZettelFlow) | Helps you to create and manage your notes in a Zettelkasten way via Canvas. |
+| [Excel](https://github.com/ljcoder2015/obsidian-excel) | Create spreadsheets and easily embed them in Markdown |
