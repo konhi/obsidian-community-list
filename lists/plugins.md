@@ -1199,3 +1199,14 @@
 | [Size History](https://github.com/pbrw/obsidian-size-history) | Admire the growth of your Obsidian vault with a "hand-drawn" chart. |
 | [ZettelFlow](https://github.com/RafaelGB/Obsidian-ZettelFlow) | Helps you to create and manage your notes in a Zettelkasten way via Canvas. |
 | [Excel](https://github.com/ljcoder2015/obsidian-excel) | Create spreadsheets and easily embed them in Markdown |
+| [Canvas Send to Back](https://github.com/Zachatoo/obsidian-canvas-send-to-back) | Send a card in Obsidian Canvas to be behind all other cards. |
+| [Sync Contacts on macOS](https://github.com/motschel123/Mac-Contact-Sync-Obsidian) | Sync your contacts from macOS to your Obsidian Vault. |
+| [Tag Page](https://github.com/mjsumpter/obsidian-tag-page) | Dynamically generate and update tag-specific pages, offering a consolidated view of each tag's references across your vault. |
+| [Contentful Publisher](https://github.com/ziyafenn/obsidian-contentful-publisher) | Manage your Contentful content from Obsidian. |
+| [ZotLit](https://github.com/PKM-er/obsidian-zotlit) | Plugin to integrate with Zotero, create literature notes, and insert citations from a Zotero library. |
+| [Text Transform](https://github.com/ipshing/obsidian-text-transform) | This plugin adds options to transform text to different casings using keyboard shortcuts. |
+| [Copy Metadata](https://github.com/wenlzhang/obsidian-copy-metadata) | Copy file metadata, e.g., creation time, to clipboard. Insert copied metadata to file name. |
+| [Text Conversions](https://github.com/ironsigma/obsidian-text-conversions) | Perform various text conversions on the selected text |
+| [Palta Note](https://github.com/mrniket/palta-obsidian-plugin) | Render Bhatkhande notation for Tabla. |
+| [QB Reader Parser](https://github.com/J-Barta/qb-reader-parser) | Automatically parse tossups from QB Reader into a format readable by the Obsidian_to_Anki plugin. |
+| [Tags Overview](https://github.com/christianwannerstedt/obsidian-tags-overview) | Adds an extended tags panel where tagged files can be overviewed, filtered and accessed in a simple way. |
