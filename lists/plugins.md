@@ -1210,3 +1210,4 @@
 | [Palta Note](https://github.com/mrniket/palta-obsidian-plugin) | Render Bhatkhande notation for Tabla. |
 | [QB Reader Parser](https://github.com/J-Barta/qb-reader-parser) | Automatically parse tossups from QB Reader into a format readable by the Obsidian_to_Anki plugin. |
 | [Tags Overview](https://github.com/christianwannerstedt/obsidian-tags-overview) | Adds an extended tags panel where tagged files can be overviewed, filtered and accessed in a simple way. |
+| [Next Link](https://github.com/jdluque/next-link) | Jump quickly between note links. |
