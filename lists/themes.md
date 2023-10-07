@@ -221,3 +221,4 @@
 | [rmvdesign/autotape-theme](https://github.com/rmvdesign/autotape-theme) | ![Autotape](https://raw.githubusercontent.com/rmvdesign/autotape-theme/master/Screen.png "") |
 | [benf2004/Obsidian-LaTeX-Theme](https://github.com/benf2004/Obsidian-LaTeX-Theme) | ![LaTeX](https://raw.githubusercontent.com/benf2004/Obsidian-LaTeX-Theme/master/screenshots/preview.png "") |
 | [dbarenholz/halcyon-obsidian](https://github.com/dbarenholz/halcyon-obsidian) | ![halcyon](https://raw.githubusercontent.com/dbarenholz/halcyon-obsidian/master/img/halcyon-banner-small.png "") |
+| [GuiMar10/monochroYOU](https://github.com/GuiMar10/monochroYOU) | ![monochroYOU](https://raw.githubusercontent.com/GuiMar10/monochroYOU/master/screenshot.png "") |

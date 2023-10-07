@@ -1048,7 +1048,6 @@
 | [Vault 2 Book](https://github.com/Mitra98t/vault2book-plugin) | Converts your notes to a book creating a single file containing all the notes linked |
 | [Markdown Chords](https://github.com/dnotes/obsidian-markdown-chords) | Add musical chord notation and chord diagrams for stringed instruments (e.g. guitar) in Markdown. Supports chords in any Western scale/mode, including extended jazz chords. |
 | [Laws of Form](https://github.com/Kevger/obsidian-laws-of-form) | Allows you to create, manage and display Laws of Form expressions like ((a)) (b) = a (b). |
-| [Notes Sync Share](https://github.com/Alt-er/obsidian-sync-share) | Sync and share (publish) your notes in your own private service. |
 | [NAI 4 Obsidian](https://github.com/SalokinGreen/NAI4Obsidian) | Generate text with NovelAI's models.. |
 | [Password Protection](https://github.com/qing3962/password-protection) | Protect your private notes and diary with a password, no encrypt, no decrypt. |
 | [LDS Scriptures Reference](https://github.com/pacokwon/obsidian-lds-scriptures-plugin) | Easily insert references to LDS scriptures |
@@ -1211,3 +1210,8 @@
 | [QB Reader Parser](https://github.com/J-Barta/qb-reader-parser) | Automatically parse tossups from QB Reader into a format readable by the Obsidian_to_Anki plugin. |
 | [Tags Overview](https://github.com/christianwannerstedt/obsidian-tags-overview) | Adds an extended tags panel where tagged files can be overviewed, filtered and accessed in a simple way. |
 | [Next Link](https://github.com/jdluque/next-link) | Jump quickly between note links. |
+| [Writing Goals](https://github.com/lynchjames/obsidian-writing-goals) | Set dynamic writing goals for your notes and folders. |
+| [Auto Archive](https://github.com/shanedonburke/obsidian-auto-archive) | Automatically archive notes once they reach a certain age |
+| [Cardify](https://github.com/joshuakto/obsidian-cardify) | Create links for blocks in a markdown file and generate markdown file for each link within a folder. Enabling drag-and-drop of cards onto canvas. |
+| [Vocabulary Cards](https://github.com/meniam/obsidian-vocabulary-cards) | An easy way to display vocabulary words as flashcards and as a list. |
+| [Calctex](https://github.com/Developer-Mike/calctex) | Calculate LaTeX formulas inside Obsidian. |
