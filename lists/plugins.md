@@ -1215,3 +1215,15 @@
 | [Cardify](https://github.com/joshuakto/obsidian-cardify) | Create links for blocks in a markdown file and generate markdown file for each link within a folder. Enabling drag-and-drop of cards onto canvas. |
 | [Vocabulary Cards](https://github.com/meniam/obsidian-vocabulary-cards) | An easy way to display vocabulary words as flashcards and as a list. |
 | [Calctex](https://github.com/Developer-Mike/calctex) | Calculate LaTeX formulas inside Obsidian. |
+| [Timetracker](https://github.com/hedgehog1833/obsidian-timetracker) | Adds a stopwatch whose value can be inserted in the editor per hotkey |
+| [Eleven Labs](https://github.com/veritas1/eleven-labs-obsidian-plugin) | Turn your Obsidian notes into text-to-speech audio files with Eleven Labs. |
+| [digital paper](https://github.com/danferns/digital-paper-obsidian-plugin) | turn off backspace and undo, just like writing with a pen on real paper. |
+| [Merge Notes](https://github.com/fnya/merge-notes) | Merge the selected notes. |
+| [Qiniu Image Uploader](https://github.com/jianzs/obsidian-qiniu-image-uploader) | Uploads images from your clipboard to qiniu.com and embeds uploaded image to your note. |
+| [HTML Tabs](https://github.com/ptournet/obsidian-html-tabs) | Create and render Tabs and tab panels in your notes. |
+| [VSCode Editor](https://github.com/sunxvming/obsidian-vscode-editor) | Edit Code Files like VSCode. |
+| [AnkiSync+](https://github.com/RochaG07/anki-sync-plus) | Integration between Obsidian and Anki. |
+| [moviegrabber](https://github.com/Superschnizel/Obsidian-Moviegrabber) | Grab movie data from public APIs and transform it into notes that can be used with dataview and properties |
+| [Geocoding Properties](https://github.com/jose-elias-alvarez/obsidian-geocoding-properties) | Insert address / location data from geocoding APIs as Obsidian properties. |
+| [Auto Tag](https://github.com/CtrlAltFocus/obsidian-plugin-auto-tag) | Easily generate relevant tags for your Obsidian notes or selected text. |
+| [Timer](https://github.com/Raboro/obsidian-timer-plugin) | Allows you to measure time. |
