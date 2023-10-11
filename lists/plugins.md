@@ -1227,3 +1227,4 @@
 | [Geocoding Properties](https://github.com/jose-elias-alvarez/obsidian-geocoding-properties) | Insert address / location data from geocoding APIs as Obsidian properties. |
 | [Auto Tag](https://github.com/CtrlAltFocus/obsidian-plugin-auto-tag) | Easily generate relevant tags for your Obsidian notes or selected text. |
 | [Timer](https://github.com/Raboro/obsidian-timer-plugin) | Allows you to measure time. |
+| [Go To Heading](https://github.com/oin/obsidian-gotoheading) | Quickly navigate between headings |
