@@ -1228,3 +1228,5 @@
 | [Auto Tag](https://github.com/CtrlAltFocus/obsidian-plugin-auto-tag) | Easily generate relevant tags for your Obsidian notes or selected text. |
 | [Timer](https://github.com/Raboro/obsidian-timer-plugin) | Allows you to measure time. |
 | [Go To Heading](https://github.com/oin/obsidian-gotoheading) | Quickly navigate between headings |
+| [gpgCrypt](https://github.com/tejado/obsidian-gpgCrypt) | Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you. |
+| [Share Note](https://github.com/alangrainger/obsidian-share) | Share a note publicly with full styling. Data is stored encrypted on the server and only you have the key. |
