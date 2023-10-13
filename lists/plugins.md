@@ -1229,4 +1229,4 @@
 | [Timer](https://github.com/Raboro/obsidian-timer-plugin) | Allows you to measure time. |
 | [Go To Heading](https://github.com/oin/obsidian-gotoheading) | Quickly navigate between headings |
 | [gpgCrypt](https://github.com/tejado/obsidian-gpgCrypt) | Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you. |
-| [Share Note](https://github.com/alangrainger/obsidian-share) | Share a note publicly with full styling. Data is stored encrypted on the server and only you have the key. |
+| [Share Note](https://github.com/alangrainger/obsidian-share) | Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key. |
