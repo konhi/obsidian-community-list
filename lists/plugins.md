@@ -1048,6 +1048,7 @@
 | [Vault 2 Book](https://github.com/Mitra98t/vault2book-plugin) | Converts your notes to a book creating a single file containing all the notes linked |
 | [Markdown Chords](https://github.com/dnotes/obsidian-markdown-chords) | Add musical chord notation and chord diagrams for stringed instruments (e.g. guitar) in Markdown. Supports chords in any Western scale/mode, including extended jazz chords. |
 | [Laws of Form](https://github.com/Kevger/obsidian-laws-of-form) | Allows you to create, manage and display Laws of Form expressions like ((a)) (b) = a (b). |
+| [Notes Sync Share](https://github.com/Alt-er/obsidian-sync-share) | Sync and share (publish) your notes in your own private service. |
 | [NAI 4 Obsidian](https://github.com/SalokinGreen/NAI4Obsidian) | Generate text with NovelAI's models.. |
 | [Password Protection](https://github.com/qing3962/password-protection) | Protect your private notes and diary with a password, no encrypt, no decrypt. |
 | [LDS Scriptures Reference](https://github.com/pacokwon/obsidian-lds-scriptures-plugin) | Easily insert references to LDS scriptures |
@@ -1230,3 +1231,5 @@
 | [Go To Heading](https://github.com/oin/obsidian-gotoheading) | Quickly navigate between headings |
 | [gpgCrypt](https://github.com/tejado/obsidian-gpgCrypt) | Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you. |
 | [Share Note](https://github.com/alangrainger/obsidian-share) | Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key. |
+| [Todo.txt Codeblocks](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks) | Manage your tasks inside codeblocks according to the Todo.txt specification. |
+| [screen.garden](https://github.com/screendotgarden/screengarden-obsidian) | A live collaboration, publishing, and web editing service for your PKM |
