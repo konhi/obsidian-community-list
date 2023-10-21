@@ -223,3 +223,5 @@
 | [dbarenholz/halcyon-obsidian](https://github.com/dbarenholz/halcyon-obsidian) | ![halcyon](https://raw.githubusercontent.com/dbarenholz/halcyon-obsidian/master/img/halcyon-banner-small.png "") |
 | [GuiMar10/monochroYOU](https://github.com/GuiMar10/monochroYOU) | ![monochroYOU](https://raw.githubusercontent.com/GuiMar10/monochroYOU/master/screenshot.png "") |
 | [kepano/flexoki-obsidian](https://github.com/kepano/flexoki-obsidian) | ![Flexoki](https://raw.githubusercontent.com/kepano/flexoki-obsidian/master/cover-small.png "") |
+| [prradox/green-nightmare](https://github.com/prradox/green-nightmare) | ![Green Nightmare](https://raw.githubusercontent.com/prradox/green-nightmare/master/screenshot.png "") |
+| [GeorgeAzma/Transient](https://github.com/GeorgeAzma/Transient) | ![Transient](https://raw.githubusercontent.com/GeorgeAzma/Transient/master/theme.png "") |

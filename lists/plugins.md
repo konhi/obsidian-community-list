@@ -1233,3 +1233,4 @@
 | [Share Note](https://github.com/alangrainger/obsidian-share) | Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key. |
 | [Todo.txt Codeblocks](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks) | Manage your tasks inside codeblocks according to the Todo.txt specification. |
 | [screen.garden](https://github.com/screendotgarden/screengarden-obsidian) | A live collaboration, publishing, and web editing service for your PKM |
+| [TODO Wrangler](https://github.com/jeel-shah/todo-wrangler) | Wrangles your TODOs and puts them at the bottom of the file. |
