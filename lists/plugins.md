@@ -1234,3 +1234,7 @@
 | [Todo.txt Codeblocks](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks) | Manage your tasks inside codeblocks according to the Todo.txt specification. |
 | [screen.garden](https://github.com/screendotgarden/screengarden-obsidian) | A live collaboration, publishing, and web editing service for your PKM |
 | [TODO Wrangler](https://github.com/jeel-shah/todo-wrangler) | Wrangles your TODOs and puts them at the bottom of the file. |
+| [Fold Anywhere](https://github.com/quorafind/obsidian-fold-anywhere) | Set start and end marker, and then fold any text anywhere in live preview mode. |
+| [File Property Enhancer](https://github.com/quorafind/obsidian-file-property-enhancer) | Add icons to the file property, and customize the display of the file property. |
+| [Collapse Node](https://github.com/quorafind/obsidian-collapse-node) | Collapse node in canvas. |
+| [Permalink Opener](https://github.com/kepano/obsidian-permalink-opener) | Open URLs based on a permalink or slug in the note properties. Useful with static site generator such as Jekyll, Hugo, Eleventy, etc. |
