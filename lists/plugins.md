@@ -887,7 +887,6 @@
 | [Testing Vault](https://github.com/pedersen/obsidian-testing-vault) | Randomized vault generator with links between notes, frontmatter, tags, orphan and leaf notes. |
 | [Easy toggle sidebars](https://github.com/1C0D/obsidian-easy-toggle-sidebars) | toggle both sidebars (double middle mouse click or own shortcut) or each sidebar clicking middle mouse button and moving mouse towards the corresponding sidebar. |
 | [x86 Assembly Flow Graphing](https://github.com/dwolfe884/obsidian-x86-flow-graph) | Converts well formatted x86 assembly into appropriate flow graphs using Obsidian canvases. |
-| [Search Obsidian in Google](https://github.com/qazxcdswe123/search-obsidian-in-google) | A simple plugin to search the current note in Google (or other search engines). |
 | [OZ Calendar](https://github.com/ozntel/oz-calendar) | View your notes in Calendar using any YAML key with a date. |
 | [Send Tasks to OmniFocus](https://github.com/lizard-heart/obsidian-to-omnifocus) | Extract tasks from the current note and create them in OmniFocus. |
 | [AI Commander](https://github.com/yzh503/obsidian-aicommander-plugin) | Generate audio transcripts, images, and text in context of PDF attachments or web search results using OpenAI and Bing API. |
@@ -1053,7 +1052,6 @@
 | [Password Protection](https://github.com/qing3962/password-protection) | Protect your private notes and diary with a password, no encrypt, no decrypt. |
 | [LDS Scriptures Reference](https://github.com/pacokwon/obsidian-lds-scriptures-plugin) | Easily insert references to LDS scriptures |
 | [Edit History](https://github.com/antoniotejada/obsidian-edit-history) | Keeps an automatic edit history of your notes, review the history, diff against or restore previous edits. |
-| [Google Bard Assistant](https://github.com/aldhanekaa/GoogleBardObsidian) | Explore new possibilities of learning with Integration of Google Bard! It's totally free, it also can show images from your question! |
 | [Memorization](https://github.com/nwindian/Memorization-Plugin) | Generates study index notes using a spaced repetition algorithm (SM-2). |
 | [TinyPNG Image](https://github.com/ckt1031/obsidian-tinypng-plugin) | Compress images using TinyPNG to save your storage. |
 | [Code::Stats](https://github.com/Miskamyasa/obsidian-codestats) | The Code::Stats plugin allows you to track your coding progress and earn XP for writing markdown in the Obsidian editor. |
@@ -1230,7 +1228,7 @@
 | [Timer](https://github.com/Raboro/obsidian-timer-plugin) | Allows you to measure time. |
 | [Go To Heading](https://github.com/oin/obsidian-gotoheading) | Quickly navigate between headings |
 | [gpgCrypt](https://github.com/tejado/obsidian-gpgCrypt) | Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you. |
-| [Share Note](https://github.com/alangrainger/obsidian-share) | Instantly share/publish a note, with the full theme and content exactly like you see in Obsidian. Data is shared encrypted by default, and only you and the person you send it to have the key. |
+| [Share Note](https://github.com/alangrainger/share-note) | Instantly share/publish a note, with the full theme and content exactly like you see in Obsidian. Data is shared encrypted by default, and only you and the person you send it to have the key. |
 | [Todo.txt Codeblocks](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks) | Manage your tasks inside codeblocks according to the Todo.txt specification. |
 | [screen.garden](https://github.com/screendotgarden/screengarden-obsidian) | A live collaboration, publishing, and web editing service for your PKM |
 | [TODO Wrangler](https://github.com/jeel-shah/todo-wrangler) | Wrangles your TODOs and puts them at the bottom of the file. |
