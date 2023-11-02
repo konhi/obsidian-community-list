@@ -217,3 +217,4 @@
 | [kepano/flexoki-obsidian](https://github.com/kepano/flexoki-obsidian) | ![Flexoki](https://raw.githubusercontent.com/kepano/flexoki-obsidian/master/cover-small.png "") |
 | [prradox/green-nightmare](https://github.com/prradox/green-nightmare) | ![Green Nightmare](https://raw.githubusercontent.com/prradox/green-nightmare/master/screenshot.png "") |
 | [GeorgeAzma/Transient](https://github.com/GeorgeAzma/Transient) | ![Transient](https://raw.githubusercontent.com/GeorgeAzma/Transient/master/theme.png "") |
+| [isaacfreeman/kakano-obsidian-theme](https://github.com/isaacfreeman/kakano-obsidian-theme) | ![Kakano](https://raw.githubusercontent.com/isaacfreeman/kakano-obsidian-theme/master/screenshot.png "") |
