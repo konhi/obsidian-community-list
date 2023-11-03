@@ -1236,3 +1236,7 @@
 | [File Property Enhancer](https://github.com/quorafind/obsidian-file-property-enhancer) | Add icons to the file property, and customize the display of the file property. |
 | [Collapse Node](https://github.com/quorafind/obsidian-collapse-node) | Collapse node in canvas. |
 | [Permalink Opener](https://github.com/kepano/obsidian-permalink-opener) | Open URLs based on a permalink or slug in the note properties. Useful with static site generator such as Jekyll, Hugo, Eleventy, etc. |
+| [iDoRecall](https://github.com/iDoRecall/idorecall) | iDoRecall plugin allows you to create recalls from Obsidian notes |
+| [Recipe view](https://github.com/lachholden/obsidian-recipe-view) | View your notes as interactive recipe cards while you cook. |
+| [Modal forms](https://github.com/danielo515/obsidian-modal-form) | Define forms for capturing data that you will be able to open from anywhere you can run JS |
+| [Markdown table checkboxes](https://github.com/DylanGiesberts/obsidian-table-checkboxes) | Adds support for stateful checkboxes inside markdown tables. |
