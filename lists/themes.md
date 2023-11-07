@@ -218,3 +218,4 @@
 | [prradox/green-nightmare](https://github.com/prradox/green-nightmare) | ![Green Nightmare](https://raw.githubusercontent.com/prradox/green-nightmare/master/screenshot.png "") |
 | [GeorgeAzma/Transient](https://github.com/GeorgeAzma/Transient) | ![Transient](https://raw.githubusercontent.com/GeorgeAzma/Transient/master/theme.png "") |
 | [isaacfreeman/kakano-obsidian-theme](https://github.com/isaacfreeman/kakano-obsidian-theme) | ![Kakano](https://raw.githubusercontent.com/isaacfreeman/kakano-obsidian-theme/master/screenshot.png "") |
+| [tu2-atmanand/EvilRed-ObsidianTheme](https://github.com/tu2-atmanand/EvilRed-ObsidianTheme) | ![EvilRed](https://raw.githubusercontent.com/tu2-atmanand/EvilRed-ObsidianTheme/master/Thumbnail.png "") |

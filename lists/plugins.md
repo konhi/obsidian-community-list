@@ -210,7 +210,7 @@
 | [Grandfather](https://github.com/noatpad/obsidian-grandfather) | A simple plugin to display the time and date on the status bar. |
 | [Text Format](https://github.com/Benature/obsidian-text-format) | Format selected text upper/lower/capitalize. |
 | [Adjacency Matrix Maker](https://github.com/SkepticMystic/adjacency-matrix-maker) | Create an interactive adjacency matrix of your vault. |
-| [Taskbone OCR](https://github.com/schlundd/obsidian-ocr-plugin) | Extract text from images and make it available for search. |
+| [Taskbone](https://github.com/schlundd/obsidian-ocr-plugin) | Extract text and equations from images and PDFs and make it available for search. |
 | [Gist](https://github.com/linjunpop/obsidian-gist) | Display the GitHub Gist. |
 | [Argument Map with Argdown](https://github.com/amdecker/obsidian-argdown-plugin) | Allows you to write argdown code blocks and view the maps in Preview. |
 | [CSV Table](https://github.com/coddingtonbear/obsidian-csv-table) | Render CSV data as a table within your notes. |
@@ -1257,3 +1257,22 @@
 | [Chat with Bard](https://github.com/Artel250/Obsidian-Talk-with-Bard) | Chat with the Google Bard Assistant directly from Obsidian. |
 | [Tracker+](https://github.com/greater-than/Obsidian-Tracker-Plus) | Track and visualize data from your notes. Works with Tracker Markdown. |
 | [Timeline View](https://github.com/b-camphart/timeline-view) | Display your obsidian notes in a timeline, based on a given property. |
+| [Auto Filename](https://github.com/rcsaquino/obsidian-auto-filename) | Automatically rename files on the go based on the first x characters of files. |
+| [CSV Codeblock](https://github.com/elrindir/obsidian-csv-codeblock) | Renders codeblocks with CSV format. |
+| [Discord Message Formatter](https://github.com/Emile-Durkheim/obsidian_discord_formatter) | Trivially copy-paste a message from the Discord client into Obsidian and have it perfectly formatted for you. |
+| [Frontmatter generator](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator) | Generate frontmatter for your notes from JSON and JavaScript |
+| [Tistory Publisher](https://github.com/bekurin/tistory-publisher) | Easily publish a note in obsidian to tistory. |
+| [Linkding Importer](https://github.com/jontstaz/obsidian-linkding-importer) | Imports your bookmarks from Linkding and saves them into a specified file within the Obsidian Vault. |
+| [Auto Reading Mode](https://github.com/kelvinc6/auto-reading-mode) | Automatically switches previously opened Markdown pages into reading mode. |
+| [Studier](https://github.com/alvaro-cas/studier-obsidian) | Create quizzes for your Obsidian.md notes and learn better |
+| [Mochi Cards Pro](https://github.com/xHayden/obsidian-mochi-cards-pro) | Create flashcards on Mochi.cards using the API provided by Mochi's Pro subscription. |
+| [Daily Note Pinner](https://github.com/lukemt/obsidian-daily-note-pinner) | Pins the Daily Note of the present day. Unpinns all Daily Notes of past and future days. |
+| [Moon server publisher](https://github.com/Dzoukr/MoonServerObsidianPlugin) | Publish your notes directly to Moon server instance. |
+| [Improved Random Note](https://github.com/ShockThunder/improved-random-note) | Improved interaction with the knowledge base in so-called wandering mode by opening specific Random Notes. |
+| [JSON table](https://github.com/dario-baumberger/obsidian-json-table) | Simply switch between JSON and tables. Generate a table from a JSON string or a URL (which returns JSON) in your notes. Generate JSON from a table in your notes. |
+| [Abbreviations expander](https://github.com/WoodenMaiden/obsidian-abbreviations) | Easily create abbreviations that will be expanded after hitting `Space` |
+| [Jira Linker](https://github.com/srz2/obsidian-jira-linker) | Quickly format a Jira issue tag as a link to you Jira instance. |
+| [Remove Empty Folders](https://github.com/fnya/remove-empty-folders) | Easily remove empty folders. |
+| [Archive/trash to single note](https://github.com/mwoz123/archive-to-single-note) | Allows to create single file archive/trash and merge(archive) old notes with it. |
+| [Metal Archives (Unofficial)](https://github.com/vincenzocaputo/obsidian-metal-archives-plugin) | Create notes about metal bands and album from Metal Archives |
+| [Gladdis](https://github.com/AurelienStebe/Gladdis) | Gladdis (Generative Language Artificial Dedicated & Diligent Intelligence System) - it's an AI chatbot. |
