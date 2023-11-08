@@ -1276,3 +1276,20 @@
 | [Archive/trash to single note](https://github.com/mwoz123/archive-to-single-note) | Allows to create single file archive/trash and merge(archive) old notes with it. |
 | [Metal Archives (Unofficial)](https://github.com/vincenzocaputo/obsidian-metal-archives-plugin) | Create notes about metal bands and album from Metal Archives |
 | [Gladdis](https://github.com/AurelienStebe/Gladdis) | Gladdis (Generative Language Artificial Dedicated & Diligent Intelligence System) - it's an AI chatbot. |
+| [Markdown Image Caption](https://github.com/HananoshikaYomaru/obsidian-image-caption) | Generate Markdown-based image caption |
+| [Fountain Editor](https://github.com/chuangcaleb/obsidian-fountain-editor) | Fountain (screenplay) syntax highlighting in the editor. |
+| [Title Generator](https://github.com/jaschaephraim/obsidian-title-generator) | Quickly and easily title your notes using OpenAI's GPT-3.5 |
+| [Remotely Secure](https://github.com/sboesen/remotely-secure) | Security fixes for the remotely-save unofficial plugin allowing users to synchronize notes between local device and the cloud service. Not backwards compatible. |
+| [Inline Encrypter](https://github.com/solargate/obsidian-inline-encrypter) | Encrypt secrets in your notes. |
+| [Scholar](https://github.com/lolipopshock/obsidian-scholar) | Manage research library and streamline research workflow. |
+| [Hexo Auto updater](https://github.com/lifeodyssey/obsidian-hexo-auto-update) | Hexo plugin that enables the auto update. |
+| [Favorite Note](https://github.com/mahmudz/obsidian-favorite-plugin) | Mark your note as favorite. |
+| [Canvas LLM Extender](https://github.com/phasip/obsidian-canvas-llm-extender) | Let the OpenAI LLM / GPT add nodes to your canvas for you. |
+| [Teleprompter](https://github.com/lumetrium/obsidian-teleprompter) | Teleprompter window for live presentations and video production. |
+| [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache) | Stores backlink cache to speed up `app.metadataCache.getBacklinksForFile` |
+| [Tistory](https://github.com/anpigon/obsidian-tistory-plugin) | Create and edit posts on the Tistory blogging platform. |
+| [Enhance YouTube Links](https://github.com/Git-Sum/obsidian-enhance-youtube-links) | Get metadata from a YouTube video |
+| [sync-to-xlog](https://github.com/Otto-J/sync-to-xlog) | A way to push notes to xlog.app. Easy Quick Flex |
+| [Global Markdown Encryption](https://github.com/shlemiel/globaloe) | In-memory AES256-GCM Markdown encryption |
+| [Tag Project](https://github.com/Odaimoko/tag-project) | A Project Management Tool: Tag tasks everywhere, Manage in One page. |
+| [Multi Properties](https://github.com/fez-github/obsidian-multi-properties) | Add properties to multiple notes at once. Either right-click a folder or select multiple notes and right-click the selection. |
