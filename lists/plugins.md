@@ -1293,3 +1293,4 @@
 | [Global Markdown Encryption](https://github.com/shlemiel/globaloe) | In-memory AES256-GCM Markdown encryption |
 | [Tag Project](https://github.com/Odaimoko/tag-project) | A Project Management Tool: Tag tasks everywhere, Manage in One page. |
 | [Multi Properties](https://github.com/fez-github/obsidian-multi-properties) | Add properties to multiple notes at once. Either right-click a folder or select multiple notes and right-click the selection. |
+| [Nothing](https://github.com/chrisgrieser/obsidian-nothing) | Adds a no-op command to disable hotkeys. |
