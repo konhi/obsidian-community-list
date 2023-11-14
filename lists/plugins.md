@@ -1084,7 +1084,7 @@
 | [Better Comment Toggle](https://github.com/MrGVSV/obsidian-better-comment-toggle) | Improved comment toggling. |
 | [Mini Toolbar](https://github.com/quorafind/obsidian-mini-toolbar) | Mini context toolbar in editor for Obsidian. |
 | [SyncFTP](https://github.com/alex-donnan/SyncFTP) | Allows user to connect to an SFTP and push/pull file changes to it. |
-| [Obligator](https://github.com/Newbrict/obsidian-obligator) | Obligator is a replacement for daily-todos which copies over unchecked todo items under a specified header |
+| [Obligator](https://github.com/Newbrict/obsidian-obligator) | A fully featured replacement for the built-in daily notes plugin. Obligator functions like a virtual bullet journal by copying over unchecked to-do items to your new daily note, along with adding any scheduled items you've set up |
 | [Fill in the Blank (FITB)](https://github.com/mister-mcgee/obsidian-fill-in-the-blank) | Use --magic-- to render inline text as blank line(s) instead. |
 | [InlineCodeHighlight](https://github.com/Dimava/inline-code-highlight) | Highlight inline `'md **code**` blocks as well as you do the ```md **big**``` ones. |
 | [Index Checker](https://github.com/pavloDeshko/obsidian-index-checker) | Make sure your index (MOC) files contain all links they should contain. |
