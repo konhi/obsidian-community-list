@@ -1295,3 +1295,4 @@
 | [Multi Properties](https://github.com/fez-github/obsidian-multi-properties) | Add properties to multiple notes at once. Either right-click a folder or select multiple notes and right-click the selection. |
 | [Nothing](https://github.com/chrisgrieser/obsidian-nothing) | Adds a no-op command to disable hotkeys. |
 | [Slackify Note](https://github.com/jeremyoverman/obsidian-slackify-note) | Converts a note to a Slack-compliant markdown using [slackify-markdown](https://www.npmjs.com/package/slackify-markdown) |
+| [Timestamp Link](https://github.com/wenlzhang/obsidian-timestamp-link) | Copy timestamped links to blocks, headings and notes. |
