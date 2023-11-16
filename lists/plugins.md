@@ -1296,3 +1296,6 @@
 | [Nothing](https://github.com/chrisgrieser/obsidian-nothing) | Adds a no-op command to disable hotkeys. |
 | [Slackify Note](https://github.com/jeremyoverman/obsidian-slackify-note) | Converts a note to a Slack-compliant markdown using [slackify-markdown](https://www.npmjs.com/package/slackify-markdown) |
 | [Timestamp Link](https://github.com/wenlzhang/obsidian-timestamp-link) | Copy timestamped links to blocks, headings and notes. |
+| [Keyword Highlighter](https://github.com/marcel-goldammer/obsidian-keyword-highlighter) | Automatically highlight specified keywords within your Obsidian notes for enhanced visibility and quick reference. |
+| [Zhongwen Block](https://github.com/0918nobita/obsidian-zhongwen-block) | Provides code blocks with features for Chinese learners |
+| [Vocabulary Highlighter](https://github.com/eatgrass/obsidian-vocab-highlighter) | Hightlight vocabulary based on the word frequency |
