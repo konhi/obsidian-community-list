@@ -1299,3 +1299,6 @@
 | [Keyword Highlighter](https://github.com/marcel-goldammer/obsidian-keyword-highlighter) | Automatically highlight specified keywords within your Obsidian notes for enhanced visibility and quick reference. |
 | [Zhongwen Block](https://github.com/0918nobita/obsidian-zhongwen-block) | Provides code blocks with features for Chinese learners |
 | [Vocabulary Highlighter](https://github.com/eatgrass/obsidian-vocab-highlighter) | Hightlight vocabulary based on the word frequency |
+| [Zettelkasten Outliner](https://github.com/tylersuzukinelson/zettelkasten-outliner) | Provides a list representation for your Zettelkasten. |
+| [Quick Tagger](https://github.com/Gorkycreator/obsidian-quick-tagger) | Add and remove tags quickly. Tag search results, bulk tag, and add dedicated buttons/commands for your favorites! |
+| [Editor Autofocus](https://github.com/mgussekloo/obsidian-editor-autofocus) | Autofocus the editor when opening a new file. |
