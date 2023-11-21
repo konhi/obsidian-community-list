@@ -291,7 +291,6 @@
 | [Iconize](https://github.com/FlorianWoelki/obsidian-iconize) | Add icons to anything you desire in Obsidian, including files, folders, and text. |
 | [Ghost Fade Focus](https://github.com/skipadu/obsidian-ghost-fade-focus) | Focused on the current line, others faded like a ghost! |
 | [Folder Note Core](https://github.com/aidenlx/folder-note-core) | Provide core features and API for folder notes |
-| [Jupyter](https://github.com/tillahoffmann/obsidian-jupyter) | Run Python code in Obsidian using Jupyter. |
 | [HackerNews](https://github.com/arpitbbhayani/obsidian-hackernews) | Periodically fetches and displays top stories from HackerNews. |
 | [Reset Font Size](https://github.com/luckman212/obsidian-reset-font-size) | Adds button and command to reset the font size back to its default value. |
 | [Podcast Note](https://github.com/marcjulianschwarz/obsidian-podcast-note) | Podcast Note lets you automatically add podcast information to your notes. |
@@ -398,7 +397,6 @@
 | [Emotion Picker](https://github.com/dartungar/obsidian-emotion-picker) | Choose an emotion from a list to insert into a note. |
 | [Quoth](https://github.com/erykwalder/quoth) | More flexible embedding. Embed precise selections, inline embeds, optionally include author and title. |
 | [Metronome](https://github.com/curtgrimes/obsidian-metronome-plugin) | Add interactive metronomes to your notes. |
-| [Plaintext](https://github.com/dbarenholz/obsidian-plaintext) | Allow opening specified files as plaintext. |
 | [Wrap with shortcuts](https://github.com/manic/obsidian-wrap-with-shortcuts) | Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ). |
 | [Tomorrow's Daily Note](https://github.com/frankolson/obsidian-tomorrows-daily-note) | Creates tomorrow's daily note for preemtive planning. |
 | [Rant-Lang](https://github.com/lanice/obsidian-rant) | Thin wrapper around the high-level procedural templating language Rant. |
