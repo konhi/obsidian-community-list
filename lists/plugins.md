@@ -1300,3 +1300,12 @@
 | [Zettelkasten Outliner](https://github.com/tylersuzukinelson/zettelkasten-outliner) | Provides a list representation for your Zettelkasten. |
 | [Quick Tagger](https://github.com/Gorkycreator/obsidian-quick-tagger) | Add and remove tags quickly. Tag search results, bulk tag, and add dedicated buttons/commands for your favorites! |
 | [Editor Autofocus](https://github.com/mgussekloo/obsidian-editor-autofocus) | Autofocus the editor when opening a new file. |
+| [Note Batcher](https://github.com/MrAnyx/obsidian-note-batcher) | Create all unresolvered links with a single click. |
+| [Automatic Tags](https://github.com/Jamalam360/obsidian-automatic-tags) | Add tags to new notes automatically based on their path. |
+| [Epub Importer](https://github.com/aoout/obsidian-epub-importer) | Import EPUB files as Markdown. |
+| [Spotify Link](https://github.com/studiowebux/obsidian-spotify-link) | Include the song you're currently listening to in your note. |
+| [Barcode Generator](https://github.com/noxonad/obsidian-barcode-generator) | Generates customizable barcodes into your notes. |
+| [File Index](https://github.com/Steffo99/obsidian-file-index) | Create a metadata file about the files present in the Vault. |
+| [Notes Merger](https://github.com/niffka/notes-merger) | Merge notes into a single markdown document based on index Markdown file. |
+| [File Cleaner Redux](https://github.com/husjon/obsidian-file-cleaner-redux) | Help you to clean empty files and unused attachments in the vault. |
+| [Edit MDX](https://github.com/timppeters/obsidian-edit-mdx) | Allows the user to edit and create .mdx files. |

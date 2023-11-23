@@ -219,3 +219,5 @@
 | [isaacfreeman/kakano-obsidian-theme](https://github.com/isaacfreeman/kakano-obsidian-theme) | ![Kakano](https://raw.githubusercontent.com/isaacfreeman/kakano-obsidian-theme/master/screenshot.png "") |
 | [tu2-atmanand/EvilRed-ObsidianTheme](https://github.com/tu2-atmanand/EvilRed-ObsidianTheme) | ![EvilRed](https://raw.githubusercontent.com/tu2-atmanand/EvilRed-ObsidianTheme/master/Thumbnail.png "") |
 | [EddieTheEd/Prussian-Blue](https://github.com/EddieTheEd/Prussian-Blue) | ![Prussian Blue](https://raw.githubusercontent.com/EddieTheEd/Prussian-Blue/master/assets/thumbnail.png "") |
+| [nazarioricardo/zario-obsidian](https://github.com/nazarioricardo/zario-obsidian) | ![Zario](https://raw.githubusercontent.com/nazarioricardo/zario-obsidian/master/screenshot.png "") |
+| [behrouze/obsidian-theme](https://github.com/behrouze/obsidian-theme) | ![Perso](https://raw.githubusercontent.com/behrouze/obsidian-theme/master/screenshots/theme-perso-obsidian.png "") |
