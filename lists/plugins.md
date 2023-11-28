@@ -1160,7 +1160,7 @@
 | [Auto Journal](https://github.com/Ebonsignori/obsidian-auto-journal) | Opinionated journaling automation like daily notes but with backfills for the days when Obsidian wasn't opened. |
 | [Nifty Links](https://github.com/x-Ai/obsidian-nifty-links) | Generate elegant, Notion-style rich link cards to enhance your note-taking experience. |
 | [Exercises](https://github.com/AlexCCavaco/obsidian-exercises) | Create Interactive Exercises along side your Obsidian Notes |
-| [Math Booster](https://github.com/RyotaUshio/obsidian-math-booster) | Turn your Obsidian into LaTeX on steroids. Dynamically numbered theorem environments & equations, theorems/equations live suggestion, showing backlinks to theorems/equations and live-rendering equations inside callouts & quotes. |
+| [Math Booster](https://github.com/RyotaUshio/obsidian-math-booster) | Turn your Obsidian into LaTeX on steroids. Dynamically numbered theorem environments & equations, enhanced theorems/equations search & link auto-completion, and live-rendering of equations inside callouts & quotes. |
 | [File Explorer++](https://github.com/kelszo/obsidian-file-explorer-plus) | Hide and pin files and folders in the file explorer using custom filters, such as wildcards and regex, based on their names, paths, and tags. Additionally, achieve the same with a single click in the file menu. |
 | [Vox](https://github.com/vincentbavitz/obsidian-vox) | Intelligently trancribe and categorize your voice notes |
 | [GitHub Embeds](https://github.com/MrGVSV/obsidian-github-embeds) | Embed GitHub issues, PRs, and code snippets directly in Obsidian. |
@@ -1309,3 +1309,4 @@
 | [Notes Merger](https://github.com/niffka/notes-merger) | Merge notes into a single markdown document based on index Markdown file. |
 | [File Cleaner Redux](https://github.com/husjon/obsidian-file-cleaner-redux) | Help you to clean empty files and unused attachments in the vault. |
 | [Edit MDX](https://github.com/timppeters/obsidian-edit-mdx) | Allows the user to edit and create .mdx files. |
+| [short tab name](https://github.com/shumpei-tanaka/obsidian-short-tab-name) | set tab name to short for uid user |
