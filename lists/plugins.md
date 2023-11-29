@@ -1310,3 +1310,7 @@
 | [File Cleaner Redux](https://github.com/husjon/obsidian-file-cleaner-redux) | Help you to clean empty files and unused attachments in the vault. |
 | [Edit MDX](https://github.com/timppeters/obsidian-edit-mdx) | Allows the user to edit and create .mdx files. |
 | [short tab name](https://github.com/shumpei-tanaka/obsidian-short-tab-name) | set tab name to short for uid user |
+| [Run](https://github.com/HananoshikaYomaru/obsidian-run) | Generate Markdown from dataview query and JavaScript. |
+| [Blockier](https://github.com/blorbb/obsidian-blockier) | Extra block editing utilities. |
+| [Colored Tags Wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler) | Assign colors to tags. Has integrations with other plugins, like Kanban. |
+| [Paste Link](https://github.com/jose-elias-alvarez/obsidian-paste-link) | Intelligently paste Markdown links. |
