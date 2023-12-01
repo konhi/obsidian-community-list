@@ -1314,3 +1314,21 @@
 | [Blockier](https://github.com/blorbb/obsidian-blockier) | Extra block editing utilities. |
 | [Colored Tags Wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler) | Assign colors to tags. Has integrations with other plugins, like Kanban. |
 | [Paste Link](https://github.com/jose-elias-alvarez/obsidian-paste-link) | Intelligently paste Markdown links. |
+| [GChat Reminder](https://github.com/anil-e/obsidian_gchat_plugin) | Sends notifications to Google Chat Webhook based on due dates in Obsidian tasks. |
+| [iCal](https://github.com/andrewbrereton/obsidian-to-ical-plugin) | Scans your vault for tasks that contain dates. Creates an iCal file and stores it in your vault or on Gist. You can then show this calendar in any iCal-compatible client such as Outlook, Google Calendar, Apple Calendar, etc. |
+| [Desci](https://github.com/Obsidian-Desci/Obsidian-Desci) | Web3, IPFS, and Desci integrations for Obsidian. |
+| [Are.na unofficial](https://github.com/0xroko/obsidian-arena-plugin) | Allows you to save Are.na blocks as notes. |
+| [Datetime Language Changer](https://github.com/ZetabS/datetime-language-changer) | Customize the language used for datetime formatting by changing moment.js's locale. |
+| [Minio Uploader](https://github.com/seebin/obsidian-minio-uploader-plugin) | Upload images, videos, audio, PDFs, and other files to Minio OSS. |
+| [Better Canvas Lock](https://github.com/lisandra-dev/obsidian-better-canvas-lock) | Enhance the read-only mode in Canvas with fully lock the scroll, zoom, drag-and-drop in read-only! |
+| [File indicators](https://github.com/JakobMick/obsidian-file-indicators) | Add custom indicators to the file explorer. |
+| [Sort Frontmatter](https://github.com/mariomui/obsidian-sort-frontmatter) | Sort frontmatter recursively |
+| [Image Classify Paste](https://github.com/ostoe/Ob-ImagePastePlugin) | Paste your image like Typora, the image link name not ![[Paste xxx]] but ![some name](relative-directory/xxx.png) with a relative directory. |
+| [Publish URL](https://github.com/HananoshikaYomaru/obsidian-publish-url) | Copy Obsidian Publish URL to the clipboard |
+| [3D Graph New](https://github.com/HananoshikaYomaru/obsidian-3d-graph) | A 3D Graph for Obsidian |
+| [Omg.publish](https://github.com/MayMeow/obsidian-omglol-statuslog) | Obsidian plugin to post selected text to OMG.lol statuslog |
+| [Local GraphQL](https://github.com/TwIStOy/obsidian-local-graphql) | Export Obsidian data as a local GraphQL server. |
+| [Feeds](https://github.com/lukemt/obsidian-feeds) | Create feeds of topic-specific bullet points in Obsidian. |
+| [Spotify Links](https://github.com/cutaiar/obsidian-spotify-links) | Insert a link to the song currently playing on your Spotify |
+| [Hunchly](https://github.com/shadowoption/Hunchly-obsidian-plugin) | Import notes and images from Hunchly. |
+| [tckr](https://github.com/Git-Sum/obsidian-tckr) | Get your TickTicks! |

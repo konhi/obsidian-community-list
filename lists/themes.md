@@ -221,3 +221,6 @@
 | [EddieTheEd/Prussian-Blue](https://github.com/EddieTheEd/Prussian-Blue) | ![Prussian Blue](https://raw.githubusercontent.com/EddieTheEd/Prussian-Blue/master/assets/thumbnail.png "") |
 | [nazarioricardo/zario-obsidian](https://github.com/nazarioricardo/zario-obsidian) | ![Zario](https://raw.githubusercontent.com/nazarioricardo/zario-obsidian/master/screenshot.png "") |
 | [behrouze/obsidian-theme](https://github.com/behrouze/obsidian-theme) | ![Perso](https://raw.githubusercontent.com/behrouze/obsidian-theme/master/screenshots/theme-perso-obsidian.png "") |
+| [nhrrs/heboric-obsidian](https://github.com/nhrrs/heboric-obsidian) | ![Heboric](https://raw.githubusercontent.com/nhrrs/heboric-obsidian/master/screenshots/Heboric-screenshot-sm2.png "") |
+| [zaheralmajed/vicious-theme-obsidian](https://github.com/zaheralmajed/vicious-theme-obsidian) | ![Vicious](https://raw.githubusercontent.com/zaheralmajed/vicious-theme-obsidian/master/screenshot.png "") |
+| [MateusHenriquegringo/spring-theme-obsidian](https://github.com/MateusHenriquegringo/spring-theme-obsidian) | ![Spring](https://raw.githubusercontent.com/MateusHenriquegringo/spring-theme-obsidian/master/SPRING.png "") |
