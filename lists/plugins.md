@@ -1309,11 +1309,11 @@
 | [Notes Merger](https://github.com/niffka/notes-merger) | Merge notes into a single markdown document based on index Markdown file. |
 | [File Cleaner Redux](https://github.com/husjon/obsidian-file-cleaner-redux) | Help you to clean empty files and unused attachments in the vault. |
 | [Edit MDX](https://github.com/timppeters/obsidian-edit-mdx) | Allows the user to edit and create .mdx files. |
+| [Random Number Generator](https://github.com/iRewiewer/obsidian-random-numbers-generator-plugin) | Insert a random number. |
 | [short tab name](https://github.com/shumpei-tanaka/obsidian-short-tab-name) | set tab name to short for uid user |
 | [Run](https://github.com/HananoshikaYomaru/obsidian-run) | Generate Markdown from dataview query and JavaScript. |
 | [Blockier](https://github.com/blorbb/obsidian-blockier) | Extra block editing utilities. |
 | [Colored Tags Wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler) | Assign colors to tags. Has integrations with other plugins, like Kanban. |
-| [Paste Link](https://github.com/jose-elias-alvarez/obsidian-paste-link) | Intelligently paste Markdown links. |
 | [GChat Reminder](https://github.com/anil-e/obsidian_gchat_plugin) | Sends notifications to Google Chat Webhook based on due dates in Obsidian tasks. |
 | [iCal](https://github.com/andrewbrereton/obsidian-to-ical-plugin) | Scans your vault for tasks that contain dates. Creates an iCal file and stores it in your vault or on Gist. You can then show this calendar in any iCal-compatible client such as Outlook, Google Calendar, Apple Calendar, etc. |
 | [Desci](https://github.com/Obsidian-Desci/Obsidian-Desci) | Web3, IPFS, and Desci integrations for Obsidian. |
@@ -1332,3 +1332,7 @@
 | [Spotify Links](https://github.com/cutaiar/obsidian-spotify-links) | Insert a link to the song currently playing on your Spotify |
 | [Hunchly](https://github.com/shadowoption/Hunchly-obsidian-plugin) | Import notes and images from Hunchly. |
 | [tckr](https://github.com/Git-Sum/obsidian-tckr) | Get your TickTicks! |
+| [Periodic Table](https://github.com/Jake-Cramer/Periodic-Table-Obsidian) | View a periodic table in the sidebar |
+| [HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) | Integrating Help Systems into the Obsidian UI. |
+| [Paste Link](https://github.com/jose-elias-alvarez/obsidian-paste-link) | Intelligently paste Markdown links. |
+| [Incomplete files](https://github.com/HananoshikaYomaru/obsidian-incomplete-files) | Rule based keep track of your incomplete files |
