@@ -553,7 +553,6 @@
 | [Booksidian](https://github.com/MichaBrugger/booksidian_plugin) | Connect your Goodreads shelves to your Obsidian vault. |
 | [Simple Dice Roller](https://github.com/yeeshue99/SimpleDiceRoller) | A plug and play solution that allows you to average and simulate dice formulas. |
 | [Obsidian Camera](https://github.com/aldrinjenson/obsidian-camera) | Create and save Snaps or Video Recordings directly from Obsidian desktop. |
-| [Markbase for Obsidian](https://github.com/markbase-obsidian/obsidian-markbase) | Official Markbase plugin to share your Obsidian notes online in your own digital garden. |
 | [User Plugins](https://github.com/mnowotnik/obsidian-user-plugins) | Use js files or snippets to code your own quick and dirty plugins. |
 | [Timestamp Notes](https://github.com/juliang22/ObsidianTimestampNotes) | Allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from. |
 | [Linkify](https://github.com/matthewhchan/linkify) | Converts matching text into links. |
@@ -769,7 +768,6 @@
 | [Hugo preview Obsidian](https://github.com/fzdwx/hugo-preview-obsidian) | Hugo preview for Obsidian. |
 | [File Chucker](https://github.com/kenlim/file-chucker-plugin) | Quickly move a file to a new or existing folder, then open the next file. |
 | [Hints Flow](https://github.com/slpbx/obsidian-plugin) | Save data directly to Obsidian with specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more. |
-| [ArchiveBox](https://github.com/invariant/obsidian-archivebox-plugin) | ArchiveBox.io support for external Obsidian links. |
 | [Quote Share](https://github.com/nguyenvanduocit/quote-share) | Easily generate beautiful gradient images from text and share them on social media. |
 | [Canvas Random Note](https://github.com/jmilldotdev/obsidian-canvas-randomnote) | Add random notes from your vault to the Obsidian canvas. |
 | [Spoiler Block](https://github.com/AllJavi/spoiler-block-obsidian) | Hide information until you want to reveal it. |
