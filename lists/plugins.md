@@ -1334,3 +1334,14 @@
 | [HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) | Integrating Help Systems into the Obsidian UI. |
 | [Paste Link](https://github.com/jose-elias-alvarez/obsidian-paste-link) | Intelligently paste Markdown links. |
 | [Incomplete files](https://github.com/HananoshikaYomaru/obsidian-incomplete-files) | Rule based keep track of your incomplete files |
+| [Time Things](https://github.com/DynamicPlayerSector/timethings) | Shows a clock in the corner. Tracks the total editing time of a note and the last time it was modified. |
+| [Custom Note Width](https://github.com/0skater0/obsidian-custom-note-width) | Effortlessly change the line width of each note individually. This plugin provides multiple ways to customize the experience, making it both efficient and user-friendly to adjust line widths. |
+| [ManicTime](https://github.com/manictime/manictime-obsidian) | Sends path of active file to locally installed ManicTime client. |
+| [CalcCraft](https://github.com/klaudyu/CalcCraft) | Enables table-based calculations with a spreadsheet-like approach, utilizing references. It highlights the dependencies within tables and identifies circular references; has support for array formulas |
+| [Tag Buddy](https://github.com/moremeyou/Obsidian-Tag-Buddy) | Add, edit, and remove tags in reading mode. Copy, move, or edit tagged blocks in reading and edit mode. |
+| [Adjacency Matrix Exporter](https://github.com/danielegrazzini/adjacency-matrix-exporter) | Create a numerical adjacency matrix of your vault in two ways: Absolute and Normalized. |
+| [Key-Value List](https://github.com/christianwannerstedt/obsidian-key-value-list) | Makes it easy to turn lists into neatly formatted key-value lists. |
+| [Word Bank](https://github.com/TannYuld/WordBank) | Create a word library from your word files. |
+| [Disk Usage](https://github.com/Promptier/disk-usage) | Measures disk usage for tracking size of folders and file types. |
+| [Attachment Uploader](https://github.com/zhuxining/obsidian-attachment-uploader) | Attachment uploader plugin, which allows you customize the upload command, customize upload file type. |
+| [Formatto](https://github.com/decaplanet/formatto) | Format your markdown document. |
