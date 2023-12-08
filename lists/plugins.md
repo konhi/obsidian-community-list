@@ -1345,3 +1345,5 @@
 | [Disk Usage](https://github.com/Promptier/disk-usage) | Measures disk usage for tracking size of folders and file types. |
 | [Attachment Uploader](https://github.com/zhuxining/obsidian-attachment-uploader) | Attachment uploader plugin, which allows you customize the upload command, customize upload file type. |
 | [Formatto](https://github.com/decaplanet/formatto) | Format your markdown document. |
+| [ChatCBT](https://github.com/clairefro/obsidian-chat-cbt-plugin) | AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT) |
+| [Daily ICalendar](https://github.com/mmmykhailo/obsidian-daily-icalendar) | View calendar events in daily notes. |
