@@ -500,7 +500,6 @@
 | [Doubleshift](https://github.com/Qwyntex/doubleshift) | Open the command palette by pressing Shift (or any other key) twice like in IntelliJ and create your own shortcuts. |
 | [List Modified](https://github.com/franciskafieh/obsidian-list-modified) | Link all modified files meeting certain criteria to a daily note. |
 | [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, and editor enhancements. |
-| [Better CodeBlock](https://github.com/stargrey/obsidian-better-codeblock) | Add title, line numbers, and collapse button to code blocks in reading view. |
 | [Wordnik Definitions](https://github.com/lizard-heart/obsidian-wordnik-definitions) | Grabs information from Wordnik for a topic and brings it into Obsidian notes. |
 | [Typing speed](https://github.com/Supercip971/obsidian-typing-speed) | Show the current typing speed in the status bar. |
 | [Google Tasks](https://github.com/YukiGasai/obsidian-google-tasks) | Interact with your Google Tasks from inside Obsidian. |
@@ -1064,7 +1063,7 @@
 | [Simple CanvaSearch](https://github.com/ddalexb/obsidian-simple-canvasearch) | Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas. |
 | [ZettelGPT](https://github.com/OverRaddit/ZettelGPT) | Effortlessly generate context-aware answers from ChatGPT within Obsidian, while maintaining a visually clear and organized conversation history. |
 | [Invio](https://github.com/frontend-engineering/Invio) | Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online. |
-| [Periodic PARA](https://github.com/quanru/obsidian-periodic-para) | Assist in practicing the PARA system with periodic notes. |
+| [Periodic PARA](https://github.com/quanru/obsidian-periodic-para) | Assist in practicing the PARA method with periodic notes and usememos. |
 | [Source Scanner](https://github.com/gerrie-myburgh/source-scanner) | Scanner that extracts comments from source and places it in md files |
 | [Markdown to Slack Message](https://github.com/idreamer/markdown-to-slack-message) | Converts a Markdown note to the Slack message blocks that enable you to send to your Slack. |
 | [Micro templates](https://github.com/epszaw/obsidian-micro-templates) | Flexible embedded micro templates powered by javascript functions |
