@@ -1346,3 +1346,6 @@
 | [Formatto](https://github.com/decaplanet/formatto) | Format your markdown document. |
 | [ChatCBT](https://github.com/clairefro/obsidian-chat-cbt-plugin) | AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT) |
 | [Daily ICalendar](https://github.com/mmmykhailo/obsidian-daily-icalendar) | View calendar events in daily notes. |
+| [Auto-\displaystyle Inline Math](https://github.com/RyotaUshio/obsidian-auto-displaystyle-inline-math) | Automatically make all inline maths \displaystyle. |
+| [Text Analysis](https://github.com/mihakralj/obsidian-textanalysis) | Real-time text analysis on readability, structure, and complexity, incorporating over 30 indicators. |
+| [Minitabs](https://github.com/ssjy1919/Obsidian-minitabs) | Customize a set of nested tabs through code blocks. |

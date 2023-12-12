@@ -224,3 +224,5 @@
 | [nhrrs/heboric-obsidian](https://github.com/nhrrs/heboric-obsidian) | ![Heboric](https://raw.githubusercontent.com/nhrrs/heboric-obsidian/master/screenshots/Heboric-screenshot-sm2.png "") |
 | [zaheralmajed/vicious-theme-obsidian](https://github.com/zaheralmajed/vicious-theme-obsidian) | ![Vicious](https://raw.githubusercontent.com/zaheralmajed/vicious-theme-obsidian/master/screenshot.png "") |
 | [MateusHenriquegringo/spring-theme-obsidian](https://github.com/MateusHenriquegringo/spring-theme-obsidian) | ![Spring](https://raw.githubusercontent.com/MateusHenriquegringo/spring-theme-obsidian/master/SPRING.png "") |
+| [Bluemoondragon07/Obsidian-Celestial-Night-Theme](https://github.com/Bluemoondragon07/Obsidian-Celestial-Night-Theme) | ![Celestial Night](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Celestial-Night-Theme/master/assets/low-res.png "") |
+| [sspaeti/obsidian_rose_pine](https://github.com/sspaeti/obsidian_rose_pine) | ![Rosé Pine](https://raw.githubusercontent.com/sspaeti/obsidian_rose_pine/master/dark.jpg "") |
