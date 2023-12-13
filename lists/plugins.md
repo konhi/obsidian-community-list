@@ -5,7 +5,6 @@
 | [Obsidian Git](https://github.com/denolehov/obsidian-git) | Backup your vault with Git |
 | [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection) | Paste URL "into" selected text. |
 | [Sliding Panes (Andy's Mode)](https://github.com/deathau/sliding-panes-obsidian) | Sliding Panes (Andy Matuschak Mode) as a plugin |
-| [Show Whitespace](https://github.com/deathau/cm-show-whitespace-obsidian) | Show whitespace in the editor. |
 | [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) | Improved table navigation, formatting, and manipulation. |
 | [Leader Hotkeys](https://github.com/tgrosinger/leader-hotkeys-obsidian) | Add leader hotkey support to any command (like tmux or vim). |
 | [Recent Files](https://github.com/tgrosinger/recent-files-obsidian) | Display a list of recently opened files. |
@@ -1349,3 +1348,5 @@
 | [Auto-\displaystyle Inline Math](https://github.com/RyotaUshio/obsidian-auto-displaystyle-inline-math) | Automatically make all inline maths \displaystyle. |
 | [Text Analysis](https://github.com/mihakralj/obsidian-textanalysis) | Real-time text analysis on readability, structure, and complexity, incorporating over 30 indicators. |
 | [Minitabs](https://github.com/ssjy1919/Obsidian-minitabs) | Customize a set of nested tabs through code blocks. |
+| [Lyrics](https://github.com/eatgrass/obsidian-lyrics) | Enhance the audio player with interacive lyrics |
+| [Show Whitespace](https://github.com/ebullient/obsidian-show-whitespace-cm6) | CSS styles and CM6 extensions to highlight whitespace in Source and Live Preview modes |
