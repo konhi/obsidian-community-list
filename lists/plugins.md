@@ -99,10 +99,8 @@
 | [Show Current File Path](https://github.com/ravimashru/obsidian-show-file-path) | Show the full path of the currently open file in the status bar. |
 | [PaperCut](https://github.com/Darakah/obsidian-paper-cut) | Express an idea in the simplest possible way ... or else. |
 | [Comments](https://github.com/Darakah/obsidian-comments-plugin) | Add, track and easily navigate between a note's comments. |
-| [ini Editor](https://github.com/deathau/ini-obsidian) | Edit .ini files in Obsidian. |
 | [Various Complements](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) | Enables you to complete words like the auto-completion of IDE. |
 | [Timelines](https://github.com/Darakah/obsidian-timelines) | Create a timeline view of all notes with the specified combination of tags. |
-| [txt as md](https://github.com/deathau/txt-as-md-obsidian) | Edit .txt files as Markdown in Obsidian. |
 | [Note Folder Autorename](https://github.com/pjeby/note-folder-autorename) | Turn notes into folders and automaticaly move/rename their folders when they move or are renamed. |
 | [Daily Activity](https://github.com/trydalch/obsidian-daily-activity) | This outputs a list of the files changed/created today in the active file. |
 | [Daily Stats](https://github.com/dhruvik7/obsidian-daily-stats) | Track your daily word count. |
@@ -806,7 +804,6 @@
 | [Kill and Yank](https://github.com/inouetakuya/obsidian-kill-and-yank) | Enable kill and yank (like Emacs) in the editor. |
 | [Double Colon Conceal](https://github.com/msrch/obsidian-double-colon-conceal) | Display double colon (i.e. Dataview inline fields) as a single colon for more natural reading experience. |
 | [🪝 Grappling Hook](https://github.com/chrisgrieser/grappling-hook) | Blazingly fast file switching to bookmarked files. For people for whom using the Quick Switcher still takes too much time. |
-| [Tag Search](https://github.com/rwblickhan/obsidian-tag-search) | Fuzzy-find your tags! |
 | [YTranscript](https://github.com/lstrzepek/obsidian-yt-transcript) | Easily fetch transcription for any YouTube video. |
 | [Habit Calendar](https://github.com/hedonihilist/obsidian-habit-calendar) | Monthly Habit Calendar for DataviewJS. This plugin helps you render a calendar inside DataviewJS code block, showing your habit status within a month. |
 | [Console Markdown Plugin](https://github.com/dellermann/obsidian-console) | Renders console commands and their output. |
@@ -1350,3 +1347,6 @@
 | [Minitabs](https://github.com/ssjy1919/Obsidian-minitabs) | Customize a set of nested tabs through code blocks. |
 | [Lyrics](https://github.com/eatgrass/obsidian-lyrics) | Enhance the audio player with interacive lyrics |
 | [Show Whitespace](https://github.com/ebullient/obsidian-show-whitespace-cm6) | CSS styles and CM6 extensions to highlight whitespace in Source and Live Preview modes |
+| [Rendered Block Link Suggestions](https://github.com/RyotaUshio/obsidian-rendered-block-link-suggestions) | Upgrade Obsidian's built-in link suggestions with block markdown rendering. |
+| [Quick Preview](https://github.com/RyotaUshio/obsidian-quick-preview) | Quickly preview a suggestion before selecting it in link suggestions & quick swicher. |
+| [Desk](https://github.com/davidlandry93/obsidian-desk) | A desk to see notes at a glance in Obsidian. Requires Dataview as a dependency. |
