@@ -1350,3 +1350,18 @@
 | [Rendered Block Link Suggestions](https://github.com/RyotaUshio/obsidian-rendered-block-link-suggestions) | Upgrade Obsidian's built-in link suggestions with block markdown rendering. |
 | [Quick Preview](https://github.com/RyotaUshio/obsidian-quick-preview) | Quickly preview a suggestion before selecting it in link suggestions & quick swicher. |
 | [Desk](https://github.com/davidlandry93/obsidian-desk) | A desk to see notes at a glance in Obsidian. Requires Dataview as a dependency. |
+| [Tldraw](https://github.com/holxsam/tldraw-in-obsidian) | Integrates Tldraw into Obsidian, allowing users to draw and edit content on a virtual whiteboard. |
+| [Autocorrect Formatter](https://github.com/b-yp/obsidian-autocorrect) | Format Markdown content using Autocorrect. |
+| [Vim Yank Highlight](https://github.com/aleksey-rowan/obsidian-vim-yank-highlight) | Highlight yanked text in Vim mode. Enjoy that subtle animation you've missed so much. |
+| [TickTickSync](https://github.com/thesamim/TickTickSync) | Sync TickTick tasks to Obsidian, and Obsidian tasks to TickTick |
+| [Slash Commander](https://github.com/alephpiece/obsidian-slash-commander) | Customize the slash command list, assign each command an icon. |
+| [Custom save](https://github.com/HananoshikaYomaru/obsidian-custom-save) | Add custom save actions |
+| [Peerdraft](https://github.com/peerdraft/obsidian-plugin) | Secure real-time collaboration via secret link |
+| [Note Gallery](https://github.com/pashashocky/obsidian-note-gallery) | A masonry gallery that will visualize your notes, similar to Craft note view. |
+| [Smart Title](https://github.com/magooup/obsidian-plugin-smart-title) | Automatically extract tags and aliases from the title. |
+| [Gamificate your PKM](https://github.com/saertna/obsidian-gamified-pkm) | Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM. |
+| [R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) | Multi-regex management for data linking and batch processing across selection, files, and folders. |
+| [Encoder/Decoder](https://github.com/rudimuc/obsidian-coder) | Converts text into base64 format. |
+| [Habit Tracker 21](https://github.com/zoreet/habit-tracker) | Your 21-day journey to habit formation simplified |
+| [Better Math in Callouts & Blockquotes](https://github.com/RyotaUshio/obsidian-math-in-callout) | Add better Live Preview support for math rendering inside callouts & blockquotes. |
+| [Dynamic Line Height for CJK](https://github.com/RyotaUshio/obsidian-dynamic-line-height-cjk) | Dynamically adjust line height for lines & paragraphs containing CJK characters. |
