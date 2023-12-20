@@ -368,7 +368,7 @@
 | [Lineup Builder](https://github.com/James-Fallon/obsidian-lineup-builder) | Build football lineups in Obsidian. |
 | [Reveal Active File Button](https://github.com/claremacrae/reveal-active-file-button-plugin) | Add a button to the top of the File Explorer, to reveal the active file. |
 | [Structured Plugin](https://github.com/dobrovolsky/obsidian-structure) | Structured plugin. Create hierarchy in notes using "." |
-| [CookLang Editor](https://github.com/deathau/cooklang-obsidian) | Edit and display CookLang recipes in Obsidian. |
+| [CookLang Editor](https://github.com/cooklang/cooklang-obsidian) | Edit and display CookLang recipes in Obsidian. |
 | [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) | A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors. |
 | [Remotely Save](https://github.com/remotely-save/remotely-save) | Yet another unofficial plugin allowing users to sync notes between local device and the cloud service (S3, Dropbox, webdav, OneDrive). |
 | [From Template](https://github.com/mo-seph/obsidian-note-from-template) | Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template. |
@@ -1270,7 +1270,7 @@
 | [Markdown Image Caption](https://github.com/HananoshikaYomaru/obsidian-image-caption) | Generate Markdown-based image caption |
 | [Fountain Editor](https://github.com/chuangcaleb/obsidian-fountain-editor) | Fountain (screenplay) syntax highlighting in the editor. |
 | [Title Generator](https://github.com/jaschaephraim/obsidian-title-generator) | Quickly and easily title your notes using OpenAI's GPT-3.5 |
-| [Remotely Secure](https://github.com/sboesen/remotely-secure) | Security fixes for the remotely-save unofficial plugin allowing users to synchronize notes between local device and the cloud service. Not backwards compatible. |
+| [Remotely Sync](https://github.com/sboesen/remotely-sync) | Security fixes for the remotely-save unofficial plugin allowing users to synchronize notes between local device and the cloud service. Not backwards compatible. |
 | [Inline Encrypter](https://github.com/solargate/obsidian-inline-encrypter) | Encrypt secrets in your notes. |
 | [Scholar](https://github.com/lolipopshock/obsidian-scholar) | Manage research library and streamline research workflow. |
 | [Hexo Auto updater](https://github.com/lifeodyssey/obsidian-hexo-auto-update) | Hexo plugin that enables the auto update. |
@@ -1365,3 +1365,11 @@
 | [Habit Tracker 21](https://github.com/zoreet/habit-tracker) | Your 21-day journey to habit formation simplified |
 | [Better Math in Callouts & Blockquotes](https://github.com/RyotaUshio/obsidian-math-in-callout) | Add better Live Preview support for math rendering inside callouts & blockquotes. |
 | [Dynamic Line Height for CJK](https://github.com/RyotaUshio/obsidian-dynamic-line-height-cjk) | Dynamically adjust line height for lines & paragraphs containing CJK characters. |
+| [Pomodoro Timer](https://github.com/eatgrass/obsidian-pomodoro-timer) | A pomodoro timer that helps manage your daily focus |
+| [Vim IM Control](https://github.com/hideakitai/obsidian-vim-im-control) | Obsidian plugin to switch Input Method when `InsertLeave` and `InsertEnter`. Supports macOS, Windows, and Linux. |
+| [Global Proxy](https://github.com/windingblack/obsidian-global-proxy) | Use network proxy according to the rules configured in this plugin |
+| [Subdivider](https://github.com/MediosZ/obsidian-subdivider) | Converts your notes into nested folders, automatically creating separate files for each subheading. |
+| [Image Helper](https://github.com/byfun/obsidian-image-helper) | Context menu to convert image format in reading view |
+| [Highlight Helper](https://github.com/byfun/obsidian-highlight-helper) | Helper to collect highlights |
+| [syncread-assistant](https://github.com/flyer1b/LightRead-master) | Sync articles from the syncread app |
+| [Intelligence](https://github.com/ransurf/obsidian-intelligence) | OpenAI GPT Assistants functionality |
