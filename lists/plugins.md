@@ -1348,7 +1348,7 @@
 | [Lyrics](https://github.com/eatgrass/obsidian-lyrics) | Enhance the audio player with interacive lyrics |
 | [Show Whitespace](https://github.com/ebullient/obsidian-show-whitespace-cm6) | CSS styles and CM6 extensions to highlight whitespace in Source and Live Preview modes |
 | [Rendered Block Link Suggestions](https://github.com/RyotaUshio/obsidian-rendered-block-link-suggestions) | Upgrade Obsidian's built-in link suggestions with block markdown rendering. |
-| [Quick Preview](https://github.com/RyotaUshio/obsidian-quick-preview) | Quickly preview a suggestion before selecting it in link suggestions & quick swicher. |
+| [Quick Preview](https://github.com/RyotaUshio/obsidian-quick-preview) | Quickly preview a suggestion before selecting it in link suggestions & quick switcher. |
 | [Desk](https://github.com/davidlandry93/obsidian-desk) | A desk to see notes at a glance in Obsidian. Requires Dataview as a dependency. |
 | [Tldraw](https://github.com/holxsam/tldraw-in-obsidian) | Integrates Tldraw into Obsidian, allowing users to draw and edit content on a virtual whiteboard. |
 | [Autocorrect Formatter](https://github.com/b-yp/obsidian-autocorrect) | Format Markdown content using Autocorrect. |
@@ -1373,3 +1373,6 @@
 | [Highlight Helper](https://github.com/byfun/obsidian-highlight-helper) | Helper to collect highlights |
 | [syncread-assistant](https://github.com/flyer1b/LightRead-master) | Sync articles from the syncread app |
 | [Intelligence](https://github.com/ransurf/obsidian-intelligence) | OpenAI GPT Assistants functionality |
+| [Neighbouring Files](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin) | Navigate to the next and previous file in the current directory |
+| [Storyclock Viewer](https://github.com/jonzfisher/obsidian-chronostory) | Maps timing onto a storyclock. Inspired by Plot Devices Storyclock |
+| [Local GPT](https://github.com/pfrankov/obsidian-local-gpt) | Local GPT assistance for maximum privacy and offline access |
