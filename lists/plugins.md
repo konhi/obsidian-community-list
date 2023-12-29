@@ -1040,7 +1040,6 @@
 | [Laws of Form](https://github.com/Kevger/obsidian-laws-of-form) | Allows you to create, manage and display Laws of Form expressions like ((a)) (b) = a (b). |
 | [Notes Sync Share](https://github.com/Alt-er/obsidian-sync-share) | Sync and share (publish) your notes in your own private service. |
 | [NAI 4 Obsidian](https://github.com/SalokinGreen/NAI4Obsidian) | Generate text with NovelAI's models.. |
-| [Password Protection](https://github.com/qing3962/password-protection) | Protect your private notes and diary with a password, no encrypt, no decrypt. |
 | [LDS Scriptures Reference](https://github.com/pacokwon/obsidian-lds-scriptures-plugin) | Easily insert references to LDS scriptures |
 | [Edit History](https://github.com/antoniotejada/obsidian-edit-history) | Keeps an automatic edit history of your notes, review the history, diff against or restore previous edits. |
 | [Memorization](https://github.com/nwindian/Memorization-Plugin) | Generates study index notes using a spaced repetition algorithm (SM-2). |
