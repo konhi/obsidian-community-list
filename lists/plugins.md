@@ -332,7 +332,6 @@
 | [Link Headers Directly](https://github.com/Signynt/link-headers-directly) | When a header is linked, preview mode will show only the header, and not the note name. |
 | [Meld Calc](https://github.com/meld-cp/obsidian-calc) | Do math! Evaluate math expressions within your notes. |
 | [Tabout](https://github.com/phibr0/obsidian-tabout) | Easily 'tab out' of Links or other Markdown Formatting Characters. |
-| [Fantasy Calendar](https://github.com/fantasycalendar/obsidian-fantasy-calendar) | Fantasy calendars in Obsidian! |
 | [Improved VimCursor](https://github.com/hhhapz/improved-obsidian-vimcursor) | An improved experience with the cursor in Obsidian. |
 | [Quote of the Day](https://github.com/twentytwokhz/quote-of-the-day) | Inserts random quotes in the editor. |
 | [Limelight](https://github.com/smikula/obsidian-limelight) | Spotlight your active pane. |
