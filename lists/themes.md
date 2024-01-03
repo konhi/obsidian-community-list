@@ -181,7 +181,7 @@
 | [OlivierPS/Olivier-s-Theme](https://github.com/OlivierPS/Olivier-s-Theme) | ![Olivier’s Theme](https://raw.githubusercontent.com/OlivierPS/Olivier-s-Theme/master/main-screenshot.png "") |
 | [G2Jose/synthwave-84-obsidian-theme](https://github.com/G2Jose/synthwave-84-obsidian-theme) | ![Synthwave '84](https://raw.githubusercontent.com/G2Jose/synthwave-84-obsidian-theme/master/screenshot-512x288.png "") |
 | [whereiswhere/iB-Writer](https://github.com/whereiswhere/iB-Writer) | ![iB Writer](https://raw.githubusercontent.com/whereiswhere/iB-Writer/master/store-screenshot.png "") |
-| [oqipoDev/Buena-Vista-Theme](https://github.com/oqipoDev/Buena-Vista-Theme) | ![Buena Vista](https://raw.githubusercontent.com/oqipoDev/Buena-Vista-Theme/master/img/thumb.png "") |
+| [oqipoDev/buena-vista-obsidian](https://github.com/oqipoDev/buena-vista-obsidian) | ![Buena Vista](https://raw.githubusercontent.com/oqipoDev/buena-vista-obsidian/master/img/thumb.png "") |
 | [Thiews/obsidian-simplicity](https://github.com/Thiews/obsidian-simplicity) | ![Simplicity](https://raw.githubusercontent.com/Thiews/obsidian-simplicity/master/cover.png "") |
 | [drbap/magicuser-theme-for-obsidian](https://github.com/drbap/magicuser-theme-for-obsidian) | ![MagicUser](https://raw.githubusercontent.com/drbap/magicuser-theme-for-obsidian/master/screenshot.png "") |
 | [PrettyBoyCosmo/ProtocolBlue](https://github.com/PrettyBoyCosmo/ProtocolBlue) | ![ProtocolBlue](https://raw.githubusercontent.com/PrettyBoyCosmo/ProtocolBlue/master/assets/image.png "") |
@@ -226,3 +226,6 @@
 | [MateusHenriquegringo/spring-theme-obsidian](https://github.com/MateusHenriquegringo/spring-theme-obsidian) | ![Spring](https://raw.githubusercontent.com/MateusHenriquegringo/spring-theme-obsidian/master/SPRING.png "") |
 | [Bluemoondragon07/Obsidian-Celestial-Night-Theme](https://github.com/Bluemoondragon07/Obsidian-Celestial-Night-Theme) | ![Celestial Night](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Celestial-Night-Theme/master/assets/low-res.png "") |
 | [sspaeti/obsidian_rose_pine](https://github.com/sspaeti/obsidian_rose_pine) | ![Rosé Pine](https://raw.githubusercontent.com/sspaeti/obsidian_rose_pine/master/dark.jpg "") |
+| [vhbelvadi/obsidian-carbon](https://github.com/vhbelvadi/obsidian-carbon) | ![Carbon](https://raw.githubusercontent.com/vhbelvadi/obsidian-carbon/master/obsidian-screenshot-small.png "") |
+| [ryzenfromfire/obsidian-phoenix](https://github.com/ryzenfromfire/obsidian-phoenix) | ![Phoenix](https://raw.githubusercontent.com/ryzenfromfire/obsidian-phoenix/master/thumbnail.png "") |
+| [oqipoDev/garden-gnome-obsidian](https://github.com/oqipoDev/garden-gnome-obsidian) | ![Garden Gnome (Adwaita, GTK)](https://raw.githubusercontent.com/oqipoDev/garden-gnome-obsidian/master/img/thumb.png "") |

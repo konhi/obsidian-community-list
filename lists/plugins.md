@@ -242,7 +242,7 @@
 | [Daf Yomi](https://github.com/lyonsquark/obsidian-daf-yomi) | Prepare Daf Yomi notes. |
 | [Markdown Attributes](https://github.com/javalent/markdown-attributes) | Add Markdown attributes to elements in Obsidian. |
 | [WaveDrom](https://github.com/kingsquirrel152/obsidian-wavedrom) | Simple plugin for creating wavedrom plots. |
-| [Phone to Roam to Obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian) | An Obsidian client for phonetoroam.com |
+| [Phone to Note to Obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian) | An unofficial Obsidian client for phonetonote.com (previously phonetoroam.com) |
 | [Pocket](https://github.com/nybbles/obsidian-pocket) | Access your Pocket reading list entries and create notes for them easily. |
 | [Obsidian42 - WordNet Dictionary](https://github.com/TfTHacker/Obsidian-WordNet) | Brings WordNet, a large lexical database of English developed by Princeton University to Obsidian. |
 | [Multi-line Formatting](https://github.com/nmady/obsidian-multi-line-formatting) | Apply formatting to selected text, dealing with the paragraph breaks. |
@@ -1065,7 +1065,7 @@
 | [Color Palette](https://github.com/ALegendsTale/obsidian-color-palette) | Create and insert color palettes into your notes. |
 | [Link Tree](https://github.com/joshuatazrein/obsidian-link-tree) | View file links and backlinks as a recursively expandable, filterable list with editable text, combining the structure of outliners like Dynalist & WorkFlowy with the flexibility of Obsidian. |
 | [Custom list character](https://github.com/lilian-pouliquen/obsidian-custom-list-character) | Adds the ability to choose the character to use when creating a bullet list between '-', '*' and '+' |
-| [ICS](https://github.com/muness/obsidian-ics) | Adds events from calendar ics published on the web to daily note on demand. Gets the date to search for events on from the currently open daily note. |
+| [ICS](https://github.com/cloud-atlas-ai/obsidian-ics) | Adds events from calendar ics on the web to daily note on demand. Includes vdir support. Daily Planner, Templater and Dataview friendly. |
 | [Fantasy name generator](https://github.com/lukewh/fantasy-name) | Insert a random fantasy name. |
 | [TagMany](https://github.com/joshua-martius/tagmany) | This plugin allows you to add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once. |
 | [Better Search Views](https://github.com/ivan-lednev/better-search-views) | Upgrade global search, backlinks and queries with outliner-like context trees. |
@@ -1151,7 +1151,7 @@
 | [Auto Journal](https://github.com/Ebonsignori/obsidian-auto-journal) | Opinionated journaling automation like daily notes but with backfills for the days when Obsidian wasn't opened. |
 | [Nifty Links](https://github.com/x-Ai/obsidian-nifty-links) | Generate elegant, Notion-style rich link cards to enhance your note-taking experience. |
 | [Exercises](https://github.com/AlexCCavaco/obsidian-exercises) | Create Interactive Exercises along side your Obsidian Notes |
-| [Math Booster](https://github.com/RyotaUshio/obsidian-math-booster) | Turn your Obsidian into LaTeX on steroids. Dynamically numbered theorem environments & equations, enhanced theorems/equations search & link auto-completion, and live-rendering of equations inside callouts & quotes. |
+| [LaTeX-like Theorem & Equation Referencer](https://github.com/RyotaUshio/obsidian-latex-theorem-equation-referencer) | A powerful indexing & referencing system for theorems & equations in your vault. Bring LaTeX-like workflow into Obsidian with theorem environments, automatic equation numbering, and more. |
 | [File Explorer++](https://github.com/kelszo/obsidian-file-explorer-plus) | Hide and pin files and folders in the file explorer using custom filters, such as wildcards and regex, based on their names, paths, and tags. Additionally, achieve the same with a single click in the file menu. |
 | [Vox](https://github.com/vincentbavitz/obsidian-vox) | Intelligently trancribe and categorize your voice notes |
 | [GitHub Embeds](https://github.com/MrGVSV/obsidian-github-embeds) | Embed GitHub issues, PRs, and code snippets directly in Obsidian. |
@@ -1374,3 +1374,9 @@
 | [Neighbouring Files](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin) | Navigate to the next and previous file in the current directory |
 | [Storyclock Viewer](https://github.com/jonzfisher/obsidian-chronostory) | Maps timing onto a storyclock. Inspired by Plot Devices Storyclock |
 | [Local GPT](https://github.com/pfrankov/obsidian-local-gpt) | Local GPT assistance for maximum privacy and offline access |
+| [Meal Plan](https://github.com/tmayoff/obsidian-meals) | Meal Planning in Obsidian. |
+| [Emoji Autocomplete](https://github.com/KraXen72/obsidian-emoji-autocomplete) | Smart suggestions when typing emoji shortcodes & more! :star: |
+| [open-as-md](https://github.com/kursad-k/obsidian-openasmd) | Edit non-md file types as markdown files |
+| [Ribbon Divider](https://github.com/andrewmcgivery/obsidian-ribbon-divider) | Allows you to add dividers to the ribbon to space out your icons. |
+| [Hill Charts](https://github.com/stufro/obsidian-hill-charts) | Add hill charts to your notes. |
+| [Ollama Chat](https://github.com/brumik/obsidian-ollama-chat) | A plugin for Obsidian that enables chatting with your notes with the help of Ollama and LlamaIndex. |
