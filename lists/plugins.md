@@ -1380,3 +1380,4 @@
 | [Ribbon Divider](https://github.com/andrewmcgivery/obsidian-ribbon-divider) | Allows you to add dividers to the ribbon to space out your icons. |
 | [Hill Charts](https://github.com/stufro/obsidian-hill-charts) | Add hill charts to your notes. |
 | [Ollama Chat](https://github.com/brumik/obsidian-ollama-chat) | A plugin for Obsidian that enables chatting with your notes with the help of Ollama and LlamaIndex. |
+| [Canvas Card Background Remover](https://github.com/luxmargos/obsidian-canvas-card-bg-remover) | You can make the background of cards transparent in the Canvas |
