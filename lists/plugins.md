@@ -4,7 +4,6 @@
 | [Hotkeys++](https://github.com/argenos/hotkeysplus-obsidian) | Additional hotkeys to do common things in Obsidian. |
 | [Obsidian Git](https://github.com/denolehov/obsidian-git) | Backup your vault with Git |
 | [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection) | Paste URL "into" selected text. |
-| [Sliding Panes (Andy's Mode)](https://github.com/deathau/sliding-panes-obsidian) | Sliding Panes (Andy Matuschak Mode) as a plugin |
 | [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) | Improved table navigation, formatting, and manipulation. |
 | [Leader Hotkeys](https://github.com/tgrosinger/leader-hotkeys-obsidian) | Add leader hotkey support to any command (like tmux or vim). |
 | [Recent Files](https://github.com/tgrosinger/recent-files-obsidian) | Display a list of recently opened files. |
@@ -1381,3 +1380,5 @@
 | [Hill Charts](https://github.com/stufro/obsidian-hill-charts) | Add hill charts to your notes. |
 | [Ollama Chat](https://github.com/brumik/obsidian-ollama-chat) | A plugin for Obsidian that enables chatting with your notes with the help of Ollama and LlamaIndex. |
 | [Canvas Card Background Remover](https://github.com/luxmargos/obsidian-canvas-card-bg-remover) | You can make the background of cards transparent in the Canvas |
+| [Latex OCR](https://github.com/lucasvanmol/obsidian-latex-ocr) | Generate LaTeX equations from images in your vault or clipboard. |
+| [Object Writer](https://github.com/IagoGrah/obsidian-object-writer) | Utility for object writing with random words. |
