@@ -1382,3 +1382,5 @@
 | [Canvas Card Background Remover](https://github.com/luxmargos/obsidian-canvas-card-bg-remover) | You can make the background of cards transparent in the Canvas |
 | [Latex OCR](https://github.com/lucasvanmol/obsidian-latex-ocr) | Generate LaTeX equations from images in your vault or clipboard. |
 | [Object Writer](https://github.com/IagoGrah/obsidian-object-writer) | Utility for object writing with random words. |
+| [Task Status](https://github.com/vburzynski/obsidian-task-status) | Quickly change checkbox and task status markers. |
+| [Repeat Last Command(s)](https://github.com/1C0D/obsidian-repeat-last-commands) | Repeat last command or commands. toggle pinned command with tab |
