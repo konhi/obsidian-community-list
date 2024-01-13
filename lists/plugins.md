@@ -1385,3 +1385,4 @@
 | [Task Status](https://github.com/vburzynski/obsidian-task-status) | Quickly change checkbox and task status markers. |
 | [Repeat Last Command(s)](https://github.com/1C0D/obsidian-repeat-last-commands) | Repeat last command or commands. toggle pinned command with tab |
 | [Strip Internal Links](https://github.com/adiron/obsidian-strip-internal-links) | Copies the contents of files or selections within to the clipboard, without internal links |
+| [Git File Explorer](https://github.com/MateusMolina/obsidian-git-file-explorer) | Add relevant git information of detected git repostitories to the file explorer |
