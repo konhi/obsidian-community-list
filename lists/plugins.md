@@ -1250,7 +1250,6 @@
 | [Discord Message Formatter](https://github.com/Emile-Durkheim/obsidian_discord_formatter) | Trivially copy-paste a message from the Discord client into Obsidian and have it perfectly formatted for you. |
 | [Frontmatter generator](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator) | Generate frontmatter for your notes from JSON and JavaScript |
 | [Tistory Publisher](https://github.com/bekurin/tistory-publisher) | Easily publish a note in obsidian to tistory. |
-| [Linkding Importer](https://github.com/jontstaz/obsidian-linkding-importer) | Imports your bookmarks from Linkding and saves them into a specified file within the Obsidian Vault. |
 | [Auto Reading Mode](https://github.com/kelvinc6/auto-reading-mode) | Automatically switches previously opened Markdown pages into reading mode. |
 | [Studier](https://github.com/alvaro-cas/studier-obsidian) | Create quizzes for your Obsidian.md notes and learn better |
 | [Mochi Cards Pro](https://github.com/xHayden/obsidian-mochi-cards-pro) | Create flashcards on Mochi.cards using the API provided by Mochi's Pro subscription. |
