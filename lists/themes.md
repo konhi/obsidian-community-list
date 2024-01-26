@@ -52,7 +52,6 @@
 | [hungsu/vileplume-obsidian](https://github.com/hungsu/vileplume-obsidian) | ![Vileplume](https://raw.githubusercontent.com/hungsu/vileplume-obsidian/master/Vileplume.png "") |
 | [auroral-ui/aurora-obsidian-md](https://github.com/auroral-ui/aurora-obsidian-md) | ![Aurora](https://raw.githubusercontent.com/auroral-ui/aurora-obsidian-md/master/screenshots/screenshot-1.png "") |
 | [izumin5210/obsidian-iceberg](https://github.com/izumin5210/obsidian-iceberg) | ![Iceberg](https://raw.githubusercontent.com/izumin5210/obsidian-iceberg/master/screenshot.png "") |
-| [bencodezen/obsidian-night-owl-theme](https://github.com/bencodezen/obsidian-night-owl-theme) | ![Night Owl](https://raw.githubusercontent.com/bencodezen/obsidian-night-owl-theme/master/obsidian-night-owl-theme.png "") |
 | [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) | ![Yin and Yang](https://raw.githubusercontent.com/chetachiezikeuzor/Yin-and-Yang-Theme/master/assets/screenshot.png "") |
 | [shaggyfeng/obsidian-Golden-Topaz-theme](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme) | ![Golden Topaz](https://raw.githubusercontent.com/shaggyfeng/obsidian-Golden-Topaz-theme/master/screenshot.png "") |
 | [shaggyfeng/obsidian-Pink-topaz-theme](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme) | ![Pink Topaz](https://raw.githubusercontent.com/shaggyfeng/obsidian-Pink-topaz-theme/master/screenshot.png "") |
@@ -126,7 +125,6 @@
 | [zamsyt/obsidian-fusion](https://github.com/zamsyt/obsidian-fusion) | ![Fusion](https://raw.githubusercontent.com/zamsyt/obsidian-fusion/master/thumbnail.png "") |
 | [7368697661/Ultra-Lobster](https://github.com/7368697661/Ultra-Lobster) | ![Ultra Lobster](https://raw.githubusercontent.com/7368697661/Ultra-Lobster/master/preview_thumb.png "") |
 | [krios2146/obsidian-theme-github](https://github.com/krios2146/obsidian-theme-github) | ![GitHub Theme](https://raw.githubusercontent.com/krios2146/obsidian-theme-github/master/imgs/thumbnail.png "") |
-| [doctorfree/Obsidian-Doctorfree](https://github.com/doctorfree/Obsidian-Doctorfree) | ![Doctorfree](https://raw.githubusercontent.com/doctorfree/Obsidian-Doctorfree/master/screenshots/headings.png "") |
 | [marcoluzi/obsidian-synthwave](https://github.com/marcoluzi/obsidian-synthwave) | ![SynthWave](https://raw.githubusercontent.com/marcoluzi/obsidian-synthwave/master/screenshot.jpeg "") |
 | [ltctceplrm/oldsidian-purple](https://github.com/ltctceplrm/oldsidian-purple) | ![Oldsidian Purple](https://raw.githubusercontent.com/ltctceplrm/oldsidian-purple/master/cover.png "") |
 | [lucas-fern/obsidian-deeper-work-theme](https://github.com/lucas-fern/obsidian-deeper-work-theme) | ![deeper work](https://raw.githubusercontent.com/lucas-fern/obsidian-deeper-work-theme/master/thumbnail.png "") |
@@ -229,3 +227,9 @@
 | [vhbelvadi/obsidian-carbon](https://github.com/vhbelvadi/obsidian-carbon) | ![Carbon](https://raw.githubusercontent.com/vhbelvadi/obsidian-carbon/master/obsidian-screenshot-small.png "") |
 | [ryzenfromfire/obsidian-phoenix](https://github.com/ryzenfromfire/obsidian-phoenix) | ![Phoenix](https://raw.githubusercontent.com/ryzenfromfire/obsidian-phoenix/master/thumbnail.png "") |
 | [oqipoDev/garden-gnome-obsidian](https://github.com/oqipoDev/garden-gnome-obsidian) | ![Garden Gnome (Adwaita, GTK)](https://raw.githubusercontent.com/oqipoDev/garden-gnome-obsidian/master/img/thumb.png "") |
+| [bitSchleuder/obsidian-monokai-theme](https://github.com/bitSchleuder/obsidian-monokai-theme) | ![Monokai](https://raw.githubusercontent.com/bitSchleuder/obsidian-monokai-theme/master/assets/monokai-obsidian-theme-thumbnail.png "") |
+| [ethereontheme/obsidian](https://github.com/ethereontheme/obsidian) | ![Ethereon](https://raw.githubusercontent.com/ethereontheme/obsidian/master/screenshots/dark.png "") |
+| [deudz/obsidian-tomorrow-theme](https://github.com/deudz/obsidian-tomorrow-theme) | ![Tomorrow](https://raw.githubusercontent.com/deudz/obsidian-tomorrow-theme/master/res/thumb.png "") |
+| [mbromell/obsidian-nightfox](https://github.com/mbromell/obsidian-nightfox) | ![Nightfox](https://raw.githubusercontent.com/mbromell/obsidian-nightfox/master/thumbnail.png "") |
+| [mmartamg/novadust-obsidian](https://github.com/mmartamg/novadust-obsidian) | ![Novadust](https://raw.githubusercontent.com/mmartamg/novadust-obsidian/master/novadust-img.png "") |
+| [lychileng/Obsidian-Theme-Pure](https://github.com/lychileng/Obsidian-Theme-Pure) | ![Pure](https://raw.githubusercontent.com/lychileng/Obsidian-Theme-Pure/master/screenshots/mac_512.jpg "") |
