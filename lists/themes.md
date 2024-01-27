@@ -67,7 +67,6 @@
 | [dogwaddle/lizardmen-zettelkasten](https://github.com/dogwaddle/lizardmen-zettelkasten) | ![Lizardmen Zettelkasten](https://raw.githubusercontent.com/dogwaddle/lizardmen-zettelkasten/master/screenshot.png "") |
 | [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) | ![Shimmering Focus](https://raw.githubusercontent.com/chrisgrieser/shimmering-focus/master/assets/promo-screenshot.png "") |
 | [lazercaveman/obsidian-firefly-theme](https://github.com/lazercaveman/obsidian-firefly-theme) | ![Firefly](https://raw.githubusercontent.com/lazercaveman/obsidian-firefly-theme/master/firefly-theme-screenshot.png "") |
-| [cybeerboy/Deep-for-Obsidian](https://github.com/cybeerboy/Deep-for-Obsidian) | ![Deep](https://raw.githubusercontent.com/cybeerboy/Deep-for-Obsidian/master/screenshot.png "") |
 | [zacharyc/purple-owl-theme](https://github.com/zacharyc/purple-owl-theme) | ![Purple Owl](https://raw.githubusercontent.com/zacharyc/purple-owl-theme/master/purple-owl-theme.png "") |
 | [gracejoseph1236/obsidian-emerald](https://github.com/gracejoseph1236/obsidian-emerald) | ![Emerald](https://raw.githubusercontent.com/gracejoseph1236/obsidian-emerald/master/example.png "") |
 | [tomzorz/Sodalite](https://github.com/tomzorz/Sodalite) | ![Sodalite](https://raw.githubusercontent.com/tomzorz/Sodalite/master/screenshot.png "") |
