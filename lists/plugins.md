@@ -188,7 +188,7 @@
 | [Pomodoro](https://github.com/tokuhirom/obsidian-pomodoro-plugin) | Simple pomodoro time tracking. |
 | [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks) | Create, manage and view a Fantasy Bestiary with Dungeons and Dragons style statblocks. |
 | [Zoom](https://github.com/vslinko/obsidian-zoom) | Zoom into heading and lists. |
-| [Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all) | Extend collapse/expand all with commands that can be bound to hotkeys. |
+| [Collapse All](https://github.com/nathonius/obsidian-collapse-all) | Extend collapse/expand all with commands that can be bound to hotkeys. |
 | [Charts View](https://github.com/caronchen/obsidian-chartsview-plugin) | Visualize data from your notes with plots and graphs. |
 | [Dictionary](https://github.com/phibr0/obsidian-dictionary) | A multilingual dictionary that shows word definitions in the sidebar and popover synonyms. |
 | [Liquid Templates](https://github.com/oeN/liquid-template) | Create your templates with LiquidJS tags support. |
@@ -274,7 +274,7 @@
 | [Vim Input Method Switch](https://github.com/yuanotes/obsidian-vim-im-switch-plugin) | Switch input method with fcitx-remote when Vim keymap is enabled. |
 | [Luhman](https://github.com/Dyldog/luhman-obsidian-plugin) | Commands for handling a zettelkasten with Luhman-style IDs as filenames. |
 | [Daily Named Folder](https://github.com/NemoAndrea/obsidian-daily-named-folder) | Like daily notes, but nested in a daily folder with a oneline summary. Better for attachment management & glanceability. |
-| [Trello](https://github.com/OfficerHalf/obsidian-trello) | Connect Trello cards to Obsidian notes. |
+| [Trello](https://github.com/nathonius/obsidian-trello) | Connect Trello cards to Obsidian notes. |
 | [Annotator](https://github.com/elias-sundqvist/obsidian-annotator) | Read and annotate PDFs and EPUB files. |
 | [CustomJS](https://github.com/saml-dev/obsidian-custom-js) | Reuse custom JavaScript across desktop and mobile. |
 | [Random Structural Diary](https://github.com/ShockThunder/RandomStructuralDiary) | Pick random questions from a prepared question list and answer different questions each time. |
@@ -356,7 +356,7 @@
 | [Bible Reference](https://github.com/tim-hub/obsidian-bible-reference) | Take Bible study notes easily. Automatically suggests Bible verses as references. |
 | [Sentence Navigator](https://github.com/timhor/obsidian-sentence-navigator) | Manipulate sentences as a unit of movement. |
 | [Language Translator](https://github.com/twentytwokhz/language-translator) | Translate selected text in the desired language. |
-| [Auto Class](https://github.com/OfficerHalf/obsidian-auto-class) | Automatically apply CSS classes to Markdown views based on a note's path. |
+| [Auto Class](https://github.com/nathonius/obsidian-auto-class) | Automatically apply CSS classes to Markdown views based on a note's path. |
 | [Cloudinary Uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader) | Upload pasted images from your clipboard to Cloudinary. |
 | [RSS Reader](https://github.com/joethei/obsidian-rss) | Read articles from RSS feeds and incorporate them into your notes. |
 | [Mousewheel Image zoom](https://github.com/nicojeske/mousewheel-image-zoom) | Increase or decrease the size of an image by scrolling. |
@@ -623,7 +623,7 @@
 | [Custom File Explorer sorting](https://github.com/SebastianMC/obsidian-custom-sort) | Manual or automatic config-driven reordering and sorting of files and folders in File Explorer. |
 | [Table Generator](https://github.com/Quorafind/Obsidian-Table-Generator) | Generate Markdown tables quickly like Typora. |
 | [Aosr](https://github.com/linanwx/aosr) | Another Obsidian spaced repetition. Use flashcards to review and remember knowledge. |
-| [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) | Create input fields inside your notes and bind them to metadata fields. |
+| [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) | Make your notes interactive with inline input fields, metadata displays, and buttons. |
 | [Micro.publish](https://github.com/otaviocc/obsidian-microblog) | Publish notes to Micro.blog. |
 | [Sakana Widget](https://github.com/Quorafind/obsidian-sakana-widget) | Add the Sakana! widget. |
 | [Min Width](https://github.com/doitian/obsidian-min-width) | Set the Minimum Width of the Active Pane. |
@@ -755,7 +755,7 @@
 | [Checklist Reset](https://github.com/lhansford/obsidian-checklist-reset) | Add a command to reset the state of any checklists in a document. |
 | [Mermaid Tools](https://github.com/dartungar/obsidian-mermaid) | Improved Mermaid.js experience: visual toolbar with common elements and more. |
 | [Boost Link Suggestions](https://github.com/jglev/obsidian-boost-link-suggestions) | Alternative inline link suggester that orders results by link count and manual boosts. |
-| [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) | Export an Obsidian note, folder, or vault as an HTML document / webpage / website with correct styling. Also has an interactive embedded dark / light theme toggle, and document outline. |
+| [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) | Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity. |
 | [File Color](https://github.com/ecustic/obsidian-file-color) | Set colors on folders and files in the file tree. |
 | [Hugo preview](https://github.com/fzdwx/hugo-preview-obsidian) | Preview your Hugo site. |
 | [File Chucker](https://github.com/kenlim/file-chucker-plugin) | Quickly move a file to a new or existing folder, then open the next file. |
@@ -937,7 +937,7 @@
 | [Personal Assistant](https://github.com/edonyzpc/personal-assistant) | Streamline workflows within Obsidian, managing memos, formatted records, callouts, frontmatter, local graph, themes and plugins with just one command. |
 | [April's Automatic Timelines](https://github.com/April-Gras/obsidian-auto-timelines) | Simple timeline generator for story tellers. |
 | [AI Mentor](https://github.com/clementpoiret/ai-mentor) | Meet your open source AI mentor. Ask questions, get answers, and learn new things. |
-| [Game Search](https://github.com/CMorooney/obsidian-game-search-plugin) | Help insert game metadata into game notes or journals. |
+| [Game Search](https://github.com/CMorooney/obsidian-game-search-plugin) | Help insert game metadata into game notes or vaults, optionally sync with Steam Library and Wishlist |
 | [Linked Data Vocabularies](https://github.com/kometenstaub/linked-data-vocabularies) | Add Library of Congress Subject Headings (LCSH) as metadata to your notes. |
 | [Linked Data Helper](https://github.com/kometenstaub/linked-data-helper) | Prepare data needed by Linked Data Vocabularies. |
 | [Show Diff](https://github.com/ivan-lednev/obsidian-automatic-changelog) | Render Git diffs in your notes. |
