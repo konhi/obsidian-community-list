@@ -1087,7 +1087,6 @@
 | [Easy Bake](https://github.com/mgmeyers/obsidian-easy-bake) | Easily compile many notes down to a single file. |
 | [Yet Another Obsidian Synchronizer](https://github.com/mahyarmirrashed/yaos) | Use Git to synchronize your vault contents across devices. |
 | [Finnish Spellcheck](https://github.com/antoKeinanen/obsidian-finnish-spellcheck) | Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä, joka hyödyntää Voikkoa. |
-| [Execute Python](https://github.com/williamechols/obsidian-execute-python) | Lightweight Python code snippet executor with runtime input support. |
 | [Birthday-Tracker](https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin) | Keep track of all birthdays of your family and friends. |
 | [Lovely-Mindmap](https://github.com/xincan1949/lovely-mindmap) | Build your own knowledge graph with smiles :-) |
 | [LinkStowr](https://github.com/joelseq/obsidian-linkstowr) | Save links from your browser. |
@@ -1390,3 +1389,4 @@
 | [LaTeX-OCR](https://github.com/JackBarker7/obsidian-latexocr) | Run LaTeX-OCR if it is installed locally. |
 | [Reference Generator](https://github.com/kadisonm/obsidian-reference-generator) | Turn links into bibliographies in styles like Harvard, MLA, APA, and more. |
 | [Additional Icons](https://github.com/matthewturk/obsidian-additional-icons) | Add additional iconsets. |
+| [Extended Task Lists](https://github.com/joeriddles/extended-task-lists) | Extended reader view support for task lists, including in-progress and won't do task items. |

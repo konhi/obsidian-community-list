@@ -232,3 +232,8 @@
 | [mbromell/obsidian-nightfox](https://github.com/mbromell/obsidian-nightfox) | ![Nightfox](https://raw.githubusercontent.com/mbromell/obsidian-nightfox/master/thumbnail.png "") |
 | [mmartamg/novadust-obsidian](https://github.com/mmartamg/novadust-obsidian) | ![Novadust](https://raw.githubusercontent.com/mmartamg/novadust-obsidian/master/novadust-img.png "") |
 | [lychileng/Obsidian-Theme-Pure](https://github.com/lychileng/Obsidian-Theme-Pure) | ![Pure](https://raw.githubusercontent.com/lychileng/Obsidian-Theme-Pure/master/screenshots/mac_512.jpg "") |
+| [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime) | ![Prime](https://raw.githubusercontent.com/rivea0/obsidian-prime/master/screenshot.png "") |
+| [xRyul/obsidian-arcane-theme](https://github.com/xRyul/obsidian-arcane-theme) | ![Arcane](https://raw.githubusercontent.com/xRyul/obsidian-arcane-theme/master/Arcane_sample_01.jpg "") |
+| [RaveSplash/obsidian-misty-mauve](https://github.com/RaveSplash/obsidian-misty-mauve) | ![MistyMauve](https://raw.githubusercontent.com/RaveSplash/obsidian-misty-mauve/master/dark.jpg "") |
+| [KStew1017/obsidian-sea-glass-theme](https://github.com/KStew1017/obsidian-sea-glass-theme) | ![Sea Glass](https://raw.githubusercontent.com/KStew1017/obsidian-sea-glass-theme/master/sea-glass-preview.png "") |
+| [HW9636/DarkNebulaObsidianTheme](https://github.com/HW9636/DarkNebulaObsidianTheme) | ![DarkNebula](https://raw.githubusercontent.com/HW9636/DarkNebulaObsidianTheme/master/thumbnail.png "") |
