@@ -54,7 +54,7 @@
 | [Flashcards](https://github.com/reuseman/flashcards-obsidian) | Anki integration. |
 | [Completed Area](https://github.com/DahaWong/obsidian-completed-area) | Move completed to-do items to a separate completed area. |
 | [Citations](https://github.com/hans/obsidian-citation-plugin) | Automatically search and insert citations from a Zotero library. |
-| [Export to Anki](https://github.com/Pseudonium/Obsidian_to_Anki) | Anki integration designed for efficient bulk exporting. |
+| [Export to Anki](https://github.com/Pseudonium/Obsidian_to_Anki) | Anki integration designed for efficient bulk exporting. Previously known as Obsidian_to_Anki. |
 | [Rollover Daily Todos](https://github.com/lumoe/obsidian-rollover-daily-todos) | Rollover any unchecked checkboxes from your last daily note into today's note. |
 | [Automatically reveal active file](https://github.com/shichongrui/obsidian-reveal-active-file) | Automatically reveal the currently active file in the side navigation. |
 | [Export To TeX](https://github.com/raineszm/obsidian-export-to-tex) | Export vault files in a format amenable to pasting into a TeX document. |
@@ -1390,3 +1390,7 @@
 | [Reference Generator](https://github.com/kadisonm/obsidian-reference-generator) | Turn links into bibliographies in styles like Harvard, MLA, APA, and more. |
 | [Additional Icons](https://github.com/matthewturk/obsidian-additional-icons) | Add additional iconsets. |
 | [Extended Task Lists](https://github.com/joeriddles/extended-task-lists) | Extended reader view support for task lists, including in-progress and won't do task items. |
+| [Ctrl-XA cycle various items](https://github.com/nbossard/obsidian-CtrlXA) | Cycle through various items with keyboard shortcuts. Such as days, months, true-false, log level,... anything you need. |
+| [GitHobs](https://github.com/GabAlpha/obsidian-githobs) | Use Obsidian as Github issue editor with logic taken from Git |
+| [Soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) | Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration |
+| [Paste From History](https://github.com/Karakaz/obsidian-paste-from-history) | Paste from the editor's recent clipboard history. |
