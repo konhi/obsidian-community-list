@@ -664,7 +664,7 @@
 | [Checkbox 3 states](https://github.com/hrenaud/obsidian-checkbox3states-plugin) | A third state to checkbox list. |
 | [Status Bar Quote](https://github.com/yesjinu/StatusBarQuote) | Show your favorite quote in the status bar. |
 | [qmd as md](https://github.com/danieltomasz/qmd-as-md-obsidian) | View files with .qmd extension. QMD files contain a combination of Markdown and executable code cells and are a format supported by Quarto open source publishing system. |
-| [Export to Flomo](https://github.com/metal-young/obsidian-to-flomo) | Quickly share content to Flomo. |
+| [Share to Flomo](https://github.com/metal-young/obsidian-to-flomo) | Quickly share content to Flomo. |
 | [Things3 Sync](https://github.com/royxue/obsidian-things3-sync) | Sync between Obsidian and Things3. Supports multi-language, tags and dates. |
 | [Mathpad](https://github.com/Canna71/obsidian-mathpad) | Computer algebra system and calculator. |
 | [Ordered List Style](https://github.com/erykwalder/obsidian-list-style) | Set ordered list style inline. Alphabetic lists, Roman numeral lists, etc. |
