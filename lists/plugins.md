@@ -1394,3 +1394,5 @@
 | [GitHobs](https://github.com/GabAlpha/obsidian-githobs) | Use Obsidian as Github issue editor with logic taken from Git |
 | [Soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) | Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration |
 | [Paste From History](https://github.com/Karakaz/obsidian-paste-from-history) | Paste from the editor's recent clipboard history. |
+| [Hanayama Huzzles Tracker](https://github.com/revolter/obsidian-hanayama-huzzles-tracker-plugin) | This scrapes the Hanayama Huzzle webpage builds a Markdown table with the information, and allows you to manually track them using a status column. |
+| [Instapaper](https://github.com/Instapaper/obsidian-instapaper) | Instapaper integration. |

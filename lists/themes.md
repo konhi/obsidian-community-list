@@ -237,3 +237,5 @@
 | [RaveSplash/obsidian-misty-mauve](https://github.com/RaveSplash/obsidian-misty-mauve) | ![MistyMauve](https://raw.githubusercontent.com/RaveSplash/obsidian-misty-mauve/master/dark.jpg "") |
 | [KStew1017/obsidian-sea-glass-theme](https://github.com/KStew1017/obsidian-sea-glass-theme) | ![Sea Glass](https://raw.githubusercontent.com/KStew1017/obsidian-sea-glass-theme/master/sea-glass-preview.png "") |
 | [HW9636/DarkNebulaObsidianTheme](https://github.com/HW9636/DarkNebulaObsidianTheme) | ![DarkNebula](https://raw.githubusercontent.com/HW9636/DarkNebulaObsidianTheme/master/thumbnail.png "") |
+| [DMeurer/improved-potato](https://github.com/DMeurer/improved-potato) | ![Improved Potato](https://raw.githubusercontent.com/DMeurer/improved-potato/master/images/image2.png "") |
+| [slavamak/obsidian-neovim](https://github.com/slavamak/obsidian-neovim) | ![Neovim](https://raw.githubusercontent.com/slavamak/obsidian-neovim/master/screenshot.png "") |
