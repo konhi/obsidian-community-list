@@ -231,7 +231,7 @@
 | [deudz/obsidian-tomorrow-theme](https://github.com/deudz/obsidian-tomorrow-theme) | ![Tomorrow](https://raw.githubusercontent.com/deudz/obsidian-tomorrow-theme/master/res/thumb.png "") |
 | [mbromell/obsidian-nightfox](https://github.com/mbromell/obsidian-nightfox) | ![Nightfox](https://raw.githubusercontent.com/mbromell/obsidian-nightfox/master/thumbnail.png "") |
 | [mmartamg/novadust-obsidian](https://github.com/mmartamg/novadust-obsidian) | ![Novadust](https://raw.githubusercontent.com/mmartamg/novadust-obsidian/master/novadust-img.png "") |
-| [lychileng/Obsidian-Theme-Pure](https://github.com/lychileng/Obsidian-Theme-Pure) | ![Pure](https://raw.githubusercontent.com/lychileng/Obsidian-Theme-Pure/master/screenshots/mac_512.jpg "") |
+| [lychileng/Obsidian-Theme-Pure](https://github.com/lychileng/Obsidian-Theme-Pure) | ![Pure](https://raw.githubusercontent.com/lychileng/Obsidian-Theme-Pure/master/screenshots/cover.png "") |
 | [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime) | ![Prime](https://raw.githubusercontent.com/rivea0/obsidian-prime/master/screenshot.png "") |
 | [xRyul/obsidian-arcane-theme](https://github.com/xRyul/obsidian-arcane-theme) | ![Arcane](https://raw.githubusercontent.com/xRyul/obsidian-arcane-theme/master/Arcane_sample_01.jpg "") |
 | [RaveSplash/obsidian-misty-mauve](https://github.com/RaveSplash/obsidian-misty-mauve) | ![MistyMauve](https://raw.githubusercontent.com/RaveSplash/obsidian-misty-mauve/master/dark.jpg "") |

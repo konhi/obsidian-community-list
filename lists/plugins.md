@@ -1214,7 +1214,7 @@
 | [Go To Heading](https://github.com/oin/obsidian-gotoheading) | Quickly navigate between headings. |
 | [gpgCrypt](https://github.com/tejado/obsidian-gpgCrypt) | Encrypt your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you. |
 | [Share Note](https://github.com/alangrainger/share-note) | Instantly share/publish a note, with the full theme and content exactly like you see in Obsidian. Data is shared encrypted by default, and only you and the person you send it to have the key. |
-| [Todo.txt Codeblocks](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks) | Manage your tasks inside code blocks according to the Todo.txt specification. |
+| [TodoTxt Codeblocks](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks) | Manage your tasks inside code blocks according to the Todo.txt specification. |
 | [screen.garden](https://github.com/screendotgarden/screengarden-obsidian) | A live collaboration, publishing, and web editing service for your PKM. |
 | [TODO Wrangler](https://github.com/jeel-shah/todo-wrangler) | Wrangle your TODOs and put them at the bottom of the file. |
 | [Fold Anywhere](https://github.com/quorafind/obsidian-fold-anywhere) | Set start and end marker, and then fold any text anywhere in live preview mode. |
@@ -1396,3 +1396,5 @@
 | [Paste From History](https://github.com/Karakaz/obsidian-paste-from-history) | Paste from the editor's recent clipboard history. |
 | [Hanayama Huzzles Tracker](https://github.com/revolter/obsidian-hanayama-huzzles-tracker-plugin) | This scrapes the Hanayama Huzzle webpage builds a Markdown table with the information, and allows you to manually track them using a status column. |
 | [Instapaper](https://github.com/Instapaper/obsidian-instapaper) | Instapaper integration. |
+| [Full Screen Toggle](https://github.com/DonkeyPacific/obsidian-full-screen-cross-platform-plugin) | Toggle fullscreen across all platforms. |
+| [Persistent Key-Value Store](https://github.com/iamrecursion/obsidian-pkvs) | Provides a persistent key-value store for use in scripts in Obsidian. |
