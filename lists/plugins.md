@@ -1398,3 +1398,12 @@
 | [Instapaper](https://github.com/Instapaper/obsidian-instapaper) | Instapaper integration. |
 | [Full Screen Toggle](https://github.com/DonkeyPacific/obsidian-full-screen-cross-platform-plugin) | Toggle fullscreen across all platforms. |
 | [Persistent Key-Value Store](https://github.com/iamrecursion/obsidian-pkvs) | Provides a persistent key-value store for use in scripts in Obsidian. |
+| [Settings profiles](https://github.com/4Source/settings-profiles-obsidian-plugin) | Allows you to create various global settings profiles. You can sync them between different vaults. To keep all your settings in sync, you'll never have to manually adjust them again for every vault you have or create in the future. |
+| [Font Size Adjuster](https://github.com/RyotaUshio/obsidian-font-size) | Adjust font size via commands. |
+| [Create Task](https://github.com/simonknittel/obsidian-create-task) | Create tasks faster from anywhere. |
+| [Timeline Schedule](https://github.com/Ebonsignori/obsidian-timeline-schedule) | Inline timelines generated from human-readable time strings, e.g. 'Walk dog (30min)' in a ```schedule codeblock. |
+| [cursor-goaway](https://github.com/liuxingyu521/obsidian-plugin-cursor-goaway) | Hide the cursor after opening a note |
+| [Continuous Mode](https://github.com/gasparschott/obsidian-continuous-mode) | Displays all open notes in a tab group as a continuous scrollable page (sometimes called Scrivenings mode). |
+| [Multi State CheckBox Switcher](https://github.com/KubaMiszcz/MultiStateCheckBoxSwitcher) | Click to handle multistate checkboxes. |
+| [Relay.md](https://github.com/relay-md/relay-md-obsidian-plugin) | Quickly and easily share notes with your team. Uses topics to limit reach so that only team members subscribed to your topics will automatically receive the shared notes straight into their vault! |
+| [InsightA](https://github.com/HongjianTang/obsidian-insighta) | Extract a set of atomic notes from a long article and create MOC by note title using LLM |
