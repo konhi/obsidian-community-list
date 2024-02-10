@@ -1407,3 +1407,14 @@
 | [Multi State CheckBox Switcher](https://github.com/KubaMiszcz/MultiStateCheckBoxSwitcher) | Click to handle multistate checkboxes. |
 | [Relay.md](https://github.com/relay-md/relay-md-obsidian-plugin) | Quickly and easily share notes with your team. Uses topics to limit reach so that only team members subscribed to your topics will automatically receive the shared notes straight into their vault! |
 | [InsightA](https://github.com/HongjianTang/obsidian-insighta) | Extract a set of atomic notes from a long article and create MOC by note title using LLM |
+| [Single File Daily Notes](https://github.com/pranavmangal/obsidian-single-file-daily-notes) | Create and manage daily notes in a single file. |
+| [Apple Books - Import Highlights](https://github.com/bandantonio/obsidian-apple-books-highlights-plugin) | Import your Apple Books highlights and notes to Obsidian. |
+| [RSS Copyist](https://github.com/aoout/obsidian-rss-copyist) | Get RSS articles as notes. |
+| [Orgmode (CM6)](https://github.com/bbazard/obsidian-orgmode-cm6) | Edit Orgmode files. |
+| [Vk group notifier](https://github.com/filichev-evgeny/obsidianvkupdatenotifier) | Track news posts from vk.com groups. |
+| [Pinyin Replacer](https://github.com/LarrySAL/pinyin-replacer) | Use the Pinyin tones without having to install extra keyboard layouts. |
+| [Markline](https://github.com/hotoo/obsidian-markline) | Timeline view from Markdown |
+| [Youtube Summarizer](https://github.com/ozdemir08/youtube-video-summarizer) | Summarize Youtube videos using ChatGPT 3.5. |
+| [UseSemaLogic](https://github.com/MM-GO/UseSemaLogic) | Real-time use of the SemaLogic formal language |
+| [Nested Daily Todos](https://github.com/thomasbrezinski/obsidian-nested-daily-todos) | Carry over incomplete todos from Daily Notes grouped by headers, with support for nesting and flexible todo states. |
+| [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu) | Enables context menu for vault root folder |
