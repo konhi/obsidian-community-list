@@ -1418,3 +1418,5 @@
 | [UseSemaLogic](https://github.com/MM-GO/UseSemaLogic) | Real-time use of the SemaLogic formal language |
 | [Nested Daily Todos](https://github.com/thomasbrezinski/obsidian-nested-daily-todos) | Carry over incomplete todos from Daily Notes grouped by headers, with support for nesting and flexible todo states. |
 | [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu) | Enables context menu for vault root folder |
+| [Daily note creator](https://github.com/mario-holubar/obsidian-daily-note-creator) | Automatically creates missing daily notes |
+| [Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) | Intermittent fasting tracker. |
