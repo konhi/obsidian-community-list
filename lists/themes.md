@@ -239,3 +239,4 @@
 | [HW9636/DarkNebulaObsidianTheme](https://github.com/HW9636/DarkNebulaObsidianTheme) | ![DarkNebula](https://raw.githubusercontent.com/HW9636/DarkNebulaObsidianTheme/master/thumbnail.png "") |
 | [DMeurer/improved-potato](https://github.com/DMeurer/improved-potato) | ![Improved Potato](https://raw.githubusercontent.com/DMeurer/improved-potato/master/images/image2.png "") |
 | [slavamak/obsidian-neovim](https://github.com/slavamak/obsidian-neovim) | ![Neovim](https://raw.githubusercontent.com/slavamak/obsidian-neovim/master/screenshot.png "") |
+| [isax785/obsidian-sparkling-day](https://github.com/isax785/obsidian-sparkling-day) | ![Sparkling Day](https://raw.githubusercontent.com/isax785/obsidian-sparkling-day/master/img/sparkling_day_small.png "") |

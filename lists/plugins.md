@@ -1420,3 +1420,6 @@
 | [Root Folder Context Menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu) | Enables context menu for vault root folder |
 | [Daily note creator](https://github.com/mario-holubar/obsidian-daily-note-creator) | Automatically creates missing daily notes |
 | [Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) | Intermittent fasting tracker. |
+| [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab) | Creates a customizable new tab view with beautiful backgrounds, quotes, search, and more. |
+| [Consecutive Lists](https://github.com/jtucker2/obsidian-consecutive-lists) | Create consecutive lists that are displayed separately in reading mode. |
+| [Alt-Click to Copy](https://github.com/veersheth/obsidian-alt-click-to-copy) | Alt-click on codeblocks to copy its data to the clipboard |
