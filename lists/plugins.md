@@ -1423,3 +1423,13 @@
 | [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab) | Creates a customizable new tab view with beautiful backgrounds, quotes, search, and more. |
 | [Consecutive Lists](https://github.com/jtucker2/obsidian-consecutive-lists) | Create consecutive lists that are displayed separately in reading mode. |
 | [Alt-Click to Copy](https://github.com/veersheth/obsidian-alt-click-to-copy) | Alt-click on codeblocks to copy its data to the clipboard |
+| [Hatena Blog Publisher](https://github.com/takmatsukawa/obsidian-hatena) | Post directly to your Hatena Blog. |
+| [Reason](https://github.com/jshph/obsidian-reason) | REASON: Retrieve, Extract, And Synthesize Obsidian Notes |
+| [iCloud Contacts](https://github.com/Trulsaa/obsidian-icloud-contacts) | Imports contacts from iCloud and manages a note for each contact. |
+| [Dynamic Text Concealer](https://github.com/mattcoleanderson/obsidian-dynamic-text-concealer) | Conceal or replace user-configured text patterns in Live Preview and reading mode. |
+| [Timelines (Revamped)](https://github.com/seanlowe/obsidian-timelines) | Generate a chronological timeline in which all 'events' are notes that include a specific tag or set of tags. |
+| [Gemini Assistant](https://github.com/eatgrass/obsidian-gemini-assistant) | Your Gemini AI assistant |
+| [Canvas Daily Note](https://github.com/andrewmcgivery/obsidian-canvas-dailynote) | Add a daily note node to the canvas that will always show today's note. |
+| [Contribution Graph](https://github.com/vran-dev/obsidian-contribution-graph) | Generate an interactive heatmap to visualize and track your productivity. |
+| [Journals](https://github.com/srg-kostyrko/obsidian-journal) | Manage your journals. |
+| [Mathematica Plot](https://github.com/MarcosNicolau/obsidian-mathematica-plot) | Render graphs using Wolfram Mathematica code. |
