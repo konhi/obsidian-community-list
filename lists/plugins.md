@@ -1433,3 +1433,10 @@
 | [Contribution Graph](https://github.com/vran-dev/obsidian-contribution-graph) | Generate an interactive heatmap to visualize and track your productivity. |
 | [Journals](https://github.com/srg-kostyrko/obsidian-journal) | Manage your journals. |
 | [Mathematica Plot](https://github.com/MarcosNicolau/obsidian-mathematica-plot) | Render graphs using Wolfram Mathematica code. |
+| [Evernote Decryptor](https://github.com/rcmdnk/obsidian-evernote-decryptor) | Manage encrypted data imported from Evernote. |
+| [Arrows](https://github.com/artisticat1/arrows) | Draw arrows across different parts of your notes, similar to on paper. |
+| [Outline++](https://github.com/RyotaUshio/obsidian-outline-plus) | Render Markdown inside the outline view. |
+| [Better Order List](https://github.com/quorafind/obsidian-better-order-list) | Support new line order list like 1、 or (1)., etc. |
+| [Templated daily notes](https://github.com/digitorum/obsidian-templayted-daily-notes) | Create daily notes with a specified template according to the described settings. |
+| [Aloud](https://github.com/adrianlyjak/obsidian-aloud-tts) | Speak text from your notes. Converts text to speech in real-time using lifelike voices from OpenAI. |
+| [Better Export PDF](https://github.com/l1xnan/obsidian-better-export-pdf) | Export your notes to PDF, supports export preview, add bookmarks outline and header/footer. |
