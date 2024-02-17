@@ -1440,3 +1440,8 @@
 | [Templated daily notes](https://github.com/digitorum/obsidian-templayted-daily-notes) | Create daily notes with a specified template according to the described settings. |
 | [Aloud](https://github.com/adrianlyjak/obsidian-aloud-tts) | Speak text from your notes. Converts text to speech in real-time using lifelike voices from OpenAI. |
 | [Better Export PDF](https://github.com/l1xnan/obsidian-better-export-pdf) | Export your notes to PDF, supports export preview, add bookmarks outline and header/footer. |
+| [Days Since](https://github.com/gndclouds/days-since-obsidian) | Relive and celebrate your life's milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories. |
+| [My Bible](https://github.com/GsLogiMaker/my-bible-obsidian-plugin) | Your own customizable markdown bible for your personal vault! |
+| [Bible linker Pro](https://github.com/Floydv149/bibleLinkerPro) | Converts Bible texts to JW Library links |
+| [Protected Note](https://github.com/mmiksaa/obsidian-protected-note) | Set password and protect your notes from other people. |
+| [Status Bar Organizer](https://github.com/Opisek/obsidian-statusbar-organizer) | Rearrange and hide status bar elements. |
