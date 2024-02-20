@@ -1332,7 +1332,7 @@
 | [Word Bank](https://github.com/TannYuld/WordBank) | Create a word library from your word files. |
 | [Disk Usage](https://github.com/Promptier/disk-usage) | Measure disk usage for tracking size of folders and file types. |
 | [Attachment Uploader](https://github.com/zhuxining/obsidian-attachment-uploader) | Upload attachments to PicSee or uPic, with customization for commands and file type. |
-| [Formatto](https://github.com/decaplanet/formatto) | Format your Markdown document. |
+| [Formatto](https://github.com/polyecho/formatto) | Format your Markdown document. |
 | [ChatCBT](https://github.com/clairefro/obsidian-chat-cbt-plugin) | AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT). |
 | [Daily ICalendar](https://github.com/mmmykhailo/obsidian-daily-icalendar) | View calendar events in daily notes. |
 | [Auto-\displaystyle Inline Math](https://github.com/RyotaUshio/obsidian-auto-displaystyle-inline-math) | Automatically make all inline math \displaystyle. |
@@ -1445,3 +1445,21 @@
 | [Bible linker Pro](https://github.com/Floydv149/bibleLinkerPro) | Converts Bible texts to JW Library links |
 | [Protected Note](https://github.com/mmiksaa/obsidian-protected-note) | Set password and protect your notes from other people. |
 | [Status Bar Organizer](https://github.com/Opisek/obsidian-statusbar-organizer) | Rearrange and hide status bar elements. |
+| [Image Inline](https://github.com/ZackaryW/obsidian-image-inline) | Paste your image without attachment files |
+| [Task list](https://github.com/ted-marozzi/task-list) | Enable better task management via lists. |
+| [Share my plugin list](https://github.com/Benature/obsidian-share-my-plugin-list) | Share the enabled plugins in list/table format. |
+| [GPG Encrypt](https://github.com/lajg-dev/obsidian-plugin-gpg-inline-encrypt) | GPG encrypt inline text using hotkeys |
+| [Smart Second Brain](https://github.com/nicobrauchtgit/obsidian-Smart2Brain) | Interact with your privacy focused assistant by leveraging Ollama or OpenAI and making your second brain even smarter. |
+| [GitHub Sync](https://github.com/kevinmkchin/Obsidian-GitHub-Sync) | Sync vault to personal GitHub. |
+| [Kindle Highlights Importer](https://github.com/l2xu/kindle_html_importer) | Imports the kindle highlights from the html file (you get from the kindle app) into a note. |
+| [Tag Formatter](https://github.com/snsvrno/snsvrno-short-tags) | Gives more options on how to display tags in preview mode. |
+| [Journalyst](https://github.com/Justin-Arnold/Journalyst) | Journalyst enables easy creation of topic-specific journals. Organize your life into categories like sleep, routines, or work, with daily or recurring entries for effortless tracking and reflection. |
+| [Wypst](https://github.com/0xpapercut/obsidian-wypst) | Render math blocks with Typst |
+| [TV tracker](https://github.com/Shreshth-mehra/Obsidian-TV-Tracker) | A movie and TV show tracker. |
+| [Autogen](https://github.com/AidanTilgner/AutogenObsidianPlugin) | In place autogeneration of content based on prompts within notes |
+| [Broken Links](https://github.com/ipshing/obsidian-broken-links) | Find broken links in your vault that don't connect to notes. |
+| [Image Collector](https://github.com/tdaykin/obsidian_image_collector) | Collects all images from current note and saves them to a new folder |
+| [Set View Mode per Note](https://github.com/AlexDavies8/obsidian-frontmatter-viewmode) | Use YAML frontmatter to specify a view mode per note. |
+| [WordWise](https://github.com/ckt1031/obsidian-wordwise-plugin) | Writing companion for AI content generation. |
+| [Git Integration](https://github.com/noradroid/obsidian-git-integration) | Easily backup vault on a remote repository. |
+| [GitHub Link](https://github.com/nathonius/obsidian-github-link) | Enrich your notes with issue and pull request content from GitHub. |
