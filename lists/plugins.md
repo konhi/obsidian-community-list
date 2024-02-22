@@ -1449,7 +1449,7 @@
 | [Task list](https://github.com/ted-marozzi/task-list) | Enable better task management via lists. |
 | [Share my plugin list](https://github.com/Benature/obsidian-share-my-plugin-list) | Share the enabled plugins in list/table format. |
 | [GPG Encrypt](https://github.com/lajg-dev/obsidian-plugin-gpg-inline-encrypt) | GPG encrypt inline text using hotkeys |
-| [Smart Second Brain](https://github.com/nicobrauchtgit/obsidian-Smart2Brain) | Interact with your privacy focused assistant by leveraging Ollama or OpenAI and making your second brain even smarter. |
+| [Smart Second Brain](https://github.com/your-papa/obsidian-Smart2Brain) | Interact with your privacy focused assistant by leveraging Ollama or OpenAI and making your second brain even smarter. |
 | [GitHub Sync](https://github.com/kevinmkchin/Obsidian-GitHub-Sync) | Sync vault to personal GitHub. |
 | [Kindle Highlights Importer](https://github.com/l2xu/kindle_html_importer) | Imports the kindle highlights from the html file (you get from the kindle app) into a note. |
 | [Tag Formatter](https://github.com/snsvrno/snsvrno-short-tags) | Gives more options on how to display tags in preview mode. |
@@ -1463,3 +1463,5 @@
 | [WordWise](https://github.com/ckt1031/obsidian-wordwise-plugin) | Writing companion for AI content generation. |
 | [Git Integration](https://github.com/noradroid/obsidian-git-integration) | Easily backup vault on a remote repository. |
 | [GitHub Link](https://github.com/nathonius/obsidian-github-link) | Enrich your notes with issue and pull request content from GitHub. |
+| [Simple File Push](https://github.com/huedaya/obsidian-simple-file-push) | Push Markdown file to API endpoint. |
+| [Paste transform](https://github.com/rekby/obsidian-paste-transform) | Modify text from the clipboard by regexp rules |
