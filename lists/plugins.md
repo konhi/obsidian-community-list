@@ -1466,3 +1466,17 @@
 | [GitHub Link](https://github.com/nathonius/obsidian-github-link) | Enrich your notes with issue and pull request content from GitHub. |
 | [Simple File Push](https://github.com/huedaya/obsidian-simple-file-push) | Push Markdown file to API endpoint. |
 | [Paste transform](https://github.com/rekby/obsidian-paste-transform) | Modify text from the clipboard by regexp rules |
+| [MemoryLane](https://github.com/bangca85/obsidian-memorylane-plugin) | Relive and celebrate your life's milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories. |
+| [Copy as source](https://github.com/gapmiss/copy-as-source) | Select and copy source HTML in reading view. |
+| [Alfonso Money Manager](https://github.com/smartlife-gpt/alfonso-money-manager-obsidian) | Alfonso Money Manager data viewer and financial analytics tool |
+| [PDF++](https://github.com/RyotaUshio/obsidian-pdf-plus) | The most Obsidian-native PDF annotation tool ever. |
+| [Go Up](https://github.com/JinMuGo/obsidian-go-up) | Quickly navigate to a specified "parent" page |
+| [Format with Prettier](https://github.com/alexgavrusev/obsidian-format-with-prettier) | Format files in your vault using Prettier. |
+| [Image Magician](https://github.com/luxmargos/obsidian-image-magician-plugin) | Supports viewing and exporting various image formats using ImageMagick. |
+| [Graphs](https://github.com/DylanHojnoski/obsidian-graphs) | Create interactive graphs by writing YAML |
+| [CardNote](https://github.com/cycsd/obsidian-card-note) | Quickly extract your thoughts in the Canvas and Excalidraw. |
+| [Simple Image Inserter](https://github.com/jdholtz/obsidian-image-inserter) | Add images from the file system into notes through a built-in file picker. |
+| [Graph Link Types](https://github.com/natefrisch01/Graph-Link-Types) | Link types for graph view. |
+| [Fix Require Modules](https://github.com/mnaoumov/obsidian-fix-require-modules) | Fixes `require()` calls for the built-in modules |
+| [Auto Definition Link](https://github.com/nmcarp99/obsidian-auto-definition-link) | Automatically converts text to definition links within the current folder when you type them. |
+| [Chord Sheets](https://github.com/olvidalo/obsidian-chord-sheets) | Work with chord sheets (chords over lyrics) in your vault: Chord diagrams, transpose, autoscroll and more. Works in Live Preview and reading mode. |
