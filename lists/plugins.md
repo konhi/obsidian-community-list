@@ -469,7 +469,7 @@
 | [Novel Word Count](https://github.com/isaaclyman/novel-word-count-obsidian) | Display a word count, page count, creation date, or other statistics for each file, folder and vault in the File Explorer pane. |
 | [Navigate Cursor History](https://github.com/heycalmdown/navigate-cursor-history) | Remember the recent cursor position history and jump back and forth like VS Code. |
 | [Matrix](https://github.com/MohrJonas/obsidian-matrix) | Utility to easily create LaTeX matrices. |
-| [Waypoint](https://github.com/IdreesInc/Waypoint) | Easily generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags! |
+| [Waypoint](https://github.com/IdreesInc/Waypoint) | Easily generate dynamic MOCs in your folder notes using waypoints. Enables folders to show up in the graph view and removes the need for messy tags! |
 | [Hover Editor](https://github.com/nothingislost/obsidian-hover-editor) | Transform the Page Preview hover popover into a fully working editor instance. |
 | [Screwdriver](https://github.com/vrtmrz/obsidian-screwdriver) | Utility to put any files in and out under your vault. |
 | [Version History Diff (Sync, File Recovery & Git)](https://github.com/kometenstaub/obsidian-version-history-diff) | Diff the version history of the core Sync and File Recovery plugins and Git for the active file. Adds a command to open the core Sync version history as well. |
@@ -1480,3 +1480,18 @@
 | [Fix Require Modules](https://github.com/mnaoumov/obsidian-fix-require-modules) | Fixes `require()` calls for the built-in modules |
 | [Auto Definition Link](https://github.com/nmcarp99/obsidian-auto-definition-link) | Automatically converts text to definition links within the current folder when you type them. |
 | [Chord Sheets](https://github.com/olvidalo/obsidian-chord-sheets) | Work with chord sheets (chords over lyrics) in your vault: Chord diagrams, transpose, autoscroll and more. Works in Live Preview and reading mode. |
+| [Enhanced tables](https://github.com/pistacchio/obsidian-enhanced-tables) | Add programmable controls to selected tables. |
+| [Folders to Graph](https://github.com/Ratibus11/folders2graph) | Display your vault folder structure into your graphs. |
+| [Lean Syntax Highlight](https://github.com/tomaz1502/lean-syntax-highlight) | Provides live syntax highlight for the Lean programming language |
+| [AI Tagger](https://github.com/lucagrippa/obsidian-ai-tagger) | Simplify tagging. Instantly analyze and tag your document with one click for efficient note organization. OpenAI API key required. |
+| [Quiz Generator](https://github.com/ECuiDev/obsidian-quiz-generator) | Generate interactive quizzes from your notes using OpenAI's GPT-3.5 and GPT-4 models. |
+| [MarkdownSpace Publish](https://github.com/markdown-space/markdownspace-obsidian-plugin) | Publish your documents to MarkdownSpace and they instantly become a website. |
+| [Goban SGF](https://github.com/StinsonZhao/obsidian-plugin-goban-sgf) | Record Go games (SGF format goban). |
+| [Display Relative Path Img](https://github.com/dyc2424748461/obsidian-display-relative-path-img) | Display the image of the <img> tag |
+| [Metadata Icon](https://github.com/Benature/obsidian-metadata-icon) | Set custom icons for your properties. |
+| [AI File Organizer 2000](https://github.com/different-ai/file-organizer-2000) | Automatically organize notes, annotate photos and audio using AI. |
+| [Spotify API](https://github.com/Darren-project/obsidian-spotify) | Exposes Spotify API |
+| [PF2e Statblocks](https://github.com/pixley/pf2e-statblock-for-obsidian) | Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax. |
+| [Canvas Link Optimizer](https://github.com/khaelar/obsidian-canvas-link-optimizer) | Optimize Canvas links by displaying a page thumbnail. |
+| [Inline Admonitions](https://github.com/scottTomaszewski/obsidian-inline-admonitions) | Inline callouts to make text pop. |
+| [Filtered Opener](https://github.com/Balibaloo/obsidian-picker) | Open notes and folders, chose from sets defined by filters. |
