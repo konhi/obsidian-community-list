@@ -1495,3 +1495,12 @@
 | [Canvas Link Optimizer](https://github.com/khaelar/obsidian-canvas-link-optimizer) | Optimize Canvas links by displaying a page thumbnail. |
 | [Inline Admonitions](https://github.com/scottTomaszewski/obsidian-inline-admonitions) | Inline callouts to make text pop. |
 | [Filtered Opener](https://github.com/Balibaloo/obsidian-picker) | Open notes and folders, chose from sets defined by filters. |
+| [Todoist Review](https://github.com/imcauley/todoist-review) | A pane for reviewing overdue tasks from todoist |
+| [Image to text OCR](https://github.com/dario-baumberger/obsidian-image-to-text-ocr) | Convert a image in your note to text. |
+| [PDF break page](https://github.com/corentin-godefroy/Obsidian-BreakPage) | Add shortkey and command to insert a break page formating for pdf exports. |
+| [Tiff Viewer](https://github.com/ullmannJan/obsidian-tiff-viewer) | View .tif(f) files by generating duplicates in form of .tif(f).png |
+| [Seafile](https://github.com/conql/obsidian-seafile) | Sync notes across devices using Seafile. |
+| [Select & Complete](https://github.com/macro21KGB/select-and-complete) | Select something and let the AI complete it for you. |
+| [Plugin Reloader](https://github.com/Benature/obsidian-plugin-reloader) | Manually reload plugins. |
+| [Track-a-Lot](https://github.com/revolter/obsidian-track-a-lot-plugin) | Scrapes different webpages, builds lists with the items as Markdown tables, and allows you to track their status. |
+| [Ego Rock](https://github.com/echo-bravo-yahoo/ego-rock) | A basic taskwarrior UI for listing and modifying tasks. |
