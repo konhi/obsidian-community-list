@@ -1504,3 +1504,22 @@
 | [Plugin Reloader](https://github.com/Benature/obsidian-plugin-reloader) | Manually reload plugins. |
 | [Track-a-Lot](https://github.com/revolter/obsidian-track-a-lot-plugin) | Scrapes different webpages, builds lists with the items as Markdown tables, and allows you to track their status. |
 | [Ego Rock](https://github.com/echo-bravo-yahoo/ego-rock) | A basic taskwarrior UI for listing and modifying tasks. |
+| [Augmented Canvas](https://github.com/MetaCorp/obsidian-augmented-canvas) | Augment Canvas with AI features. |
+| [Prompt ChatGPT](https://github.com/Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian) | Send templated prompts to ChatGPT when you open a file. |
+| [Canvas Mindmap Helper](https://github.com/tim-smart/obsidian-canvas-mindmap) | Make the Canvas work like a mindmap. |
+| [Advanced Canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) | Supercharge your canvas experience. Create presentations, flowcharts and more. |
+| [Quadro](https://github.com/chrisgrieser/obsidian-quadro) | Qualitative Data Analysis (QDA) for Social Scientists. An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes. |
+| [Enhanced Annotations](https://github.com/ycnmhd/obsidian-enhanced-annotations) | Add a sidebar view for comments and highlights. |
+| [Pomodoro Widget](https://github.com/bitegw/obsidian-pomodoro-widget) | Provides a widget based on a pomodoro kitchen timer. It's designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled. |
+| [Yesterday](https://github.com/dominikmayer/obsidian-yesterday) | Transforms Obsidian into a visually stunning diary. |
+| [Gitlab Wiki Exporter](https://github.com/jrabmer/obsidian-to-gitlab-wiki) | Makes your entire vault Gitlab Wiki compatible and exports it to a specified location. |
+| [MBlog Publish](https://github.com/kingwrcy/obsidian-mblog) | 通过Obsidian发布文章到MBlog平台 |
+| [Text Focus](https://github.com/usysrc/obsidian-text-focus-plugin) | Focus the text area when creating new notes |
+| [Tab Shifter](https://github.com/jsrozner/obsidian-tab-shifter) | Enables shifting tabs between different tab splits |
+| [Alias Management](https://github.com/WithMarcel/alias-management) | Identify duplicate notes based on similar aliases and filenames. |
+| [historica](https://github.com/nhannht/obsidian-historica) | Intelligently generates timeline from your content |
+| [Date Inserter](https://github.com/namikaze-40p/obsidian-date-inserter) | Insert a date at the cursor position using a calendar. |
+| [Tekken Notation](https://github.com/OpTi9/obsidian-tekken-notation) | Renders Tekken Notation. |
+| [MantouAI](https://github.com/ravenSanstete/Obsidian-MantouAI) | Work as a personal assistant for translation, writing polish, general Q&A, summarizing, using the power of large language models. |
+| [Pomodoro Planner](https://github.com/onesvat/obsidian-pomodoro-planner) | Generates a pomodoro schedule plan. |
+| [BookFusion](https://github.com/BookFusion/obsidian-plugin) | Import your BookFusion highlights & annotations into your vault. |
