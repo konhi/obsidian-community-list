@@ -221,7 +221,7 @@
 | [Kroki](https://github.com/gregzuro/obsidian-kroki) | Render Kroki diagrams. |
 | [Timeline](https://github.com/George-debug/obsidian-timeline) | Build great timelines. |
 | [Map View](https://github.com/esm7/obsidian-map-view) | An interactive map view for your notes. |
-| [Copy Image and URL context menu](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy Image, Copy URL and Open PDF externally context menu in reading view. |
+| [Image Context Menus](https://github.com/NomarCub/obsidian-copy-url-in-preview) | Copy, open in default app, show in system explorer, reveal in navigation context menu for images. Also Open PDF externally context menu. |
 | [Initiative Tracker](https://github.com/javalent/initiative-tracker) | TTRPG initiative tracker. |
 | [Cursor Location](https://github.com/spslater/obsidian-cursor-location-plugin) | Display the location of the cursor (character and line number). |
 | [Enhancing Mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) | Edit mindmaps with Markdown. |
@@ -334,7 +334,6 @@
 | [Limelight](https://github.com/smikula/obsidian-limelight) | Spotlight your active pane. |
 | [Prompt](https://github.com/hungsu/obsidian-prompt) | Show inspirational prompts, from a prompt file in your vault. |
 | [Link Archive](https://github.com/tomzorz/obsidian-link-archive) | Archive links in your note so they're available to you even if the original site goes down or gets removed. |
-| [Chess](https://github.com/pmorim/obsidian-chess) | All you need to create your chess-related notes. |
 | [HTML Tags Autocomplete](https://github.com/bicarlsen/obsidian_html_tags_autocomplete) | Automatically add closing HTML tags. |
 | [Advanced Cursors](https://github.com/SkepticMystic/advanced-cursors) | Use multiple cursors even more powerfully. |
 | [Stenography](https://github.com/bramses/stenography-obsidian) | Translate code blocks into simple English using Machine Learning with the Stenography API. |
@@ -993,7 +992,6 @@
 | [Financial Doc](https://github.com/yet-another-tool/obsidian-findoc) | Financial documentation and tracking using CSV format and Chart.js. |
 | [File Include](https://github.com/tillahoffmann/obsidian-file-include) | Include or embed files in Obsidian Markdown. |
 | [Vault Chat](https://github.com/exoascension/vault-chat) | A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas! |
-| [Memos Sync](https://github.com/hyoban/obsidian-memos-plugin) | Keep in sync with your memos. |
 | [Mermaid Themes](https://github.com/jvsteiner/mermaid-themes) | Alternate support for mermaid.js that supports theming and customization. |
 | [Background Image](https://github.com/shmolf/obsidian-editor-background) | Specify a remote URL as the background image, and a few settings to tweak the experience. |
 | [Html Server](https://github.com/Pr0dt0s/obsidian-html-server) | Spin up a local http server to access your vault via a web browser. |
@@ -1395,7 +1393,6 @@
 | [GitHobs](https://github.com/GabAlpha/obsidian-githobs) | Use Obsidian as Github issue editor with logic taken from Git |
 | [Soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) | Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration |
 | [Paste From History](https://github.com/Karakaz/obsidian-paste-from-history) | Paste from the editor's recent clipboard history. |
-| [Hanayama Huzzles Tracker](https://github.com/revolter/obsidian-hanayama-huzzles-tracker-plugin) | This scrapes the Hanayama Huzzle webpage builds a Markdown table with the information, and allows you to manually track them using a status column. |
 | [Instapaper](https://github.com/Instapaper/obsidian-instapaper) | Instapaper integration. |
 | [Full Screen Toggle](https://github.com/DonkeyPacific/obsidian-full-screen-cross-platform-plugin) | Toggle fullscreen across all platforms. |
 | [Persistent Key-Value Store](https://github.com/iamrecursion/obsidian-pkvs) | Provides a persistent key-value store for use in scripts in Obsidian. |
@@ -1511,7 +1508,7 @@
 | [Quadro](https://github.com/chrisgrieser/obsidian-quadro) | Qualitative Data Analysis (QDA) for Social Scientists. An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes. |
 | [Enhanced Annotations](https://github.com/ycnmhd/obsidian-enhanced-annotations) | Add a sidebar view for comments and highlights. |
 | [Pomodoro Widget](https://github.com/bitegw/obsidian-pomodoro-widget) | Provides a widget based on a pomodoro kitchen timer. It's designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled. |
-| [Yesterday](https://github.com/dominikmayer/obsidian-yesterday) | Transforms Obsidian into a visually stunning diary. |
+| [Yesterday](https://github.com/dominikmayer/obsidian-yesterday) | Transform your notes into a visually stunning diary, integrating dialogs, chat logs, and media content blocks for a seamless journaling experience. |
 | [Gitlab Wiki Exporter](https://github.com/jrabmer/obsidian-to-gitlab-wiki) | Makes your entire vault Gitlab Wiki compatible and exports it to a specified location. |
 | [MBlog Publish](https://github.com/kingwrcy/obsidian-mblog) | 通过Obsidian发布文章到MBlog平台 |
 | [Text Focus](https://github.com/usysrc/obsidian-text-focus-plugin) | Focus the text area when creating new notes |
@@ -1523,3 +1520,20 @@
 | [MantouAI](https://github.com/ravenSanstete/Obsidian-MantouAI) | Work as a personal assistant for translation, writing polish, general Q&A, summarizing, using the power of large language models. |
 | [Pomodoro Planner](https://github.com/onesvat/obsidian-pomodoro-planner) | Generates a pomodoro schedule plan. |
 | [BookFusion](https://github.com/BookFusion/obsidian-plugin) | Import your BookFusion highlights & annotations into your vault. |
+| [Mxmind Mindmap](https://github.com/webceoboy/mxmind-obsidian) | Convert Markdown files to a mind map,mind map editor. |
+| [Contextual Sidecar](https://github.com/matthewturk/obsidian-sidecar-panel) | Add a context-dependent sidecar panel. |
+| [Differential ZIP Backup](https://github.com/vrtmrz/diffzip) | Back our vault up with lesser storage. |
+| [Media Notes](https://github.com/jemstelos/obsidian-media-notes) | Take notes on YouTube videos and podcasts with media controls and timestamps. |
+| [Cooklang](https://github.com/rveciana/obsidian-cooklang) | Display and edit recipes written in the Cooklang format. |
+| [Contextual note templating](https://github.com/Balibaloo/obsidian-local-template-configuration) | Prompts for values and templates to create notes. |
+| [Vault Transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) | Transfers a note from one vault to another. |
+| [Movie Search](https://github.com/Gubchik123/obsidian-movie-search-plugin) | Helps you find movies and create notes. |
+| [View Count](https://github.com/trey-wallis/obsidian-view-count) | Tracks view count for each vault file. |
+| [Notification Controller](https://github.com/juan-miii/obsidian-notice-plugin) | Manages notifications at startup. |
+| [Calendarium](https://github.com/javalent/calendarium) | Craft mind-bending fantasy and sci-fi calendars. |
+| [Confluence Sync](https://github.com/kerry/obsidian-confluence-sync) | Sync notes with Confluence |
+| [Persian Calendar](https://github.com/maleknejad/obsidian-persian-calendar) | Persian Calendar for managing periodic notes based on persian solar (shamsi) calendar. |
+| [Daily Note Navbar](https://github.com/karstenpedersen/obsidian-daily-note-navbar) | Navigate between sequential daily notes with ease. |
+| [Orion Publish](https://github.com/seanrcollings/orion-publish-plugin) | Quickly and easily publish your notes to the web with Orion Publish. |
+| [Gistr](https://github.com/Aetherinox/obsidian-gistr) | Integrate OpenGist and Github gist snippets in your notes. |
+| [Things3 Today](https://github.com/wudanyang6/obsidian-things3-today) | Manage today's tasks with Things3. |
