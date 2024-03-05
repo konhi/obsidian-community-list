@@ -1537,3 +1537,4 @@
 | [Orion Publish](https://github.com/seanrcollings/orion-publish-plugin) | Quickly and easily publish your notes to the web with Orion Publish. |
 | [Gistr](https://github.com/Aetherinox/obsidian-gistr) | Integrate OpenGist and Github gist snippets in your notes. |
 | [Things3 Today](https://github.com/wudanyang6/obsidian-things3-today) | Manage today's tasks with Things3. |
+| [Command Block List](https://github.com/RyotaUshio/obsidian-command-block-list) | Hide unwanted commands from the command palette. |
