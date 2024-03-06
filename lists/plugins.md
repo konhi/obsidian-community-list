@@ -716,7 +716,7 @@
 | [Sync Graph Settings](https://github.com/Xallt/sync-graph-settings) | Sync global graph settings (like color groups) to local graphs. |
 | [Writing](https://github.com/johackim/obsidian-writing) | Write and format your next book. |
 | [Transcription](https://github.com/djmango/obsidian-transcription) | Create high-quality transcriptions via Whisper from Markdown linked audio files. |
-| [Mindmap Nextgen](https://github.com/verocloud/obsidian-mindmap-nextgen) | Preview notes as Markmap mind maps. |
+| [Mindmap Nextgen](https://github.com/james-tindal/obsidian-mindmap-nextgen) | Preview notes as Markmap mind maps. |
 | [External Link Opener](https://github.com/zorazrr/obsidian-link-opener) | Open external links using a modal or a tab. |
 | [Clipper](https://github.com/jgchristopher/obsidian-clipper) | Capture highlights from the web. |
 | [ProZen](https://github.com/cmoskvitin/obsidian-prozen) | Enter Zen mode to focus on writing. The plugin expands current tab to full screen removing everything but content. |
@@ -1538,3 +1538,8 @@
 | [Gistr](https://github.com/Aetherinox/obsidian-gistr) | Integrate OpenGist and Github gist snippets in your notes. |
 | [Things3 Today](https://github.com/wudanyang6/obsidian-things3-today) | Manage today's tasks with Things3. |
 | [Command Block List](https://github.com/RyotaUshio/obsidian-command-block-list) | Hide unwanted commands from the command palette. |
+| [Crafty](https://github.com/liolle/Crafty) | Add tooltip to any canvas node and quickly navigate between canvas nodes. |
+| [Color cycler](https://github.com/tjbrennan/obsidian-color-cycler) | Dynamically change the accent color of the theme. |
+| [Markmap to CSV](https://github.com/pj4316/markmap-to-csv-obsidian) | Converts Markmap data to CSV format. |
+| [Ear Training](https://github.com/shiwer/ear-training-obsidian-plugin) | Get ear training exercises inside your vault. |
+| [Hugo codeblock highlight](https://github.com/aarol/obsidian-hugo-codeblock-highlight) | Highlights lines in code blocks using Hugo's hl_lines syntax. |
