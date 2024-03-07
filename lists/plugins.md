@@ -1314,7 +1314,7 @@
 | [Omg.publish](https://github.com/MayMeow/obsidian-omglol-statuslog) | Post selected text to OMG.lol statuslog. |
 | [Local GraphQL](https://github.com/TwIStOy/obsidian-local-graphql) | Export Obsidian data as a local GraphQL server. |
 | [Feeds](https://github.com/lukemt/obsidian-feeds) | Create feeds of topic-specific bullet points. |
-| [Spotify Links](https://github.com/cutaiar/obsidian-spotify-links) | Insert a link to the song currently playing on your Spotify. |
+| [Song Links](https://github.com/cutaiar/obsidian-song-links) | Insert a link to the song currently playing on your Spotify. |
 | [Hunchly](https://github.com/shadowoption/Hunchly-obsidian-plugin) | Import notes and images from Hunchly. |
 | [tckr](https://github.com/Git-Sum/obsidian-tckr) | Get your TickTicks! |
 | [Periodic Table](https://github.com/Jake-Cramer/Periodic-Table-Obsidian) | View a periodic table of elements in the sidebar. |
@@ -1543,3 +1543,7 @@
 | [Markmap to CSV](https://github.com/pj4316/markmap-to-csv-obsidian) | Converts Markmap data to CSV format. |
 | [Ear Training](https://github.com/shiwer/ear-training-obsidian-plugin) | Get ear training exercises inside your vault. |
 | [Hugo codeblock highlight](https://github.com/aarol/obsidian-hugo-codeblock-highlight) | Highlights lines in code blocks using Hugo's hl_lines syntax. |
+| [Node Screenshot](https://github.com/istfredy/obsidian-canvas-node-screenshot) | Capture node effortlessly with precision screenshot. |
+| [Line Commands](https://github.com/charliecm/obsidian-line-commands) | Adds commands to quickly select, copy, cut, and paste lines under the selection or cursor. |
+| [Title renamer](https://github.com/stroiman/obsidian-title-sync) | Keep top heading in note synced with file name. |
+| [Markdown Media Card](https://github.com/zhouhua/obsidian-markdown-media-card) | Insert media information cards in Markdown, such as books, music, movies, etc. |
