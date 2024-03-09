@@ -1547,3 +1547,5 @@
 | [Line Commands](https://github.com/charliecm/obsidian-line-commands) | Adds commands to quickly select, copy, cut, and paste lines under the selection or cursor. |
 | [Title renamer](https://github.com/stroiman/obsidian-title-sync) | Keep top heading in note synced with file name. |
 | [Markdown Media Card](https://github.com/zhouhua/obsidian-markdown-media-card) | Insert media information cards in Markdown, such as books, music, movies, etc. |
+| [Canvas minimap](https://github.com/ifree/Obsidian-canvas-minimap) | Obsidian Canvas minimap support. |
+| [Fit](https://github.com/joshuakto/fit) | Minimalist File gIT (FIT) to sync your files across mobile and desktop devices using GitHub. |
