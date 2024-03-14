@@ -1053,7 +1053,7 @@
 | [Simple CanvaSearch](https://github.com/ddalexb/obsidian-simple-canvasearch) | Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas. |
 | [ZettelGPT](https://github.com/OverRaddit/ZettelGPT) | Effortlessly generate context-aware answers from ChatGPT, while maintaining a visually clear and organized conversation history. |
 | [Invio](https://github.com/frontend-engineering/Invio) | Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online. |
-| [Periodic PARA](https://github.com/quanru/obsidian-periodic-para) | Assist in practicing the PARA method with periodic notes and usememos. |
+| [LifeOS](https://github.com/quanru/obsidian-periodic-para) | Life management system. |
 | [Source Scanner](https://github.com/gerrie-myburgh/source-scanner) | Scanner that extracts comments from source and places it in Markdown files. |
 | [Markdown to Slack Message](https://github.com/idreamer/markdown-to-slack-message) | Convert a Markdown note to the Slack message blocks that enable you to send to Slack. |
 | [Micro templates](https://github.com/epszaw/obsidian-micro-templates) | Flexible embedded micro templates powered by Javascript functions. |
@@ -1556,3 +1556,7 @@
 | [Default query in backlinks](https://github.com/Benature/obsidian-default-query-in-backlink) | Automatically input default query in search input of backlinks in document. |
 | [Metafolders](https://github.com/makary-s/obsidian-metafolders) | Multidimensional note navigation. |
 | [Spellcheck Toggler](https://github.com/julzerinos/spellcheck-toggler-obsidian-plugin) | Toggle spellchecking for types of text blocks in the editing view. |
+| [Simsapa](https://github.com/simsapa/simsapa-obsidian) | Pāli dictionary and sutta search using Simsapa Dhamma Reader. Open a sidebar or double-click to lookup Pāli words in the dictionary, or search in the suttas. |
+| [Project Browser](https://github.com/daledesilva/obsidian_project-browser) | Replaces your new tab window with a browseable list of the files and folders in your vault. |
+| [Cicada Synchronizer](https://github.com/adapole/cicada-sync) | uses Git to synchronize vaults for team collaboration. |
+| [Verse of the Day](https://github.com/janisringli/verse-of-the-day-for-obsidian) | Lets you add the verse of the day from YouVersion to your notes |

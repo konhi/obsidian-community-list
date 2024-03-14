@@ -235,3 +235,4 @@
 | [ZeChArtiahSaher/obsidian-mono-black](https://github.com/ZeChArtiahSaher/obsidian-mono-black) | ![mono black (monochrome, charcoal)](https://raw.githubusercontent.com/ZeChArtiahSaher/obsidian-mono-black/master/img/screen-1.png "") |
 | [tomkaygames/Tom-s-Theme](https://github.com/tomkaygames/Tom-s-Theme) | ![Tom's Theme](https://raw.githubusercontent.com/tomkaygames/Tom-s-Theme/master/screenshot.png "") |
 | [isax785/obsidian-soloing](https://github.com/isax785/obsidian-soloing) | ![Soloing](https://raw.githubusercontent.com/isax785/obsidian-soloing/master/img/soloing_small.png "") |
+| [contrapasso3/Reshi](https://github.com/contrapasso3/Reshi) | ![Reshi](https://raw.githubusercontent.com/contrapasso3/Reshi/master/Reshi%20Preview.png "") |
