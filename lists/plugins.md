@@ -1561,3 +1561,4 @@
 | [Cicada Synchronizer](https://github.com/adapole/cicada-sync) | uses Git to synchronize vaults for team collaboration. |
 | [Verse of the Day](https://github.com/janisringli/verse-of-the-day-for-obsidian) | Lets you add the verse of the day from YouVersion to your notes |
 | [Etymology Lookup](https://github.com/clairefro/obsidian-plugin-etymology-lookup) | Get the etymology of words in your notes, from Online Etymology Dictionary |
+| [Fight Note](https://github.com/Loac/obsidian-fight-note) | Render Tekken notation into an easy-to-read format (partially useful for other fighting games: Guilty Gear, Street Fighter and etc). |
