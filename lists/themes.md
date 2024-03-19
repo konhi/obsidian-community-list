@@ -236,3 +236,4 @@
 | [tomkaygames/Tom-s-Theme](https://github.com/tomkaygames/Tom-s-Theme) | ![Tom's Theme](https://raw.githubusercontent.com/tomkaygames/Tom-s-Theme/master/screenshot.png "") |
 | [isax785/obsidian-soloing](https://github.com/isax785/obsidian-soloing) | ![Soloing](https://raw.githubusercontent.com/isax785/obsidian-soloing/master/img/soloing_small.png "") |
 | [contrapasso3/Reshi](https://github.com/contrapasso3/Reshi) | ![Reshi](https://raw.githubusercontent.com/contrapasso3/Reshi/master/Reshi%20Preview.png "") |
+| [mProjectsCode/obsidian-focus-theme](https://github.com/mProjectsCode/obsidian-focus-theme) | ![Focus](https://raw.githubusercontent.com/mProjectsCode/obsidian-focus-theme/master/FocusThemeImage.png "") |

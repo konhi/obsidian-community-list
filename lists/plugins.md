@@ -1562,3 +1562,7 @@
 | [Verse of the Day](https://github.com/janisringli/verse-of-the-day-for-obsidian) | Lets you add the verse of the day from YouVersion to your notes |
 | [Etymology Lookup](https://github.com/clairefro/obsidian-plugin-etymology-lookup) | Get the etymology of words in your notes, from Online Etymology Dictionary |
 | [Fight Note](https://github.com/Loac/obsidian-fight-note) | Render Tekken notation into an easy-to-read format (partially useful for other fighting games: Guilty Gear, Street Fighter and etc). |
+| [Cards View](https://github.com/jillro/obsidian-cards-view-plugin) | Displays a card view of your notes. |
+| [SwiftLaTeX Render](https://github.com/gboyd068/obsidian-swiftlatex-render) | Render LaTeX in codeblocks into a PDF, without needing to install LaTeX separately. |
+| [Password Protect](https://github.com/Aspharmyx/obsidian-password-protect) | Password protect your notes. |
+| [Editor full screen](https://github.com/1C0D/obsidian-editor-full-screen) | Full screen mode (for presentations) or Zen mode (focused writing). You can use resized OS windows, it will fit to the window. |
