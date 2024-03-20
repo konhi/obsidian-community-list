@@ -237,3 +237,4 @@
 | [isax785/obsidian-soloing](https://github.com/isax785/obsidian-soloing) | ![Soloing](https://raw.githubusercontent.com/isax785/obsidian-soloing/master/img/soloing_small.png "") |
 | [contrapasso3/Reshi](https://github.com/contrapasso3/Reshi) | ![Reshi](https://raw.githubusercontent.com/contrapasso3/Reshi/master/Reshi%20Preview.png "") |
 | [mProjectsCode/obsidian-focus-theme](https://github.com/mProjectsCode/obsidian-focus-theme) | ![Focus](https://raw.githubusercontent.com/mProjectsCode/obsidian-focus-theme/master/FocusThemeImage.png "") |
+| [natowb/obsidian-nordic](https://github.com/natowb/obsidian-nordic) | ![Nordic](https://raw.githubusercontent.com/natowb/obsidian-nordic/master/obsidian-nordic.png "") |

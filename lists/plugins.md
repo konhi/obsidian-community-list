@@ -635,7 +635,6 @@
 | [Influx](https://github.com/jensmtg/influx) | A bullet journaling plugin that aggregates a terse stream of backlinked clippings in the footer of notes. |
 | [Week Planner](https://github.com/rwirdemann/obsidian-week-planner) | Define commands for creating planning documents and moving tasks between them. |
 | [HTML Reader](https://github.com/nuthrash/obsidian-html-plugin) | Open .html and .htm files. |
-| [Dynamic RTL](https://github.com/mwxgaf/obsidian-dynamic-rtl) | Dynamic RTL/LTR direction per line/paragraph, depending on language. |
 | [MathLinks](https://github.com/zhaoshenzhai/obsidian-mathlinks) | Render MathJax in your links. |
 | [Note Synchronizer](https://github.com/tansongchen/obsidian-note-synchronizer) | Synchronize your notes to other note-based software like Anki, following more strictly the principles of Zettelkasten and treating each file as a note. |
 | [URL Namer](https://github.com/zfei/obsidian-url-namer) | Retrieve the HTML title of web pages to name external links. |
@@ -1072,7 +1071,7 @@
 | [Obligator](https://github.com/Newbrict/obsidian-obligator) | A fully featured replacement for the built-in daily notes plugin. Obligator functions like a virtual bullet journal by copying over unchecked to-do items to your new daily note, along with adding any scheduled items you've set up. |
 | [Fill in the Blank (FITB)](https://github.com/mister-mcgee/obsidian-fill-in-the-blank) | Use --magic-- to render inline text as blank line(s) instead. |
 | [InlineCodeHighlight](https://github.com/Dimava/inline-code-highlight) | Highlight inline `'md **code**` blocks as well as you do the ```md **big**``` ones. |
-| [Index Checker](https://github.com/pavloDeshko/obsidian-index-checker) | Make sure your index (MOC) files contain all links they should contain. |
+| [Index Checker](https://github.com/pavloDeshko/obsidian-index-checker) | Make sure your index "MOC" files (notes or Canvas) contain all links they should contain. |
 | [Syncthing Integration](https://github.com/LBF38/obsidian-syncthing-integration) | Syncthing integration. |
 | [RunJS](https://github.com/eoureo/obsidian-runjs) | Run JavaScript code. |
 | [Touch Bar Macros](https://github.com/frostplexx/obsidian-touchbar-macros) | Run custom macros from your Mac's Touch Bar. |
@@ -1441,7 +1440,7 @@
 | [Days Since](https://github.com/gndclouds/days-since-obsidian) | Relive and celebrate your life's milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories. |
 | [My Bible](https://github.com/GsLogiMaker/my-bible-obsidian-plugin) | Your own customizable markdown bible for your personal vault! |
 | [Bible linker Pro](https://github.com/Floydv149/bibleLinkerPro) | Converts Bible texts to JW Library links |
-| [Protected Note](https://github.com/mmiksaa/obsidian-protected-note) | Set password and protect your notes from other people. |
+| [Protected Note](https://github.com/mmiksaa/obsidian-protected-note) | Set password and encrypt your notes to protect them from other people. |
 | [Status Bar Organizer](https://github.com/Opisek/obsidian-statusbar-organizer) | Rearrange and hide status bar elements. |
 | [Image Inline](https://github.com/ZackaryW/obsidian-image-inline) | Paste your image without attachment files |
 | [Task list](https://github.com/ted-marozzi/task-list) | Enable better task management via lists. |
@@ -1566,3 +1565,7 @@
 | [SwiftLaTeX Render](https://github.com/gboyd068/obsidian-swiftlatex-render) | Render LaTeX in codeblocks into a PDF, without needing to install LaTeX separately. |
 | [Password Protect](https://github.com/Aspharmyx/obsidian-password-protect) | Password protect your notes. |
 | [Editor full screen](https://github.com/1C0D/obsidian-editor-full-screen) | Full screen mode (for presentations) or Zen mode (focused writing). You can use resized OS windows, it will fit to the window. |
+| [Moulinette Search for TTRPG](https://github.com/SvenWerlen/moulinette-obsidian-plugin) | Search, browse and download TTRPG (tabletop role-playing game) content from Moulinette Cloud. |
+| [Semantic Canvas](https://github.com/aarongilly/obsidian-semantic-canvas-plugin) | Create semantic knowledge graphs using Canvases to modify note properties graphically. |
+| [Crypt It](https://github.com/remotely-save/crypt-it) | Generate encrypted version of file(s) using rclone encryption format. |
+| [PARA Workflower](https://github.com/trucke/para-workflower) | Helpful commands for starting and working in your vault with the PARA method. |
