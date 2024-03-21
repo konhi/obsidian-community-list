@@ -1569,3 +1569,7 @@
 | [Semantic Canvas](https://github.com/aarongilly/obsidian-semantic-canvas-plugin) | Create semantic knowledge graphs using Canvases to modify note properties graphically. |
 | [Crypt It](https://github.com/remotely-save/crypt-it) | Generate encrypted version of file(s) using rclone encryption format. |
 | [PARA Workflower](https://github.com/trucke/para-workflower) | Helpful commands for starting and working in your vault with the PARA method. |
+| [Lavadocs](https://github.com/saaliklok/lavadocs-obsidian) | Public docs, from the fires of your vault. |
+| [Kinopoisk search](https://github.com/Alintor/obsidian-kinopoisk-plugin) | Helps you find movies and tv shows via Kinopoisk and create notes. |
+| [Multilingual](https://github.com/leolazou/obsidian-multilingual) | Simplify linking notes across multiple languages by automatically adding translations of note names into aliases. Designed for multilingual users. |
+| [Quick File Name](https://github.com/Wapply/obsidian-quick-file-name) | Generates a note with a random string as its name. |
