@@ -1573,3 +1573,5 @@
 | [Kinopoisk search](https://github.com/Alintor/obsidian-kinopoisk-plugin) | Helps you find movies and tv shows via Kinopoisk and create notes. |
 | [Multilingual](https://github.com/leolazou/obsidian-multilingual) | Simplify linking notes across multiple languages by automatically adding translations of note names into aliases. Designed for multilingual users. |
 | [Quick File Name](https://github.com/Wapply/obsidian-quick-file-name) | Generates a note with a random string as its name. |
+| [Sticky Headings](https://github.com/imshenshen/obsidian-sticky-heading) | Sticky headings and shows the heading level |
+| [AI Zhipu](https://github.com/TarsLab/obsidian-ai-zhipu) | Generate text using the ZhipuAI API. |
