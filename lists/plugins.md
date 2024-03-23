@@ -1475,7 +1475,7 @@
 | [Graph Link Types](https://github.com/natefrisch01/Graph-Link-Types) | Link types for graph view. |
 | [Fix Require Modules](https://github.com/mnaoumov/obsidian-fix-require-modules) | Fixes `require()` calls for the built-in modules |
 | [Auto Definition Link](https://github.com/nmcarp99/obsidian-auto-definition-link) | Automatically converts text to definition links within the current folder when you type them. |
-| [Chord Sheets](https://github.com/olvidalo/obsidian-chord-sheets) | Work with chord sheets (chords over lyrics) in your vault: Chord diagrams, transpose, autoscroll and more. Works in Live Preview and reading mode. |
+| [Chord Sheets](https://github.com/olvidalo/obsidian-chord-sheets) | Work with chord sheets (chords over lyrics) in your vault: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode. |
 | [Enhanced tables](https://github.com/pistacchio/obsidian-enhanced-tables) | Add programmable controls to selected tables. |
 | [Folders to Graph](https://github.com/Ratibus11/folders2graph) | Display your vault folder structure into your graphs. |
 | [Lean Syntax Highlight](https://github.com/tomaz1502/lean-syntax-highlight) | Provides live syntax highlight for the Lean programming language |
