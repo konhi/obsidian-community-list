@@ -1575,3 +1575,7 @@
 | [Quick File Name](https://github.com/Wapply/obsidian-quick-file-name) | Generates a note with a random string as its name. |
 | [Sticky Headings](https://github.com/imshenshen/obsidian-sticky-heading) | Sticky headings and shows the heading level |
 | [AI Zhipu](https://github.com/TarsLab/obsidian-ai-zhipu) | Generate text using the ZhipuAI API. |
+| [New Tab +](https://github.com/Raphlette/obsidian-new-tab-plus) | Allow to open markdown files, graph and canvas in new tab as the default behavior. |
+| [BackItUp](https://github.com/hammadxp/back-it-up) | Quickly make a copy or snapshot of a note. |
+| [Callout Suggestions](https://github.com/cwfryer/obsidian-callout-suggestions) | Adds a fuzzy searched suggestion modal for callouts. |
+| [AI LLM](https://github.com/Sparky4567/obsidian_ai_plugin) | Integrate local machine learning (OLLAMA) functionality into your notes, enhancing their capabilities. |
