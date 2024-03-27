@@ -268,7 +268,6 @@
 | [Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit) | When you click an image, it will be displayed in a popup layer and you can view, drag, zoom, rotate the image. |
 | [Shell commands](https://github.com/Taitava/obsidian-shellcommands) | Define system commands that you want to execute via command palette, hotkeys, URI links or automated events. E.g. open external applications or perform automated file modifications. |
 | [Hover External Link](https://github.com/jamiebrynes7/obsidian-hover-external-link) | Hover on external links to see the destination URL. |
-| [Code Block Enhancer](https://github.com/nyable/obsidian-code-block-enhancer) | Enhance Markdown code blocks with copy button, line numbers, language name, and more. |
 | [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link) | Get links to blocks and headings from the right-click menu. |
 | [Diagrams](https://github.com/zapthedingbat/drawio-obsidian) | Create and edit Draw.io diagrams. |
 | [Vim Input Method Switch](https://github.com/yuanotes/obsidian-vim-im-switch-plugin) | Switch input method with fcitx-remote when Vim keymap is enabled. |
@@ -409,7 +408,6 @@
 | [Dynamic Highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) | Dynamically highlight text based on cursor selection or search query with full regex, mobile, and live preview support. |
 | [KOReader Highlights](https://github.com/Edo78/obsidian-koreader-sync) | Sync highlights/notes from KOReader. |
 | [Snippetor](https://github.com/ebullient/obsidian-snippetor) | Create and tweak common snippets. |
-| [Sortable](https://github.com/alexandru-dinu/obsidian-sortable) | Wikipedia-like sortable tables. |
 | [Weather Fetcher](https://github.com/fyears/weather-fetcher) | Fetch and insert current weather into a note. |
 | [Lock Screen](https://github.com/ericbiewener/obsidian-lock-screen-plugin) | Protect your vault with a lock screen. |
 | [Pinboard Sync](https://github.com/Automatt/obsidian-pinboard-sync) | Sync Pinboard.in links with your daily notes. |
@@ -565,7 +563,6 @@
 | [echarts](https://github.com/cumany/obsidian-echarts) | Render echarts. |
 | [Diagrams.net](https://github.com/jensmtg/obsidian-diagrams-net) | Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net embedded editor. |
 | [Weread](https://github.com/zhaohongxuan/obsidian-weread-plugin) | Sync Tencent Weread highlights and annotations. |
-| [PostgreSQL](https://github.com/clouedoc/postgresql-obsidian) | Upload your notes' metadata to a PostgreSQL database. |
 | [Zotero Link](https://github.com/vanakat/zotero-link) | Insert link to a Zotero item. |
 | [GoLinks](https://github.com/xavdid/obsidian-golinks) | Render go/links as clickable links. |
 | [Habit Tracker](https://github.com/Narsail/habit-tracker-obsidian) | Display the Habits of a calendar week. |
@@ -1579,3 +1576,7 @@
 | [BackItUp](https://github.com/hammadxp/back-it-up) | Quickly make a copy or snapshot of a note. |
 | [Callout Suggestions](https://github.com/cwfryer/obsidian-callout-suggestions) | Adds a fuzzy searched suggestion modal for callouts. |
 | [AI LLM](https://github.com/Sparky4567/obsidian_ai_plugin) | Integrate local machine learning (OLLAMA) functionality into your notes, enhancing their capabilities. |
+| [Tag Links](https://github.com/zedseven/obsidian-tag-links) | Open tags as links using a hotkey. |
+| [Notice logger](https://github.com/gapmiss/notice-logger) | Logs all notices to the developer console, with optional prefix. |
+| [Buckwalter Transliteration](https://github.com/amrojjeh/obsidian-buckwalter) | Renders Arabic using Buckwalter's encoding scheme. |
+| [Hemingway Mode](https://github.com/jobedom/obsidian-hemingway-mode) | Prevents any editing, only letting you write ahead. |
