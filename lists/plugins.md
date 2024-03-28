@@ -1580,3 +1580,6 @@
 | [Notice logger](https://github.com/gapmiss/notice-logger) | Logs all notices to the developer console, with optional prefix. |
 | [Buckwalter Transliteration](https://github.com/amrojjeh/obsidian-buckwalter) | Renders Arabic using Buckwalter's encoding scheme. |
 | [Hemingway Mode](https://github.com/jobedom/obsidian-hemingway-mode) | Prevents any editing, only letting you write ahead. |
+| [Univer Doc and Sheet](https://github.com/karlsbeard/obsidian-univer) | Create doc and sheet based on Univer. |
+| [Telegram Inbox](https://github.com/icealtria/obsidian-telegram-inbox) | Receive messages from Telegram bot and add them to daily note. |
+| [Misskey Connector](https://github.com/minimarimo3/Obsidian-plugin-for-Misskey) | Enables posting and embedding Misskey notes. |

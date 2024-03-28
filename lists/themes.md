@@ -241,3 +241,4 @@
 | [dudethatserin/moonstone](https://github.com/dudethatserin/moonstone) | ![Moonstone](https://raw.githubusercontent.com/dudethatserin/moonstone/master/screenshot.png "") |
 | [vladstudio/tiniri-obsidian](https://github.com/vladstudio/tiniri-obsidian) | ![Tiniri](https://raw.githubusercontent.com/vladstudio/tiniri-obsidian/master/screenshot.png "") |
 | [Indyandie/kurokula-obsidian-theme](https://github.com/Indyandie/kurokula-obsidian-theme) | ![Kurokula](https://raw.githubusercontent.com/Indyandie/kurokula-obsidian-theme/master/dark.png "") |
+| [clearlysid/apex](https://github.com/clearlysid/apex) | ![Apex](https://raw.githubusercontent.com/clearlysid/apex/master/preview.png "") |
