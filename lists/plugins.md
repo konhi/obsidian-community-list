@@ -1583,3 +1583,11 @@
 | [Univer Doc and Sheet](https://github.com/karlsbeard/obsidian-univer) | Create doc and sheet based on Univer. |
 | [Telegram Inbox](https://github.com/icealtria/obsidian-telegram-inbox) | Receive messages from Telegram bot and add them to daily note. |
 | [Misskey Connector](https://github.com/minimarimo3/Obsidian-plugin-for-Misskey) | Enables posting and embedding Misskey notes. |
+| [Shiki Highlighter](https://github.com/mProjectsCode/obsidian-shiki-plugin) | Highlight code blocks with Shiki. |
+| [Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) | Food tracker, macronutrient and calorie calculator. |
+| [NotesOn Publish](https://github.com/shapkinaa/noteson-obsidian-plugin) | Make single notes instantly available on the web. |
+| [AI Summarize](https://github.com/RavenWits/obsidian-ai-summarize) | Summarize your notes using AI |
+| [Livecodes Playground](https://github.com/gapmiss/livecodes-playground) | Client-side code editor playground - Powered by LiveCodes |
+| [Auto Embed](https://github.com/GnoxNahte/obsidian-auto-embed) | Helps to embed links using markdown instead of iframe. |
+| [VARE](https://github.com/4Source/vare-obsidian-plugin) | Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary. |
+| [Hugo Publish](https://github.com/kirito41dd/obsidian-hugo-publish) | Publish your blog to hugo site. |
