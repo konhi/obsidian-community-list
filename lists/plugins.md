@@ -1049,7 +1049,7 @@
 | [Simple CanvaSearch](https://github.com/ddalexb/obsidian-simple-canvasearch) | Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas. |
 | [ZettelGPT](https://github.com/OverRaddit/ZettelGPT) | Effortlessly generate context-aware answers from ChatGPT, while maintaining a visually clear and organized conversation history. |
 | [Invio](https://github.com/frontend-engineering/Invio) | Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online. |
-| [LifeOS](https://github.com/quanru/obsidian-periodic-para) | Life management system. |
+| [LifeOS](https://github.com/quanru/obsidian-lifeos) | Life management system. |
 | [Source Scanner](https://github.com/gerrie-myburgh/source-scanner) | Scanner that extracts comments from source and places it in Markdown files. |
 | [Markdown to Slack Message](https://github.com/idreamer/markdown-to-slack-message) | Convert a Markdown note to the Slack message blocks that enable you to send to Slack. |
 | [Micro templates](https://github.com/epszaw/obsidian-micro-templates) | Flexible embedded micro templates powered by Javascript functions. |
