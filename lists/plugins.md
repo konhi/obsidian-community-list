@@ -391,7 +391,6 @@
 | [Wrap with shortcuts](https://github.com/manic/obsidian-wrap-with-shortcuts) | Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ). |
 | [Tomorrow's Daily Note](https://github.com/frankolson/obsidian-tomorrows-daily-note) | Create tomorrow's daily note for preemptive planning. |
 | [Rant-Lang](https://github.com/lanice/obsidian-rant) | Thin wrapper around the high-level procedural templating language Rant. |
-| [Smarter Markdown Hotkeys](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys) | Hotkeys that select words and lines in a smart way before applying markup. Multiple cursors are supported as well. |
 | [Global Hotkeys](https://github.com/mjessome/obsidian-global-hotkeys) | Configurable system-wide hotkeys for running commands. |
 | [TimeStamper](https://github.com/Gru80/obsidian-timestamper) | Insert a customized or predefined time- or date-stamp at the current cursor position. |
 | [JSON/CSV Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file. |
@@ -1327,7 +1326,7 @@
 | [Word Bank](https://github.com/TannYuld/WordBank) | Create a word library from your word files. |
 | [Disk Usage](https://github.com/Promptier/disk-usage) | Measure disk usage for tracking size of folders and file types. |
 | [Attachment Uploader](https://github.com/zhuxining/obsidian-attachment-uploader) | Upload attachments to PicSee or uPic, with customization for commands and file type. |
-| [Formatto](https://github.com/polyecho/formatto) | Format your Markdown document. |
+| [Formatto](https://github.com/polyecho/formatto) | Simple, fast, and easy-to-use Markdown formatter. |
 | [ChatCBT](https://github.com/clairefro/obsidian-chat-cbt-plugin) | AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT). |
 | [Daily ICalendar](https://github.com/mmmykhailo/obsidian-daily-icalendar) | View calendar events in daily notes. |
 | [Auto-\displaystyle Inline Math](https://github.com/RyotaUshio/obsidian-auto-displaystyle-inline-math) | Automatically make all inline math \displaystyle. |
@@ -1591,3 +1590,4 @@
 | [Auto Embed](https://github.com/GnoxNahte/obsidian-auto-embed) | Helps to embed links using markdown instead of iframe. |
 | [VARE](https://github.com/4Source/vare-obsidian-plugin) | Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary. |
 | [Hugo Publish](https://github.com/kirito41dd/obsidian-hugo-publish) | Publish your blog to hugo site. |
+| [Autoplay & Loop](https://github.com/Wapply/obsidian-autoplay-and-loop) | AutoPlay videos inside and outside notes. |

@@ -243,3 +243,4 @@
 | [Indyandie/kurokula-obsidian-theme](https://github.com/Indyandie/kurokula-obsidian-theme) | ![Kurokula](https://raw.githubusercontent.com/Indyandie/kurokula-obsidian-theme/master/dark.png "") |
 | [yoGhastly/poimandres-obsidian](https://github.com/yoGhastly/poimandres-obsidian) | ![Poimandres](https://raw.githubusercontent.com/yoGhastly/poimandres-obsidian/master/dark.png "") |
 | [eldritch-theme/eldritch-obsidian](https://github.com/eldritch-theme/eldritch-obsidian) | ![Eldritch](https://raw.githubusercontent.com/eldritch-theme/eldritch-obsidian/master/eldritch.png "") |
+| [AwesomeDog/obsidian-soothe](https://github.com/AwesomeDog/obsidian-soothe) | ![Soothe](https://raw.githubusercontent.com/AwesomeDog/obsidian-soothe/master/preview.png "") |
