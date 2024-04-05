@@ -241,6 +241,7 @@
 | [dudethatserin/moonstone](https://github.com/dudethatserin/moonstone) | ![Moonstone](https://raw.githubusercontent.com/dudethatserin/moonstone/master/screenshot.png "") |
 | [vladstudio/tiniri-obsidian](https://github.com/vladstudio/tiniri-obsidian) | ![Tiniri](https://raw.githubusercontent.com/vladstudio/tiniri-obsidian/master/screenshot.png "") |
 | [Indyandie/kurokula-obsidian-theme](https://github.com/Indyandie/kurokula-obsidian-theme) | ![Kurokula](https://raw.githubusercontent.com/Indyandie/kurokula-obsidian-theme/master/dark.png "") |
+| [clearlysid/apex](https://github.com/clearlysid/apex) | ![Apex](https://raw.githubusercontent.com/clearlysid/apex/master/preview.png "") |
 | [yoGhastly/poimandres-obsidian](https://github.com/yoGhastly/poimandres-obsidian) | ![Poimandres](https://raw.githubusercontent.com/yoGhastly/poimandres-obsidian/master/dark.png "") |
 | [eldritch-theme/eldritch-obsidian](https://github.com/eldritch-theme/eldritch-obsidian) | ![Eldritch](https://raw.githubusercontent.com/eldritch-theme/eldritch-obsidian/master/eldritch.png "") |
 | [AwesomeDog/obsidian-soothe](https://github.com/AwesomeDog/obsidian-soothe) | ![Soothe](https://raw.githubusercontent.com/AwesomeDog/obsidian-soothe/master/preview.png "") |
