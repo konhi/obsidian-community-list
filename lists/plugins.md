@@ -1591,3 +1591,6 @@
 | [VARE](https://github.com/4Source/vare-obsidian-plugin) | Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary. |
 | [Hugo Publish](https://github.com/kirito41dd/obsidian-hugo-publish) | Publish your blog to hugo site. |
 | [Autoplay & Loop](https://github.com/Wapply/obsidian-autoplay-and-loop) | AutoPlay videos inside and outside notes. |
+| [Mehrmaid](https://github.com/huterguier/obsidian-mehrmaid) | Enables you to put Markdown inside of Mermaid diagrams. |
+| [Note Toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) | Add customizable toolbars to your notes. |
+| [Unofficial Supernote by Ratta Integration](https://github.com/philips/supernote-obsidian-plugin) | View Supernote notes, generate markdown from note and capture screen mirror. |
