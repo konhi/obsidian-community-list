@@ -1585,3 +1585,4 @@
 | [Mehrmaid](https://github.com/huterguier/obsidian-mehrmaid) | Enables you to put Markdown inside of Mermaid diagrams. |
 | [Note Toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) | Add customizable toolbars to your notes. |
 | [Unofficial Supernote by Ratta Integration](https://github.com/philips/supernote-obsidian-plugin) | View Supernote notes, generate markdown from note and capture screen mirror. |
+| [Cloud Atlas](https://github.com/cloud-atlas-ai/obsidian-client) | The most effective way to use LLMs in your vault: Add your current note, reference backlinks/forward links, and a Canvas mode to assemble a prompt with all the context you. |
