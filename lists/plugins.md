@@ -1586,3 +1586,13 @@
 | [Note Toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) | Add customizable toolbars to your notes. |
 | [Unofficial Supernote by Ratta Integration](https://github.com/philips/supernote-obsidian-plugin) | View Supernote notes, generate markdown from note and capture screen mirror. |
 | [Cloud Atlas](https://github.com/cloud-atlas-ai/obsidian-client) | The most effective way to use LLMs in your vault: Add your current note, reference backlinks/forward links, and a Canvas mode to assemble a prompt with all the context you. |
+| [Slurp](https://github.com/inhumantsar/slurp) | Slurps webpages and saves them as clean, uncluttered Markdown. |
+| [Current Folder Notes](https://github.com/Caffa/Obsidian-Current-Folder-Note-Display-Plugin) | Shows a list of notes in the current folder, and allows you to filter the titles to include or exclude notes. |
+| [Reverse Prompter](https://github.com/ryanhalliday/obsidian-reverse-prompter) | Generate prompts to keep you writing with AI. |
+| [Automation](https://github.com/Benature/obsidian-automation) | Execute commands on specific events. |
+| [Click Clack](https://github.com/Acylation/obsidian-click-clack) | Simulates typewriter / mechanical keyboard sounds. |
+| [Grind Manager](https://github.com/dromse/obsidian-grind-manager) | Task management with rewards system. |
+| [Dictionary translator](https://github.com/grover572/obsidian-Dictionary-translator) | Helps you to quickly underline word translations and insert word cards in your notes. |
+| [vConsole](https://github.com/zhouhua/obsidian-vconsole) | Integrate vConsole for developers to facilitate the debugging of mobile plugins. |
+| [External Links](https://github.com/jivimberg/external-links) | List external links on the right side panel. |
+| [Target Word Count](https://github.com/twofive-labs/target-word-count) | Disable editing until you've added a target number of words. |
