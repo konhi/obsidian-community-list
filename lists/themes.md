@@ -245,3 +245,5 @@
 | [yoGhastly/poimandres-obsidian](https://github.com/yoGhastly/poimandres-obsidian) | ![Poimandres](https://raw.githubusercontent.com/yoGhastly/poimandres-obsidian/master/dark.png "") |
 | [eldritch-theme/eldritch-obsidian](https://github.com/eldritch-theme/eldritch-obsidian) | ![Eldritch](https://raw.githubusercontent.com/eldritch-theme/eldritch-obsidian/master/eldritch.png "") |
 | [AwesomeDog/obsidian-soothe](https://github.com/AwesomeDog/obsidian-soothe) | ![Soothe](https://raw.githubusercontent.com/AwesomeDog/obsidian-soothe/master/preview.png "") |
+| [eliz-abeth/sandover](https://github.com/eliz-abeth/sandover) | ![Sandover](https://raw.githubusercontent.com/eliz-abeth/sandover/master//images/sandover-plain.png "") |
+| [Ch0live/dunite](https://github.com/Ch0live/dunite) | ![Dunite](https://raw.githubusercontent.com/Ch0live/dunite/master/dunite-icon.png "") |

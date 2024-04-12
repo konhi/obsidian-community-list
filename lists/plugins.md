@@ -1522,7 +1522,7 @@
 | [Persian Calendar](https://github.com/maleknejad/obsidian-persian-calendar) | Persian Calendar for managing periodic notes based on persian solar (shamsi) calendar. |
 | [Daily Note Navbar](https://github.com/karstenpedersen/obsidian-daily-note-navbar) | Navigate between sequential daily notes with ease. |
 | [Orion Publish](https://github.com/seanrcollings/orion-publish-plugin) | Quickly and easily publish your notes to the web with Orion Publish. |
-| [Gistr](https://github.com/Aetherinox/obsidian-gistr) | Integrate OpenGist and Github gist snippets in your notes. |
+| [Gistr](https://github.com/Aetherinox/obsidian-gistr) | Use your notes to embed, create, and update gists for Github and Opengist. |
 | [Things3 Today](https://github.com/wudanyang6/obsidian-things3-today) | Manage today's tasks with Things3. |
 | [Command Block List](https://github.com/RyotaUshio/obsidian-command-block-list) | Hide unwanted commands from the command palette. |
 | [Crafty](https://github.com/liolle/Crafty) | Add tooltip to any canvas node and quickly navigate between canvas nodes. |
@@ -1596,3 +1596,10 @@
 | [vConsole](https://github.com/zhouhua/obsidian-vconsole) | Integrate vConsole for developers to facilitate the debugging of mobile plugins. |
 | [External Links](https://github.com/jivimberg/external-links) | List external links on the right side panel. |
 | [Target Word Count](https://github.com/twofive-labs/target-word-count) | Disable editing until you've added a target number of words. |
+| [Amazing Marvin Integration](https://github.com/cloud-atlas-ai/obsidian-am) | Integration with Amazing Marvin (unofficial). Supports exporting AM tasks/projects, creating new tasks and completing tasks. |
+| [Cluster](https://github.com/lorens-osman-dev/cluster) | Make the notes clustering simpler on mobile devices and work well on PCs ether, Notes Clustering is the process of creating hierarchical notes structures. |
+| [IMDb](https://github.com/aaachen/IMDb-Obsidian) | Sync your IMDb list. |
+| [Daily Prompt](https://github.com/Erl-koenig/obsidian-dailyPrompt) | Set up custom prompts and automatically fill them into your daily notes. |
+| [Custom Sidebar Icons](https://github.com/RavenHogWarts/obsidian-custom-sidebar-icons) | Customize sidebar workspace document icons. |
+| [Update Time Updater](https://github.com/muratagawa/update-time-updater) | Manually update the modified date field in frontmatter. |
+| [Markpilot](https://github.com/taichimaeda/markpilot) | Inline completions and chat view powered by OpenAI. |
