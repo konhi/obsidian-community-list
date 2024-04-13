@@ -1603,3 +1603,7 @@
 | [Custom Sidebar Icons](https://github.com/RavenHogWarts/obsidian-custom-sidebar-icons) | Customize sidebar workspace document icons. |
 | [Update Time Updater](https://github.com/muratagawa/update-time-updater) | Manually update the modified date field in frontmatter. |
 | [Markpilot](https://github.com/taichimaeda/markpilot) | Inline completions and chat view powered by OpenAI. |
+| [Hierarchical Outgoing Links](https://github.com/jasonmotylinski/hierarchical-outgoing-links) | Displays outgoing links in a tree structure. |
+| [Create List of Notes](https://github.com/andrewheekin/obsidian-create-note-list) | Creates a bulleted list of notes contained within the parent folder and prepends to current note content after YAML frontmatter. |
+| [Alias Picker](https://github.com/rostunic/obsidian-alias-picker) | Pick aliases or blocks of links. |
+| [Fontsource](https://github.com/fontsource/obsidian-fontsource) | Load custom fonts from Fontsource into your notes. |
