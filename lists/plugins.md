@@ -1607,3 +1607,9 @@
 | [Create List of Notes](https://github.com/andrewheekin/obsidian-create-note-list) | Creates a bulleted list of notes contained within the parent folder and prepends to current note content after YAML frontmatter. |
 | [Alias Picker](https://github.com/rostunic/obsidian-alias-picker) | Pick aliases or blocks of links. |
 | [Fontsource](https://github.com/fontsource/obsidian-fontsource) | Load custom fonts from Fontsource into your notes. |
+| [Static Site MD Exporter](https://github.com/yy4382/obsidian-static-site-export) | Export specific notes to general Markdown files for static page generator like Hugo, Hexo, Astro and more. |
+| [Enhanced Copy](https://github.com/Lisandra-dev/obsidian-enhanced-copy) | Copy your selection and add it some edit to paste in other markdown software. Allows to keep markdown in reading view, removing wikilinks in editing, copy from locked canvas, and more! |
+| [Ink](https://github.com/daledesilva/obsidian_ink) | Hand write or draw with a stylus directly between paragraphs in your notes. |
+| [Sync config folder to common folder](https://github.com/codeonquer/obsidian-sync-config-folder-to-common-folder) | Sync contents from config folder to common folder for backup or other purposes. |
+| [AI for Templater](https://github.com/TfTHacker/obsidian-ai-templater) | AI Extension for the Templater plugin with the OpenAI Client Library. |
+| [Dust Calendar](https://github.com/a-nano-dust/dust-obsidian-calendar) | 更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。 |
