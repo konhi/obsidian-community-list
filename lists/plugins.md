@@ -1089,7 +1089,7 @@
 | [Cloze](https://github.com/DearVikki/obsidian-cloze-plugin) | Convert highlights, underlines, bolded texts or any selected texts into clozes. |
 | [Wikidata Importer](https://github.com/samwho/obsidian-wikidata-importer) | Import data from Wikidata into your vault. |
 | [Copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion) | A highly configurable copilot-like auto-completion using the ChatGPT API. |
-| [Unitade](https://github.com/Falcion/UnitadeOBSIDIAN) | Effortlessly treat any file extension as note, organize diverse file formats in your vault. |
+| [UNITADE.md](https://github.com/Falcion/UNITADE.md) | Effortlessly treat any file extension as note, organize diverse file formats in your vault and take advancements in control of extension system even with custom modals. |
 | [Python Scripter](https://github.com/nickrallison/obsidian-python-scripter) | Run Python scripts directly as commands. |
 | [Quick note](https://github.com/jamesgreenblue/obsidian-quicknote) | Create a quick note in a floating window (on command or by right-clicking the Obsidian app icon). |
 | [Update frontmatter modified date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) | Automatically update a frontmatter modified date field when the file is modified. |
@@ -1316,7 +1316,6 @@
 | [Tag Buddy](https://github.com/moremeyou/Obsidian-Tag-Buddy) | Add, edit, and remove tags in reading mode. Copy, move, or edit tagged blocks in reading and edit mode. |
 | [Adjacency Matrix Exporter](https://github.com/danielegrazzini/adjacency-matrix-exporter) | Create a numerical adjacency matrix of your vault in two ways: Absolute and Normalized. |
 | [Key-Value List](https://github.com/christianwannerstedt/obsidian-key-value-list) | Turn lists into neatly formatted key-value lists. |
-| [Word Bank](https://github.com/TannYuld/WordBank) | Create a word library from your word files. |
 | [Disk Usage](https://github.com/Promptier/disk-usage) | Measure disk usage for tracking size of folders and file types. |
 | [Attachment Uploader](https://github.com/zhuxining/obsidian-attachment-uploader) | Upload attachments to PicSee or uPic, with customization for commands and file type. |
 | [Formatto](https://github.com/cosmostellar/formatto) | Simple, fast, and easy-to-use Markdown formatter. |
@@ -1469,7 +1468,6 @@
 | [Lean Syntax Highlight](https://github.com/tomaz1502/lean-syntax-highlight) | Provides live syntax highlight for the Lean programming language |
 | [AI Tagger](https://github.com/lucagrippa/obsidian-ai-tagger) | Simplify tagging. Instantly analyze and tag your document with one click for efficient note organization. OpenAI API key required. |
 | [Quiz Generator](https://github.com/ECuiDev/obsidian-quiz-generator) | Generate interactive quizzes from your notes using OpenAI's GPT-3.5 and GPT-4 models. |
-| [MarkdownSpace Publish](https://github.com/markdown-space/markdownspace-obsidian-plugin) | Publish your documents to MarkdownSpace and they instantly become a website. |
 | [Goban SGF](https://github.com/StinsonZhao/obsidian-plugin-goban-sgf) | Record Go games (SGF format goban). |
 | [Display Relative Path Img](https://github.com/dyc2424748461/obsidian-display-relative-path-img) | Display the image of the <img> tag |
 | [Metadata Icon](https://github.com/Benature/obsidian-metadata-icon) | Set custom icons for your properties. |
@@ -1570,7 +1568,7 @@
 | [Notice logger](https://github.com/gapmiss/notice-logger) | Logs all notices to the developer console, with optional prefix. |
 | [Buckwalter Transliteration](https://github.com/amrojjeh/obsidian-buckwalter) | Renders Arabic using Buckwalter's encoding scheme. |
 | [Hemingway Mode](https://github.com/jobedom/obsidian-hemingway-mode) | Prevents any editing, only letting you write ahead. |
-| [Univer Doc and Sheet](https://github.com/karlsbeard/obsidian-univer) | Create doc and sheet based on Univer. |
+| [Univer](https://github.com/dream-num/obsidian-univer) | Create, edit, and view spreadsheets and documents in various formats like Excel and Word directly within your knowledge base. |
 | [Telegram Inbox](https://github.com/icealtria/obsidian-telegram-inbox) | Receive messages from Telegram bot and add them to daily note. |
 | [Misskey Connector](https://github.com/minimarimo3/Obsidian-plugin-for-Misskey) | Enables posting and embedding Misskey notes. |
 | [Shiki Highlighter](https://github.com/mProjectsCode/obsidian-shiki-plugin) | Highlight code blocks with Shiki. |
@@ -1613,3 +1611,7 @@
 | [Sync config folder to common folder](https://github.com/codeonquer/obsidian-sync-config-folder-to-common-folder) | Sync contents from config folder to common folder for backup or other purposes. |
 | [AI for Templater](https://github.com/TfTHacker/obsidian-ai-templater) | AI Extension for the Templater plugin with the OpenAI Client Library. |
 | [Dust Calendar](https://github.com/a-nano-dust/dust-obsidian-calendar) | 更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。 |
+| [Google Blogger](https://github.com/privet-kitty/obsidian-blogger) | Publish notes to Google Blogger. |
+| [Strapi Exporter AI](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai) | Effortlessly export your notes to Strapi CMS with AI-powered handling and SEO optimization. |
+| [Mindmap](https://github.com/OneCalmCloud/obsidian-mindmap) | Create notes with Mindmaps. |
+| [Outline Converter](https://github.com/masaki39/outline-converter) | Convert outline to continuous text. |
