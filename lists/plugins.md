@@ -1615,3 +1615,4 @@
 | [Strapi Exporter AI](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai) | Effortlessly export your notes to Strapi CMS with AI-powered handling and SEO optimization. |
 | [Mindmap](https://github.com/OneCalmCloud/obsidian-mindmap) | Create notes with Mindmaps. |
 | [Outline Converter](https://github.com/masaki39/outline-converter) | Convert outline to continuous text. |
+| [Universal renderer](https://github.com/dgudim/obsidian-universal-renderer) | Render various diagrams using system native packages |
