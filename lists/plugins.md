@@ -1616,3 +1616,7 @@
 | [Mindmap](https://github.com/OneCalmCloud/obsidian-mindmap) | Create notes with Mindmaps. |
 | [Outline Converter](https://github.com/masaki39/outline-converter) | Convert outline to continuous text. |
 | [Universal renderer](https://github.com/dgudim/obsidian-universal-renderer) | Render various diagrams using system native packages |
+| [Canvas2Document](https://github.com/slnsys/obsidian-canvas2document) | Convert a complete Canvas to a long form document, integrating all cards, notes, images and other media content into a single markdown file. |
+| [Letterboxd Diary RSS Sync](https://github.com/fleker/letterboxd-for-obsidian) | Syncs your public Letterboxd diary. |
+| [Bitcoin Block Stamp](https://github.com/sfr0xyz/obsidian-bitcoin-block-stamp) | Stamp your notes with the current Bitcoin block. |
+| [Slides Extended](https://github.com/ebullient/obsidian-slides-extended) | Create markdown-based reveal.js presentations. Fork of Advanced Slides. |
