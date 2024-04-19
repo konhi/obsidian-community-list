@@ -1620,3 +1620,11 @@
 | [Letterboxd Diary RSS Sync](https://github.com/fleker/letterboxd-for-obsidian) | Syncs your public Letterboxd diary. |
 | [Bitcoin Block Stamp](https://github.com/sfr0xyz/obsidian-bitcoin-block-stamp) | Stamp your notes with the current Bitcoin block. |
 | [Slides Extended](https://github.com/ebullient/obsidian-slides-extended) | Create markdown-based reveal.js presentations. Fork of Advanced Slides. |
+| [my anime list text exporter](https://github.com/Xmoncoco/my_anime_list_text_exporter) | add anime data for your notes. |
+| [CoCo AskAI](https://github.com/yamfeel/coco-askai) | Let your questions flow swiftly with CoCo AskAI. (Closed source) |
+| [KV Store](https://github.com/Darren-project/obsidian-kv) | Adds a key-value store. Use it to store and retrieve key-value pairs in your vault. |
+| [Personal OS](https://github.com/GengAd/obsidian-personal-os) | Streamlining task management and productivity with a touch of gamification. |
+| [TimeSaver](https://github.com/odayou/obsidian-task-processing-extension) | Save your time. 1. Quickly insert todo directive. 2. Quickly count the time spent on tasks in the current note and the total time spent. |
+| [Calendar Event Sync](https://github.com/stephendolan/obsidian-calendar-event-sync) | Sync your current note with a relevant calendar event. |
+| [Painter](https://github.com/KraXen72/obsidian-painter) | Paint text different colors. |
+| [Random names](https://github.com/palfrey/obsidian-random-names) | Generates random names. |
