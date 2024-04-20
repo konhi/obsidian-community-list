@@ -837,7 +837,6 @@
 | [ibook](https://github.com/bingryan/obsidian-ibook-plugin) | Export your Apple iBook highlights and annotations into your vault. |
 | [Floating Highlights](https://github.com/KarthikRaju391/obsidian-float) | Adding animations to focus more on the highlights as you scroll down while in reading mode. |
 | [Zen](https://github.com/Maxymillion/zen) | Add a focus mode. |
-| [Fast Image Cleaner](https://github.com/martinniee/Obsidian-fast-image-cleaner) | Quickly delete attachments and remove referenced link by right-clicking on the context menu option.  |
 | [Fantasy Content Generator](https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator) | A fantasy content generator for all your TTRPG and world-building needs. |
 | [Tasks Calendar Wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper) | Simple wrapper for Tasks Calendar and Tasks Timeline. |
 | [Awesome Brain Manager](https://github.com/JuckZ/awesome-brain-manager) | A toolkit that tries to solve all the trivial problems most people usually encounter. |
@@ -900,7 +899,6 @@
 | [Soomda](https://github.com/michaellee/soomda) | Quickly hide your sidebars. |
 | [Quickly](https://github.com/tmfelwu/obsidian-inbox) | Quickly navigate and create notes through OS shortcut keys. |
 | [HK Code Block](https://github.com/HeekangPark/obsidian-hk-code-block) | Improve the display of code blocks in reading view with titles, line numbers, line highlights, and more. |
-| [Tistory Poster](https://github.com/idreamer/tistory-poster) | Post notes to the Tistory blogging platform. |
 | [Link Range](https://github.com/rmellmer/obsidian-link-range) | Add ranged wikilink support. |
 | [Ring a secretary](https://github.com/vrtmrz/ring-a-secretary) | Yet another ChatGPT-powered digital secretary. |
 | [LaTeX Matrices](https://github.com/Deltekk/Obsidian-Latex-Matrices) | Speed up LaTeX matrices writing. |
@@ -1628,3 +1626,6 @@
 | [Calendar Event Sync](https://github.com/stephendolan/obsidian-calendar-event-sync) | Sync your current note with a relevant calendar event. |
 | [Painter](https://github.com/KraXen72/obsidian-painter) | Paint text different colors. |
 | [Random names](https://github.com/palfrey/obsidian-random-names) | Generates random names. |
+| [Note Splitter](https://github.com/trey-wallis/obsidian-note-splitter) | Split a note into individual notes based on a delimiter. |
+| [Bearings](https://github.com/jeetsukumaran/obsidian-bearings) | Flow through dynamically-scoped collapsible tree views your vault's semantic and logical architectures. |
+| [Image Search](https://github.com/razeghi71/obsidian-image-search) | Search and insert images using Google API |
