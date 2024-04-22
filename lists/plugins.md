@@ -761,7 +761,7 @@
 | [Vega Visualizations](https://github.com/Some-Regular-Person/obsidian-vega) | Create highly-customizable data visualizations like line charts and scatter plots using Vega or Vega-Lite. |
 | [Link Nodes in Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) | Add edges between notes in Canvas based on their links. |
 | [Canvas CSS class](https://github.com/Lisandra-dev/obsidian-canvas-css-class) | Add a CSS class to the canvas, but also other attributes. |
-| [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | Chat with your notes & find links to similar content using artificial intelligence like OpenAI Embeddings, GPT-3.5 & GPT-4. |
+| [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3 |
 | [Short links](https://github.com/scottwillmoore/obsidian-short-links) | Display short internal links to files, notes, headings, and blocks. |
 | [Hyphenation](https://github.com/7596ff/obsidian-hyphenation) | Enable justified text and hyphenation. |
 | [S3 attachments storage](https://github.com/TechTheAwesome/obsidian-s3) | Storage and retrieval of media attachments on S3 compatible services. |
