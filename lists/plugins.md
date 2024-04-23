@@ -1627,5 +1627,7 @@
 | [Painter](https://github.com/KraXen72/obsidian-painter) | Paint text different colors. |
 | [Random names](https://github.com/palfrey/obsidian-random-names) | Generates random names. |
 | [Note Splitter](https://github.com/trey-wallis/obsidian-note-splitter) | Split a note into individual notes based on a delimiter. |
-| [Bearings](https://github.com/jeetsukumaran/obsidian-bearings) | Flow through dynamically-scoped collapsible tree views your vault's semantic and logical architectures. |
+| [Bearings](https://github.com/jeetsukumaran/obsidian-bearings) | Flow through dynamically-scoped collapsible tree views of your vault's semantic and logical architectures. |
 | [Image Search](https://github.com/razeghi71/obsidian-image-search) | Search and insert images using Google API |
+| [Lava VTT Uploader](https://github.com/lavaforge/obsidian-lava-vtt-uploader) | Display images from your vault in Lava VTT. |
+| [Outline to task list](https://github.com/alexandrerbb/obsidian-outline-tasklist-plugin) | Convert a note's outline to a task list. |
