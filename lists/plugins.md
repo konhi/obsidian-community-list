@@ -1631,3 +1631,6 @@
 | [Image Search](https://github.com/razeghi71/obsidian-image-search) | Search and insert images using Google API |
 | [Lava VTT Uploader](https://github.com/lavaforge/obsidian-lava-vtt-uploader) | Display images from your vault in Lava VTT. |
 | [Outline to task list](https://github.com/alexandrerbb/obsidian-outline-tasklist-plugin) | Convert a note's outline to a task list. |
+| [SystemSculpt AI](https://github.com/systemsculpt/obsidian-systemsculpt-ai) | Enhance your data flow with AI-powered tools for note-taking, task management, templates, and so much more. |
+| [Generate Hash](https://github.com/zigahertz/obsidian-hash) | Generates a cryptographically strong pseudorandom hash. |
+| [Simple Citations](https://github.com/masaki39/simple-citations) | Add & update simple literature notes. |

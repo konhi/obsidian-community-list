@@ -249,3 +249,4 @@
 | [Ch0live/dunite](https://github.com/Ch0live/dunite) | ![Dunite](https://raw.githubusercontent.com/Ch0live/dunite/master/dunite-icon.png "") |
 | [loveminimal/obsidian-theme-virgo](https://github.com/loveminimal/obsidian-theme-virgo) | ![Virgo](https://raw.githubusercontent.com/loveminimal/obsidian-theme-virgo/master/assets/screenshot.png "") |
 | [jbisits/penumbra-obsidian-theme](https://github.com/jbisits/penumbra-obsidian-theme) | ![Penumbra](https://raw.githubusercontent.com/jbisits/penumbra-obsidian-theme/master/screenshot_light.png "") |
+| [humandecoded/Trace-Labs-Obsidian-Theme](https://github.com/humandecoded/Trace-Labs-Obsidian-Theme) | ![Trace Labs](https://raw.githubusercontent.com/humandecoded/Trace-Labs-Obsidian-Theme/master/screenshot.png "") |
