@@ -1634,3 +1634,9 @@
 | [SystemSculpt AI](https://github.com/systemsculpt/obsidian-systemsculpt-ai) | Enhance your data flow with AI-powered tools for note-taking, task management, templates, and so much more. |
 | [Generate Hash](https://github.com/zigahertz/obsidian-hash) | Generates a cryptographically strong pseudorandom hash. |
 | [Simple Citations](https://github.com/masaki39/simple-citations) | Add & update simple literature notes. |
+| [Custom new file name](https://github.com/homu-konamilk/obsidian-custom-new-file-name) | Enables the creation of new notes with custom formatted names, including dynamic datetime stamps. |
+| [Bookmarks Caller](https://github.com/namikaze-40p/obsidian-bookmarks-caller) | Easily open bookmarks without leaving the keyboard home position. |
+| [ai-writer](https://github.com/Donovan-Ye/obsidian-ai-writer-plugin) | Use AI to generate high-quality articles with knowledge fragments. |
+| [LinkMagic](https://github.com/AndyReifman/LinkMagic) | Automatically adds links to defined regex. |
+| [Mapbox Location Image](https://github.com/aaronczichon/obsidian-location-plugin) | Renders an mapbox location image based on given coordinates. |
+| [Tab Navigator](https://github.com/o02c/obsidian-tab-navigator) | Simple Tab Switcher, search open tabs. |
