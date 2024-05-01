@@ -1641,3 +1641,4 @@
 | [Mapbox Location Image](https://github.com/aaronczichon/obsidian-location-plugin) | Renders an mapbox location image based on given coordinates. |
 | [Tab Navigator](https://github.com/o02c/obsidian-tab-navigator) | Simple Tab Switcher, search open tabs. |
 | [Day One Importer](https://github.com/marcdonald/obsidian-day-one-importer) | Import Day One journals. |
+| [Draft Indicator](https://github.com/beardicus/obsidian-draft-indicator-plugin) | Show draft status in the file explorer. |
