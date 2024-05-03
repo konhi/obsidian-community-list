@@ -401,7 +401,7 @@
 | [Local File Interface](https://github.com/qawatake/obsidian-local-file-interface-plugin) | Commands for moving files in and out of the vault. |
 | [Siteswap](https://github.com/tdresser/obsidian-siteswap) | Visualize Juggling Pattern Siteswap via the JugglingLab gif server. |
 | [Tweaks](https://github.com/JeppeKlitgaard/ObsidianTweaks) | Add convenient tweaks including improved toggling and ergonomic commands. |
-| [Thino](https://github.com/Quorafind/Obsidian-Thino) | Quickly capture memos and display them in the sidebar with a heatmap. |
+| [Thino](https://github.com/Quorafind/Obsidian-Thino) | Quickly capture memos and display them in the sidebar with a heatmap. (Closed source) |
 | [PARA Shortcuts](https://github.com/gOATiful/para-shortcuts) | Useful commands to set up and manage your knowledge using the PARA method. |
 | [13th Age Statblocks](https://github.com/ben/obsidian-13th-age-statblocks) | Render 13th Age statblocks. |
 | [Dynamic Highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) | Dynamically highlight text based on cursor selection or search query with full regex, mobile, and live preview support. |
@@ -1642,3 +1642,8 @@
 | [Tab Navigator](https://github.com/o02c/obsidian-tab-navigator) | Simple Tab Switcher, search open tabs. |
 | [Day One Importer](https://github.com/marcdonald/obsidian-day-one-importer) | Import Day One journals. |
 | [Draft Indicator](https://github.com/beardicus/obsidian-draft-indicator-plugin) | Show draft status in the file explorer. |
+| [Azure DevOps Linker](https://github.com/srz2/obsidian-azure-devops-linker) | Quickly format an Azure DevOps issue tag as a link to you Azure DevOps instance. |
+| [AI Chat](https://github.com/arenasys/obsidian-ai-chat) | Chat with AI about your notes. |
+| [Local LLM Helper](https://github.com/manimohans/obsidian-local-llm-helper) | Use a local LLM server to augment your notes |
+| [Text2Audio](https://github.com/luhaifeng666/obsidian-text2audio) | Convert text to speech. |
+| [ruby.wasm](https://github.com/geeknees/obsidian-ruby-wasm-plugin) | Run ruby code in your notes using WebAssembly. |
