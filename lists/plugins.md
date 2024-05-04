@@ -1647,3 +1647,6 @@
 | [Local LLM Helper](https://github.com/manimohans/obsidian-local-llm-helper) | Use a local LLM server to augment your notes |
 | [Text2Audio](https://github.com/luhaifeng666/obsidian-text2audio) | Convert text to speech. |
 | [ruby.wasm](https://github.com/geeknees/obsidian-ruby-wasm-plugin) | Run ruby code in your notes using WebAssembly. |
+| [TinyChart](https://github.com/alincoop/obsidian-tinychart) | Generate simple ASCII charts. |
+| [Checkbox Sounds](https://github.com/yasd251/checkbox-sounds-plugin) | Adds a nice completion sound to checkboxes when ticked off |
+| [zettelkasten navigation](https://github.com/terrychenzw/obsidian-zettelkasten-navigation) | Visualize a Luhmann-style zettelkasten. |

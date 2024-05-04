@@ -252,3 +252,4 @@
 | [humandecoded/Trace-Labs-Obsidian-Theme](https://github.com/humandecoded/Trace-Labs-Obsidian-Theme) | ![Trace Labs](https://raw.githubusercontent.com/humandecoded/Trace-Labs-Obsidian-Theme/master/screenshot.png "") |
 | [phchang/W95](https://github.com/phchang/W95) | ![W95](https://raw.githubusercontent.com/phchang/W95/master/w95.png "") |
 | [antoKeinanen/obsidian-sanctum-reborn](https://github.com/antoKeinanen/obsidian-sanctum-reborn) | ![Sanctum reborn](https://raw.githubusercontent.com/antoKeinanen/obsidian-sanctum-reborn/master/cover.png "") |
+| [ryanjrman/Spectrum-Blue](https://github.com/ryanjrman/Spectrum-Blue) | ![Spectrum Blue](https://raw.githubusercontent.com/ryanjrman/Spectrum-Blue/master/SpectrumBluePreview.png "") |
