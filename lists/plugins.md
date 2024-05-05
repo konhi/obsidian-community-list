@@ -1596,7 +1596,7 @@
 | [Cluster](https://github.com/lorens-osman-dev/cluster) | Make the notes clustering simpler on mobile devices and work well on PCs ether, Notes Clustering is the process of creating hierarchical notes structures. |
 | [IMDb](https://github.com/aaachen/IMDb-Obsidian) | Sync your IMDb list. |
 | [Daily Prompt](https://github.com/Erl-koenig/obsidian-dailyPrompt) | Set up custom prompts and automatically fill them into your daily notes. |
-| [Custom Sidebar Icons](https://github.com/RavenHogWarts/obsidian-custom-sidebar-icons) | Customize sidebar workspace document icons. |
+| [Custom Icons](https://github.com/RavenHogWarts/obsidian-custom-icons) | Enhance your workspace with customizable icons for documents and folders. |
 | [Update Time Updater](https://github.com/muratagawa/update-time-updater) | Manually update the modified date field in frontmatter. |
 | [Markpilot](https://github.com/taichimaeda/markpilot) | Inline completions and chat view powered by OpenAI. |
 | [Hierarchical Outgoing Links](https://github.com/jasonmotylinski/hierarchical-outgoing-links) | Displays outgoing links in a tree structure. |
