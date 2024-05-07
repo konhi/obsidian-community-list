@@ -444,7 +444,7 @@
 | [Living Graph](https://github.com/geoffreysflaminglasersword/obsidian-living-graph) | A for-fun graph plugin. |
 | [Hotkeys Chords](https://github.com/trenta3/obsidian-hotkeys-chords) | Configurable hotkeys chords to activate commands. |
 | [Key Sequence Shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) | Execute commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember. |
-| [Full Calendar](https://github.com/davish/obsidian-full-calendar) | Keep events and manage your calendar alongside all your other notes in your vault. |
+| [Full Calendar](https://github.com/obsidian-community/obsidian-full-calendar) | Keep events and manage your calendar alongside all your other notes in your vault. |
 | [Heatmap Calendar](https://github.com/Richardsl/heatmap-calendar-obsidian) | Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc. |
 | [Daily notes opener](https://github.com/reorx/obsidian-daily-notes-opener) | Easily open daily notes and periodic notes in new pane; customize periodic notes background; quick append new line to daily notes. |
 | [Mark and Select](https://github.com/anselmwang/obsidian-mark-and-select) | Set mark, move cursors freely and select from mark to cursor position. |
