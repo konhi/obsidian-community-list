@@ -253,3 +253,7 @@
 | [phchang/W95](https://github.com/phchang/W95) | ![W95](https://raw.githubusercontent.com/phchang/W95/master/w95.png "") |
 | [antoKeinanen/obsidian-sanctum-reborn](https://github.com/antoKeinanen/obsidian-sanctum-reborn) | ![Sanctum reborn](https://raw.githubusercontent.com/antoKeinanen/obsidian-sanctum-reborn/master/cover.png "") |
 | [ryanjrman/Spectrum-Blue](https://github.com/ryanjrman/Spectrum-Blue) | ![Spectrum Blue](https://raw.githubusercontent.com/ryanjrman/Spectrum-Blue/master/SpectrumBluePreview.png "") |
+| [SemiCirkle/Midnight-obsidian-theme](https://github.com/SemiCirkle/Midnight-obsidian-theme) | ![Midnight](https://raw.githubusercontent.com/SemiCirkle/Midnight-obsidian-theme/master/pictures/theme-preview-512x288.png "") |
+| [dpavaoman/cobalt-peacock-obmd](https://github.com/dpavaoman/cobalt-peacock-obmd) | ![Cobalt Peacock](https://raw.githubusercontent.com/dpavaoman/cobalt-peacock-obmd/master/screenshot.png "") |
+| [lorens-osman-dev/Lorens-Obsidian-Theme](https://github.com/lorens-osman-dev/Lorens-Obsidian-Theme) | ![Lorens](https://raw.githubusercontent.com/lorens-osman-dev/Lorens-Obsidian-Theme/master/cover.png "") |
+| [noahboos/Rift](https://github.com/noahboos/Rift) | ![Rift](https://raw.githubusercontent.com/noahboos/Rift/master/showcase-temporaire.png "") |

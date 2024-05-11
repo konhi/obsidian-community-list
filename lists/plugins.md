@@ -1650,3 +1650,4 @@
 | [TinyChart](https://github.com/alincoop/obsidian-tinychart) | Generate simple ASCII charts. |
 | [Checkbox Sounds](https://github.com/yasd251/checkbox-sounds-plugin) | Adds a nice completion sound to checkboxes when ticked off |
 | [zettelkasten navigation](https://github.com/terrychenzw/obsidian-zettelkasten-navigation) | Visualize a Luhmann-style zettelkasten. |
+| [Canvas Blocks](https://github.com/Kay607/obsidian-canvasblocks) | Execute python scripts from canvas |
