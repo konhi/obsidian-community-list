@@ -1651,3 +1651,7 @@
 | [Checkbox Sounds](https://github.com/yasd251/checkbox-sounds-plugin) | Adds a nice completion sound to checkboxes when ticked off |
 | [zettelkasten navigation](https://github.com/terrychenzw/obsidian-zettelkasten-navigation) | Visualize a Luhmann-style zettelkasten. |
 | [Canvas Blocks](https://github.com/Kay607/obsidian-canvasblocks) | Execute python scripts from canvas |
+| [Timekeep](https://github.com/jacobtread/obsidian-timekeep) | Time tracking. |
+| [Select word](https://github.com/ConnorEspino/ObsidianSelectWord) | Selects the word that is closest to the caret. |
+| [Note Chain](https://github.com/zigholding/obsidian-notechain-plugin) | Thoughts as river, notes as chain. Add prev and next notes to a notes, and order files by the chain in File Explorer. |
+| [Folder Periodic Notes](https://github.com/andrewheekin/obsidian-folder-periodic-notes) | Periodic notes in a year, month, and day folder hierarchy. |
