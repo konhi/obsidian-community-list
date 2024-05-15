@@ -1655,3 +1655,10 @@
 | [Select word](https://github.com/ConnorEspino/ObsidianSelectWord) | Selects the word that is closest to the caret. |
 | [Note Chain](https://github.com/zigholding/obsidian-notechain-plugin) | Thoughts as river, notes as chain. Add prev and next notes to a notes, and order files by the chain in File Explorer. |
 | [Folder Periodic Notes](https://github.com/andrewheekin/obsidian-folder-periodic-notes) | Periodic notes in a year, month, and day folder hierarchy. |
+| [S3agle](https://github.com/turnercore/s3agle) | Use S3 providers and/or Eagle to manage vault attachments locally and remotely. |
+| [Markwhen](https://github.com/mark-when/obsidian-plugin) | View and edit markwhen documents. |
+| [Canvas Keyboard Pan](https://github.com/nathonius/obsidian-canvas-pan) | Pan around your canvas using the keyboard |
+| [Weekly Review notes linker](https://github.com/AdityaKhowalGithub/weekly-review-notes-linker) | This links all of the files you have created in the last week into a Weekly Review note. |
+| [Advanced Сanvas Filter](https://github.com/CHex0K/advanced-canvas-filter) | Filter Canvas to show only items with specified tags. |
+| [Future Dates](https://github.com/slonoed/obsidian-future-dates) | Show list of future dates in vault |
+| [GDScript Syntax Highlighting](https://github.com/RobTheFiveNine/obsidian-gdscript) | Add live GDScript syntax highlighting to code block. |
