@@ -1662,3 +1662,5 @@
 | [Advanced Сanvas Filter](https://github.com/CHex0K/advanced-canvas-filter) | Filter Canvas to show only items with specified tags. |
 | [Future Dates](https://github.com/slonoed/obsidian-future-dates) | Show list of future dates in vault |
 | [GDScript Syntax Highlighting](https://github.com/RobTheFiveNine/obsidian-gdscript) | Add live GDScript syntax highlighting to code block. |
+| [Fuzzy Note Creator](https://github.com/HaloGamer33/Obsidian-Fuzzy-Note-Creator) | Create notes in folders with the help of a fuzzy finder. |
+| [BibTeX Manager](https://github.com/akopdev/obsidian-bibtex-manager) | Create a literature notes from a BibTeX entries. |
