@@ -257,3 +257,4 @@
 | [dpavaoman/cobalt-peacock-obmd](https://github.com/dpavaoman/cobalt-peacock-obmd) | ![Cobalt Peacock](https://raw.githubusercontent.com/dpavaoman/cobalt-peacock-obmd/master/screenshot.png "") |
 | [lorens-osman-dev/Lorens-Obsidian-Theme](https://github.com/lorens-osman-dev/Lorens-Obsidian-Theme) | ![Lorens](https://raw.githubusercontent.com/lorens-osman-dev/Lorens-Obsidian-Theme/master/cover.png "") |
 | [noahboos/Rift](https://github.com/noahboos/Rift) | ![Rift](https://raw.githubusercontent.com/noahboos/Rift/master/showcase-temporaire.png "") |
+| [BlossomTheme/Obsidian](https://github.com/BlossomTheme/Obsidian) | ![Blossom](https://raw.githubusercontent.com/BlossomTheme/Obsidian/master/screenshot01.png "") |

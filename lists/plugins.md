@@ -1664,3 +1664,9 @@
 | [GDScript Syntax Highlighting](https://github.com/RobTheFiveNine/obsidian-gdscript) | Add live GDScript syntax highlighting to code block. |
 | [Fuzzy Note Creator](https://github.com/HaloGamer33/Obsidian-Fuzzy-Note-Creator) | Create notes in folders with the help of a fuzzy finder. |
 | [BibTeX Manager](https://github.com/akopdev/obsidian-bibtex-manager) | Create a literature notes from a BibTeX entries. |
+| [MostUsed](https://github.com/levi-ivel/MostUsed) | Creates a list from your 100 most commonly used words |
+| [Vault Explorer](https://github.com/trey-wallis/obsidian-vault-explorer) | Explore your vault in visual format |
+| [Cursor Jump](https://github.com/LifeFi/obsidian-jump) | Quickly jump between list items and headings throughout same or upper/lower level. |
+| [Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) | Timesheet generator for tasks in daily notes. |
+| [List Outline Helper](https://github.com/triangular-sneaky/obsidian-list-outline-helper) | Utilities to work with list outlines. Currently supports selecting the outline (current line and children) |
+| [Query JSON](https://github.com/rooyca/query-json) | Read, query and work with JSON. |
