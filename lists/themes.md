@@ -258,3 +258,5 @@
 | [lorens-osman-dev/Lorens-Obsidian-Theme](https://github.com/lorens-osman-dev/Lorens-Obsidian-Theme) | ![Lorens](https://raw.githubusercontent.com/lorens-osman-dev/Lorens-Obsidian-Theme/master/cover.png "") |
 | [noahboos/Rift](https://github.com/noahboos/Rift) | ![Rift](https://raw.githubusercontent.com/noahboos/Rift/master/showcase-temporaire.png "") |
 | [BlossomTheme/Obsidian](https://github.com/BlossomTheme/Obsidian) | ![Blossom](https://raw.githubusercontent.com/BlossomTheme/Obsidian/master/screenshot01.png "") |
+| [bhappen/obsidian-space](https://github.com/bhappen/obsidian-space) | ![Space](https://raw.githubusercontent.com/bhappen/obsidian-space/master/obsidian-space.png "") |
+| [grjsmith/Neon-Synthwave](https://github.com/grjsmith/Neon-Synthwave) | ![Neon Synthwave](https://raw.githubusercontent.com/grjsmith/Neon-Synthwave/master/screenshot.jpg "") |

@@ -19,7 +19,6 @@
 | [Add links to current note](https://github.com/mrjackphil/obsidian-crosslink-between-notes) | A command to add a link to the current note at the bottom of selected notes. |
 | [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) | Enhanced Quick Switcher, search open panels, and symbols. |
 | [Day Planner](https://github.com/ivan-lednev/obsidian-day-planner) | Day planning from a task list in a Markdown note with enhanced time block functionality. |
-| [Editor Syntax Highlight](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) | Show syntax highlighing in code blocks the editor. |
 | [Review](https://github.com/ryanjamurphy/review-obsidian) | Add a link to the current note to a daily note on a future date (or a past date, you time traveller). |
 | [Hider](https://github.com/kepano/obsidian-hider) | Hide UI elements such as tooltips, status, titlebar and more. |
 | [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings) | Control the colors and fonts in Minimal Theme. |
@@ -74,7 +73,6 @@
 | [metatemplates](https://github.com/avirut/obsidian-metatemplates) | Generate notes from templates using YAML frontmatter. |
 | [Imgur](https://github.com/gavvvr/obsidian-imgur-plugin) | Upload images from your clipboard to imgur.com and embeds uploaded image to your note. |
 | [Checklist](https://github.com/delashum/obsidian-checklist-plugin) | Consolidate checklists across all files into a single view. |
-| [Text Expander](https://github.com/konodyuk/obsidian-text-expander) | Expand text shortcuts, run shell commands and Python scripts right in your editor. |
 | [Search on Internet](https://github.com/HEmile/obsidian-search-on-internet) | Add context menu items to search the internet based on the title of your note. |
 | [File path to URI](https://github.com/MichalBures/obsidian-file-path-to-uri) | Convert file path to URI for easier use of links to local files outside of Obsidian. |
 | [Page Heading From Links](https://github.com/beet/page-headings-obsidian-plugin) | Populate page headings from the file name. |
@@ -394,7 +392,6 @@
 | [Global Hotkeys](https://github.com/mjessome/obsidian-global-hotkeys) | Configurable system-wide hotkeys for running commands. |
 | [TimeStamper](https://github.com/Gru80/obsidian-timestamper) | Insert a customized or predefined time- or date-stamp at the current cursor position. |
 | [JSON/CSV Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file. |
-| [Import Foundry VTT journal entries](https://github.com/farling42/obsidian-import-foundry) | Import your journal entries from your selected Foundry VTT world into a folder within your vault. |
 | [Attachment Name Formatting](https://github.com/JYC333/obsidian-attachment-name-formatting) | Formatting attachments name (filename attachmentType indexNumber.xxx). |
 | [Completr](https://github.com/tth05/obsidian-completr) | Advanced auto-completion for LaTeX, frontmatter, and standard writing. |
 | [Binary File Manager](https://github.com/qawatake/obsidian-binary-file-manager-plugin) | Detect new binary files in the vault and create Markdown files with metadata. |
@@ -669,7 +666,6 @@
 | [Edit Gemini](https://github.com/Basil-Mori/obsidian-edit-gemini) | Edit and create .gmi files. |
 | [Pretty BibTeX](https://github.com/sandrofigo/obsidian-pretty-bibtex) | Show raw BibTeX bibliography entries in a prettier way. |
 | [Frontmatter Links](https://github.com/Trikzon/obsidian-frontmatter-links) | Render links in a note's frontmatter as links. |
-| [Ava](https://github.com/louis030195/obsidian-ava) | Quickly format your notes with ChatGPT. |
 | [Scroll to Top](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) | Add a button to scroll to the top of the current note. |
 | [Old Note Admonitor](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor) | Show warnings if the note has not been updated for over specific days. |
 | [Export Image](https://github.com/zhouhua/obsidian-export-image) | Easily convert your article to image. |
@@ -1256,7 +1252,6 @@
 | [Canvas LLM Extender](https://github.com/phasip/obsidian-canvas-llm-extender) | Let the OpenAI LLM / GPT add nodes to your canvas for you. |
 | [Teleprompter](https://github.com/lumetrium/obsidian-teleprompter) | Teleprompter window for live presentations and video production. |
 | [Backlink Cache](https://github.com/mnaoumov/obsidian-backlink-cache) | Store backlink cache to speed up `app.metadataCache.getBacklinksForFile`. |
-| [Tistory](https://github.com/anpigon/obsidian-tistory-plugin) | Create and edit posts on the Tistory blogging platform. |
 | [Enhance YouTube Links](https://github.com/Git-Sum/obsidian-enhance-youtube-links) | Get metadata from a YouTube video. |
 | [sync-to-xlog](https://github.com/Otto-J/sync-to-xlog) | Push notes to xlog.app. |
 | [Global Markdown Encryption](https://github.com/shlemiel/globaloe) | In-memory AES256-GCM Markdown encryption. |
@@ -1670,3 +1665,4 @@
 | [Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) | Timesheet generator for tasks in daily notes. |
 | [List Outline Helper](https://github.com/triangular-sneaky/obsidian-list-outline-helper) | Utilities to work with list outlines. Currently supports selecting the outline (current line and children) |
 | [Query JSON](https://github.com/rooyca/query-json) | Read, query and work with JSON. |
+| [Voicenotes Sync](https://github.com/mysticcoders/voicenotes-sync) | A plugin for syncing Voicenotes.com data into notes |
