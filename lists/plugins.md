@@ -1666,3 +1666,11 @@
 | [List Outline Helper](https://github.com/triangular-sneaky/obsidian-list-outline-helper) | Utilities to work with list outlines. Currently supports selecting the outline (current line and children) |
 | [Query JSON](https://github.com/rooyca/query-json) | Read, query and work with JSON. |
 | [Voicenotes Sync](https://github.com/mysticcoders/voicenotes-sync) | A plugin for syncing Voicenotes.com data into notes |
+| [Légifrance Intégration](https://github.com/carnetdethese/obsidian-legifrance-integration) | Intégration de l'API Légifrance. |
+| [Github Copilot](https://github.com/Pierrad/obsidian-github-copilot) | Implement suggestions from Github Copilot directly in your editor. |
+| [Toggle RTL mode](https://github.com/YoniA/toggle-rtl-obsidian-plugin) | Toggle RTL mode using command or ribbon action |
+| [Update Time](https://github.com/dsebastien/obsidian-update-time) | Update front matter to include creation and last update times |
+| [Solo RPG Toolkit](https://github.com/alexkurowski/solo-toolkit) | Helpful tools for playing TTRPG games, geared towards solo play with a GM emulator. |
+| [Interactivity](https://github.com/ichichikin/obsidian-plugin-interactivity) | Interactivity allows you to run shell commands and scripts directly within your notes, providing their output right alongside your written content, making your note-taking process more dynamic and interactive. |
+| [heti](https://github.com/moeyua/obsidian-heti) | 专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。 |
+| [Stashpad Docs](https://github.com/stashpad/obsidian-to-stashpad) | Create a Stashpad Doc from your notes. |
