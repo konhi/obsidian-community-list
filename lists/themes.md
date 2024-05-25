@@ -238,7 +238,6 @@
 | [contrapasso3/Reshi](https://github.com/contrapasso3/Reshi) | ![Reshi](https://raw.githubusercontent.com/contrapasso3/Reshi/master/Reshi%20Preview.png "") |
 | [mProjectsCode/obsidian-focus-theme](https://github.com/mProjectsCode/obsidian-focus-theme) | ![Focus](https://raw.githubusercontent.com/mProjectsCode/obsidian-focus-theme/master/FocusThemeImage.png "") |
 | [natowb/obsidian-nordic](https://github.com/natowb/obsidian-nordic) | ![Nordic](https://raw.githubusercontent.com/natowb/obsidian-nordic/master/obsidian-nordic.png "") |
-| [dudethatserin/moonstone](https://github.com/dudethatserin/moonstone) | ![Moonstone](https://raw.githubusercontent.com/dudethatserin/moonstone/master/screenshot.png "") |
 | [vladstudio/tiniri-obsidian](https://github.com/vladstudio/tiniri-obsidian) | ![Tiniri](https://raw.githubusercontent.com/vladstudio/tiniri-obsidian/master/screenshot.png "") |
 | [Indyandie/kurokula-obsidian-theme](https://github.com/Indyandie/kurokula-obsidian-theme) | ![Kurokula](https://raw.githubusercontent.com/Indyandie/kurokula-obsidian-theme/master/dark.png "") |
 | [clearlysid/apex](https://github.com/clearlysid/apex) | ![Apex](https://raw.githubusercontent.com/clearlysid/apex/master/preview.png "") |

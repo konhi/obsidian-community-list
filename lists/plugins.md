@@ -1101,7 +1101,7 @@
 | [@ Symbol Linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) | Link with @ (the at symbol). Can scope @ linking to a specific directory e.g. Contacts/ |
 | [Attachment Manager](https://github.com/chenfeicqq/obsidian-attachment-manager) | Attachment Manager: Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
 附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。 |
-| [Solve](https://github.com/LiamRiddell/obsidian-solve) | Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From date magic ('Now + 20 days') to arithmetic flair ('10 + 5 / (2 * 2)'), your trusted sidekick in every note. More brilliance on the way! |
+| [Solve](https://github.com/LiamRiddell/obsidian-solve) | Supercharge your notes with real-time calculations without AI fuss. From dates ('Now + 20 days'), percentages ('10% of 120'), units of measurement ('100cm + 2m'), arithmetic ('10 + 5') and more! |
 | [Nested tags graph](https://github.com/drPilman/obsidian-graph-nested-tags) | Link nested tags in graph view. |
 | [YouVersion Linker](https://github.com/jaanonim/obsidian-youversion-linker) | Automatically link bible verses in your notes to YouVersion bible. |
 | [Checkbox Reorder](https://github.com/Erl-koenig/obsidian-checkboxReorder) | Reorder completed checkboxes to the end of the according list. |
@@ -1671,6 +1671,6 @@
 | [Toggle RTL mode](https://github.com/YoniA/toggle-rtl-obsidian-plugin) | Toggle RTL mode using command or ribbon action |
 | [Update Time](https://github.com/dsebastien/obsidian-update-time) | Update front matter to include creation and last update times |
 | [Solo RPG Toolkit](https://github.com/alexkurowski/solo-toolkit) | Helpful tools for playing TTRPG games, geared towards solo play with a GM emulator. |
-| [Interactivity](https://github.com/ichichikin/obsidian-plugin-interactivity) | Interactivity allows you to run shell commands and scripts directly within your notes, providing their output right alongside your written content, making your note-taking process more dynamic and interactive. |
+| [Interactivity: Calculations and Scripts](https://github.com/ichichikin/obsidian-plugin-interactivity) | Interactivity allows you to run shell commands and scripts directly within your notes, providing their output right alongside your written content, making your note-taking process more dynamic and interactive. |
 | [heti](https://github.com/moeyua/obsidian-heti) | 专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。 |
 | [Stashpad Docs](https://github.com/stashpad/obsidian-to-stashpad) | Create a Stashpad Doc from your notes. |
