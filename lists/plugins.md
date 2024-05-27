@@ -338,7 +338,7 @@
 | [Tweet to Markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) | Save tweets as Markdown files, along with their images, polls, etc. |
 | [Habitica Sync](https://github.com/SuperChamp234/habitica-sync) | Integrate Habitica tasks and stats. |
 | [Oura Ring](https://github.com/kinabalu/obsidian-oura-plugin) | Import Oura Ring data into a note. |
-| [Metacopy & URL](https://github.com/Lisandra-dev/obsidian-metacopy) | Copy the value of a frontmatter key and create a link from it using various settings. |
+| [Metacopy & URL](https://github.com/Mara-Li/obsidian-metacopy) | Copy the value of a frontmatter key and create a link from it using various settings. |
 | [Image Caption](https://github.com/bicarlsen/obsidian_image_caption) | Add caption to images. |
 | [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) | Find hidden connections between notes in your vault using cool graph algorithms. |
 | [Custom Attachment Location](https://github.com/RainCat1998/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like Typora. |
@@ -585,7 +585,7 @@
 | [No Dupe Leaves](https://github.com/scambier/obsidian-no-dupe-leaves) | Don't reopen notes that are already open. |
 | [Open File by Magic Date](https://github.com/SimplGy/obsidian-open-file-by-magic-date) | Define a hotkey and Moment.js pattern for the file that is most important to you (eg: your daily/weekly/monthly note). |
 | [Heading Shifter](https://github.com/k4a-l/obsidian-heading-shifter) | Easily Shift and Change Markdown headings. |
-| [Group Snippets](https://github.com/Lisandra-dev/obsidian-group-snippets) | Create folder of snippets to activate them in one click! |
+| [Group Snippets](https://github.com/Mara-Li/obsidian-group-snippets) | Create folder of snippets to activate them in one click! |
 | [Raindrop Highlights](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin) | Sync your Raindrop.io highlights. |
 | [Note Linker](https://github.com/AlexW00/obsidian-note-linker) | Automatically find and create new links between notes. |
 | [Dashing Cursor](https://github.com/9r0x/obsidian-dashing-cursor) | Enable a dashing cursor that follows the page scroll. |
@@ -756,7 +756,7 @@
 | [Contacts](https://github.com/vbeskrovnov/obsidian-contacts) | Manage and organize contacts. |
 | [Vega Visualizations](https://github.com/Some-Regular-Person/obsidian-vega) | Create highly-customizable data visualizations like line charts and scatter plots using Vega or Vega-Lite. |
 | [Link Nodes in Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) | Add edges between notes in Canvas based on their links. |
-| [Canvas CSS class](https://github.com/Lisandra-dev/obsidian-canvas-css-class) | Add a CSS class to the canvas, but also other attributes. |
+| [Canvas CSS class](https://github.com/Mara-Li/obsidian-canvas-css-class) | Add a CSS class to the canvas, but also other attributes. |
 | [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3 |
 | [Short links](https://github.com/scottwillmoore/obsidian-short-links) | Display short internal links to files, notes, headings, and blocks. |
 | [Hyphenation](https://github.com/7596ff/obsidian-hyphenation) | Enable justified text and hyphenation. |
@@ -812,7 +812,7 @@
 | [No Empty Windows](https://github.com/popscallion/obsidian-no-empty-windows) | Close the window with cmd+W on macOS when the last tab is closed. |
 | [Marp](https://github.com/JichouP/obsidian-marp-plugin) | Create slide decks in Markdown with Marp. |
 | [O2](https://github.com/songkg7/o2) | Convert Obsidian Markdown syntax to other Markdown platforms such as Jekyll. |
-| [Create Note in Folder](https://github.com/Lisandra-dev/obsidian-create-note-in-folder) | Add commands to create a note in a specific folder. |
+| [Create Note in Folder](https://github.com/Mara-Li/obsidian-create-note-in-folder) | Add commands to create a note in a specific folder. |
 | [Apple Books Highlights](https://github.com/atfzl/obsidian-apple-books-plugin) | Sync your Apple Books highlights automatically. |
 | [MSG Handler](https://github.com/ozntel/obsidian-msg-handler) | Easily display and search MSG files from Outlook in your vault. |
 | [ObsiDOOM](https://github.com/twibiral/ObsiDOOM) | Play DOOM and many other retro games in Obsidian. You can also play Prince of Persia, Mortal Combat, GTA, Sim City, and Need for Speed. |
@@ -934,7 +934,7 @@
 | [Fuzzy Chinese Pinyin](https://github.com/lazyloong/obsidian-fuzzy-chinese) | Fuzzy search using Chinese Pinyin. |
 | [Auto Template Trigger](https://github.com/numeroflip/obsidian-auto-template-prompt) | Automatically prompt for a template, when creating a note. |
 | [Ketcher](https://github.com/yuleicul/obsidian-ketcher) | View or draw chemical structures and reactions using Ketcher. |
-| [Open Plugin Settings](https://github.com/lisandra-dev/open-plugin-settings-commands) | Create a command to open a specified plugin settings. |
+| [Open Plugin Settings](https://github.com/Mara-Li/open-plugin-settings-commands) | Create a command to open a specified plugin settings. |
 | [MathLive](https://github.com/danzilberdan/obsidian-mathlive) | Faster and more intuitive MathJax editing using MathLive. |
 | [Auto Hide Cursor](https://github.com/moismat/obsidian-auto-hide-cursor) | Hide the cursor when scrolling and show it again when moving the mouse. |
 | [PubScale](https://github.com/piriwata/pubScale) | Seamlessly sync Markdown notes into PlanetScale tables. |
@@ -1286,7 +1286,7 @@
 | [Are.na unofficial](https://github.com/0xroko/obsidian-arena-plugin) | Save Are.na blocks as notes. |
 | [Datetime Language Changer](https://github.com/ZetabS/datetime-language-changer) | Customize the language used for datetime formatting by changing moment.js's locale. |
 | [Minio Uploader](https://github.com/seebin/obsidian-minio-uploader-plugin) | Upload images, videos, audio, PDFs, and other files to Minio OSS. |
-| [Better Canvas Lock](https://github.com/lisandra-dev/obsidian-better-canvas-lock) | Enhance the read-only mode in Canvas with fully lock the scroll, zoom, drag-and-drop in read-only! |
+| [Better Canvas Lock](https://github.com/Mara-Li/obsidian-better-canvas-lock) | Enhance the read-only mode in Canvas with fully lock the scroll, zoom, drag-and-drop in read-only! |
 | [File indicators](https://github.com/JakobMick/obsidian-file-indicators) | Add custom indicators to the file explorer. |
 | [Sort Frontmatter](https://github.com/mariomui/obsidian-sort-frontmatter) | Sort frontmatter recursively. |
 | [Image Classify Paste](https://github.com/ostoe/Ob-ImagePastePlugin) | Paste your image like Typora, the image link name not ![[Paste xxx]] but ![some name](relative-directory/xxx.png) with a relative directory. |
@@ -1599,7 +1599,7 @@
 | [Alias Picker](https://github.com/rostunic/obsidian-alias-picker) | Pick aliases or blocks of links. |
 | [Fontsource](https://github.com/fontsource/obsidian-fontsource) | Load custom fonts from Fontsource into your notes. |
 | [Static Site MD Exporter](https://github.com/yy4382/obsidian-static-site-export) | Export specific notes to general Markdown files for static page generator like Hugo, Hexo, Astro and more. |
-| [Enhanced Copy](https://github.com/Lisandra-dev/obsidian-enhanced-copy) | Copy your selection and add it some edit to paste in other markdown software. Allows to keep markdown in reading view, removing wikilinks in editing, copy from locked canvas, and more! |
+| [Enhanced Copy](https://github.com/Mara-Li/obsidian-enhanced-copy) | Copy your selection and add it some edit to paste in other markdown software. Allows to keep markdown in reading view, removing wikilinks in editing, copy from locked canvas, and more! |
 | [Ink](https://github.com/daledesilva/obsidian_ink) | Hand write or draw with a stylus directly between paragraphs in your notes. |
 | [Sync config folder to common folder](https://github.com/codeonquer/obsidian-sync-config-folder-to-common-folder) | Sync contents from config folder to common folder for backup or other purposes. |
 | [AI for Templater](https://github.com/TfTHacker/obsidian-ai-templater) | AI Extension for the Templater plugin with the OpenAI Client Library. |
