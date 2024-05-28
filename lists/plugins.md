@@ -499,7 +499,7 @@
 | [Korean Book Info](https://github.com/kmsk99/kr-book-info-plugin) | Crawl Yes24 to get book information. |
 | [Link Embed](https://github.com/Seraphli/obsidian-link-embed) | Convert URLs in your notes into embeded previews. |
 | [Columns](https://github.com/tnichols217/obsidian-columns) | Create columns in Markdown. |
-| [Github Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) | Publish your notes to a preconfigured GitHub repository. |
+| [Enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) | Publish your notes to a preconfigured GitHub repository. |
 | [Notion Video Embed](https://github.com/LastKnightCoder/obsidian-notion-video) | Embed Notion videos. |
 | [Math+](https://github.com/ocapraro/obsidian-math-plus) | Take math notes using Excalidraw. |
 | [Todoist Link](https://github.com/dennisseidel/obsidian-todoist-link) | Create Todoist tasks and projects including bidirectional links from Obsidian. |
@@ -508,7 +508,7 @@
 | [Omnisearch](https://github.com/scambier/obsidian-omnisearch) | Intelligent search for your notes, PDFs, and OCR for images. |
 | [Plugins Galore](https://github.com/plugins-galore/obsidian-plugins-galore) | Easily sideload other plugins. |
 | [Auto Card Link](https://github.com/nekoshita/obsidian-auto-card-link) | Automatically fetches metadata from a URL and makes it as a card-styled link. |
-| [DataLoom](https://github.com/trey-wallis/obsidian-dataloom) | Weave together data from diverse sources into a cohesive table view. Inspired by Excel spreadsheets and Notion.so. |
+| [DataLoom](https://github.com/decaf-dev/obsidian-dataloom) | Weave together data from diverse sources into a cohesive table view. Inspired by Excel spreadsheets and Notion.so. |
 | [AutoMOC](https://github.com/dalcantara7/obsidian-auto-moc) | Look for missing linked mentions to the current note and import them into the current note. |
 | [Paste image Png to Jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg) | Screenshot png to jpeg and compress and rename. |
 | [Folder Index](https://github.com/turulix/obsidian-folder-index) | Automatically generate a Map of Content for the current Folder and Subfolders. |
@@ -1101,7 +1101,7 @@
 | [@ Symbol Linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) | Link with @ (the at symbol). Can scope @ linking to a specific directory e.g. Contacts/ |
 | [Attachment Manager](https://github.com/chenfeicqq/obsidian-attachment-manager) | Attachment Manager: Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
 附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。 |
-| [Solve](https://github.com/LiamRiddell/obsidian-solve) | Supercharge your notes with real-time calculations without AI fuss. From dates ('Now + 20 days'), percentages ('10% of 120'), units of measurement ('100cm + 2m'), arithmetic ('10 + 5') and more! |
+| [Solve](https://github.com/LiamRiddell/obsidian-solve) | Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From date magic ('Now + 20 days') to arithmetic flair ('10 + 5 / (2 * 2)'), your trusted sidekick in every note. More brilliance on the way! |
 | [Nested tags graph](https://github.com/drPilman/obsidian-graph-nested-tags) | Link nested tags in graph view. |
 | [YouVersion Linker](https://github.com/jaanonim/obsidian-youversion-linker) | Automatically link bible verses in your notes to YouVersion bible. |
 | [Checkbox Reorder](https://github.com/Erl-koenig/obsidian-checkboxReorder) | Reorder completed checkboxes to the end of the according list. |
@@ -1281,7 +1281,7 @@
 | [Blockier](https://github.com/blorbb/obsidian-blockier) | Extra block editing utilities. |
 | [Colored Tags Wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler) | Assign colors to tags. Has integrations with other plugins, like Kanban. |
 | [GChat Reminder](https://github.com/anil-e/obsidian_gchat_plugin) | Send notifications to Google Chat Webhook based on due dates in tasks. |
-| [iCal](https://github.com/andrewbrereton/obsidian-to-ical-plugin) | Scan your vault for tasks that contain dates. Create an iCal file and store it in your vault or on Gist. You can then show this calendar in any iCal-compatible client such as Outlook, Google Calendar, Apple Calendar, etc. |
+| [iCal](https://github.com/andrewbrereton/obsidian-to-ical-plugin) | Scan your vault for tasks that contain dates. Create an iCalendar file and store it in your vault or on Gist. You can then show this calendar in any iCal-compatible client such as Outlook, Google Calendar, Apple Calendar, etc. |
 | [Desci](https://github.com/Obsidian-Desci/Obsidian-Desci) | Web3, IPFS, and Desci integrations. |
 | [Are.na unofficial](https://github.com/0xroko/obsidian-arena-plugin) | Save Are.na blocks as notes. |
 | [Datetime Language Changer](https://github.com/ZetabS/datetime-language-changer) | Customize the language used for datetime formatting by changing moment.js's locale. |
@@ -1401,7 +1401,7 @@
 | [Consecutive Lists](https://github.com/jtucker2/obsidian-consecutive-lists) | Create consecutive lists that are displayed separately in reading mode. |
 | [Alt-Click to Copy](https://github.com/veersheth/obsidian-alt-click-to-copy) | Alt-click on codeblocks to copy its data to the clipboard |
 | [Hatena Blog Publisher](https://github.com/takmatsukawa/obsidian-hatena) | Post directly to your Hatena Blog. |
-| [Reason](https://github.com/jshph/obsidian-reason) | REASON: Retrieve, Extract, And Synthesize Obsidian Notes |
+| [Enzyme](https://github.com/jshph/obsidian-reason) | A REPL to digest your thoughts |
 | [iCloud Contacts](https://github.com/Trulsaa/obsidian-icloud-contacts) | Imports contacts from iCloud and manages a note for each contact. |
 | [Dynamic Text Concealer](https://github.com/mattcoleanderson/obsidian-dynamic-text-concealer) | Conceal or replace user-configured text patterns in Live Preview and reading mode. |
 | [Timelines (Revamped)](https://github.com/seanlowe/obsidian-timelines) | Generate a chronological timeline in which all 'events' are notes that include a specific tag or set of tags. |
@@ -1506,7 +1506,7 @@
 | [Contextual note templating](https://github.com/Balibaloo/obsidian-local-template-configuration) | Prompts for values and templates to create notes. |
 | [Vault Transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) | Transfers a note from one vault to another. |
 | [Movie Search](https://github.com/Gubchik123/obsidian-movie-search-plugin) | Helps you find movies and create notes. |
-| [View Count](https://github.com/trey-wallis/obsidian-view-count) | Tracks view count for each vault file. |
+| [View Count](https://github.com/decaf-dev/obsidian-view-count) | Tracks view count for each vault file. |
 | [Notification Controller](https://github.com/juan-miii/obsidian-notice-plugin) | Manages notifications at startup. |
 | [Calendarium](https://github.com/javalent/calendarium) | Craft mind-bending fantasy and sci-fi calendars. |
 | [Confluence Sync](https://github.com/kerry/obsidian-confluence-sync) | Sync notes with Confluence |
@@ -1621,7 +1621,7 @@
 | [Calendar Event Sync](https://github.com/stephendolan/obsidian-calendar-event-sync) | Sync your current note with a relevant calendar event. |
 | [Painter](https://github.com/KraXen72/obsidian-painter) | Paint text different colors. |
 | [Random names](https://github.com/palfrey/obsidian-random-names) | Generates random names. |
-| [Note Splitter](https://github.com/trey-wallis/obsidian-note-splitter) | Split a note into individual notes based on a delimiter. |
+| [Note Splitter](https://github.com/decaf-dev/obsidian-note-splitter) | Split a note into individual notes based on a delimiter. |
 | [Bearings](https://github.com/jeetsukumaran/obsidian-bearings) | Flow through dynamically-scoped collapsible tree views of your vault's semantic and logical architectures. |
 | [Image Search](https://github.com/razeghi71/obsidian-image-search) | Search and insert images using Google API |
 | [Lava VTT Uploader](https://github.com/lavaforge/obsidian-lava-vtt-uploader) | Display images from your vault in Lava VTT. |
@@ -1660,7 +1660,7 @@
 | [Fuzzy Note Creator](https://github.com/HaloGamer33/Obsidian-Fuzzy-Note-Creator) | Create notes in folders with the help of a fuzzy finder. |
 | [BibTeX Manager](https://github.com/akopdev/obsidian-bibtex-manager) | Create a literature notes from a BibTeX entries. |
 | [MostUsed](https://github.com/levi-ivel/MostUsed) | Creates a list from your 100 most commonly used words |
-| [Vault Explorer](https://github.com/trey-wallis/obsidian-vault-explorer) | Explore your vault in visual format |
+| [Vault Explorer](https://github.com/decaf-dev/obsidian-vault-explorer) | Explore your vault in visual format |
 | [Cursor Jump](https://github.com/LifeFi/obsidian-jump) | Quickly jump between list items and headings throughout same or upper/lower level. |
 | [Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) | Timesheet generator for tasks in daily notes. |
 | [List Outline Helper](https://github.com/triangular-sneaky/obsidian-list-outline-helper) | Utilities to work with list outlines. Currently supports selecting the outline (current line and children) |
@@ -1674,3 +1674,7 @@
 | [Interactivity: Calculations and Scripts](https://github.com/ichichikin/obsidian-plugin-interactivity) | Interactivity allows you to run shell commands and scripts directly within your notes, providing their output right alongside your written content, making your note-taking process more dynamic and interactive. |
 | [heti](https://github.com/moeyua/obsidian-heti) | 专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。 |
 | [Stashpad Docs](https://github.com/stashpad/obsidian-to-stashpad) | Create a Stashpad Doc from your notes. |
+| [Smart Gantt](https://github.com/nhannht/obsidian-smart-gantt) | Intelligently generate Gantt chart from your tasks |
+| [TaskWarrior Task Wiki](https://github.com/SntTGR/obsidian-tw-task-wiki) | Wrapper and integration around TaskWarrior. Allows you to view and edit tasks in your TaskWarrior database as tables. |
+| [Notes 2 Tweets](https://github.com/Tej-Sharma/notes2tweets-obsidian) | Generate tweets automatically from all the notes you took |
+| [Note Definitions](https://github.com/dominiclet/obsidian-note-definitions) | Personal dictionary for your notes |
