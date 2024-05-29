@@ -259,3 +259,4 @@
 | [BlossomTheme/Obsidian](https://github.com/BlossomTheme/Obsidian) | ![Blossom](https://raw.githubusercontent.com/BlossomTheme/Obsidian/master/screenshot01.png "") |
 | [bhappen/obsidian-space](https://github.com/bhappen/obsidian-space) | ![Space](https://raw.githubusercontent.com/bhappen/obsidian-space/master/obsidian-space.png "") |
 | [grjsmith/Neon-Synthwave](https://github.com/grjsmith/Neon-Synthwave) | ![Neon Synthwave](https://raw.githubusercontent.com/grjsmith/Neon-Synthwave/master/screenshot.jpg "") |
+| [CyanVoxel/vauxhall-obsidian](https://github.com/CyanVoxel/vauxhall-obsidian) | ![Vauxhall](https://raw.githubusercontent.com/CyanVoxel/vauxhall-obsidian/master/cover.png "") |

@@ -934,7 +934,7 @@
 | [Fuzzy Chinese Pinyin](https://github.com/lazyloong/obsidian-fuzzy-chinese) | Fuzzy search using Chinese Pinyin. |
 | [Auto Template Trigger](https://github.com/numeroflip/obsidian-auto-template-prompt) | Automatically prompt for a template, when creating a note. |
 | [Ketcher](https://github.com/yuleicul/obsidian-ketcher) | View or draw chemical structures and reactions using Ketcher. |
-| [Open Plugin Settings](https://github.com/Mara-Li/open-plugin-settings-commands) | Create a command to open a specified plugin settings. |
+| [Open Plugin Settings](https://github.com/Mara-Li/obsidian-open-settings) | Create a command to open a specified plugin settings. |
 | [MathLive](https://github.com/danzilberdan/obsidian-mathlive) | Faster and more intuitive MathJax editing using MathLive. |
 | [Auto Hide Cursor](https://github.com/moismat/obsidian-auto-hide-cursor) | Hide the cursor when scrolling and show it again when moving the mouse. |
 | [PubScale](https://github.com/piriwata/pubScale) | Seamlessly sync Markdown notes into PlanetScale tables. |
@@ -1678,3 +1678,12 @@
 | [TaskWarrior Task Wiki](https://github.com/SntTGR/obsidian-tw-task-wiki) | Wrapper and integration around TaskWarrior. Allows you to view and edit tasks in your TaskWarrior database as tables. |
 | [Notes 2 Tweets](https://github.com/Tej-Sharma/notes2tweets-obsidian) | Generate tweets automatically from all the notes you took |
 | [Note Definitions](https://github.com/dominiclet/obsidian-note-definitions) | Personal dictionary for your notes |
+| [MathLive in Editor Mode](https://github.com/MizarZh/obsidian-mathlive-codemirror) | MathLive input in editor mode |
+| [Lineage](https://github.com/ycnmhd/obsidian-lineage) | A writing interface that combines structure and content. Inspired by Gingko Writer. |
+| [Settings Management](https://github.com/xhuajin/obsidian-settings-options-management) | Manage settings options, including show enabled/disabled plugins and css, grid layout, save current plugins/css enable config for quick enable/disable, etc. |
+| [Laser beam](https://github.com/drbap/laser-beam-for-obsidian) | Improve your reading experience with customizable laser lines. |
+| [Freeform](https://github.com/tmcw/obsidian-freeform) | Create visualizations, run custom JS, and mix live programs with your notes |
+| [Smart HTML Select](https://github.com/IsaiaScope/smart-html-select-plugin) | Create select that change the markdown on change adding an action button to the ribbon (left sidebar) |
+| [File Preview](https://github.com/xhuajin/obsidian-file-preview) | Add file preview contents under file in file explorer. |
+| [Regex Mark](https://github.com/Mara-Li/obsidian-regex-mark) | Add custom CSS classes to text based on regular expressions. |
+| [Focus Tracker](https://github.com/jeetsukumaran/obsidian-focus-tracker) | Track and align your focus. |
