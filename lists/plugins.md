@@ -1687,3 +1687,5 @@
 | [File Preview](https://github.com/xhuajin/obsidian-file-preview) | Add file preview contents under file in file explorer. |
 | [Regex Mark](https://github.com/Mara-Li/obsidian-regex-mark) | Add custom CSS classes to text based on regular expressions. |
 | [Focus Tracker](https://github.com/jeetsukumaran/obsidian-focus-tracker) | Track and align your focus. |
+| [Header Counter](https://github.com/nancyel/header-counter) | Count the number of headers in the current note. |
+| [ii](https://github.com/wish5115/obsidian-ii-quicker) | Quickly insert common Markdown code and HTML code, and customize your own insertion commands. |
