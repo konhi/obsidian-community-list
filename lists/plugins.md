@@ -1689,3 +1689,10 @@
 | [Focus Tracker](https://github.com/jeetsukumaran/obsidian-focus-tracker) | Track and align your focus. |
 | [Header Counter](https://github.com/nancyel/header-counter) | Count the number of headers in the current note. |
 | [ii](https://github.com/wish5115/obsidian-ii-quicker) | Quickly insert common Markdown code and HTML code, and customize your own insertion commands. |
+| [Statblock Sidekick](https://github.com/n21rl/stablock-sidekick) | Create and expand D&D 5e statblocks. |
+| [Checkbox Time Tracker](https://github.com/udus122/checkbox-time-tracker) | Insert timestamp when you check off the checkbox |
+| [Noor](https://github.com/MKSherbini/obsidian-noor) | Aims to help Muslims stay enlightened with Islam, Quran, Hadith, and Sunnah |
+| [Graph Banner](https://github.com/ras0q/obsidian-graph-banner) | Display a local graph view to the note header |
+| [Memos Sync](https://github.com/RyoJerryYu/obsidian-memos-sync) | Syncing memos from a Memos server to your daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin. |
+| [Pin Enhancer](https://github.com/Sheeplet1/obsidian-pin-enhancer) | Prevents closure of pinned tabs |
+| [Link to Verse](https://github.com/aygjiay/obsidian-link-to-verse) | From a bible reference selected creates a markdown link to a configured bible site. |
