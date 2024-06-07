@@ -1696,3 +1696,11 @@
 | [Memos Sync](https://github.com/RyoJerryYu/obsidian-memos-sync) | Syncing memos from a Memos server to your daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin. |
 | [Pin Enhancer](https://github.com/Sheeplet1/obsidian-pin-enhancer) | Prevents closure of pinned tabs |
 | [Link to Verse](https://github.com/aygjiay/obsidian-link-to-verse) | From a bible reference selected creates a markdown link to a configured bible site. |
+| [Templify](https://github.com/quorafind/obsidian-templify) | Enables flexible conversion of note views into various layout (Closed source). |
+| [Ayanite](https://github.com/jemstelos/obsidian-ayanite) | An integrated thinking environment - advanced AI chat and knowledge copilot (Closed source). |
+| [Docxer](https://github.com/Developer-Mike/obsidian-docxer) | Import Word files easily. Adds a preview mode for .docx files and the ability to convert them to markdown (.md) files. |
+| [The Queue](https://github.com/koljapluemer/obsidian-the-queue) | Randomly exposes you to notes from your vault. Supports habits, to-dos, spaced repetition flashcards, iterative reading and more. |
+| [Folder by tags distributor](https://github.com/RevoTale/obsidian-folder-by-tags-distributor) | Automatically move notes into existing folders by tags specified in note. |
+| [POWER MODE](https://github.com/zhouhua/obsidian-power-mode) | Active POWER MODE!!!! |
+| [Rapid AI](https://github.com/ahmed3developer/rapid-ai) | An AI assistant for selected text, along with generating content with Markdown. Shortcuts and quick action buttons provide instant AI assistance. |
+| [ClickUp sync](https://github.com/hokim-m/click-up-x-obsidian) | Manage ClickUp space from notes. |
