@@ -1704,3 +1704,4 @@
 | [POWER MODE](https://github.com/zhouhua/obsidian-power-mode) | Active POWER MODE!!!! |
 | [Rapid AI](https://github.com/ahmed3developer/rapid-ai) | An AI assistant for selected text, along with generating content with Markdown. Shortcuts and quick action buttons provide instant AI assistance. |
 | [ClickUp sync](https://github.com/hokim-m/click-up-x-obsidian) | Manage ClickUp space from notes. |
+| [Tabs](https://github.com/xhuajin/obsidian-tabs) | Create tabs in your notes. |
