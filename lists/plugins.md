@@ -1705,3 +1705,12 @@
 | [Rapid AI](https://github.com/ahmed3developer/rapid-ai) | An AI assistant for selected text, along with generating content with Markdown. Shortcuts and quick action buttons provide instant AI assistance. |
 | [ClickUp sync](https://github.com/hokim-m/click-up-x-obsidian) | Manage ClickUp space from notes. |
 | [Tabs](https://github.com/xhuajin/obsidian-tabs) | Create tabs in your notes. |
+| [Vault Name](https://github.com/gapmiss/obsidian-vault-name) | Display and customize the vault name (title) in the side navigation file explorer. |
+| [Substitutions](https://github.com/BambusControl/obsidian-substitutions) | Automatically replace text fragments with symbols or different text |
+| [Infostacker Note Publish](https://github.com/taskscape/InfostackerPlugin) | Share your notes with attachments easy! |
+| [AudioPen Sync](https://github.com/jonashaefele/audiopen-obsidian) | Sync notes from AudioPen. |
+| [Pivotal Tracker URL Helper](https://github.com/kndshein/obsidian-pt-url-helper) | Automatically creates a Markdown link for Pivotal Tracker stories. |
+| [Relative Timestamps](https://github.com/agctute/relative-timestamps) | Track the time between log entries. |
+| [Simple Prompt](https://github.com/arumie/obsidian-simple-prompt-plugin) | Simple interface to generate or rewrite content using LLMs based on user input. |
+| [Explorer Hider](https://github.com/mara-li/obsidian-explorer-hider) | Hide a file or a folder from the explorer (and bookmarks) using a little bit of auto-managed CSS. |
+| [Headings in Explorer](https://github.com/patrickchiang/obsidian-headings-in-explorer) | Show headings in the file explorer. |
