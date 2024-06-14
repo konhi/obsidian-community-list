@@ -262,3 +262,6 @@
 | [CyanVoxel/vauxhall-obsidian](https://github.com/CyanVoxel/vauxhall-obsidian) | ![Vauxhall](https://raw.githubusercontent.com/CyanVoxel/vauxhall-obsidian/master/cover.png "") |
 | [nulglyph/Allium](https://github.com/nulglyph/Allium) | ![Allium](https://raw.githubusercontent.com/nulglyph/Allium/master/AlliumScreenshot.png "") |
 | [Elhary/obsidian-Pale](https://github.com/Elhary/obsidian-Pale) | ![Pale - 淡](https://raw.githubusercontent.com/Elhary/obsidian-Pale/master/screenshot.png "") |
+| [anareaty/creme-brulee-obsidian-theme](https://github.com/anareaty/creme-brulee-obsidian-theme) | ![Creme brulee](https://raw.githubusercontent.com/anareaty/creme-brulee-obsidian-theme/master/screenshot.png "") |
+| [rodydavis/obsidian-dynamic-color](https://github.com/rodydavis/obsidian-dynamic-color) | ![Dynamic Color](https://raw.githubusercontent.com/rodydavis/obsidian-dynamic-color/master/screenshots/light-purple.png "") |
+| [scottgriv/Dark-Castle-Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian) | ![Dark Castle](https://raw.githubusercontent.com/scottgriv/Dark-Castle-Obsidian/master/screenshot-small.png "") |

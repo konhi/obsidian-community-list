@@ -1714,3 +1714,10 @@
 | [Simple Prompt](https://github.com/arumie/obsidian-simple-prompt-plugin) | Simple interface to generate or rewrite content using LLMs based on user input. |
 | [Explorer Hider](https://github.com/mara-li/obsidian-explorer-hider) | Hide a file or a folder from the explorer (and bookmarks) using a little bit of auto-managed CSS. |
 | [Headings in Explorer](https://github.com/patrickchiang/obsidian-headings-in-explorer) | Show headings in the file explorer. |
+| [Medium Importer](https://github.com/arumie/obsidian-medium-importer-plugin) | Import Medium posts into your vault. |
+| [Smart Connections Visualizer](https://github.com/mossy1022/smart-connections-graph-view) | View your Smart Connections in a visualized format. |
+| [Prettier](https://github.com/GoodbyeNJN/obsidian-plugin-prettier) | Format your notes with Prettier and custom formatting options. |
+| [Pinned Notes](https://github.com/vasilcoin002/pinned-notes-plugin-obsidian) | Pin frequently-used notes on Ribbon actions (left sidebar) |
+| [Svelte Syntax Highlighter](https://github.com/typhoon-kim/obsidian-svelte-syntax-highlighter) | Syntax highlighting for Svelte code blocks. |
+| [MIDI Logger](https://github.com/maybe-hello-world/midi-logger) | Insert parsed musical notes from MIDI input devices. |
+| [Checklist Progress](https://github.com/acidghost/obsidian-checklist-progress) | Automatically fill progress (as fraction or percentage) of check-lists. |
