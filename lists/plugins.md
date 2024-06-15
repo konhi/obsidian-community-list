@@ -1582,7 +1582,7 @@
 | [Reverse Prompter](https://github.com/ryanhalliday/obsidian-reverse-prompter) | Generate prompts to keep you writing with AI. |
 | [Automation](https://github.com/Benature/obsidian-automation) | Execute commands on specific events. |
 | [Click Clack](https://github.com/Acylation/obsidian-click-clack) | Simulates typewriter / mechanical keyboard sounds. |
-| [Grind Manager](https://github.com/dromse/obsidian-grind-manager) | Task management with rewards system. |
+| [Gamified Tasks](https://github.com/dromse/obsidian-gamified-tasks) | Gamify your task management with rewards system, craft your tasks by tags. |
 | [Dictionary translator](https://github.com/grover572/obsidian-Dictionary-translator) | Helps you to quickly underline word translations and insert word cards in your notes. |
 | [vConsole](https://github.com/zhouhua/obsidian-vconsole) | Integrate vConsole for developers to facilitate the debugging of mobile plugins. |
 | [External Links](https://github.com/jivimberg/external-links) | List external links on the right side panel. |
