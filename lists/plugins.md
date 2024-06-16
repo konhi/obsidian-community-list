@@ -362,7 +362,7 @@
 | [Structured](https://github.com/dobrovolsky/obsidian-structure) | Structured plugin. Create hierarchy in notes using "." |
 | [CookLang Editor](https://github.com/cooklang/cooklang-obsidian) | Edit and display CookLang recipes. |
 | [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) | A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors. |
-| [Remotely Save](https://github.com/remotely-save/remotely-save) | Yet another unofficial plugin allowing users to sync notes between local device and the cloud service (S3, Dropbox, webdav, OneDrive). |
+| [Remotely Save](https://github.com/remotely-save/remotely-save) | Sync notes between local and cloud services with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr. |
 | [From Template](https://github.com/mo-seph/obsidian-note-from-template) | Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template. |
 | [Overdue](https://github.com/parente/obsidian-overdue) | Mark items as [[Overdue]] if they are not checked off by their due date. |
 | [Dialogue](https://github.com/holubj/obsidian-dialogue-plugin) | Create dialogues in Markdown. |
