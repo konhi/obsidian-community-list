@@ -265,3 +265,4 @@
 | [anareaty/creme-brulee-obsidian-theme](https://github.com/anareaty/creme-brulee-obsidian-theme) | ![Creme brulee](https://raw.githubusercontent.com/anareaty/creme-brulee-obsidian-theme/master/screenshot.png "") |
 | [rodydavis/obsidian-dynamic-color](https://github.com/rodydavis/obsidian-dynamic-color) | ![Dynamic Color](https://raw.githubusercontent.com/rodydavis/obsidian-dynamic-color/master/screenshots/light-purple.png "") |
 | [scottgriv/Dark-Castle-Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian) | ![Dark Castle](https://raw.githubusercontent.com/scottgriv/Dark-Castle-Obsidian/master/screenshot-small.png "") |
+| [sr-campelo/retronotes](https://github.com/sr-campelo/retronotes) | ![RetroNotes](https://raw.githubusercontent.com/sr-campelo/retronotes/master/cover.jpg "") |
