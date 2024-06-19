@@ -1530,7 +1530,7 @@
 | [VLC Bridge](https://github.com/zuluwi/obsidian-vlc-bridge) | Take video/movie notes with timestamp links and snapshots from VLC Player. |
 | [Progress Clocks](https://github.com/tokenshift/obsidian-progress-clocks) | Progress clocks and other useful widgets for real-time status tracking. |
 | [Note Companion Folder](https://github.com/vkodocha/NoteCompanionFolder) | Manage a separate folder of attachments for each note. |
-| [Tab Selector](https://github.com/namikaze-40p/obsidian-tab-selector) | Switch to the desired tab in about two actions without leaving the home position on the keyboard. |
+| [Tab Selector](https://github.com/namikaze-40p/obsidian-tab-selector) | Quickly switch tab by 2 ways, one is general way in like other apps, the other is with keeping the keyboard home position. |
 | [Default query in backlinks](https://github.com/Benature/obsidian-default-query-in-backlink) | Automatically input default query in search input of backlinks in document. |
 | [Metafolders](https://github.com/makary-s/obsidian-metafolders) | Multidimensional note navigation. |
 | [Spellcheck Toggler](https://github.com/julzerinos/spellcheck-toggler-obsidian-plugin) | Toggle spellchecking for types of text blocks in the editing view. |
