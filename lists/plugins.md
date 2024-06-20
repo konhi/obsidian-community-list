@@ -771,7 +771,7 @@
 | [Plugin Groups](https://github.com/Mocca101/obsidian-plugin-groups) | Manage your Plugins with groups: Enable & disable multiple plugins at once or delay their startup to speed up your Obsidian start up time. |
 | [IVRE](https://github.com/ivre/obsidian-ivre-plugin) | Grab data from IVRE and bring it into your notes. |
 | [Canvas Conversation](https://github.com/AndreBaltazar8/obsidian-canvas-conversation) | Create a canvas conversation using ChatGPT. |
-| [Image Captions](https://github.com/alangrainger/obsidian-image-captions) | Add captions to images when there is alt-text specified. |
+| [Image Captions](https://github.com/alangrainger/obsidian-image-captions) | Add captions to images with inline Markdown and link support. The caption format is compatible with the Commonmark spec and other Markdown applications. |
 | [The One Ring 2E Statblocks](https://github.com/modality/obsidian-the-one-ring-2e-statblocks) | Render NPC and adversary statblocks for The One Ring 2E roleplaying game. |
 | [Reference Map](https://github.com/anoopkcn/obsidian-reference-map) | Reference and citation map for literature review and discovery. |
 | [Khoj](https://github.com/khoj-ai/khoj) | An AI personal assistant for your digital brain. |
@@ -1721,3 +1721,12 @@
 | [Svelte Syntax Highlighter](https://github.com/typhoon-kim/obsidian-svelte-syntax-highlighter) | Syntax highlighting for Svelte code blocks. |
 | [MIDI Logger](https://github.com/maybe-hello-world/midi-logger) | Insert parsed musical notes from MIDI input devices. |
 | [Checklist Progress](https://github.com/acidghost/obsidian-checklist-progress) | Automatically fill progress (as fraction or percentage) of check-lists. |
+| [Explain Selection With AI](https://github.com/BWurster/obsidian-ai-expander) | Use an OpenAI Chat Completion API-compatible LLM endpoint to expand on selected text in the context of your notes. |
+| [Toggle Dark Mode](https://github.com/juliavdkris/obsidian-toggle-dark-mode) | Adds a command to toggle dark mode on and off |
+| [Plugins Annotations](https://github.com/alberti42/obsidian-plugins-annotations) | Allows adding personal comments to each installed plugin. |
+| [Close Window When Empty](https://github.com/TaylorJadin/close-window-when-empty) | Close the window when the last note is closed, kind of how browsers work. |
+| [Tars](https://github.com/TarsLab/obsidian-tars) | Use Kimi and other Chinese LLMs for text generation based on tag suggestions. |
+| [Toggle Readable line length](https://github.com/drichardson/obsidian-toggle-readable-line-length) | Add command to toggle Readable line length editor setting. |
+| [Definition List](https://github.com/shammond42/definition-list) | Adds HTML definition list support. |
+| [Line Arrange](https://github.com/chitwan27/lineArrange) | Sort selected lines by their width or shuffle them randomly. |
+| [Search In Canvas](https://github.com/quorafind/obsidian-search-in-canvas) | Search text in canvas. |
