@@ -1730,3 +1730,14 @@
 | [Definition List](https://github.com/shammond42/definition-list) | Adds HTML definition list support. |
 | [Line Arrange](https://github.com/chitwan27/lineArrange) | Sort selected lines by their width or shuffle them randomly. |
 | [Search In Canvas](https://github.com/quorafind/obsidian-search-in-canvas) | Search text in canvas. |
+| [Sheet Plus](https://github.com/ljcoder2015/obsidian-sheet-plus) | Create Excel-like spreadsheets and easily embed them in Markdown. |
+| [Watched-Metadata](https://github.com/NailAhmed/Watched-Metadata) | Watches for changes in metadata and performs user-specified actions based on these changes. |
+| [Task List Kanban](https://github.com/chrskerr/task-list-kanban) | Organizes all of the tasks within your files into a kanban view. |
+| [Interactive Code Blocks](https://github.com/Windesheim-HBO-ICT/Obsidian-Interactive-Code-Block-Plugin) | Preview interactive code blocks! |
+| [You and Your Research](https://github.com/neozhang/you-and-your-research) | Research with the help of A.I. |
+| [Dialogue Mode](https://github.com/patrickchiang/obsidian-dialogue-mode) | Dialogue mode for editing speech in writing. |
+| [Smart Text Mover](https://github.com/Ankush-Chander/obsidian-smart-move-text) | Intelligent way to arrange text/links in file. |
+| [Lookalike](https://github.com/jlweston/obsidian-note-proximity-plugin) | Find similar notes based on the frequency of terms within the vault. |
+| [Header Adjuster](https://github.com/Netajam/header-adjuster) | Easily adjust header levels in Markdown documents by increasing or decreasing their levels. Supports full document adjustments or specified line ranges, with default settings and commands for convenience. |
+| [Gemini Generator](https://github.com/BjarneRentz/obsidian-gemini-generator) | Let Google Gemini generator your notes! |
+| [Node Auto Resize](https://github.com/quorafind/obsidian-node-auto-resize) | Automatically resize the node when the content changes. |
