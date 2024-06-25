@@ -266,3 +266,11 @@
 | [rodydavis/obsidian-dynamic-color](https://github.com/rodydavis/obsidian-dynamic-color) | ![Dynamic Color](https://raw.githubusercontent.com/rodydavis/obsidian-dynamic-color/master/screenshots/light-purple.png "") |
 | [scottgriv/Dark-Castle-Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian) | ![Dark Castle](https://raw.githubusercontent.com/scottgriv/Dark-Castle-Obsidian/master/screenshot-small.png "") |
 | [sr-campelo/retronotes](https://github.com/sr-campelo/retronotes) | ![RetroNotes](https://raw.githubusercontent.com/sr-campelo/retronotes/master/cover.jpg "") |
+| [BossElijah/bossidian](https://github.com/BossElijah/bossidian) | ![Bossidian](https://raw.githubusercontent.com/BossElijah/bossidian/master/images/image-1-small.png "") |
+| [Quinta0/Aurora-Twilight](https://github.com/Quinta0/Aurora-Twilight) | ![Aurora-Twilight](https://raw.githubusercontent.com/Quinta0/Aurora-Twilight/master/image-small.png "") |
+| [Quinta0/Evergreen-Shadow](https://github.com/Quinta0/Evergreen-Shadow) | ![Evergreen-Shadow](https://raw.githubusercontent.com/Quinta0/Evergreen-Shadow/master/Evergreen-Shadow-small.png "") |
+| [Quinta0/Velvet-Moon](https://github.com/Quinta0/Velvet-Moon) | ![Velvet-Moon](https://raw.githubusercontent.com/Quinta0/Velvet-Moon/master/Velvet-Moon-small.png "") |
+| [Quinta0/Midnight-Fjord](https://github.com/Quinta0/Midnight-Fjord) | ![Midnight-Fjord](https://raw.githubusercontent.com/Quinta0/Midnight-Fjord/master/Midnight-Fjord-small.png "") |
+| [Quinta0/Mint-Breeze](https://github.com/Quinta0/Mint-Breeze) | ![Mint-Breeze](https://raw.githubusercontent.com/Quinta0/Mint-Breeze/master/Mint-Breeze-small.png "") |
+| [Quinta0/Lavender-Mist](https://github.com/Quinta0/Lavender-Mist) | ![Lavender-Mist](https://raw.githubusercontent.com/Quinta0/Lavender-Mist/master/Lavender-Mist-small.png "") |
+| [Quinta0/Northern-Sky](https://github.com/Quinta0/Northern-Sky) | ![Northern-Sky](https://raw.githubusercontent.com/Quinta0/Northern-Sky/master/Northern-Sky-small.png "") |

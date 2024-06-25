@@ -362,7 +362,7 @@
 | [Structured](https://github.com/dobrovolsky/obsidian-structure) | Structured plugin. Create hierarchy in notes using "." |
 | [CookLang Editor](https://github.com/cooklang/cooklang-obsidian) | Edit and display CookLang recipes. |
 | [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) | A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors. |
-| [Remotely Save](https://github.com/remotely-save/remotely-save) | Sync notes between local and cloud services with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr. |
+| [Remotely Save](https://github.com/remotely-save/remotely-save) | Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage. |
 | [From Template](https://github.com/mo-seph/obsidian-note-from-template) | Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template. |
 | [Overdue](https://github.com/parente/obsidian-overdue) | Mark items as [[Overdue]] if they are not checked off by their due date. |
 | [Dialogue](https://github.com/holubj/obsidian-dialogue-plugin) | Create dialogues in Markdown. |
@@ -1347,7 +1347,7 @@
 | [Intelligence](https://github.com/ransurf/obsidian-intelligence) | OpenAI GPT Assistants functionality |
 | [Neighbouring Files](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin) | Navigate to the next and previous file in the current directory. |
 | [Storyclock Viewer](https://github.com/jonzfisher/obsidian-chronostory) | Map timing onto a storyclock. Inspired by Plot Devices Storyclock. |
-| [Local GPT](https://github.com/pfrankov/obsidian-local-gpt) | Local GPT assistance for maximum privacy and offline access. |
+| [Local GPT](https://github.com/pfrankov/obsidian-local-gpt) | Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access. |
 | [Meal Plan](https://github.com/tmayoff/obsidian-meals) | Meal planning and recipe manager. |
 | [Emoji Autocomplete](https://github.com/KraXen72/obsidian-emoji-autocomplete) | Smart suggestions when typing emoji shortcodes & more! :star: |
 | [open-as-md](https://github.com/kursad-k/obsidian-openasmd) | Edit non-md file types as Markdown files. |
@@ -1600,7 +1600,7 @@
 | [Fontsource](https://github.com/fontsource/obsidian-fontsource) | Load custom fonts from Fontsource into your notes. |
 | [Static Site MD Exporter](https://github.com/yy4382/obsidian-static-site-export) | Export specific notes to general Markdown files for static page generator like Hugo, Hexo, Astro and more. |
 | [Enhanced Copy](https://github.com/Mara-Li/obsidian-enhanced-copy) | Copy your selection and add it some edit to paste in other markdown software. Allows to keep markdown in reading view, removing wikilinks in editing, copy from locked canvas, and more! |
-| [Ink](https://github.com/daledesilva/obsidian_ink) | Hand write or draw with a stylus directly between paragraphs in your notes. |
+| [Ink](https://github.com/daledesilva/obsidian_ink) | Hand write or draw directly between paragraphs using a digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles, or even math equations and scientific notation. Runs on the tldraw framework and drawing provides an infinite canvas. |
 | [Sync config folder to common folder](https://github.com/codeonquer/obsidian-sync-config-folder-to-common-folder) | Sync contents from config folder to common folder for backup or other purposes. |
 | [AI for Templater](https://github.com/TfTHacker/obsidian-ai-templater) | AI Extension for the Templater plugin with the OpenAI Client Library. |
 | [Dust Calendar](https://github.com/a-nano-dust/dust-obsidian-calendar) | 更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。 |
@@ -1741,3 +1741,14 @@
 | [Header Adjuster](https://github.com/Netajam/header-adjuster) | Easily adjust header levels in Markdown documents by increasing or decreasing their levels. Supports full document adjustments or specified line ranges, with default settings and commands for convenience. |
 | [Gemini Generator](https://github.com/BjarneRentz/obsidian-gemini-generator) | Let Google Gemini generator your notes! |
 | [Node Auto Resize](https://github.com/quorafind/obsidian-node-auto-resize) | Automatically resize the node when the content changes. |
+| [SQLSeal](https://github.com/h-sphere/sql-seal) | Use SQL in your notes to query your vault files and CSV content |
+| [Spoilers](https://github.com/jacobtread/obsidian-spoilers) | Hide and reveal blocks of information |
+| [Asciidoc Reader](https://github.com/Voidgrown/obsidian-asciidoc) | Enables the rendering of AsciiDoc. |
+| [Another Sticky Headings](https://github.com/zhouhua/obsidian-sticky-headings) | Display headings tree during editing and preview to indicate the current position. |
+| [doing](https://github.com/rooyca/doing) | It helps you remember what you were doing. |
+| [Daily Note Structure](https://github.com/db-developer/daily-note-structure) | One-Click create a structure for and including your daily notes. |
+| [RPG Stat Tracker](https://github.com/name/obsidian-rpg) | RPG-like stat tracker. |
+| [Smart Memos](https://github.com/Mossy1022/smart-transcriptions) | Create personalized and intelligent analysis, brainstorms, summaries, and more for audio recordings that can be imported or spoken directly into a note |
+| [Syrinscape Online Player](https://github.com/scooper4711/obsidian-syrinscape) | Control Syrinscape Online Player from inside of notes. |
+| [Quran Helper](https://github.com/AmmarCodes/obsidian-quran-plugin) | Find and insert any Quran Ayah (verse) in your notes. |
+| [Page Scroll](https://github.com/chenshutian9610/obsidian-pagescroll-plugin) | Page Up\|Down|Top|Bottom |
