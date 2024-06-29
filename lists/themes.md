@@ -274,3 +274,4 @@
 | [Quinta0/Mint-Breeze](https://github.com/Quinta0/Mint-Breeze) | ![Mint-Breeze](https://raw.githubusercontent.com/Quinta0/Mint-Breeze/master/Mint-Breeze-small.png "") |
 | [Quinta0/Lavender-Mist](https://github.com/Quinta0/Lavender-Mist) | ![Lavender-Mist](https://raw.githubusercontent.com/Quinta0/Lavender-Mist/master/Lavender-Mist-small.png "") |
 | [Quinta0/Northern-Sky](https://github.com/Quinta0/Northern-Sky) | ![Northern-Sky](https://raw.githubusercontent.com/Quinta0/Northern-Sky/master/Northern-Sky-small.png "") |
+| [GustavoSZ124/Obsidian-Theme-Seamless-View](https://github.com/GustavoSZ124/Obsidian-Theme-Seamless-View) | ![Seamless View](https://raw.githubusercontent.com/GustavoSZ124/Obsidian-Theme-Seamless-View/master/assets/Seamless%20View.png "") |

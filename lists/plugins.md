@@ -1047,7 +1047,6 @@
 | [Fantasy name generator](https://github.com/lukewh/fantasy-name) | Insert a random fantasy name. |
 | [TagMany](https://github.com/joshua-martius/tagmany) | Add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once. |
 | [Better Search Views](https://github.com/ivan-lednev/better-search-views) | Upgrade global search, backlinks and queries with outliner-like context trees. |
-| [Dida Todo Sync](https://github.com/eightHundreds/obsidian-dida-sync) | Sync 滴答清单(ticktick). |
 | [Better Comment Toggle](https://github.com/MrGVSV/obsidian-better-comment-toggle) | Improved comment toggling. |
 | [Mini Toolbar](https://github.com/quorafind/obsidian-mini-toolbar) | Mini context toolbar in editor. |
 | [SyncFTP](https://github.com/alex-donnan/SyncFTP) | Connect to an SFTP and push/pull file changes to it. |
