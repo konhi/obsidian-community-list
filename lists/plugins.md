@@ -1452,7 +1452,7 @@
 | [CardNote](https://github.com/cycsd/obsidian-card-note) | Quickly extract your thoughts in the Canvas and Excalidraw. |
 | [Simple Image Inserter](https://github.com/jdholtz/obsidian-image-inserter) | Add images from the file system into notes through a built-in file picker. |
 | [Graph Link Types](https://github.com/natefrisch01/Graph-Link-Types) | Link types for graph view. |
-| [Fix Require Modules](https://github.com/mnaoumov/obsidian-fix-require-modules) | Fixes `require()` calls for the built-in modules |
+| [Fix Require Modules](https://github.com/mnaoumov/obsidian-fix-require-modules) | Fixes require() calls, supporting JavaScript and TypeScript modules, enabling easy invocation, and adding code buttons for enhanced scripting capabilities |
 | [Auto Definition Link](https://github.com/nmcarp99/obsidian-auto-definition-link) | Automatically converts text to definition links within the current folder when you type them. |
 | [Chord Sheets](https://github.com/olvidalo/obsidian-chord-sheets) | Work with chord sheets (chords over lyrics) in your vault: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode. |
 | [Enhanced tables](https://github.com/pistacchio/obsidian-enhanced-tables) | Add programmable controls to selected tables. |
@@ -1751,3 +1751,21 @@
 | [Syrinscape Online Player](https://github.com/scooper4711/obsidian-syrinscape) | Control Syrinscape Online Player from inside of notes. |
 | [Quran Helper](https://github.com/AmmarCodes/obsidian-quran-plugin) | Find and insert any Quran Ayah (verse) in your notes. |
 | [Page Scroll](https://github.com/chenshutian9610/obsidian-pagescroll-plugin) | Page Up\|Down|Top|Bottom |
+| [Wechat Public Platform](https://github.com/ai-chen2050/obsidian-wechat-public-platform) | Release the article from your vault to WeChat, Baidu Baijiahao, or another article release platform. |
+| [Note to MP](https://github.com/sunbooshi/note-to-mp) | Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect preservation of note styles, support code highlighting, line numbers in code, and support local image uploads. |
+| [Xournal++](https://github.com/jonjampen/obsidian-xournalpp) | Integration with Xournal++ for handwritten notes and annotations. |
+| [Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer) | Serialize Dataview queries to Markdown, and keep the Markdown representation up to date |
+| [Fast Text Color](https://github.com/Superschnizel/obisdian-fast-text-color) | Quickly apply fully integrated text coloring and formatting with a custom syntax and a keyboard-centric interface. |
+| [Guid Renamer](https://github.com/taskscape/ObsidianUniqueFileName) | Rename selected file with a random GUID |
+| [Multiplatform Highlights Importer](https://github.com/wwwkieran/obsidian-multiplatform-highlights-import) | Import and consolidate highlights from different reading sources. Supports reconciling books across reading sources. |
+| [Front Matter Timestamps](https://github.com/lighthousedino/obsidian-front-matter-timestamps) | Automatically manages and updates 'created' and 'modified' timestamps in the frontmatter of your notes. |
+| [Publish to DEV](https://github.com/stroiman/obsidian-dev-publish) | Publish and update notes as articles on DEV (https://dev.to) |
+| [e-Daiary](https://github.com/wholetomy/obsidian-e-daiary) | Creates directories and notes based on the day of the year. |
+| [Dataview Publisher](https://github.com/udus122/dataview-publisher) | Output markdown from your Dataview queries and keep them up to date. You can also publish them. |
+| [NSFW filter](https://github.com/catvatar/Obsidian-NSFW-Plugin) | Adds customizable and easly togglable NSFW filter |
+| [File Flex](https://github.com/19msb/obsidian-file-flex) | Undo file and folder movement and name changes. |
+| [Edit in Neovim](https://github.com/TheseusGrey/edit-in-neovim) | Open a Neovim buffer for the currently open file |
+| [Todoist Indicator](https://github.com/kapej42/obsidian-todoist-indicator) | Adds a badge to "project" files to indicate a missing link to a Todoist project. |
+| [Vimium](https://github.com/karstenpedersen/obsidian-vimium) | Interact with elements using keyboard shortcuts in the spirit of Vim. |
+| [Checkbox styling helper](https://github.com/jaewonE/checkbox-styling-helper) | Helps you styling checkboxes in preview mode. |
+| [Import Attachments+](https://github.com/alberti42/obsidian-import-attachments-plus) | Import and manage attachments by enabling moving and linking |
