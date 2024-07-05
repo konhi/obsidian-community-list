@@ -79,7 +79,7 @@
 | [gracejoseph1236/obsidian-carnelian](https://github.com/gracejoseph1236/obsidian-carnelian) | ![Carnelian](https://raw.githubusercontent.com/gracejoseph1236/obsidian-carnelian/master/example.png "") |
 | [ebullient/obsidian-theme-ebullientworks](https://github.com/ebullient/obsidian-theme-ebullientworks) | ![Ebullientworks](https://raw.githubusercontent.com/ebullient/obsidian-theme-ebullientworks/master/images/ebullientworks-theme.jpg "") |
 | [AndreasStandar/Obsidian-Theme---Purple-Aurora](https://github.com/AndreasStandar/Obsidian-Theme---Purple-Aurora) | ![Purple Aurora](https://raw.githubusercontent.com/AndreasStandar/Obsidian-Theme---Purple-Aurora/master/1%20Purple%20Aurora%20screenshot.png "") |
-| [ceciliamay/obsidianmd-theme-primary](https://github.com/ceciliamay/obsidianmd-theme-primary) | ![Primary](https://raw.githubusercontent.com/ceciliamay/obsidianmd-theme-primary/master/assets/primary-heroimg.png "") |
+| [primary-theme/obsidian](https://github.com/primary-theme/obsidian) | ![Primary](https://raw.githubusercontent.com/primary-theme/obsidian/master/assets/obsidian-store-header.png "") |
 | [zcysxy/Obsidian-Terminal-Theme](https://github.com/zcysxy/Obsidian-Terminal-Theme) | ![Terminal](https://raw.githubusercontent.com/zcysxy/Obsidian-Terminal-Theme/master/screenshots/terminal.png "") |
 | [Emrie-Candera/Bubble-Space-Theme](https://github.com/Emrie-Candera/Bubble-Space-Theme) | ![Bubble Space](https://raw.githubusercontent.com/Emrie-Candera/Bubble-Space-Theme/master/screenshot.png "") |
 | [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) | ![Things](https://raw.githubusercontent.com/colineckert/obsidian-things/master/assets/main-demo.png "") |

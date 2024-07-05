@@ -1650,7 +1650,7 @@
 | [Note Chain](https://github.com/zigholding/obsidian-notechain-plugin) | Thoughts as river, notes as chain. Add prev and next notes to a notes, and order files by the chain in File Explorer. |
 | [Folder Periodic Notes](https://github.com/andrewheekin/obsidian-folder-periodic-notes) | Periodic notes in a year, month, and day folder hierarchy. |
 | [S3agle](https://github.com/turnercore/s3agle) | Use S3 providers and/or Eagle to manage vault attachments locally and remotely. |
-| [Markwhen](https://github.com/mark-when/obsidian-plugin) | View and edit markwhen documents. |
+| [Markwhen](https://github.com/mark-when/obsidian-plugin) | Create timelines, gantt charts, calendars, and more using markwhen. |
 | [Canvas Keyboard Pan](https://github.com/nathonius/obsidian-canvas-pan) | Pan around your canvas using the keyboard |
 | [Weekly Review notes linker](https://github.com/AdityaKhowalGithub/weekly-review-notes-linker) | This links all of the files you have created in the last week into a Weekly Review note. |
 | [Advanced Сanvas Filter](https://github.com/CHex0K/advanced-canvas-filter) | Filter Canvas to show only items with specified tags. |
@@ -1747,7 +1747,7 @@
 | [doing](https://github.com/rooyca/doing) | It helps you remember what you were doing. |
 | [Daily Note Structure](https://github.com/db-developer/daily-note-structure) | One-Click create a structure for and including your daily notes. |
 | [RPG Stat Tracker](https://github.com/name/obsidian-rpg) | RPG-like stat tracker. |
-| [Smart Memos](https://github.com/Mossy1022/smart-transcriptions) | Create personalized and intelligent analysis, brainstorms, summaries, and more for audio recordings that can be imported or spoken directly into a note |
+| [Smart Memos](https://github.com/Mossy1022/smart-transcriptions) | Create personalized and intelligent analysis, brainstorms, summaries, transcriptions, and more for audio recordings that can be imported or spoken directly into a note |
 | [Syrinscape Online Player](https://github.com/scooper4711/obsidian-syrinscape) | Control Syrinscape Online Player from inside of notes. |
 | [Quran Helper](https://github.com/AmmarCodes/obsidian-quran-plugin) | Find and insert any Quran Ayah (verse) in your notes. |
 | [Page Scroll](https://github.com/chenshutian9610/obsidian-pagescroll-plugin) | Page Up\|Down|Top|Bottom |
