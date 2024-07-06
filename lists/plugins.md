@@ -1769,3 +1769,12 @@
 | [Vimium](https://github.com/karstenpedersen/obsidian-vimium) | Interact with elements using keyboard shortcuts in the spirit of Vim. |
 | [Checkbox styling helper](https://github.com/jaewonE/checkbox-styling-helper) | Helps you styling checkboxes in preview mode. |
 | [Import Attachments+](https://github.com/alberti42/obsidian-import-attachments-plus) | Import and manage attachments by enabling moving and linking |
+| [Virtual Linker / Glossary](https://github.com/vschroeter/obsidian-virtual-linker) | Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links. |
+| [Are.na Manager](https://github.com/javierarce/arena-manager) | Publish content from your vault to Are.na and the other way around. |
+| [Shrink pinned tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) | Shrinks pinned tabs to save screen space. |
+| [Remove Newlines](https://github.com/HandcartCactus/obsidian-remove-newlines) | Remove newlines from text selections and also paste content from the clipboard without newlines. |
+| [Entity Linker](https://github.com/Ankush-Chander/obsidian-entity-linker) | Link research terms to standard entities |
+| [Datepicker](https://github.com/joycode-hub/datepicker-plugin) | Use a date picker to modify and insert date/time anywhere in your markdown notes. |
+| [AI Chat as Markdown](https://github.com/cpbotha/obsidian-ai-chat-as-md) | Multiple branching AI conversations as Markdown hierarchy |
+| [Sidebar Resizer](https://github.com/jeetsukumaran/obisidan-sidebar-resizer) | Adjust the sidebar sizes easily. |
+| [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview) | Allows to refresh preview mode without reopening the note |
