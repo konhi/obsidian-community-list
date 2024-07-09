@@ -2,7 +2,7 @@
 | ------- | ------------- |
 | [Natural Language Dates](https://github.com/argenos/nldates-obsidian) | Create date-links based on natural language. |
 | [Hotkeys++](https://github.com/argenos/hotkeysplus-obsidian) | Additional hotkeys to do common things. |
-| [Git](https://github.com/denolehov/obsidian-git) | Backup your vault with Git. |
+| [Git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic backup and other advanced features. |
 | [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection) | Paste URL "into" selected text. |
 | [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) | Improved table navigation, formatting, and manipulation. |
 | [Leader Hotkeys](https://github.com/tgrosinger/leader-hotkeys-obsidian) | Add leader hotkey support to any command (like tmux or vim). |
@@ -1778,3 +1778,4 @@
 | [AI Chat as Markdown](https://github.com/cpbotha/obsidian-ai-chat-as-md) | Multiple branching AI conversations as Markdown hierarchy |
 | [Sidebar Resizer](https://github.com/jeetsukumaran/obisidan-sidebar-resizer) | Adjust the sidebar sizes easily. |
 | [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview) | Allows to refresh preview mode without reopening the note |
+| [Hash Pasted Image](https://github.com/hardingadonis/hash-pasted-image) | Auto rename pasted images added to the vault via hash algorithm SHA-512 |

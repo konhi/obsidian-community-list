@@ -275,3 +275,6 @@
 | [Quinta0/Lavender-Mist](https://github.com/Quinta0/Lavender-Mist) | ![Lavender-Mist](https://raw.githubusercontent.com/Quinta0/Lavender-Mist/master/Lavender-Mist-small.png "") |
 | [Quinta0/Northern-Sky](https://github.com/Quinta0/Northern-Sky) | ![Northern-Sky](https://raw.githubusercontent.com/Quinta0/Northern-Sky/master/Northern-Sky-small.png "") |
 | [GustavoSZ124/Obsidian-Theme-Seamless-View](https://github.com/GustavoSZ124/Obsidian-Theme-Seamless-View) | ![Seamless View](https://raw.githubusercontent.com/GustavoSZ124/Obsidian-Theme-Seamless-View/master/assets/Seamless%20View.png "") |
+| [WinnerWind/gummy-revived](https://github.com/WinnerWind/gummy-revived) | ![Gummy-Revived](https://raw.githubusercontent.com/WinnerWind/gummy-revived/master/screenshot.png "") |
+| [solm0/Agate](https://github.com/solm0/Agate) | ![Agate](https://raw.githubusercontent.com/solm0/Agate/master/agate_screenshot.png "") |
+| [GnRlLeclerc/Vanilla-Theme-Palettes](https://github.com/GnRlLeclerc/Vanilla-Theme-Palettes) | ![Vanilla Palettes](https://raw.githubusercontent.com/GnRlLeclerc/Vanilla-Theme-Palettes/master/thumbnail.png "") |
