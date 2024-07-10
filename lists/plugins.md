@@ -1779,3 +1779,12 @@
 | [Sidebar Resizer](https://github.com/jeetsukumaran/obisidan-sidebar-resizer) | Adjust the sidebar sizes easily. |
 | [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview) | Allows to refresh preview mode without reopening the note |
 | [Hash Pasted Image](https://github.com/hardingadonis/hash-pasted-image) | Auto rename pasted images added to the vault via hash algorithm SHA-512 |
+| [Yanki](https://github.com/kitschpatrol/yanki-obsidian) | Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fuss. |
+| [Iconic](https://github.com/gfxholo/iconic) | Customize your app icons directly from the UI, including tabs, files, bookmarks, properties, and ribbon commands. |
+| [Notes Refresher](https://github.com/connorpark24/refresher-plugin) | Provides summaries of notes from your vault. |
+| [DocBase (Unofficial)](https://github.com/kuvanov-2/obsidian-docbase) | Pull and push notes to DocBase |
+| [Latex Render](https://github.com/jvsteiner/obsidian-latex-render) | Render small latex snippets in your notes as SVG and PNG files. |
+| [Code Link](https://github.com/observerw/obsidian-code-link) | Link to code files in your notes |
+| [Index Notes](https://github.com/adanielnoel/obsidian-index-notes) | Keep your notes indexed based on their (hierarchical) tags |
+| [Plot Vectors and Graphs](https://github.com/nicoletanyt/obsidian-plugin-graphs) | Generates graphs and vectors. |
+| [NyanBar](https://github.com/xhyabunny/nyanbar) | Nyan Cat Progress Bar generator! |
