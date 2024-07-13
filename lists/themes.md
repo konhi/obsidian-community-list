@@ -278,3 +278,6 @@
 | [WinnerWind/gummy-revived](https://github.com/WinnerWind/gummy-revived) | ![Gummy-Revived](https://raw.githubusercontent.com/WinnerWind/gummy-revived/master/screenshot.png "") |
 | [solm0/Agate](https://github.com/solm0/Agate) | ![Agate](https://raw.githubusercontent.com/solm0/Agate/master/agate_screenshot.png "") |
 | [GnRlLeclerc/Vanilla-Theme-Palettes](https://github.com/GnRlLeclerc/Vanilla-Theme-Palettes) | ![Vanilla Palettes](https://raw.githubusercontent.com/GnRlLeclerc/Vanilla-Theme-Palettes/master/thumbnail.png "") |
+| [chenbihao/obsidian-theme-dark-clarity](https://github.com/chenbihao/obsidian-theme-dark-clarity) | ![Dark Clarity](https://raw.githubusercontent.com/chenbihao/obsidian-theme-dark-clarity/master/screenshot.png "") |
+| [exloseur3d/nier-theme](https://github.com/exloseur3d/nier-theme) | ![Nier](https://raw.githubusercontent.com/exloseur3d/nier-theme/master/preview_Nier_theme.png "") |
+| [miz-i/Obsidian-theme-DarkEmber](https://github.com/miz-i/Obsidian-theme-DarkEmber) | ![DarkEmber](https://raw.githubusercontent.com/miz-i/Obsidian-theme-DarkEmber/master/images/screenshot.png "") |

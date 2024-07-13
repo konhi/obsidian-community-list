@@ -1788,3 +1788,11 @@
 | [Index Notes](https://github.com/adanielnoel/obsidian-index-notes) | Keep your notes indexed based on their (hierarchical) tags |
 | [Plot Vectors and Graphs](https://github.com/nicoletanyt/obsidian-plugin-graphs) | Generates graphs and vectors. |
 | [NyanBar](https://github.com/xhyabunny/nyanbar) | Nyan Cat Progress Bar generator! |
+| [mpv links](https://github.com/patsh90/mpv-obsidian-plugin) | Add mpv links with timestamps |
+| [Iron Vault](https://github.com/iron-vault-plugin/iron-vault) | Gameplay plugin/VTT for the Ironsworn/Starforged family of tabletop RPGs. |
+| [PopKit](https://github.com/zhouhua/obsidian-popkit) | Select text to instantly access quick tools |
+| [Account Viewer](https://github.com/muaz742/obsidian-accointing-viewer) | Automatically generate accounting tables from Markdown code blocks tagged with accounting. |
+| [Better Markdown Links](https://github.com/mnaoumov/obsidian-better-markdown-links) | Adds support for angle bracket links and manages relative links properly |
+| [LanguageTool](https://github.com/wrenger/obsidian-languagetool) | Inofficial integration of the LanguageTool spell and grammar checker. |
+| [Browser Interface](https://github.com/jason-lieb/obsidian-browser-interface-plugin) | Allows you to interact with the browser. |
+| [Nextcloud Link Fixer](https://github.com/KFreon/nextcloud-link-fixer) | Nextcloud breaks Wiki-links. This fixes them. |
