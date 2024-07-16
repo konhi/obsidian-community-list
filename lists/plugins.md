@@ -1529,7 +1529,7 @@
 | [VLC Bridge](https://github.com/zuluwi/obsidian-vlc-bridge) | Take video/movie notes with timestamp links and snapshots from VLC Player. |
 | [Progress Clocks](https://github.com/tokenshift/obsidian-progress-clocks) | Progress clocks and other useful widgets for real-time status tracking. |
 | [Note Companion Folder](https://github.com/vkodocha/NoteCompanionFolder) | Manage a separate folder of attachments for each note. |
-| [Tab Selector](https://github.com/namikaze-40p/obsidian-tab-selector) | Quickly switch tab by 2 ways, one is general way in like other apps, the other is with keeping the keyboard home position. |
+| [Tab Selector](https://github.com/namikaze-40p/obsidian-tab-selector) | Quickly switch tabs in various ways. |
 | [Default query in backlinks](https://github.com/Benature/obsidian-default-query-in-backlink) | Automatically input default query in search input of backlinks in document. |
 | [Metafolders](https://github.com/makary-s/obsidian-metafolders) | Multidimensional note navigation. |
 | [Spellcheck Toggler](https://github.com/julzerinos/spellcheck-toggler-obsidian-plugin) | Toggle spellchecking for types of text blocks in the editing view. |
@@ -1629,7 +1629,7 @@
 | [Generate Hash](https://github.com/zigahertz/obsidian-hash) | Generates a cryptographically strong pseudorandom hash. |
 | [Simple Citations](https://github.com/masaki39/simple-citations) | Add & update simple literature notes from Zotero. |
 | [Custom new file name](https://github.com/homu-konamilk/obsidian-custom-new-file-name) | Enables the creation of new notes with custom formatted names, including dynamic datetime stamps. |
-| [Bookmarks Caller](https://github.com/namikaze-40p/obsidian-bookmarks-caller) | Easily open bookmarks without leaving the keyboard home position. |
+| [Bookmarks Caller](https://github.com/namikaze-40p/obsidian-bookmarks-caller) | Easily open bookmarks. |
 | [ai-writer](https://github.com/Donovan-Ye/obsidian-ai-writer-plugin) | Use AI to generate high-quality articles with knowledge fragments. |
 | [LinkMagic](https://github.com/AndyReifman/LinkMagic) | Automatically adds links to defined regex. |
 | [Mapbox Location Image](https://github.com/aaronczichon/obsidian-location-plugin) | Renders an mapbox location image based on given coordinates. |

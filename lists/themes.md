@@ -281,3 +281,5 @@
 | [chenbihao/obsidian-theme-dark-clarity](https://github.com/chenbihao/obsidian-theme-dark-clarity) | ![Dark Clarity](https://raw.githubusercontent.com/chenbihao/obsidian-theme-dark-clarity/master/screenshot.png "") |
 | [exloseur3d/nier-theme](https://github.com/exloseur3d/nier-theme) | ![Nier](https://raw.githubusercontent.com/exloseur3d/nier-theme/master/preview_Nier_theme.png "") |
 | [miz-i/Obsidian-theme-DarkEmber](https://github.com/miz-i/Obsidian-theme-DarkEmber) | ![DarkEmber](https://raw.githubusercontent.com/miz-i/Obsidian-theme-DarkEmber/master/images/screenshot.png "") |
+| [Lina674/Pxld-Obsidian-Theme](https://github.com/Lina674/Pxld-Obsidian-Theme) | ![Pxld](https://raw.githubusercontent.com/Lina674/Pxld-Obsidian-Theme/master/merged_diagonal_resized.png "") |
+| [Quinta0/chiaroscuroflow](https://github.com/Quinta0/chiaroscuroflow) | ![chiaroscuroflow](https://raw.githubusercontent.com/Quinta0/chiaroscuroflow/master/cover.png "") |
