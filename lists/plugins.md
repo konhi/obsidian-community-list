@@ -1796,3 +1796,18 @@
 | [LanguageTool](https://github.com/wrenger/obsidian-languagetool) | Inofficial integration of the LanguageTool spell and grammar checker. |
 | [Browser Interface](https://github.com/jason-lieb/obsidian-browser-interface-plugin) | Allows you to interact with the browser. |
 | [Nextcloud Link Fixer](https://github.com/KFreon/nextcloud-link-fixer) | Nextcloud breaks Wiki-links. This fixes them. |
+| [Everyday Classical Music](https://github.com/Eloliuyx/everyday-classical-music-plugin) | Display a different piece of classical music each day with a YouTube link in your daily note. |
+| [Vikunja Sync](https://github.com/Heiss/obsidian-vikunja-plugin) | Synchronizes tasks to Vikunja. |
+| [Chinese Calendar](https://github.com/DevilRoshan/obsidian-lunar-calendar) | 符合中国习惯的日历，可以显示农历、节日、调休、节气等信息，支持月视图和年视图切换，支持点击日期创建笔记，支持使用QuickAdd插件创建笔记。 |
+| [Unofficial Fabric Integration](https://github.com/chasebank87/unofficial-fabric-plugin) | Integrates Fabric into your vault |
+| [Caret](https://github.com/jcollingj/caret) | An AI workbench. Canvas, Chat and more LLM powered features. |
+| [Messager](https://github.com/xiaotianhu/obsidian-messager) | Save messages into vault which sending through WeChat/HTTP API/Email |
+| [Giphy](https://github.com/LuCrypto/giphy-plugin) | Search and insert gifs in a note. |
+| [Image Metadata](https://github.com/alexeiskachykhin/obsidian-image-metadata-plugin) | Annotate photos with Exif and other metadata right from the image viewer screen. |
+| [Journal Folder](https://github.com/chfourie/obsidian-journal-folder) | Utilities for folder-based journaling. |
+| [Lite Gallery](https://github.com/jpoles1/obsidian-litegal) | Easily create carousel galleries to better organize/view images in your notes. |
+| [Pia viewer](https://github.com/dldisud/obsidian-pia-viewer) | Make it look mobile on pc |
+| [Cognitive Architect Sync](https://github.com/bhavers/obsidian-ca) | Synchronise Cognitive Architect (aka IBM IT Architect Assistant) architectures. |
+| [AI image analyzer](https://github.com/Swaggeroo/obsidian-ai-image-analyzer) | Analyze images with AI to get keywords of the image. |
+| [VirtFolder](https://github.com/gr0grig/obsidian-virt-folder) | Creating a hierarchical structure like Luhmann's Zettelkasten |
+| [Magic Move](https://github.com/imfenghuang/obsidian-magic-move) | Animating code blocks with markdown and code syntax highlighting with beautiful themes. |
