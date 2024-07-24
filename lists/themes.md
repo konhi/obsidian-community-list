@@ -285,3 +285,4 @@
 | [Quinta0/chiaroscuroflow](https://github.com/Quinta0/chiaroscuroflow) | ![chiaroscuroflow](https://raw.githubusercontent.com/Quinta0/chiaroscuroflow/master/cover.png "") |
 | [HasanTheSyrian/Muted-Blue-Obsidian](https://github.com/HasanTheSyrian/Muted-Blue-Obsidian) | ![Muted-Blue](https://raw.githubusercontent.com/HasanTheSyrian/Muted-Blue-Obsidian/master/preview.png "") |
 | [carols12352/Oreo-theme](https://github.com/carols12352/Oreo-theme) | ![Oreo](https://raw.githubusercontent.com/carols12352/Oreo-theme/master/images/thumbnail.png "") |
+| [Spekulucius/obsidian-brainhack](https://github.com/Spekulucius/obsidian-brainhack) | ![Brainhack](https://raw.githubusercontent.com/Spekulucius/obsidian-brainhack/master/preview.png "") |
