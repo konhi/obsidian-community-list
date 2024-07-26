@@ -1776,7 +1776,7 @@
 | [Entity Linker](https://github.com/Ankush-Chander/obsidian-entity-linker) | Link research terms to standard entities |
 | [Datepicker](https://github.com/joycode-hub/datepicker-plugin) | Use a date picker to modify and insert date/time anywhere in your markdown notes. |
 | [AI Chat as Markdown](https://github.com/cpbotha/obsidian-ai-chat-as-md) | Multiple branching AI conversations as Markdown hierarchy |
-| [Sidebar Resizer](https://github.com/jeetsukumaran/obisidan-sidebar-resizer) | Adjust the sidebar sizes easily. |
+| [Sidebar Resizer](https://github.com/jeetsukumaran/obsidian-sidebar-resizer) | Adjust the sidebar sizes easily. |
 | [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview) | Allows to refresh preview mode without reopening the note |
 | [Hash Pasted Image](https://github.com/hardingadonis/hash-pasted-image) | Auto rename pasted images added to the vault via hash algorithm SHA-512 |
 | [Yanki](https://github.com/kitschpatrol/yanki-obsidian) | Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fuss. |
