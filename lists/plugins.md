@@ -840,7 +840,7 @@
 | [Commando](https://github.com/qaptoR/Commando) | Enable repeated calls of a command using defined or per-invocation values. |
 | [File Publisher](https://github.com/yiglas/obsidian-file-publisher) | Publish a file to a given POST API. |
 | [Global Search and Replace](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace) | Search and replace in all vault files. |
-| [Image Upload Toolkit](https://github.com/addozhang/obsidian-image-upload-toolkit) | Upload local images embedded in Markdown to remote store and export Markdown for publishing to static site. Currently, it supports Imgur and Aliyun OSS. |
+| [Image Upload Toolkit](https://github.com/addozhang/obsidian-image-upload-toolkit) | Upload local images embedded in Markdown to remote store and export Markdown with image public URL for publishing to static site. Currently, it supports Imgur, Aliyun OSS, ImageKit and AWS S3. |
 | [Gene 🧬](https://github.com/MatissJurevics/Gene-AI) | Generate text using the OpenAI API. |
 | [LaTeX to Unicode converter](https://github.com/fjdu/obsidian-latex-unicode) | Convert LaTeX commands into unicode sequences. |
 | [Natural Language Syntax Highlighting](https://github.com/artisticat1/nl-syntax-highlighting) | Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the editor. |
@@ -1821,3 +1821,17 @@
 | [Images to Gist](https://github.com/singh-inder/obsidian-images-to-gist) | Upload images to your GitHub secret Gists. Also, resize uploaded images on the fly. |
 | [Heading Toggler](https://github.com/Lord-Turmoil/heading-toggler-obsidian) | Easily toggle heading levels in Markdown documents with shortcuts. |
 | [Rollover Weekly Todo](https://github.com/shsethi/obsidian-rollover-weekly-todos) | Rollover unchecked todo items from the previous weekly note |
+| [YouTube downloader](https://github.com/ai-chen2050/obsidian-youtube-downloader) | Download videos from YouTube |
+| [Image to notes by Photes.IO](https://github.com/Kanaries/photes-io-obsidian-plugin) | Turn your images into text notes with AI. |
+| [Note 2 Tag Generator](https://github.com/augustin7698/note-2-tag-generator) | Generate tags from notes without openai key in multiple languages |
+| [Post Medium Draft](https://github.com/eebmagic/post-medium-draft) | Post the current note to your Medium account as a draft. |
+| [Fast Image Auto Uploader](https://github.com/eust-w/obsidian-image-auto-upload) | Fast upload images from your clipboard by gopic |
+| [Auto Folder Collapse](https://github.com/DarioCasciato/obsidian-auto-folder-collapse) | Automatically collapses subfolders when a parent folder is collapsed |
+| [Dashboard navigator](https://github.com/drbap/dashboard-navigator-for-obsidian) | Vault dashboard and navigator. Show recent files by type, files per day, week, month, search files by name, date, tags and more. |
+| [Quick Open](https://github.com/itsonlyjames/obsidian-quick-open) | Quickly open items in modals using keyboard shortcuts |
+| [Rich Text Editor Shortcuts](https://github.com/joshuawootonn/obsidian-rich-text-editor-shortcuts) | Create and toggle checkboxes, paste links wrapping your current selection, and toggle underline without leaving the keyboard. |
+| [Share via Notepad Tab](https://github.com/revolter/obsidian-share-via-notepad-tab-plugin) | Share notes via Notepad Tab (https://notepadtab.com). |
+| [Recent Tab Switcher](https://github.com/samuelrawrs/recent-tab-switcher) | Switch to the most recently used tab. |
+| [Marker PDF to MD](https://github.com/l3-n0x/obsidian-marker) | Convert PDFs to rich Markdown, including images and ocr using the marker api |
+| [Hexo Publisher](https://github.com/zhenlohuang/obsidian-hexo-publisher) | Publish your notes to Hexo. |
+| [Inline spoilers](https://github.com/logonoff/obsidian-inline-spoilers) | Adds Discord-like syntax for inline spoilers in reader mode. |

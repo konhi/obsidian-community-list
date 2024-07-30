@@ -286,3 +286,6 @@
 | [HasanTheSyrian/Muted-Blue-Obsidian](https://github.com/HasanTheSyrian/Muted-Blue-Obsidian) | ![Muted-Blue](https://raw.githubusercontent.com/HasanTheSyrian/Muted-Blue-Obsidian/master/preview.png "") |
 | [carols12352/Oreo-theme](https://github.com/carols12352/Oreo-theme) | ![Oreo](https://raw.githubusercontent.com/carols12352/Oreo-theme/master/images/thumbnail.png "") |
 | [Spekulucius/obsidian-brainhack](https://github.com/Spekulucius/obsidian-brainhack) | ![Brainhack](https://raw.githubusercontent.com/Spekulucius/obsidian-brainhack/master/preview.png "") |
+| [buluw/nobb-obsidian](https://github.com/buluw/nobb-obsidian) | ![nobb](https://raw.githubusercontent.com/buluw/nobb-obsidian/master/nobb-obtheme.jpg "") |
+| [Sskki-exe/vanilla-amoled-theme-color](https://github.com/Sskki-exe/vanilla-amoled-theme-color) | ![Vanilla AMOLED Color](https://raw.githubusercontent.com/Sskki-exe/vanilla-amoled-theme-color/master/sample-screenshot-sm.png "") |
+| [ricedev10/Abate-theme](https://github.com/ricedev10/Abate-theme) | ![Abate](https://raw.githubusercontent.com/ricedev10/Abate-theme/master/ScreenshotPreview.png "") |
