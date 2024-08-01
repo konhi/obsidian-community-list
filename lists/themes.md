@@ -289,3 +289,4 @@
 | [buluw/nobb-obsidian](https://github.com/buluw/nobb-obsidian) | ![nobb](https://raw.githubusercontent.com/buluw/nobb-obsidian/master/nobb-obtheme.jpg "") |
 | [Sskki-exe/vanilla-amoled-theme-color](https://github.com/Sskki-exe/vanilla-amoled-theme-color) | ![Vanilla AMOLED Color](https://raw.githubusercontent.com/Sskki-exe/vanilla-amoled-theme-color/master/sample-screenshot-sm.png "") |
 | [ricedev10/Abate-theme](https://github.com/ricedev10/Abate-theme) | ![Abate](https://raw.githubusercontent.com/ricedev10/Abate-theme/master/ScreenshotPreview.png "") |
+| [taronull/ayu-obsidian](https://github.com/taronull/ayu-obsidian) | ![Ayu Light & Mirage](https://raw.githubusercontent.com/taronull/ayu-obsidian/master/cover.png "") |
