@@ -1835,3 +1835,12 @@
 | [Marker PDF to MD](https://github.com/l3-n0x/obsidian-marker) | Convert PDFs to rich Markdown, including images and ocr using the marker api |
 | [Hexo Publisher](https://github.com/zhenlohuang/obsidian-hexo-publisher) | Publish your notes to Hexo. |
 | [Inline spoilers](https://github.com/logonoff/obsidian-inline-spoilers) | Adds Discord-like syntax for inline spoilers in reader mode. |
+| [Enhanced Symbols Prettifier](https://github.com/noam-sc/obsidian-enhanced-symbols-prettifier) | Replace/substitute the symbols with actual symbols you commonly type. It also works for emojis shortcuts, abbreviations, greek letters, math symbols or other snippets/aliases you define |
+| [Smart Templates](https://github.com/brianpetro/obsidian-smart-templates) | AI powered templates for generating structured content. Works with Local Models, Anthropic Claude, Gemini, OpenAI & more. |
+| [Canvas Picture in Picture](https://github.com/h-sphere/obsidian-canvas-picture-in-picture) | Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture mode) |
+| [Super Duper Audio Recorder](https://github.com/madpin/super-duper-audio-recorder) | Records audio directly, with input device and folder configuration, similar to the core one, but better |
+| [Vertical Tabs](https://github.com/oxdc/obsidian-vertical-tabs) | Provide an alternative view that shows open tabs in the vertical direction for better navigation experience. |
+| [Truth Table+](https://github.com/Max-Schulten/truth-table-plus) | Generate truth tables quickly in your .md files |
+| [Learnie](https://github.com/tankh99/learnie-plugin) | Enhance your learning with active recall and spaced repetition. Track changes, create review questions, and streamline your study process for more effective, long-lasting learning. |
+| [Confluence Link](https://github.com/BungaRazvan/confluence-link) | Upload files to Confluence pages |
+| [Relay](https://github.com/no-instructions/relay) | Collaborate in real time with live cursors. Share folders. Manage access to updates. |
