@@ -290,3 +290,5 @@
 | [Sskki-exe/vanilla-amoled-theme-color](https://github.com/Sskki-exe/vanilla-amoled-theme-color) | ![Vanilla AMOLED Color](https://raw.githubusercontent.com/Sskki-exe/vanilla-amoled-theme-color/master/sample-screenshot-sm.png "") |
 | [ricedev10/Abate-theme](https://github.com/ricedev10/Abate-theme) | ![Abate](https://raw.githubusercontent.com/ricedev10/Abate-theme/master/ScreenshotPreview.png "") |
 | [taronull/ayu-obsidian](https://github.com/taronull/ayu-obsidian) | ![Ayu Light & Mirage](https://raw.githubusercontent.com/taronull/ayu-obsidian/master/cover.png "") |
+| [Elevict/Shade-Sanctuary](https://github.com/Elevict/Shade-Sanctuary) | ![Shade Sanctuary](https://raw.githubusercontent.com/Elevict/Shade-Sanctuary/master/cover.png "") |
+| [Seniblue/Underwater](https://github.com/Seniblue/Underwater) | ![Underwater](https://raw.githubusercontent.com/Seniblue/Underwater/master/uw.png "") |
