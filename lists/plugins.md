@@ -1310,7 +1310,7 @@
 | [Key-Value List](https://github.com/christianwannerstedt/obsidian-key-value-list) | Turn lists into neatly formatted key-value lists. |
 | [Disk Usage](https://github.com/Promptier/disk-usage) | Measure disk usage for tracking size of folders and file types. |
 | [Attachment Uploader](https://github.com/zhuxining/obsidian-attachment-uploader) | Upload attachments to PicSee or uPic, with customization for commands and file type. |
-| [Formatto](https://github.com/cosmostellar/formatto) | Simple, fast, and easy-to-use Markdown formatter. |
+| [Formatto](https://github.com/pixelbracket/formatto) | Simple, fast, and easy-to-use Markdown formatter. |
 | [ChatCBT](https://github.com/clairefro/obsidian-chat-cbt-plugin) | AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT). |
 | [Daily ICalendar](https://github.com/mmmykhailo/obsidian-daily-icalendar) | View calendar events in daily notes. |
 | [Auto-\displaystyle Inline Math](https://github.com/RyotaUshio/obsidian-auto-displaystyle-inline-math) | Automatically make all inline math \displaystyle. |
@@ -1839,7 +1839,7 @@
 | [Smart Templates](https://github.com/brianpetro/obsidian-smart-templates) | AI powered templates for generating structured content. Works with Local Models, Anthropic Claude, Gemini, OpenAI & more. |
 | [Canvas Picture in Picture](https://github.com/h-sphere/obsidian-canvas-picture-in-picture) | Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture mode) |
 | [Super Duper Audio Recorder](https://github.com/madpin/super-duper-audio-recorder) | Records audio directly, with input device and folder configuration, similar to the core one, but better |
-| [Vertical Tabs](https://github.com/oxdc/obsidian-vertical-tabs) | Provide an alternative view that shows open tabs in the vertical direction for better navigation experience. |
+| [Vertical Tabs](https://github.com/oxdc/obsidian-vertical-tabs) | Offer an alternative view that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience. |
 | [Truth Table+](https://github.com/Max-Schulten/truth-table-plus) | Generate truth tables quickly in your .md files |
 | [Learnie](https://github.com/tankh99/learnie-plugin) | Enhance your learning with active recall and spaced repetition. Track changes, create review questions, and streamline your study process for more effective, long-lasting learning. |
 | [Confluence Link](https://github.com/BungaRazvan/confluence-link) | Upload files to Confluence pages |
