@@ -1845,3 +1845,8 @@
 | [Confluence Link](https://github.com/BungaRazvan/confluence-link) | Upload files to Confluence pages |
 | [Relay](https://github.com/no-instructions/relay) | Collaborate in real time with live cursors. Share folders. Manage access to updates. |
 | [Vault Size History](https://github.com/technerium/obsidian-vault-size-history) | Graph of the Number of Files in the Vault. |
+| [Harper](https://github.com/elijah-potter/harper-obsidian-plugin) | The grammar checker for everyone. |
+| [Geulo](https://github.com/zzunebye/obsidian-google-liked-video) | Fetch all the YouTube videos you have liked, search and sort them with multiple sort options, and add them to your daily note. |
+| [sync-db-os](https://github.com/ketd/obsidian-sync-DB-OS) | For synchronization between multiple platforms |
+| [Auto Correct Capitals Misspellings](https://github.com/Ummler/obsidian-auto-correct-capitals) | Correct words with the first two letters in uppercase. |
+| [Daily Statistics](https://github.com/yefengr/obsidian-daily-statistics) | Count the number of words written each day and display it on a calendar. |
