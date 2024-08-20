@@ -1850,3 +1850,10 @@
 | [sync-db-os](https://github.com/ketd/obsidian-sync-DB-OS) | For synchronization between multiple platforms |
 | [Auto Correct Capitals Misspellings](https://github.com/Ummler/obsidian-auto-correct-capitals) | Correct words with the first two letters in uppercase. |
 | [Daily Statistics](https://github.com/yefengr/obsidian-daily-statistics) | Count the number of words written each day and display it on a calendar. |
+| [Block Link Plus](https://github.com/Jasper-1024/block-link-plus) | Simplifies the creation of multi-line blockquotes, with customizable block IDs. |
+| [LDS Library Reference](https://github.com/ingiestein/obsidian-lds-scriptures-plugin) | Easily insert references to scriptures and conference talks from the Church of Jesus Christ of Latterday Saints. |
+| [CSS Inlay Colors](https://github.com/GRA0007/obsidian-css-inlay-colors) | Show inline color hints for CSS colors |
+| [GTP Preview](https://github.com/Barba828/obsidian-plugin-gtp-preview) | Supports rendering of GuitarPro files such as `gtp/gp/gp5/gpx`. |
+| [Structured Tree](https://github.com/Rudtrack/structured-tree) | A file explorer for navigating hierarchical notes separated by '.' |
+| [Current File](https://github.com/2shortplanks/current-file) | Allows external applications to know what file the desktop app is currently viewing. |
+| [Arcane Obfuscate](https://github.com/Shusako/arcane-obfuscate) | Obfuscate text with an arcane runic effect. |
