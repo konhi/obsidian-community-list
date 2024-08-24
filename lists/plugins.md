@@ -1828,7 +1828,7 @@
 | [Fast Image Auto Uploader](https://github.com/eust-w/obsidian-image-auto-upload) | Fast upload images from your clipboard by gopic |
 | [Auto Folder Collapse](https://github.com/DarioCasciato/obsidian-auto-folder-collapse) | Automatically collapses subfolders when a parent folder is collapsed |
 | [Dashboard navigator](https://github.com/drbap/dashboard-navigator-for-obsidian) | Vault dashboard and navigator. Show recent files by type, files per day, week, month, search files by name, date, tags and more. |
-| [Quick Open](https://github.com/itsonlyjames/obsidian-quick-open) | Quickly open items in modals using keyboard shortcuts |
+| [Quick Select](https://github.com/itsonlyjames/obsidian-quick-select) | Quickly select items in any modal using keyboard shortcuts. Supercharge your workflow with fast, efficient item selection in Obsidian modals. |
 | [Rich Text Editor Shortcuts](https://github.com/joshuawootonn/obsidian-rich-text-editor-shortcuts) | Create and toggle checkboxes, paste links wrapping your current selection, and toggle underline without leaving the keyboard. |
 | [Share via Notepad Tab](https://github.com/revolter/obsidian-share-via-notepad-tab-plugin) | Share notes via Notepad Tab (https://notepadtab.com). |
 | [Recent Tab Switcher](https://github.com/samuelrawrs/recent-tab-switcher) | Switch to the most recently used tab. |
@@ -1857,3 +1857,7 @@
 | [Structured Tree](https://github.com/Rudtrack/structured-tree) | A file explorer for navigating hierarchical notes separated by '.' |
 | [Current File](https://github.com/2shortplanks/current-file) | Allows external applications to know what file the desktop app is currently viewing. |
 | [Arcane Obfuscate](https://github.com/Shusako/arcane-obfuscate) | Obfuscate text with an arcane runic effect. |
+| [Todoist Project sync](https://github.com/stuporfly/ObsidianTodoistProjects) | Synchronizes projects from Todoist, creating a note for each. |
+| [Recursive Copy](https://github.com/StructByLightning/obsidian-recursive-copy) | Recursively copies all Markdown files in a folder, concatenates them, and copies them into the clipboard. |
+| [Blockreffer](https://github.com/tyler-dot-earth/obsidian-blockreffer) | Search and embed blocks with ^block-references. |
+| [Emera](https://github.com/OlegWock/obsidian-emera) | Enables you to use custom React components and inline JavaScript, kinda like MDX. |
