@@ -1155,7 +1155,7 @@
 | [Send to Ghost](https://github.com/southpaw1496/obsidian-send-to-ghost) | Send and publish notes to your Ghost blog. |
 | [Content Linker](https://github.com/Medill-East/obsidian-content-linker) | Search and add bi-directional links to existing content. |
 | [Swiss army knife](https://github.com/mwoz123/swiss-army-knife-obsidian) | Collection of various utilities (e.g. duplicate empty line remover). |
-| [Share to NotionNext](https://github.com/jxpeng98/obsidian-to-NotionNext) | Share files to Notion with Notion API for NotionNext web deploy, originally created by EasyChris/obsidian-to-notion. |
+| [Share to NotionNext](https://github.com/jxpeng98/obsidian-to-NotionNext) | Share files to any Notion database using the Notion API, originally created by EasyChris/obsidian-to-notion. |
 | [No more flickering inline math](https://github.com/RyotaUshio/obsidian-inline-math) | Remove flickering inline math. |
 | [Expiration-Date-Tracker](https://github.com/Raboro/obsidian-expiration-date-tracker-plugin) | Keep track of all expiration dates, for example, for your groceries. |
 | [Email Reader](https://github.com/pulsovi/obsidian_eml_reader) | A preview mode for embedded .eml files. |
@@ -1327,7 +1327,7 @@
 | [TickTickSync](https://github.com/thesamim/TickTickSync) | Sync TickTick tasks. |
 | [Slash Commander](https://github.com/alephpiece/obsidian-slash-commander) | Customize the slash command list, assign each command an icon. |
 | [Custom save](https://github.com/HananoshikaYomaru/obsidian-custom-save) | Add custom save actions. |
-| [Peerdraft](https://github.com/peerdraft/obsidian-plugin) | Secure real-time collaboration via secret link. |
+| [Peerdraft](https://github.com/peerdraft/obsidian-plugin) | Real-time, instant collaboration on documents or folders. Whether for quick note-taking or building a team knowledge base, Peerdaft syncs with your collaborators' vaults and also offers a Web Editor. |
 | [Note Gallery](https://github.com/pashashocky/obsidian-note-gallery) | A masonry gallery that will visualize your notes, similar to Craft note view. |
 | [Smart Title](https://github.com/magooup/obsidian-plugin-smart-title) | Automatically extract tags and aliases from the title. |
 | [Gamificate your PKM](https://github.com/saertna/obsidian-gamified-pkm) | Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM. |
@@ -1727,7 +1727,7 @@
 | [Tars](https://github.com/TarsLab/obsidian-tars) | Use Kimi and other Chinese LLMs for text generation based on tag suggestions. |
 | [Toggle Readable line length](https://github.com/drichardson/obsidian-toggle-readable-line-length) | Add command to toggle Readable line length editor setting. |
 | [Definition List](https://github.com/shammond42/definition-list) | Adds HTML definition list support. |
-| [Line Arrange](https://github.com/chitwan27/lineArrange) | Sort selected lines by their width or shuffle them randomly. |
+| [Line Arrange](https://github.com/chitwan27/lineArrange) | Shuffle, reverse, or sort lines, using either visual width or lexical order. |
 | [Search In Canvas](https://github.com/quorafind/obsidian-search-in-canvas) | Search text in canvas. |
 | [Sheet Plus](https://github.com/ljcoder2015/obsidian-sheet-plus) | Create Excel-like spreadsheets and easily embed them in Markdown. |
 | [Watched-Metadata](https://github.com/NailAhmed/Watched-Metadata) | Watches for changes in metadata and performs user-specified actions based on these changes. |
@@ -1752,7 +1752,7 @@
 | [Quran Helper](https://github.com/AmmarCodes/obsidian-quran-plugin) | Find and insert any Quran Ayah (verse) in your notes. |
 | [Page Scroll](https://github.com/chenshutian9610/obsidian-pagescroll-plugin) | Page Up\|Down|Top|Bottom |
 | [Wechat Public Platform](https://github.com/ai-chen2050/obsidian-wechat-public-platform) | Release the article from your vault to WeChat, Baidu Baijiahao, or another article release platform. |
-| [Note to MP](https://github.com/sunbooshi/note-to-mp) | Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect preservation of note styles, support code highlighting, line numbers in code, and support local image uploads. |
+| [NoteToMP](https://github.com/sunbooshi/note-to-mp) | Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect preservation of note styles, support code highlighting, line numbers in code, and support local image uploads. |
 | [Xournal++](https://github.com/jonjampen/obsidian-xournalpp) | Integration with Xournal++ for handwritten notes and annotations. |
 | [Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer) | Serialize Dataview queries to Markdown, and keep the Markdown representation up to date |
 | [Fast Text Color](https://github.com/Superschnizel/obisdian-fast-text-color) | Quickly apply fully integrated text coloring and formatting with a custom syntax and a keyboard-centric interface. |
@@ -1770,7 +1770,7 @@
 | [Checkbox styling helper](https://github.com/jaewonE/checkbox-styling-helper) | Helps you styling checkboxes in preview mode. |
 | [Import Attachments+](https://github.com/alberti42/obsidian-import-attachments-plus) | Import and manage attachments by enabling moving and linking |
 | [Virtual Linker / Glossary](https://github.com/vschroeter/obsidian-virtual-linker) | Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links. |
-| [Are.na Manager](https://github.com/javierarce/arena-manager) | Publish content from your vault to Are.na and the other way around. |
+| [Are.na Manager](https://github.com/javierarce/arena-manager) | Publish content from your vault to Arena and the other way around. |
 | [Shrink pinned tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) | Shrinks pinned tabs to save screen space. |
 | [Remove Newlines](https://github.com/HandcartCactus/obsidian-remove-newlines) | Remove newlines from text selections and also paste content from the clipboard without newlines. |
 | [Entity Linker](https://github.com/Ankush-Chander/obsidian-entity-linker) | Link research terms to standard entities |
@@ -1814,7 +1814,7 @@
 | [Math Indicator Changer](https://github.com/Ori-Replication/obsidian-math-indicator-changer) | Change the math indecator from parentheses & brackets to $, make the math formula generated by GPT & Other AI display correctly. |
 | [Pdf Annotator](https://github.com/quorafind/obsidian-pdf-annotator) | Simple but powerful pdf annotator. |
 | [OpenAPI Renderer](https://github.com/Ssentiago/openapi-renderer) | Generates a Swagger-UI interface and embeds it as an iframe or link in notes |
-| [Tags Routes](https://github.com/kctekn/obsidian-TagsRoutes) | For showing the routes of tags in 3D graph. |
+| [Tags Routes](https://github.com/kctekn/obsidian-TagsRoutes) | A powerful tool for visualizing 3D graphs and managing orphan files, offering a dynamic and colorful 3D graph view for enhanced user experience. |
 | [Note Linker with Previewer](https://github.com/nickrallison/obsidian-note-linker-with-previewer) | Link your notes together. |
 | [Paste as Embed](https://github.com/mlprt/obsidian-paste-as-embed) | Redirect pasted text into a separate note, and embed it. |
 | [Better Recall](https://github.com/FlorianWoelki/obsidian-better-recall) | Add anki-like spaced repetition and recall to your vault. |

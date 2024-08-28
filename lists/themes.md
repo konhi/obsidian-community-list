@@ -63,7 +63,7 @@
 | [Chrismettal/Obsidian-Behave-dark](https://github.com/Chrismettal/Obsidian-Behave-dark) | ![Behave dark](https://raw.githubusercontent.com/Chrismettal/Obsidian-Behave-dark/master/Screenshot.png "") |
 | [SMUsamaShah/Obsidian-Win98-Edition](https://github.com/SMUsamaShah/Obsidian-Win98-Edition) | ![Obsidian Windows 98 Edition](https://raw.githubusercontent.com/SMUsamaShah/Obsidian-Win98-Edition/master/screenshots/main.png "") |
 | [dogwaddle/lizardmen-zettelkasten](https://github.com/dogwaddle/lizardmen-zettelkasten) | ![Lizardmen Zettelkasten](https://raw.githubusercontent.com/dogwaddle/lizardmen-zettelkasten/master/screenshot.png "") |
-| [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) | ![Shimmering Focus](https://raw.githubusercontent.com/chrisgrieser/shimmering-focus/master/assets/promo-screenshot.png "") |
+| [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) | ![Shimmering Focus](https://raw.githubusercontent.com/chrisgrieser/shimmering-focus/master/assets/promo-screenshot.webp "") |
 | [lazercaveman/obsidian-firefly-theme](https://github.com/lazercaveman/obsidian-firefly-theme) | ![Firefly](https://raw.githubusercontent.com/lazercaveman/obsidian-firefly-theme/master/firefly-theme-screenshot.png "") |
 | [zacharyc/purple-owl-theme](https://github.com/zacharyc/purple-owl-theme) | ![Purple Owl](https://raw.githubusercontent.com/zacharyc/purple-owl-theme/master/purple-owl-theme.png "") |
 | [gracejoseph1236/obsidian-emerald](https://github.com/gracejoseph1236/obsidian-emerald) | ![Emerald](https://raw.githubusercontent.com/gracejoseph1236/obsidian-emerald/master/example.png "") |
@@ -292,3 +292,4 @@
 | [taronull/ayu-obsidian](https://github.com/taronull/ayu-obsidian) | ![Ayu Light & Mirage](https://raw.githubusercontent.com/taronull/ayu-obsidian/master/cover.png "") |
 | [Elevict/Shade-Sanctuary](https://github.com/Elevict/Shade-Sanctuary) | ![Shade Sanctuary](https://raw.githubusercontent.com/Elevict/Shade-Sanctuary/master/cover.png "") |
 | [Seniblue/Underwater](https://github.com/Seniblue/Underwater) | ![Underwater](https://raw.githubusercontent.com/Seniblue/Underwater/master/uw.png "") |
+| [c-sooyoung/kiwi-mono-obsidian-theme](https://github.com/c-sooyoung/kiwi-mono-obsidian-theme) | ![Kiwi Mono](https://raw.githubusercontent.com/c-sooyoung/kiwi-mono-obsidian-theme/master/thumbnail.png "") |
