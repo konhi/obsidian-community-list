@@ -1861,3 +1861,8 @@
 | [Recursive Copy](https://github.com/StructByLightning/obsidian-recursive-copy) | Recursively copies all Markdown files in a folder, concatenates them, and copies them into the clipboard. |
 | [Blockreffer](https://github.com/tyler-dot-earth/obsidian-blockreffer) | Search and embed blocks with ^block-references. |
 | [Emera](https://github.com/OlegWock/obsidian-emera) | Enables you to use custom React components and inline JavaScript, kinda like MDX. |
+| [AI LaTeX Generator](https://github.com/aaaaayushh/ai-latex-generator) | Convert natural language to LaTeX equations using a local LLM. |
+| [Listen Up!](https://github.com/tejas-hosamani/obsidian-plugin-text-to-speech) | Covert text to natural voice audio, locally - Listen Up! |
+| [Serendipity](https://github.com/ggauravr/obsidian-serendipity-plugin) | Forces serendipitous discoveries by displaying random notes from your vault each time you open the app |
+| [Note Reviewer](https://github.com/TravisLinkey/note-reviewer) | Plugin to filter and review notes |
+| [Abbreviations and Acronyms](https://github.com/dragonish/obsidian-abbreviations) | Implements automatic marking of abbreviations and acronyms (terminology). |
