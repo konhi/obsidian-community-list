@@ -873,7 +873,7 @@
 | [Colorful Note Borders](https://github.com/rusi/obsidian-colorful-note-borders) | Add customizable colorful borders to notes based on folder location or frontmatter metadata, enhancing visual organization. |
 | [Code Files](https://github.com/lukasbach/obsidian-code-files) | Edit code files with VS Code's powerful Monaco Editor. |
 | [Flashcard Learning](https://github.com/gaetanmuck/obsidian-flashcard-learning) | Improved flashcard learning system. |
-| [Any Block](https://github.com/LincZero/obsidian-any-block) | Render lists as different block types in reading view. Lists can be turned into tables, tabs, mindmaps, Mermaid charts, and more.  |
+| [AnyBlock](https://github.com/LincZero/obsidian-any-block) | Take any fragment as a block and render it into multiple effects. You can select a section by list/heading/table/quote/codeBlock/markdown-it-container(`:::`), and turn into table/tabs/dir/cards/column/mindmap/mermaid/PlantUML/markmap/timeLine/jsonChart/nodeTree and more. |
 | [WuCai highlights Official](https://github.com/makediff/obsidian-wucai) | Sync WuCai highlights into your notes. |
 | [File Order](https://github.com/lukasbach/obsidian-file-order) | Use number-prefixes in your file names to define a custom order, and drag-and-drop the files to update that order. |
 | [Tab Rotator](https://github.com/autohub7/obsidian-tab-rotator) | Rotate opened files to the left or right with a specified interval. |
@@ -1866,3 +1866,13 @@
 | [Serendipity](https://github.com/ggauravr/obsidian-serendipity-plugin) | Forces serendipitous discoveries by displaying random notes from your vault each time you open the app |
 | [Note Reviewer](https://github.com/TravisLinkey/note-reviewer) | Plugin to filter and review notes |
 | [Abbreviations and Acronyms](https://github.com/dragonish/obsidian-abbreviations) | Implements automatic marking of abbreviations and acronyms (terminology). |
+| [Mahjong Renderer](https://github.com/h-sphere/obsidian-mahjong-renderer) | Render mahjong tiles (riichi mahjong) using MPSZ notation |
+| [External File Card](https://github.com/James-Yu/external-file-card) | Display file cards for external files. |
+| [Vitepress Publisher](https://github.com/tyrad/obsidian-vitepress) | Conveniently preview and publish Markdown files using vitepress. |
+| [KeepSidian](https://github.com/lc0rp/KeepSidian) | Commands to import Google Keep notes. |
+| [Suggest Notes](https://github.com/Doggy-Footprint/Obsidian-keyword-suggest) | Suggest notes as selected by user. |
+| [File Share](https://github.com/muckmuck96/obsidian-file-share) | Enables end-to-end encrypted file sharing directly between vaults through a socket server. |
+| [Canvas Explorer](https://github.com/hjamet/Canvas-Explorer) | Explore your vault by iteratively adding or ignoring linked notes, ultimately generating a customizable canvas that visually represents the preserved notes and their connections. |
+| [Lazy Plugin Loader](https://github.com/alangrainger/obsidian-lazy-plugins) | Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time. |
+| [Battery Indicator](https://github.com/Opisek/obsidian-battery-indicator) | Displays current battery level in the status bar. |
+| [Virus Total Enrichment](https://github.com/ytisf/virustotal-enrich) | Enrich your notes with information from VirusTotal. |
