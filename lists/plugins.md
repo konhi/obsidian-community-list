@@ -1876,3 +1876,5 @@
 | [Lazy Plugin Loader](https://github.com/alangrainger/obsidian-lazy-plugins) | Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time. |
 | [Battery Indicator](https://github.com/Opisek/obsidian-battery-indicator) | Displays current battery level in the status bar. |
 | [Virus Total Enrichment](https://github.com/ytisf/virustotal-enrich) | Enrich your notes with information from VirusTotal. |
+| [Snippets Manager](https://github.com/ramandv/obsidian-snippets-manager) | Snippets manager with full mobile support. You can manage code snippets, infos like passport number, email signature or anything. |
+| [CSS Inserter](https://github.com/Erallie/css-inserter) | Inserts user-defined CSS snippets into the selected text. |
