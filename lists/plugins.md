@@ -1219,7 +1219,7 @@
 | [Typing](https://github.com/konodyuk/obsidian-typing) | Customizable note types. |
 | [MagicCalendar](https://github.com/Vaccarini-Lorenzo/MagicCalendar) | Leverage natural language processing techniques to find calendar events in Markdown notes, seamlessly synchronizing them with a calendar of choice. |
 | [RescueTime](https://github.com/Tatz884/RescueTime-Obsidian) | View your RescueTime data. |
-| [Chat with Bard](https://github.com/Artel250/Obsidian-Talk-with-Bard) | Chat with the Google Bard Assistant. |
+| [Gemini AI Assistant](https://github.com/Artel250/Obsidian-Gemini-Assistant) | A Google Gemini integration, completely for free. |
 | [Tracker+](https://github.com/greater-than/Obsidian-Tracker-Plus) | Track and visualize data from your notes. Works with Tracker Markdown. |
 | [Timeline View](https://github.com/b-camphart/timeline-view) | Display your notes in a timeline, based on a given property. |
 | [Auto Filename](https://github.com/rcsaquino/obsidian-auto-filename) | Automatically rename files on the go based on the first x characters of files. |
