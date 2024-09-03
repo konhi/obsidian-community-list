@@ -1878,3 +1878,7 @@
 | [Virus Total Enrichment](https://github.com/ytisf/virustotal-enrich) | Enrich your notes with information from VirusTotal. |
 | [Snippets Manager](https://github.com/ramandv/obsidian-snippets-manager) | Snippets manager with full mobile support. You can manage code snippets, infos like passport number, email signature or anything. |
 | [CSS Inserter](https://github.com/Erallie/css-inserter) | Inserts user-defined CSS snippets into the selected text. |
+| [AnySocket Sync](https://github.com/lynxaegon/obsidian-anysocket-sync) | Self-Hosted synchronization for you Vault using AnySocket |
+| [Live Variables](https://github.com/HamzaBenyazid/obsidian-live-variables) | Define variables in your note's properties and reuse them throughout your content. |
+| [ImgBB Uploader](https://github.com/jordanhandy/obsidian-imgbb-uploader) | Upload images from your clipboard to ImgBB. |
+| [Import GitHub Readme](https://github.com/chasebank87/import-github-readme) | Allows you to import a GitHub README file into your vault. |
