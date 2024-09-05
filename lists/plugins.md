@@ -1882,3 +1882,4 @@
 | [Live Variables](https://github.com/HamzaBenyazid/obsidian-live-variables) | Define variables in your note's properties and reuse them throughout your content. |
 | [ImgBB Uploader](https://github.com/jordanhandy/obsidian-imgbb-uploader) | Upload images from your clipboard to ImgBB. |
 | [Import GitHub Readme](https://github.com/chasebank87/import-github-readme) | Allows you to import a GitHub README file into your vault. |
+| [Backtick text selector](https://github.com/cool-RR/backtick-text-selector) | Easily select text in backticks. |
