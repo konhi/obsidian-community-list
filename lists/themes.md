@@ -297,3 +297,4 @@
 | [Erallie/colored-candy](https://github.com/Erallie/colored-candy) | ![Colored Candy](https://raw.githubusercontent.com/Erallie/colored-candy/master/colored-candy-thumbnail.png "") |
 | [Spekulucius/obsidian-adrenaline](https://github.com/Spekulucius/obsidian-adrenaline) | ![Adrenaline](https://raw.githubusercontent.com/Spekulucius/obsidian-adrenaline/master/adrenaline_thumbnail.png "") |
 | [omsandippatil/OISTNB](https://github.com/omsandippatil/OISTNB) | ![OISTNB](https://raw.githubusercontent.com/omsandippatil/OISTNB/master/OISTNB.png "") |
+| [b3h3m0th/black-obsidian-theme](https://github.com/b3h3m0th/black-obsidian-theme) | ![Black](https://raw.githubusercontent.com/b3h3m0th/black-obsidian-theme/master/screenshot_512x275.png "") |

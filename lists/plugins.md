@@ -1724,7 +1724,7 @@
 | [Toggle Dark Mode](https://github.com/juliavdkris/obsidian-toggle-dark-mode) | Adds a command to toggle dark mode on and off |
 | [Plugins Annotations](https://github.com/alberti42/obsidian-plugins-annotations) | Allows adding personal comments to each installed plugin. |
 | [Close Window When Empty](https://github.com/TaylorJadin/close-window-when-empty) | Close the window when the last note is closed, kind of how browsers work. |
-| [Tars](https://github.com/TarsLab/obsidian-tars) | Use Kimi and other Chinese LLMs for text generation based on tag suggestions. |
+| [Tars](https://github.com/TarsLab/obsidian-tars) | Text generation based on tag suggestions, using Claude, OpenAI, Ollama, Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more. |
 | [Toggle Readable line length](https://github.com/drichardson/obsidian-toggle-readable-line-length) | Add command to toggle Readable line length editor setting. |
 | [Definition List](https://github.com/shammond42/definition-list) | Adds HTML definition list support. |
 | [Line Arrange](https://github.com/chitwan27/lineArrange) | Shuffle, reverse, or sort lines, using either visual width or lexical order. |
