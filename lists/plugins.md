@@ -1459,7 +1459,7 @@
 | [Folders to Graph](https://github.com/Ratibus11/folders2graph) | Display your vault folder structure into your graphs. |
 | [Lean Syntax Highlight](https://github.com/tomaz1502/lean-syntax-highlight) | Provides live syntax highlight for the Lean programming language |
 | [AI Tagger](https://github.com/lucagrippa/obsidian-ai-tagger) | Simplify tagging. Instantly analyze and tag your document with one click for efficient note organization. OpenAI API key required. |
-| [Quiz Generator](https://github.com/ECuiDev/obsidian-quiz-generator) | Generate interactive quizzes from your notes using OpenAI's GPT-3.5 and GPT-4 models. |
+| [Quiz Generator](https://github.com/ECuiDev/obsidian-quiz-generator) | Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI. |
 | [Goban SGF](https://github.com/StinsonZhao/obsidian-plugin-goban-sgf) | Record Go games (SGF format goban). |
 | [Display Relative Path Img](https://github.com/dyc2424748461/obsidian-display-relative-path-img) | Display the image of the <img> tag |
 | [Metadata Icon](https://github.com/Benature/obsidian-metadata-icon) | Set custom icons for your properties. |
