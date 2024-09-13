@@ -1424,7 +1424,7 @@
 | [Image Inline](https://github.com/ZackaryW/obsidian-image-inline) | Paste your image without attachment files |
 | [Task list](https://github.com/ted-marozzi/task-list) | Enable better task management via lists. |
 | [Share my plugin list](https://github.com/Benature/obsidian-share-my-plugin-list) | Share the enabled plugins in list/table format. |
-| [GPG Encrypt](https://github.com/lajg-dev/obsidian-plugin-gpg-inline-encrypt) | GPG encrypt inline text using hotkeys |
+| [GPG Encrypt](https://github.com/lajg-dev/obsidian-plugin-gpg-inline-encrypt) | Encrypt partial text or complete notes using GPG technology, it is compatible with security keys such as YubiKey or traditional GPG encryption methods |
 | [Smart Second Brain](https://github.com/your-papa/obsidian-Smart2Brain) | Interact with your privacy focused assistant by leveraging Ollama or OpenAI and making your second brain even smarter. |
 | [GitHub Sync](https://github.com/kevinmkchin/Obsidian-GitHub-Sync) | Sync vault to personal GitHub. |
 | [Kindle Highlights Importer](https://github.com/l2xu/kindle_html_importer) | Imports the kindle highlights from the html file (you get from the kindle app) into a note. |

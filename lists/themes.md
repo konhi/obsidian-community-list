@@ -255,7 +255,7 @@
 | [SemiCirkle/Midnight-obsidian-theme](https://github.com/SemiCirkle/Midnight-obsidian-theme) | ![Midnight](https://raw.githubusercontent.com/SemiCirkle/Midnight-obsidian-theme/master/pictures/theme-preview-512x288.png "") |
 | [dpavaoman/cobalt-peacock-obmd](https://github.com/dpavaoman/cobalt-peacock-obmd) | ![Cobalt Peacock](https://raw.githubusercontent.com/dpavaoman/cobalt-peacock-obmd/master/screenshot.png "") |
 | [lorens-osman-dev/Lorens-Obsidian-Theme](https://github.com/lorens-osman-dev/Lorens-Obsidian-Theme) | ![Lorens](https://raw.githubusercontent.com/lorens-osman-dev/Lorens-Obsidian-Theme/master/cover.png "") |
-| [noahboos/Rift](https://github.com/noahboos/Rift) | ![Rift](https://raw.githubusercontent.com/noahboos/Rift/master/showcase-temporaire.png "") |
+| [NoahBoos/Obsidian-Theme-Rift](https://github.com/NoahBoos/Obsidian-Theme-Rift) | ![Rift](https://raw.githubusercontent.com/NoahBoos/Obsidian-Theme-Rift/master/showcase-temporaire.png "") |
 | [BlossomTheme/Obsidian](https://github.com/BlossomTheme/Obsidian) | ![Blossom](https://raw.githubusercontent.com/BlossomTheme/Obsidian/master/screenshot01.png "") |
 | [bhappen/obsidian-space](https://github.com/bhappen/obsidian-space) | ![Space](https://raw.githubusercontent.com/bhappen/obsidian-space/master/obsidian-space.png "") |
 | [grjsmith/Neon-Synthwave](https://github.com/grjsmith/Neon-Synthwave) | ![Neon Synthwave](https://raw.githubusercontent.com/grjsmith/Neon-Synthwave/master/screenshot.jpg "") |
