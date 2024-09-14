@@ -94,13 +94,11 @@
 | [jaysan0/obsidian-sandstorm](https://github.com/jaysan0/obsidian-sandstorm) | ![Sandstorm](https://raw.githubusercontent.com/jaysan0/obsidian-sandstorm/master/screenshot.png "") |
 | [nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode) | ![LYT Mode](https://raw.githubusercontent.com/nickmilo/LYT-Mode/master/lyt-mode-graphic-1.jpg "") |
 | [operator-axel/obsdian_theme--Carpe_Noctem](https://github.com/operator-axel/obsdian_theme--Carpe_Noctem) | ![Carpe Noctem](https://raw.githubusercontent.com/operator-axel/obsdian_theme--Carpe_Noctem/master/screenshot.png "") |
-| [natelandau/obsidian-vintage-theme](https://github.com/natelandau/obsidian-vintage-theme) | ![Vintage Theme](https://raw.githubusercontent.com/natelandau/obsidian-vintage-theme/master/_media/light.png "") |
 | [catppuccin/obsidian](https://github.com/catppuccin/obsidian) | ![Catppuccin](https://raw.githubusercontent.com/catppuccin/obsidian/master/assets/screenshot.png "") |
 | [ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named](https://github.com/ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named) | ![Theme-That-Shall-Not-Be-Named](https://raw.githubusercontent.com/ChopTV/Obsidian-Theme-That-Shall-Not-Be-Named/master/Theme-That-Shall-Not-Be-Named.png "") |
 | [learnerfvs/Sparkling-Wisdom-obsidian-theme-](https://github.com/learnerfvs/Sparkling-Wisdom-obsidian-theme-) | ![Sparkling Wisdom](https://raw.githubusercontent.com/learnerfvs/Sparkling-Wisdom-obsidian-theme-/master/sparkling%20wisdom.png "") |
 | [tingmelvin/willemstad-x](https://github.com/tingmelvin/willemstad-x) | ![Willemstad](https://raw.githubusercontent.com/tingmelvin/willemstad-x/master/img/Willemstad-X.png "") |
 | [caro401/royal-velvet](https://github.com/caro401/royal-velvet) | ![Royal Velvet](https://raw.githubusercontent.com/caro401/royal-velvet/master/royal-velvet.png "") |
-| [sahilpatel09/Aqua-obsidian](https://github.com/sahilpatel09/Aqua-obsidian) | ![Aqua](https://raw.githubusercontent.com/sahilpatel09/Aqua-obsidian/master/dark.png "") |
 | [xRyul/ObsidianMD_Dracula_x_LYT](https://github.com/xRyul/ObsidianMD_Dracula_x_LYT) | ![Dracula + LYT](https://raw.githubusercontent.com/xRyul/ObsidianMD_Dracula_x_LYT/master/Overview.jpg "") |
 | [hydescarf/Obsidian-Theme-Mado-11](https://github.com/hydescarf/Obsidian-Theme-Mado-11) | ![Mado 11](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-11/master/img/store-cover.png "") |
 | [Everblush/Obsidian](https://github.com/Everblush/Obsidian) | ![Everblush](https://raw.githubusercontent.com/Everblush/Obsidian/master/preview.png "") |

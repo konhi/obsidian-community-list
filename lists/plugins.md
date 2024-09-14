@@ -326,7 +326,6 @@
 | [Link Headers Directly](https://github.com/Signynt/link-headers-directly) | When a header is linked, preview mode will show only the header, and not the note name. |
 | [Meld Calc](https://github.com/meld-cp/obsidian-calc) | Do math! Evaluate math expressions within your notes. |
 | [Tabout](https://github.com/phibr0/obsidian-tabout) | Easily 'tab out' of links or other Markdown formatting characters. |
-| [Improved VimCursor](https://github.com/hhhapz/improved-obsidian-vimcursor) | An improved experience with the cursor. |
 | [Quote of the Day](https://github.com/twentytwokhz/quote-of-the-day) | Insert random quotes in the editor. |
 | [Limelight](https://github.com/smikula/obsidian-limelight) | Spotlight your active pane. |
 | [Prompt](https://github.com/hungsu/obsidian-prompt) | Show inspirational prompts, from a prompt file in your vault. |
@@ -392,7 +391,6 @@
 | [Global Hotkeys](https://github.com/mjessome/obsidian-global-hotkeys) | Configurable system-wide hotkeys for running commands. |
 | [TimeStamper](https://github.com/Gru80/obsidian-timestamper) | Insert a customized or predefined time- or date-stamp at the current cursor position. |
 | [JSON/CSV Importer](https://github.com/farling42/obsidian-import-json) | Import a JSON file containing an array of data, creating notes from a Handlebars template file. |
-| [Attachment Name Formatting](https://github.com/JYC333/obsidian-attachment-name-formatting) | Formatting attachments name (filename attachmentType indexNumber.xxx). |
 | [Completr](https://github.com/tth05/obsidian-completr) | Advanced auto-completion for LaTeX, frontmatter, and standard writing. |
 | [Binary File Manager](https://github.com/qawatake/obsidian-binary-file-manager-plugin) | Detect new binary files in the vault and create Markdown files with metadata. |
 | [Local File Interface](https://github.com/qawatake/obsidian-local-file-interface-plugin) | Commands for moving files in and out of the vault. |
@@ -816,7 +814,6 @@
 | [Apple Books Highlights](https://github.com/atfzl/obsidian-apple-books-plugin) | Sync your Apple Books highlights automatically. |
 | [MSG Handler](https://github.com/ozntel/obsidian-msg-handler) | Easily display and search MSG files from Outlook in your vault. |
 | [ObsiDOOM](https://github.com/twibiral/ObsiDOOM) | Play DOOM and many other retro games in Obsidian. You can also play Prince of Persia, Mortal Combat, GTA, Sim City, and Need for Speed. |
-| [Advanced Paste](https://github.com/kxxt/obsidian-advanced-paste) | Add advanced paste commands and create custom transforms for pasting. |
 | [ActivityWatch](https://github.com/LordGrimmauld/aw-watcher-obsidian) | Integrate with ActivityWatch to allow detailed tracking of time spent in Obsidian. |
 | [Mixa](https://github.com/mixasite/obsidian-mixa) | Publish your notes and blog posts with Mixa. |
 | [Vextab](https://github.com/luigman/obsidian-vextab) | Render guitar tablature and music notation using Vextab. |
@@ -1312,7 +1309,6 @@
 | [Attachment Uploader](https://github.com/zhuxining/obsidian-attachment-uploader) | Upload attachments to PicSee or uPic, with customization for commands and file type. |
 | [Formatto](https://github.com/pixelbracket/formatto) | Simple, fast, and easy-to-use Markdown formatter. |
 | [ChatCBT](https://github.com/clairefro/obsidian-chat-cbt-plugin) | AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT). |
-| [Daily ICalendar](https://github.com/mmmykhailo/obsidian-daily-icalendar) | View calendar events in daily notes. |
 | [Auto-\displaystyle Inline Math](https://github.com/RyotaUshio/obsidian-auto-displaystyle-inline-math) | Automatically make all inline math \displaystyle. |
 | [Text Analysis](https://github.com/mihakralj/obsidian-textanalysis) | Real-time text analysis on readability, structure, and complexity, incorporating over 30 indicators. |
 | [Minitabs](https://github.com/ssjy1919/Obsidian-minitabs) | Customize a set of nested tabs through code blocks. |
@@ -1763,7 +1759,6 @@
 | [e-Daiary](https://github.com/wholetomy/obsidian-e-daiary) | Creates directories and notes based on the day of the year. |
 | [Dataview Publisher](https://github.com/udus122/dataview-publisher) | Output markdown from your Dataview queries and keep them up to date. You can also publish them. |
 | [NSFW filter](https://github.com/catvatar/Obsidian-NSFW-Plugin) | Adds customizable and easly togglable NSFW filter |
-| [File Flex](https://github.com/19msb/obsidian-file-flex) | Undo file and folder movement and name changes. |
 | [Edit in Neovim](https://github.com/TheseusGrey/edit-in-neovim) | Open a Neovim buffer for the currently open file |
 | [Todoist Indicator](https://github.com/kapej42/obsidian-todoist-indicator) | Adds a badge to "project" files to indicate a missing link to a Todoist project. |
 | [Vimium](https://github.com/karstenpedersen/obsidian-vimium) | Interact with elements using keyboard shortcuts in the spirit of Vim. |
@@ -1883,3 +1878,10 @@
 | [ImgBB Uploader](https://github.com/jordanhandy/obsidian-imgbb-uploader) | Upload images from your clipboard to ImgBB. |
 | [Import GitHub Readme](https://github.com/chasebank87/import-github-readme) | Allows you to import a GitHub README file into your vault. |
 | [Backtick text selector](https://github.com/cool-RR/backtick-text-selector) | Easily select text in backticks. |
+| [Daily Note Collector](https://github.com/LA/obsidian-daily-note-collector) | Adds links to new notes to your daily note. |
+| [Quick Cards](https://github.com/abcamus/obsidian-quick-card) | Cardify your files. |
+| [Vault to blog](https://github.com/barkstone2/vault-to-blog) | Publish the vault to a GitHub Pages blog. |
+| [Tailwind Snippet](https://github.com/nicholas-wilcox/tailwind-snippet-obsidian-plugin) | Use TailwindCSS utility classes in your markup. |
+| [simple-sketch](https://github.com/Yohh/obsidian-simple-sketch) | Create minimalist sketches in a dedicated view, draw with a pencil, generate shapes, add text, save it to the vault or download it as an image. |
+| [Pug Templates](https://github.com/nicholas-wilcox/pug-templates-obsidian-plugin) | Use the Pug templating engine in your vault. |
+| [Draw Steel Elements](https://github.com/SteelCompendium/draw-steel-elements) | Components to support the Draw Steel TTRPG by MCDM. |
