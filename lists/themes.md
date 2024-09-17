@@ -296,3 +296,6 @@
 | [Spekulucius/obsidian-adrenaline](https://github.com/Spekulucius/obsidian-adrenaline) | ![Adrenaline](https://raw.githubusercontent.com/Spekulucius/obsidian-adrenaline/master/adrenaline_thumbnail.png "") |
 | [omsandippatil/OISTNB](https://github.com/omsandippatil/OISTNB) | ![OISTNB](https://raw.githubusercontent.com/omsandippatil/OISTNB/master/OISTNB.png "") |
 | [b3h3m0th/black-obsidian-theme](https://github.com/b3h3m0th/black-obsidian-theme) | ![Black](https://raw.githubusercontent.com/b3h3m0th/black-obsidian-theme/master/screenshot_512x275.png "") |
+| [FaisalTamanoJr/Refined-Default](https://github.com/FaisalTamanoJr/Refined-Default) | ![Refined Default](https://raw.githubusercontent.com/FaisalTamanoJr/Refined-Default/master/banner.png "") |
+| [tu2-atmanand/RoseRed-ObsidianTheme](https://github.com/tu2-atmanand/RoseRed-ObsidianTheme) | ![Rose Red](https://raw.githubusercontent.com/tu2-atmanand/RoseRed-ObsidianTheme/master/Thumbnail.png "") |
+| [Elhary/Obsidian-Minimal-Edge](https://github.com/Elhary/Obsidian-Minimal-Edge) | ![Minimal Edge](https://raw.githubusercontent.com/Elhary/Obsidian-Minimal-Edge/master/minimal-edge.png "") |

@@ -1885,3 +1885,7 @@
 | [simple-sketch](https://github.com/Yohh/obsidian-simple-sketch) | Create minimalist sketches in a dedicated view, draw with a pencil, generate shapes, add text, save it to the vault or download it as an image. |
 | [Pug Templates](https://github.com/nicholas-wilcox/pug-templates-obsidian-plugin) | Use the Pug templating engine in your vault. |
 | [Draw Steel Elements](https://github.com/SteelCompendium/draw-steel-elements) | Components to support the Draw Steel TTRPG by MCDM. |
+| [Highlight active folder section](https://github.com/justanotherjurastudent/highlight-active-folder-section) | Highlight the active folder section and the title in the file explorer. |
+| [Canvas LMS Task Importer](https://github.com/jordaeday/canvas-task-importer) | Import assignments from Canvas LMS. |
+| [Tokenz](https://github.com/ferenk/obsidian-tokenz) | Insert any type of short codes into your document. You can add smileys (:), ;), ...) or emojis (:smile:, :wink:, ...). More code maps will be added later. Even you, as a user can create your own. |
+| [Diarian](https://github.com/Erallie/diarian) | All-in-one journaling toolkit. |
