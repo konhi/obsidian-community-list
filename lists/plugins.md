@@ -1889,3 +1889,49 @@
 | [Canvas LMS Task Importer](https://github.com/jordaeday/canvas-task-importer) | Import assignments from Canvas LMS. |
 | [Tokenz](https://github.com/ferenk/obsidian-tokenz) | Insert any type of short codes into your document. You can add smileys (:), ;), ...) or emojis (:smile:, :wink:, ...). More code maps will be added later. Even you, as a user can create your own. |
 | [Diarian](https://github.com/Erallie/diarian) | All-in-one journaling toolkit. |
+| [Nexus AI Chat Importer](https://github.com/superkikim/nexus-ai-chat-importer) | Import conversations from ChatGPT export files. |
+| [Auto Periodic Notes](https://github.com/jamiefdhurst/obsidian-auto-periodic-notes) | Creates new periodic notes automatically in the background and allows these to be pinned in your open tabs, requires the Periodic Notes plugin. |
+| [Mesh AI](https://github.com/chasebank87/mesh-ai) | Enables you to store AI prompts as patterns and run them seemlessly with most providers. |
+| [Onto Tracker](https://github.com/jdchart/onto-tracker) | Manage projects according to an ontology. |
+| [AI LaTeX Generator](https://github.com/aaaaayushh/ai-latex-generator) | Convert natural language to LaTeX equations using a local LLM. |
+| [Listen Up!](https://github.com/tejas-hosamani/obsidian-plugin-text-to-speech) | Covert text to natural voice audio, locally - Listen Up! |
+| [Serendipity](https://github.com/ggauravr/obsidian-serendipity-plugin) | Forces serendipitous discoveries by displaying random notes from your vault each time you open the app |
+| [Note Reviewer](https://github.com/TravisLinkey/note-reviewer) | Plugin to filter and review notes |
+| [Abbreviations and Acronyms](https://github.com/dragonish/obsidian-abbreviations) | Implements automatic marking of abbreviations and acronyms (terminology). |
+| [Mahjong Renderer](https://github.com/h-sphere/obsidian-mahjong-renderer) | Render mahjong tiles (riichi mahjong) using MPSZ notation |
+| [External File Card](https://github.com/James-Yu/external-file-card) | Display file cards for external files. |
+| [Vitepress Publisher](https://github.com/tyrad/obsidian-vitepress) | Conveniently preview and publish Markdown files using vitepress. |
+| [KeepSidian](https://github.com/lc0rp/KeepSidian) | Commands to import Google Keep notes. |
+| [Suggest Notes](https://github.com/Doggy-Footprint/Obsidian-keyword-suggest) | Suggest notes as selected by user. |
+| [File Share](https://github.com/muckmuck96/obsidian-file-share) | Enables end-to-end encrypted file sharing directly between vaults through a socket server. |
+| [Canvas Explorer](https://github.com/hjamet/Canvas-Explorer) | Explore your vault by iteratively adding or ignoring linked notes, ultimately generating a customizable canvas that visually represents the preserved notes and their connections. |
+| [Lazy Plugin Loader](https://github.com/alangrainger/obsidian-lazy-plugins) | Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time. |
+| [Battery Indicator](https://github.com/Opisek/obsidian-battery-indicator) | Displays current battery level in the status bar. |
+| [Virus Total Enrichment](https://github.com/ytisf/virustotal-enrich) | Enrich your notes with information from VirusTotal. |
+| [Snippets Manager](https://github.com/ramandv/obsidian-snippets-manager) | Snippets manager with full mobile support. You can manage code snippets, infos like passport number, email signature or anything. |
+| [CSS Inserter](https://github.com/Erallie/css-inserter) | Inserts user-defined CSS snippets into the selected text. |
+| [AnySocket Sync](https://github.com/lynxaegon/obsidian-anysocket-sync) | Self-Hosted synchronization for you Vault using AnySocket |
+| [Live Variables](https://github.com/HamzaBenyazid/obsidian-live-variables) | Define variables in your note's properties and reuse them throughout your content. |
+| [ImgBB Uploader](https://github.com/jordanhandy/obsidian-imgbb-uploader) | Upload images from your clipboard to ImgBB. |
+| [Import GitHub Readme](https://github.com/chasebank87/import-github-readme) | Allows you to import a GitHub README file into your vault. |
+| [Backtick text selector](https://github.com/cool-RR/backtick-text-selector) | Easily select text in backticks. |
+| [Daily Note Collector](https://github.com/LA/obsidian-daily-note-collector) | Adds links to new notes to your daily note. |
+| [Quick Cards](https://github.com/abcamus/obsidian-quick-card) | Cardify your files. |
+| [Vault to blog](https://github.com/barkstone2/vault-to-blog) | Publish the vault to a GitHub Pages blog. |
+| [Tailwind Snippet](https://github.com/nicholas-wilcox/tailwind-snippet-obsidian-plugin) | Use TailwindCSS utility classes in your markup. |
+| [simple-sketch](https://github.com/Yohh/obsidian-simple-sketch) | Create minimalist sketches in a dedicated view, draw with a pencil, generate shapes, add text, save it to the vault or download it as an image. |
+| [Pug Templates](https://github.com/nicholas-wilcox/pug-templates-obsidian-plugin) | Use the Pug templating engine in your vault. |
+| [Draw Steel Elements](https://github.com/SteelCompendium/draw-steel-elements) | Components to support the Draw Steel TTRPG by MCDM. |
+| [Highlight active folder section](https://github.com/justanotherjurastudent/highlight-active-folder-section) | Highlight the active folder section and the title in the file explorer. |
+| [Canvas LMS Task Importer](https://github.com/jordaeday/canvas-task-importer) | Import assignments from Canvas LMS. |
+| [Tokenz](https://github.com/ferenk/obsidian-tokenz) | Insert any type of short codes into your document. You can add smileys (:), ;), ...) or emojis (:smile:, :wink:, ...). More code maps will be added later. Even you, as a user can create your own. |
+| [Diarian](https://github.com/Erallie/diarian) | All-in-one journaling toolkit. |
+| [Nexus AI Chat Importer](https://github.com/superkikim/nexus-ai-chat-importer) | Import conversations from ChatGPT export files. |
+| [Auto Periodic Notes](https://github.com/jamiefdhurst/obsidian-auto-periodic-notes) | Creates new periodic notes automatically in the background and allows these to be pinned in your open tabs, requires the Periodic Notes plugin. |
+| [Mesh AI](https://github.com/chasebank87/mesh-ai) | Enables you to store AI prompts as patterns and run them seemlessly with most providers. |
+| [Onto Tracker](https://github.com/jdchart/onto-tracker) | Manage projects according to an ontology. |
+| [Journaling](https://github.com/Ordeeper/obsidian-journaling-plugin) | View daily notes in a journal-like format, similar to Logseq. It enhances note organization and facilitates better reflection by consolidating daily notes into a continuous journaling view. |
+| [Edit mode switch](https://github.com/Mara-Li/obsidian-edit-shortcut) | Add a button in the file header, in edit mode, to switch between source and live-preview. |
+| [Print](https://github.com/marijnbent/obsidian-print) | A simple plugin to add a print action. |
+| [Morgen Tasks](https://github.com/morgen-so/morgen-obsidian) | Plan, time block, and track tasks from your vault in any calendar using Morgen. |
+| [Immich](https://github.com/Talal-A/obsidian-immich) | Link your Immich images within your vault. |
