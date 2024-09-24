@@ -1898,3 +1898,9 @@
 | [Print](https://github.com/marijnbent/obsidian-print) | A simple plugin to add a print action. |
 | [Morgen Tasks](https://github.com/morgen-so/morgen-obsidian) | Plan, time block, and track tasks from your vault in any calendar using Morgen. |
 | [Immich](https://github.com/Talal-A/obsidian-immich) | Link your Immich images within your vault. |
+| [Verovio Music Renderer](https://github.com/kpaede/Verovio-Music-Renderer) | Verovio Music Renderer displays musical notation from various formats (MEI, MusicXML, abc) and plays it back. |
+| [Card Navigator](https://github.com/wakeyi-git/obsidian-card-navigator-plugin) | Navigate your notes visually with card-based interface |
+| [Callout menu](https://github.com/anareaty/callout-menu) | Adds some extra options to callouts context menu and allows you to add your own custom callouts. |
+| [Enhanced Image](https://github.com/situ2001/obsidian-enhanced-image) | Enhance the experience of image seamlessly. For example, operations for image in context menu, command palette. |
+| [Poker Range](https://github.com/marplek/obsidian-poker-range) | Create a poker range grid |
+| [Spaced everything](https://github.com/zachmueller/spaced-everything) | Apply spaced repetition algorithms to everything in your vault. |
