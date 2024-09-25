@@ -1904,3 +1904,26 @@
 | [Enhanced Image](https://github.com/situ2001/obsidian-enhanced-image) | Enhance the experience of image seamlessly. For example, operations for image in context menu, command palette. |
 | [Poker Range](https://github.com/marplek/obsidian-poker-range) | Create a poker range grid |
 | [Spaced everything](https://github.com/zachmueller/spaced-everything) | Apply spaced repetition algorithms to everything in your vault. |
+| [Epiphany](https://github.com/Epiphany-Notes/epiphany-obsidian-plugin) | Synchronize voice notes from the Epiphany app directly into your vault |
+| [Pexels Banner](https://github.com/jparkerweb/pexels-banner) | Apply an image from Pexels as a banner to your notes. |
+| [Rich Foot](https://github.com/jparkerweb/rich-foot) | Adds backlink tags and created/modified dates to the footer of your notes. |
+| [Pintora](https://github.com/amiaslee/obsidian-pintora) | Generates diagrams using Pintora. |
+| [Alignment Tracker](https://github.com/FioPio/ObsidianAlignmentTracker) | Track character alignment using a 3x3 grid. |
+| [AutoPause](https://github.com/ckep1/obsidian-AutoPause) | Allows one audio track to be played at a time, pausing or stopping any others. |
+| [Code Language Completer](https://github.com/Stanley-Wang910/obsidian-code-language-completer) | Autosuggests and completes codeblock language options based on history. |
+| [Guitar Chord](https://github.com/Barba828/obsidian-plugin-chord) | Quickly enter and display guitar chords, with optional chords based on music theory. No need to write in code blocks, they can be inserted and edited directly in the document. |
+| [Symlink Creator](https://github.com/pteridin/obsidian_symlink_plugin) | Create symlinks to files and folders inside and outside of your vault. |
+| [Remove Unused Block IDs](https://github.com/isdmg/obsidian-remove-unused-block-ids) | Remove unused block ids in your vault. |
+| [Collapse Linked Mentions](https://github.com/n810K/obsidian-collapse-linked-mentions) | Automatically collapse embedded backlink mentions |
+| [Remove HTML Tag](https://github.com/gitcpy/obsidian-remove-html-tag) | Remove HTML tags from Markdown files |
+| [Diagram Zoom Drag](https://github.com/gitcpy/diagram-zoom-drag) | Add zoom and drag functionality to diagrams from Mermaid, Plantuml, Graphviz, Gravizo and so on |
+| [Figma Embed](https://github.com/kocheck/obsidian-figma-viewer) | Embed Figma files as inline previews. |
+| [XMind Viewer](https://github.com/Ssentiago/obsidian-xmind-viewer) | Integrate viewing of your XMind files |
+| [Auto Strikethrough Tasks](https://github.com/Nomekuma/auto-strikethrough-task-obsidian-pluggin) | Automatically adds strikethrough to completed tasks. |
+| [Colorizelt](https://github.com/WiNE-iNEFF/colorizelt) | Easy color and clear selected text |
+| [Magic Mic](https://github.com/drewmcdonald/obsidian-magic-mic) | Record, transcribe, and summarize audio directly into your vault with custom assistants. |
+| [Editing Mode Hotkey](https://github.com/Signynt/obsidian-editing-mode-hotkey) | Adds a command and hotkey to toggle the default editing mode (between Live Preview and Source) |
+| [Hierarchy](https://github.com/kdnk/obsidian-hierarchy) | Visualize the hierarchy of your link. |
+| [Minimize on Close](https://github.com/alberti42/obsidian-minimize-on-close) | Minimizes the app window to an icon after closing the last open pane |
+| [Custom Node Size](https://github.com/jackvonhouse/custom-node-size) | Customize nodes size for improved graph understanding. |
+| [Mermaid Popup](https://github.com/gitcpy/obsidian-mermaid-pop) | Show mermaid diagrams in a draggable and zoomable popup |
