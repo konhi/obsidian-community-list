@@ -1927,3 +1927,8 @@
 | [Minimize on Close](https://github.com/alberti42/obsidian-minimize-on-close) | Minimizes the app window to an icon after closing the last open pane |
 | [Custom Node Size](https://github.com/jackvonhouse/custom-node-size) | Customize nodes size for improved graph understanding. |
 | [Mermaid Popup](https://github.com/gitcpy/obsidian-mermaid-pop) | Show mermaid diagrams in a draggable and zoomable popup |
+| [新枝Newledge](https://github.com/DepartingAgain/obsidian-newledge) | Import Newledge data. |
+| [Immersive Translate](https://github.com/imfenghuang/obsidian-immersive-translate) | A free-to-use translatation service for foreign language markdown file. |
+| [Scripture Indexer](https://github.com/jdrbrn/obsidian-scripture-indexer) | Indexes references to scriptures in notes. |
+| [Open Sidebar on Hover](https://github.com/AnAngryRaven/obsidian-open-sidebar-on-hover) | Enables the ability to open the sidebar by hovering over it. |
+| [OnlyWorlds Builder](https://github.com/OnlyWorlds/obsidian-plugin) | World building toolset with OnlyWorlds integration. |
