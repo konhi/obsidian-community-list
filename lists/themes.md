@@ -299,3 +299,11 @@
 | [FaisalTamanoJr/Refined-Default](https://github.com/FaisalTamanoJr/Refined-Default) | ![Refined Default](https://raw.githubusercontent.com/FaisalTamanoJr/Refined-Default/master/banner.png "") |
 | [tu2-atmanand/RoseRed-ObsidianTheme](https://github.com/tu2-atmanand/RoseRed-ObsidianTheme) | ![Rose Red](https://raw.githubusercontent.com/tu2-atmanand/RoseRed-ObsidianTheme/master/Thumbnail.png "") |
 | [Elhary/Obsidian-Minimal-Edge](https://github.com/Elhary/Obsidian-Minimal-Edge) | ![Minimal Edge](https://raw.githubusercontent.com/Elhary/Obsidian-Minimal-Edge/master/minimal-edge.png "") |
+| [darthdemono/AMOLED-Serenity](https://github.com/darthdemono/AMOLED-Serenity) | ![AMOLED Serenity](https://raw.githubusercontent.com/darthdemono/AMOLED-Serenity/master/AMOLED-Serenity-sm.png "") |
+| [golam71/obsidian-hackthebox](https://github.com/golam71/obsidian-hackthebox) | ![Hackthebox](https://raw.githubusercontent.com/golam71/obsidian-hackthebox/master/dark.png "") |
+| [Oczko24/Obsidian-transparent](https://github.com/Oczko24/Obsidian-transparent) | ![Transparent](https://raw.githubusercontent.com/Oczko24/Obsidian-transparent/master/cover.png "") |
+| [LeslyeCream/Lagom-Obsidian-Theme](https://github.com/LeslyeCream/Lagom-Obsidian-Theme) | ![Lagom](https://raw.githubusercontent.com/LeslyeCream/Lagom-Obsidian-Theme/master/IMG_20241009_134537.jpg "") |
+| [LorenzoPegorari/SimplyColorful](https://github.com/LorenzoPegorari/SimplyColorful) | ![Simply Colorful](https://raw.githubusercontent.com/LorenzoPegorari/SimplyColorful/master/preview.png "") |
+| [Sunhaloo/OneNice](https://github.com/Sunhaloo/OneNice) | ![OneNice](https://raw.githubusercontent.com/Sunhaloo/OneNice/master/OneNice.png "") |
+| [ElsaTam/obsidian-fancy-a-story](https://github.com/ElsaTam/obsidian-fancy-a-story) | ![Fancy-a-Story](https://raw.githubusercontent.com/ElsaTam/obsidian-fancy-a-story/master/overview-mini.png "") |
+| [ofalvai/flexoki-warm](https://github.com/ofalvai/flexoki-warm) | ![Flexoki Warm](https://raw.githubusercontent.com/ofalvai/flexoki-warm/master/screenshots/cover-small.png "") |
