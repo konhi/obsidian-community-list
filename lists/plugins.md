@@ -1932,3 +1932,12 @@
 | [Scripture Indexer](https://github.com/jdrbrn/obsidian-scripture-indexer) | Indexes references to scriptures in notes. |
 | [Open Sidebar on Hover](https://github.com/AnAngryRaven/obsidian-open-sidebar-on-hover) | Enables the ability to open the sidebar by hovering over it. |
 | [OnlyWorlds Builder](https://github.com/OnlyWorlds/obsidian-plugin) | World building toolset with OnlyWorlds integration. |
+| [Command Tracker](https://github.com/namikaze-40p/obsidian-command-tracker) | Track the number of times the command is used. |
+| [LLM Summary](https://github.com/larksq/obsidian-llm-summary) | Quick note taking with the help of LLMs. LLMs help you to summarize / organize PDFs or existing notes. |
+| [BookXNote Sync](https://github.com/CodeListening/obsidian-bookxnote) | 同步bookxnote中的读书笔记 |
+| [Find Orphaned Images](https://github.com/josmarcristello/Obsidian-Find-Orphaned-Images) | Finds images in the vault that are not linked to any notes. Either lists, or deletes them. |
+| [Link Navigation](https://github.com/xRyul/link-navigation) | Navigate between incoming links (inlinks), outgoing links (outlinks) N levels deep. Links from Canvas are also supported. |
+| [Modal Opener](https://github.com/likemuuxi/obsidian-modal-plugin) | Uses modal windows to open files and links. |
+| [Mouse Navigation](https://github.com/hobeom/obsidian-mouse-navigation) | Enables smooth navigation using mouse gestures for scrolling and switching pages. |
+| [Ffmpeg Converter](https://github.com/MrAnyx/obsidian-ffmpeg-converter) | Convert most used file formats into another format to optimize your vault space. |
+| [Crackboard](https://github.com/bruce-pain/crackboard-obsidian) | tpot leaderboard productivity tracker |
