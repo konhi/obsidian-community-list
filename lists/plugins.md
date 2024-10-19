@@ -1941,3 +1941,9 @@
 | [Mouse Navigation](https://github.com/hobeom/obsidian-mouse-navigation) | Enables smooth navigation using mouse gestures for scrolling and switching pages. |
 | [Ffmpeg Converter](https://github.com/MrAnyx/obsidian-ffmpeg-converter) | Convert most used file formats into another format to optimize your vault space. |
 | [Crackboard](https://github.com/bruce-pain/crackboard-obsidian) | tpot leaderboard productivity tracker |
+| [Quick Notes](https://github.com/SeanMcOwen/Quick-Note-Obsidian-Plugin) | Speeds up some note taking abilities and allows for creating notes/links in the background |
+| [Typefully](https://github.com/dsebastien/obsidian-typefully) | Typefully integration. Publish social media posts with ease |
+| [InfraNodus AI Graph View](https://github.com/noduslabs/infranodus-obsidian-plugin) | Interactive 3D graph view: text analysis, topic modeling, gap detection, and AI. |
+| [Open Interpreter](https://github.com/MikeBirdTech/obsidian-open-interpreter) | An AI assistant that you can control with natural language. The power of Open Interpreter in your vault |
+| [Scrambling Title Animations](https://github.com/DvorakDwarf/scrambling-title-animations) | Animates the title of any note you open by scrambling and revealing it in several visually appealing ways. |
+| [Lemons Search](https://github.com/mProjectsCode/obsidian-lemons-search-plugin) | A blazingly fast fuzzy finder with file preview. |
