@@ -1895,7 +1895,7 @@
 | [Onto Tracker](https://github.com/jdchart/onto-tracker) | Manage projects according to an ontology. |
 | [Journaling](https://github.com/Ordeeper/obsidian-journaling-plugin) | View daily notes in a journal-like format, similar to Logseq. It enhances note organization and facilitates better reflection by consolidating daily notes into a continuous journaling view. |
 | [Edit mode switch](https://github.com/Mara-Li/obsidian-edit-shortcut) | Add a button in the file header, in edit mode, to switch between source and live-preview. |
-| [Print](https://github.com/marijnbent/obsidian-print) | A simple plugin to add a print action. |
+| [Print](https://github.com/marijnbent/obsidian-print) | Print notes and documents directly from your workspace. |
 | [Morgen Tasks](https://github.com/morgen-so/morgen-obsidian) | Plan, time block, and track tasks from your vault in any calendar using Morgen. |
 | [Immich](https://github.com/Talal-A/obsidian-immich) | Link your Immich images within your vault. |
 | [Verovio Music Renderer](https://github.com/kpaede/Verovio-Music-Renderer) | Verovio Music Renderer displays musical notation from various formats (MEI, MusicXML, abc) and plays it back. |
