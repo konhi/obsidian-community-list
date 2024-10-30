@@ -135,7 +135,7 @@
 | [AllJavi/material_gruvbox_obsidian](https://github.com/AllJavi/material_gruvbox_obsidian) | ![Material Gruvbox](https://raw.githubusercontent.com/AllJavi/material_gruvbox_obsidian/master/promo_screenshot.png "") |
 | [hush-hush/obsidian_wombat](https://github.com/hush-hush/obsidian_wombat) | ![Wombat](https://raw.githubusercontent.com/hush-hush/obsidian_wombat/master/main_thumbnail.png "") |
 | [JamesLemony/obsidian_vibrant](https://github.com/JamesLemony/obsidian_vibrant) | ![Vibrant](https://raw.githubusercontent.com/JamesLemony/obsidian_vibrant/master/images/demo1.png "") |
-| [PedroHenrique17/Atomus](https://github.com/PedroHenrique17/Atomus) | ![Atomus](https://raw.githubusercontent.com/PedroHenrique17/Atomus/master/Screenshot_1.png "") |
+| [PedroHenrique17/Atomus](https://github.com/PedroHenrique17/Atomus) | ![Atomus](https://raw.githubusercontent.com/PedroHenrique17/Atomus/master/Screenshot_2.png "") |
 | [faroukx/Obsidian-shiba-inu-theme](https://github.com/faroukx/Obsidian-shiba-inu-theme) | ![Shiba Inu](https://raw.githubusercontent.com/faroukx/Obsidian-shiba-inu-theme/master/shibainubackgroundshowcase.png "") |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | ![AnuPpuccin](https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/master/preview.png "") |
 | [Bluemoondragon07/chime-theme](https://github.com/Bluemoondragon07/chime-theme) | ![🔔 Chime](https://raw.githubusercontent.com/Bluemoondragon07/chime-theme/master/Chime.png "") |
@@ -180,7 +180,6 @@
 | [sq1000000/NeuBorder](https://github.com/sq1000000/NeuBorder) | ![NeuBorder](https://raw.githubusercontent.com/sq1000000/NeuBorder/master/img/cover.png "") |
 | [Bluemoondragon07/Obsidian-Bolt](https://github.com/Bluemoondragon07/Obsidian-Bolt) | ![Bolt](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Bolt/master/cover.png "") |
 | [Bluemoondragon07/Obsidian-Origin](https://github.com/Bluemoondragon07/Obsidian-Origin) | ![Origin](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Origin/master/origin.png "") |
-| [zaklezaja/obsidian-oozy](https://github.com/zaklezaja/obsidian-oozy) | ![Oozy](https://raw.githubusercontent.com/zaklezaja/obsidian-oozy/master/preview-cover.png "") |
 | [schrunchee/obsidian-covert-theme](https://github.com/schrunchee/obsidian-covert-theme) | ![Covert](https://raw.githubusercontent.com/schrunchee/obsidian-covert-theme/master/obsidian_covert_theme_sm3.jpg "") |
 | [saket61195/Dracula_obsidian_theme](https://github.com/saket61195/Dracula_obsidian_theme) | ![Dracula Plus](https://raw.githubusercontent.com/saket61195/Dracula_obsidian_theme/master/demo1.png "") |
 | [SalemElatar/salem-obsidian-theme](https://github.com/SalemElatar/salem-obsidian-theme) | ![SALEM](https://raw.githubusercontent.com/SalemElatar/salem-obsidian-theme/master/screenshot.png "") |
@@ -226,7 +225,6 @@
 | [xRyul/obsidian-arcane-theme](https://github.com/xRyul/obsidian-arcane-theme) | ![Arcane](https://raw.githubusercontent.com/xRyul/obsidian-arcane-theme/master/Arcane_sample_01.jpg "") |
 | [RaveSplash/obsidian-misty-mauve](https://github.com/RaveSplash/obsidian-misty-mauve) | ![MistyMauve](https://raw.githubusercontent.com/RaveSplash/obsidian-misty-mauve/master/dark.jpg "") |
 | [KStew1017/obsidian-sea-glass-theme](https://github.com/KStew1017/obsidian-sea-glass-theme) | ![Sea Glass](https://raw.githubusercontent.com/KStew1017/obsidian-sea-glass-theme/master/sea-glass-preview.png "") |
-| [HW9636/DarkNebulaObsidianTheme](https://github.com/HW9636/DarkNebulaObsidianTheme) | ![DarkNebula](https://raw.githubusercontent.com/HW9636/DarkNebulaObsidianTheme/master/thumbnail.png "") |
 | [DMeurer/improved-potato](https://github.com/DMeurer/improved-potato) | ![Improved Potato](https://raw.githubusercontent.com/DMeurer/improved-potato/master/images/image2.png "") |
 | [slavamak/obsidian-neovim](https://github.com/slavamak/obsidian-neovim) | ![Neovim](https://raw.githubusercontent.com/slavamak/obsidian-neovim/master/screenshot.png "") |
 | [isax785/obsidian-sparkling-day](https://github.com/isax785/obsidian-sparkling-day) | ![Sparkling Day](https://raw.githubusercontent.com/isax785/obsidian-sparkling-day/master/img/sparkling_day_small.png "") |

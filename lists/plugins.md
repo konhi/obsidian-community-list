@@ -969,7 +969,7 @@
 | [Shukuchi](https://github.com/tadashi-aikawa/shukuchi) | Teleport to links (URL or internal link) and jump to their destinations. |
 | [Chat Stream](https://github.com/rpggio/obsidian-chat-stream) | Create branching GPT chats using canvas notes. |
 | [BlindFold](https://github.com/vzsky/blindfold-obsidian) | Fold text by making it completely hidden. |
-| [Financial Doc](https://github.com/yet-another-tool/obsidian-findoc) | Financial documentation and tracking using CSV format and Chart.js. |
+| [Financial Doc](https://github.com/studiowebux/obsidian-findoc) | Financial documentation and tracking using CSV format and Chart.js. |
 | [File Include](https://github.com/tillahoffmann/obsidian-file-include) | Include or embed files in Obsidian Markdown. |
 | [Vault Chat](https://github.com/exoascension/vault-chat) | A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas! |
 | [Mermaid Themes](https://github.com/jvsteiner/mermaid-themes) | Alternate support for mermaid.js that supports theming and customization. |
@@ -1307,7 +1307,7 @@
 | [Key-Value List](https://github.com/christianwannerstedt/obsidian-key-value-list) | Turn lists into neatly formatted key-value lists. |
 | [Disk Usage](https://github.com/Promptier/disk-usage) | Measure disk usage for tracking size of folders and file types. |
 | [Attachment Uploader](https://github.com/zhuxining/obsidian-attachment-uploader) | Upload attachments to PicSee or uPic, with customization for commands and file type. |
-| [Formatto](https://github.com/pixelbracket/formatto) | Simple, fast, and easy-to-use Markdown formatter. |
+| [Formatto](https://github.com/evasquare/formatto) | Simple, fast, and easy-to-use Markdown formatter. |
 | [ChatCBT](https://github.com/clairefro/obsidian-chat-cbt-plugin) | AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT). |
 | [Auto-\displaystyle Inline Math](https://github.com/RyotaUshio/obsidian-auto-displaystyle-inline-math) | Automatically make all inline math \displaystyle. |
 | [Text Analysis](https://github.com/mihakralj/obsidian-textanalysis) | Real-time text analysis on readability, structure, and complexity, incorporating over 30 indicators. |
@@ -1450,7 +1450,7 @@
 | [Graph Link Types](https://github.com/natefrisch01/Graph-Link-Types) | Link types for graph view. |
 | [Fix Require Modules](https://github.com/mnaoumov/obsidian-fix-require-modules) | Fixes require() calls, supporting JavaScript and TypeScript modules, enabling easy invocation, and adding code buttons for enhanced scripting capabilities |
 | [Auto Definition Link](https://github.com/nmcarp99/obsidian-auto-definition-link) | Automatically converts text to definition links within the current folder when you type them. |
-| [Chord Sheets](https://github.com/olvidalo/obsidian-chord-sheets) | Work with chord sheets (chords over lyrics) in your vault: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode. |
+| [Chord Sheets](https://github.com/olvidalo/obsidian-chord-sheets) | Work with chord sheets (chords over lyrics or inline) in Live Preview and reading mode: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll, and more. |
 | [Enhanced tables](https://github.com/pistacchio/obsidian-enhanced-tables) | Add programmable controls to selected tables. |
 | [Folders to Graph](https://github.com/Ratibus11/folders2graph) | Display your vault folder structure into your graphs. |
 | [Lean Syntax Highlight](https://github.com/tomaz1502/lean-syntax-highlight) | Provides live syntax highlight for the Lean programming language |
@@ -1775,7 +1775,7 @@
 | [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview) | Allows to refresh preview mode without reopening the note |
 | [Hash Pasted Image](https://github.com/hardingadonis/hash-pasted-image) | Auto rename pasted images added to the vault via hash algorithm SHA-512 |
 | [Yanki](https://github.com/kitschpatrol/yanki-obsidian) | Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fuss. |
-| [Iconic](https://github.com/gfxholo/iconic) | Customize your app icons directly from the UI, including tabs, files, bookmarks, properties, and ribbon commands. |
+| [Iconic](https://github.com/gfxholo/iconic) | Customize your icons and their colors directly from the UI, including tabs, files, bookmarks, properties, and ribbon commands. |
 | [Notes Refresher](https://github.com/connorpark24/refresher-plugin) | Provides AI-generated refresher summaries of notes from your Vault using GPT-4. |
 | [DocBase (Unofficial)](https://github.com/kuvanov-2/obsidian-docbase) | Pull and push notes to DocBase |
 | [Latex Render](https://github.com/jvsteiner/obsidian-latex-render) | Render small latex snippets in your notes as SVG and PNG files. |
@@ -1937,7 +1937,7 @@
 | [BookXNote Sync](https://github.com/CodeListening/obsidian-bookxnote) | 同步bookxnote中的读书笔记 |
 | [Find Orphaned Images](https://github.com/josmarcristello/Obsidian-Find-Orphaned-Images) | Finds images in the vault that are not linked to any notes. Either lists, or deletes them. |
 | [Link Navigation](https://github.com/xRyul/link-navigation) | Navigate between incoming links (inlinks), outgoing links (outlinks) N levels deep. Links from Canvas are also supported. |
-| [Modal Opener](https://github.com/likemuuxi/obsidian-modal-plugin) | Uses modal windows to open files and links. |
+| [Modal Opener](https://github.com/likemuuxi/obsidian-modal-opener) | Open files and links in modal windows, or create and edit compatible files in modal windows. |
 | [Mouse Navigation](https://github.com/hobeom/obsidian-mouse-navigation) | Enables smooth navigation using mouse gestures for scrolling and switching pages. |
 | [Ffmpeg Converter](https://github.com/MrAnyx/obsidian-ffmpeg-converter) | Convert most used file formats into another format to optimize your vault space. |
 | [Crackboard](https://github.com/bruce-pain/crackboard-obsidian) | tpot leaderboard productivity tracker |
@@ -1947,3 +1947,23 @@
 | [Open Interpreter](https://github.com/MikeBirdTech/obsidian-open-interpreter) | An AI assistant that you can control with natural language. The power of Open Interpreter in your vault |
 | [Scrambling Title Animations](https://github.com/DvorakDwarf/scrambling-title-animations) | Animates the title of any note you open by scrambling and revealing it in several visually appealing ways. |
 | [Lemons Search](https://github.com/mProjectsCode/obsidian-lemons-search-plugin) | A blazingly fast fuzzy finder with file preview. |
+| [Flow](https://github.com/tavva/flow-release) | Implements key processes in David Allen's Getting Things Done (GTD) methodology |
+| [Quarto Exporter](https://github.com/AndreasThinks/obsidian-to-quarto-exporter) | Export notes to Quarto-compatible QMD files. |
+| [Copy Section](https://github.com/skztr/obsidian-plugin-section-copy) | Adds a Copy button to the top of Headed sections. |
+| [Cloud Storage](https://github.com/yingjialong/obsidian-CloudStorage) | Allows users to upload local files to the cloud, reducing the burden on local vaults and enabling seamless synchronization across multiple devices. |
+| [Local Media Embedder](https://github.com/seyf1elislam/obsidian-LocalMediaEmbedder-plugin) | Embed videos and images and audios from your local device in your notes. |
+| [Tab Panels](https://github.com/GnoxNahte/obsidian-tab-panels) | Create tab panels to organize content into sections |
+| [Jura Links](https://github.com/justanotherjurastudent/Jura-Links) | Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstellen mit Gesetzesanbietern. |
+| [Advanced Copy](https://github.com/leschuster/obsidian-advanced-copy) | Copy Markdown and transform it according to your needs. |
+| [Nav Link Header](https://github.com/ahts4962/nav-link-header) | Display navigation links at the top of the notes. |
+| [Japanese Novel Ruby](https://github.com/k-quels/japanese-novel-ruby) | Treat ruby(Furigana) ​​marks commonly used in Japanese novels |
+| [Asciidoctor editor](https://github.com/dzruyk/obsidian-asciidoc) | View and modify asciidoc pages |
+| [Replace All](https://github.com/patrickchiang/obsidian-replace-all) | Adds replace all functionality into search. |
+| [Metadata Auto Classifier](https://github.com/GoBeromsu/Metadata-Auto-Classifier) | Automatically classifies and applies metadata to your notes. |
+| [Strava Sync](https://github.com/watsonbox/obsidian-strava-sync) | Sync activities from Strava. |
+| [Another Simple Todoist Sync](https://github.com/eudennis/ultimate-todoist-sync-for-obsidian-experiment) | Simple plugin to sync with Todoist. Fork from Ultimate Todoist Sync plugin. |
+| [Translate Inline](https://github.com/kon-foo/Obsidian-Translate-Inline) | Translations at your fingertips. Inline Translations for your Notes. |
+| [Youtube Iframe Timestamps](https://github.com/NilsLeo/obsidian-youtube-iframe-timestamps) | Allows you to embed YouTube videos with timestamps directly in your notes, enabling seamless referencing and note-taking without needing to open a separate browser window. |
+| [random-retrieval](https://github.com/JeanJean-rxl/random-retrieval-plugin) | Random Note Retrieval based on LLM. |
+| [Occura](https://github.com/Krusty84/obsidian-occura-plugin) | Find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs. |
+| [Callout Toggles](https://github.com/alythobani/obsidian-callout-toggles) | Quickly add, change, or remove callout wrappers in your notes. |
