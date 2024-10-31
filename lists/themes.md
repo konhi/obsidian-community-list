@@ -305,3 +305,7 @@
 | [Sunhaloo/OneNice](https://github.com/Sunhaloo/OneNice) | ![OneNice](https://raw.githubusercontent.com/Sunhaloo/OneNice/master/OneNice.png "") |
 | [ElsaTam/obsidian-fancy-a-story](https://github.com/ElsaTam/obsidian-fancy-a-story) | ![Fancy-a-Story](https://raw.githubusercontent.com/ElsaTam/obsidian-fancy-a-story/master/overview-mini.png "") |
 | [ofalvai/flexoki-warm](https://github.com/ofalvai/flexoki-warm) | ![Flexoki Warm](https://raw.githubusercontent.com/ofalvai/flexoki-warm/master/screenshots/cover-small.png "") |
+| [xero/evangelion.obsidian](https://github.com/xero/evangelion.obsidian) | ![evangelion](https://raw.githubusercontent.com/xero/evangelion.obsidian/master/preview.png "") |
+| [juanchiparra/obsidian-borealis](https://github.com/juanchiparra/obsidian-borealis) | ![Borealis](https://raw.githubusercontent.com/juanchiparra/obsidian-borealis/master/docs/dark-cover.png "") |
+| [DKLiberty/Red-Shadow](https://github.com/DKLiberty/Red-Shadow) | ![Red-Shadow](https://raw.githubusercontent.com/DKLiberty/Red-Shadow/master/Resources/Screenshot.png "") |
+| [abhimangs/Obsidian-Luminex](https://github.com/abhimangs/Obsidian-Luminex) | ![Luminex](https://raw.githubusercontent.com/abhimangs/Obsidian-Luminex/master/Assets/Obsidian-Cover.png "") |
