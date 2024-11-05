@@ -1079,7 +1079,7 @@
 | [Cloze](https://github.com/DearVikki/obsidian-cloze-plugin) | Convert highlights, underlines, bolded texts or any selected texts into clozes. |
 | [Wikidata Importer](https://github.com/samwho/obsidian-wikidata-importer) | Import data from Wikidata into your vault. |
 | [Copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion) | A highly configurable copilot-like auto-completion using the ChatGPT API. |
-| [UNITADE.md](https://github.com/Falcion/UNITADE.md) | Effortlessly treat any file extension as note, organize diverse file formats in your vault and take advancements in control of extension system even with custom modals. |
+| [UNITADE.md](https://github.com/Falcion/UNITADE.md) | Treat any file as any view, code editor and syntax highlighting, modals for creating and renaming files, assign views for files, unloading registries and many more for advanced work with non-markdown files. |
 | [Python Scripter](https://github.com/nickrallison/obsidian-python-scripter) | Run Python scripts directly as commands. |
 | [Quick note](https://github.com/jamesgreenblue/obsidian-quicknote) | Create a quick note in a floating window (on command or by right-clicking the Obsidian app icon). |
 | [Update frontmatter modified date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) | Automatically update a frontmatter modified date field when the file is modified. |
@@ -1459,7 +1459,7 @@
 | [Goban SGF](https://github.com/StinsonZhao/obsidian-plugin-goban-sgf) | Record Go games (SGF format goban). |
 | [Display Relative Path Img](https://github.com/dyc2424748461/obsidian-display-relative-path-img) | Display the image of the <img> tag |
 | [Metadata Icon](https://github.com/Benature/obsidian-metadata-icon) | Set custom icons for your properties. |
-| [AI File Organizer 2000](https://github.com/different-ai/file-organizer-2000) | Automatically organize notes, annotate photos and audio using AI. |
+| [AI File Organizer 2000](https://github.com/different-ai/file-organizer-2000) | AI assistant to automatically organize, chat, and format your notes. Works with images, PDFs, and your voice |
 | [Spotify API](https://github.com/Darren-project/obsidian-spotify) | Exposes Spotify API |
 | [PF2e Statblocks](https://github.com/pixley/pf2e-statblock-for-obsidian) | Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax. |
 | [Canvas Link Optimizer](https://github.com/khaelar/obsidian-canvas-link-optimizer) | Optimize Canvas links by displaying a page thumbnail. |
@@ -1926,7 +1926,7 @@
 | [Hierarchy](https://github.com/kdnk/obsidian-hierarchy) | Visualize the hierarchy of your link. |
 | [Minimize on Close](https://github.com/alberti42/obsidian-minimize-on-close) | Minimizes the app window to an icon after closing the last open pane |
 | [Custom Node Size](https://github.com/jackvonhouse/custom-node-size) | Customize nodes size for improved graph understanding. |
-| [Mermaid Popup](https://github.com/gitcpy/obsidian-mermaid-pop) | Show mermaid diagrams in a draggable and zoomable popup |
+| [Diagram Popup](https://github.com/gitcpy/obsidian-diagram-popup) | Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable and zoomable popup |
 | [新枝Newledge](https://github.com/DepartingAgain/obsidian-newledge) | Import Newledge data. |
 | [Immersive Translate](https://github.com/imfenghuang/obsidian-immersive-translate) | A free-to-use translatation service for foreign language markdown file. |
 | [Scripture Indexer](https://github.com/jdrbrn/obsidian-scripture-indexer) | Indexes references to scriptures in notes. |
@@ -1966,4 +1966,4 @@
 | [Youtube Iframe Timestamps](https://github.com/NilsLeo/obsidian-youtube-iframe-timestamps) | Allows you to embed YouTube videos with timestamps directly in your notes, enabling seamless referencing and note-taking without needing to open a separate browser window. |
 | [random-retrieval](https://github.com/JeanJean-rxl/random-retrieval-plugin) | Random Note Retrieval based on LLM. |
 | [Occura](https://github.com/Krusty84/obsidian-occura-plugin) | Find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs. |
-| [Callout Toggles](https://github.com/alythobani/obsidian-callout-toggles) | Quickly add, change, or remove callout wrappers in your notes. |
+| [Callout Toggles](https://github.com/alythobani/obsidian-callout-toggles) | Quickly add, change, or remove callouts in your notes. |
