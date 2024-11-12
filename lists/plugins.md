@@ -1989,3 +1989,17 @@
 | [MOC Link Helper](https://github.com/BogdanCodreanu/obsidian-moc-link-helper) | Helps with some MOC janitor-linking tasks. |
 | [Peekaboo](https://github.com/Lio5n/peekaboo) | Protect your privacy by setting a password to hide files. |
 | [Blue Star](https://github.com/Lio5n/blue-star) | Generate Anki flashcards in multiple ways. |
+| [Tree Search](https://github.com/catacgc/obsidian-tree-search) | Supercharged search across backlinks and relations in your notes |
+| [Hexo Toolkit](https://github.com/sissilab/obsidian-hexo-toolkit) | Maintain Hexo posts. |
+| [Unearthed (Kindle Sync)](https://github.com/Unearthed-App/unearthed-obsidian) | Auto Sync Kindle Highlights and Daily Reflection via Unearthed |
+| [Text Finder](https://github.com/nyable/obsidian-text-finder) | A search bar that supports search, replace, regular expressions, and case sensitivity. |
+| [SVG Style Editor](https://github.com/arg1998/obsidian-svg-styler) | Change the color and other style properies of an embded SVG file |
+| [Workout Tracker](https://github.com/wanabeunique/obsidian-workout-tracker) | Log workouts, track progress, and view exercise statistic. |
+| [Superstition](https://github.com/shuxueshuxue/superstition) | Manage routines with traditional calendar concept of 宜/忌. |
+| [NeuroVox](https://github.com/Synaptic-Labs-AI/NeuroVox) | Enhances your note-taking with voice transcription and AI capabilities. |
+| [Todos sort](https://github.com/jsifalda/obsidian-todos-sort) | Sorting your TODOs (checkboxes) in current note by completion status |
+| [Masking Type](https://github.com/Telehakke/masking-type) | Mask bold, italic, and highlight |
+| [Featured Image](https://github.com/johansan/obsidian-featured-image) | Featured Image automatically sets a featured image property in your notes based on the first image, YouTube link, or Auto Card Link image found in your document. This allows you to create rich note galleries using Folder Notes and Dataview. |
+| [Daily notes calendar](https://github.com/bartkessels/daily-note-calendar) | Navigate to your weekly- and daily-notes using a calendar view. |
+| [Edge TTS](https://github.com/travisvn/obsidian-edge-tts) | Read notes aloud using Microsoft Edge Read Aloud API (free, high quality text-to-speech). |
+| [Textgrams](https://github.com/akopdev/obsidian-textgrams) | Store and visualise ASCII graphics and charts |
