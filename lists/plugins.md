@@ -2003,3 +2003,12 @@
 | [Daily notes calendar](https://github.com/bartkessels/daily-note-calendar) | Navigate to your weekly- and daily-notes using a calendar view. |
 | [Edge TTS](https://github.com/travisvn/obsidian-edge-tts) | Read notes aloud using Microsoft Edge Read Aloud API (free, high quality text-to-speech). |
 | [Textgrams](https://github.com/akopdev/obsidian-textgrams) | Store and visualise ASCII graphics and charts |
+| [Activity Heatmap](https://github.com/zakhij/obsidian-activity-heatmap) | Tracks and visualizes app activity, similar to GitHub's contribution chart. |
+| [Brain Dump Mode](https://github.com/yesjinu/brain-dump-mode) | Done is better than perfect. Complete your first-messy-draft before you make it perfect. Your delete key will be DISABLED and all you can do is JUST BURN YOUR KEYBOARDS🔥 |
+| [Markdown Timeline](https://github.com/recklyss/markdown-timeline) | Convert markdown into timeline visualization |
+| [Check and Delete](https://github.com/Danitiate/check-and-delete) | Quickly clean up temporary list-items with the press of a button |
+| [Perplexity Converter](https://github.com/heseber/perplexity-converter) | Fix references and their hyperlinks in text pasted from Perplexity. |
+| [Daily Random Note](https://github.com/D4rkP1xel/daily-random-note) | Automatically open daily random notes based on your preferences. |
+| [Typezen](https://github.com/IlgamGabdullin/obsidian-typezen) | Type anything and get in zen mode instantly, no more distraction between you and your thoughts. |
+| [IOC Lens](https://github.com/acgabbert/ioc-lens) | Extracts and displays security-relevant indicators such as IP addresses, domains, and file hashes to enhance your cyber security note-taking process. |
+| [Automatic Renumbering](https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian) | Updates numbered lists automatically to keep them in sequential order. Features live updates, smart pasting, and manual control options. |
