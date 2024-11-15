@@ -310,3 +310,4 @@
 | [DKLiberty/Red-Shadow](https://github.com/DKLiberty/Red-Shadow) | ![Red-Shadow](https://raw.githubusercontent.com/DKLiberty/Red-Shadow/master/Resources/Screenshot.png "") |
 | [abhimangs/Obsidian-Luminex](https://github.com/abhimangs/Obsidian-Luminex) | ![Luminex](https://raw.githubusercontent.com/abhimangs/Obsidian-Luminex/master/Assets/Obsidian-Cover.png "") |
 | [artorias305/obsidian-shadeflow](https://github.com/artorias305/obsidian-shadeflow) | ![Shadeflow](https://raw.githubusercontent.com/artorias305/obsidian-shadeflow/master/dark.png "") |
+| [afrangi/Obsidian-Theme-Orange](https://github.com/afrangi/Obsidian-Theme-Orange) | ![Orange](https://raw.githubusercontent.com/afrangi/Obsidian-Theme-Orange/master/screenshot.png "") |
