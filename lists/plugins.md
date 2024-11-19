@@ -94,10 +94,7 @@
 | [Dataview](https://github.com/blacksmithgu/obsidian-dataview) | Advanced queries over your vault for the data-obsessed. |
 | [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) | Create/manage your daily, weekly, and monthly notes. |
 | [Show Current File Path](https://github.com/ravimashru/obsidian-show-file-path) | Show the full path of the currently open file in the status bar. |
-| [PaperCut](https://github.com/Darakah/obsidian-paper-cut) | Express an idea in the simplest possible way... or else. |
-| [Comments](https://github.com/Darakah/obsidian-comments-plugin) | Add, track and easily navigate between a note's comments. |
 | [Various Complements](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) | Complete words similar to auto-completion in an IDE. |
-| [Timelines](https://github.com/Darakah/obsidian-timelines) | Create a timeline view of all notes with the specified combination of tags. |
 | [Note Folder Autorename](https://github.com/pjeby/note-folder-autorename) | Turn notes into folders and automatically move/rename their folders when they move or are renamed. |
 | [Daily Activity](https://github.com/trydalch/obsidian-daily-activity) | Output a list of the files changed/created today in the active file. |
 | [Daily Stats](https://github.com/dhruvik7/obsidian-daily-stats) | Track your daily word count. |
@@ -113,10 +110,8 @@
 | [Furigana](https://github.com/uonr/obsidian-furigana) | Display furigana using <ruby> syntax. |
 | [Vault Changelog](https://github.com/badrbouslikhin/obsidian-vault-changelog) | Maintain a changelog of recently edited files in your vault. |
 | [Chesser](https://github.com/SilentVoid13/Chesser) | A chess game viewer/editor. |
-| [Activity History](https://github.com/Darakah/obsidian-activity-history) | Track activity of specified projects, Github like activity board. |
 | [Chessboard Viewer](https://github.com/THeK3nger/obsidian-chessboard) | Render chess positions diagrams in note preview. |
 | [Footnote Shortcut](https://github.com/MichaBrugger/obsidian-footnotes) | Makes creating footnotes more fun! |
-| [Gallery](https://github.com/Darakah/obsidian-gallery) | Interactive card-like gallery display of images. |
 | [NoteTweet](https://github.com/chhoumann/notetweet_obsidian) | Post to Twitter. |
 | [Code block from selection](https://github.com/dy-sh/obsidian-code-block-from-selection) | Turn the selected text into a code block. |
 | [Format Hotkeys](https://github.com/anstosa/format-hotkeys-obsidian) | Google Docs style formatting hotkeys. |
@@ -129,11 +124,9 @@
 | [Consistent attachments and links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) | Move note attachments and update links automatically. |
 | [PlantUML](https://github.com/joethei/obsidian-plantuml) | Generate PlantUML diagrams. |
 | [Open cards in imdone.](https://github.com/imdone/imdone-obsidian-plugin) | Open cards in imdone kanban from their source in Obsidian. |
-| [Spotlight](https://github.com/Darakah/obsidian-spotlight) | Block that features random notes or block of a note from vault / in a specified project or with a certain combination of tags. |
 | [Unique attachments](https://github.com/dy-sh/obsidian-unique-attachments) | Rename attachments, making their names unique (based on hashing of file content). |
 | [Dice Roller](https://github.com/javalent/dice-roller) | Add a little randomness to your notes! |
 | [LanguageTool Integration](https://github.com/Clemens-E/obsidian-languagetool-plugin) | advanced spell/grammar checks with the help of language-tool. |
-| [Commits](https://github.com/Darakah/obsidian-commits) | Track & show commits in your vault or specified project. |
 | [Outliner](https://github.com/vslinko/obsidian-outliner) | Work with your lists like in Workflowy or Roam Research. |
 | [Extract url content](https://github.com/trashhalo/obsidian-extract-url) | Extract URL converting content into Markdown. |
 | [Find and replace in selection](https://github.com/dy-sh/obsidian-find-and-replace-in-selection) | Find what you are looking for in the selected text and replace it with the specified text. |
@@ -143,7 +136,6 @@
 | [Hotkeys for templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) | Add commands to insert specific templates with a hotkey. |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Adjust theme, plugin, and snippet CSS variables. |
 | [Advanced URI](https://github.com/Vinzent03/obsidian-advanced-uri) | Control everything with URI. |
-| [Fountain](https://github.com/Darakah/obsidian-fountain) | Edit, write and render Fountain Writing Syntax for screenplays and scripts. |
 | [Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror editor to support Simplified Chinese word splitting. |
 | [Table Extended](https://github.com/aidenlx/table-extended) | Enable extended table support with MultiMarkdown 6 syntax. |
 | [Privacy Glasses](https://github.com/jillalberts/privacy-glasses) | A ribbon icon and command to blur onscreen text for better privacy. |
@@ -1981,7 +1973,6 @@
 | [Open with Natural Language Dates](https://github.com/charliecm/obsidian-open-with-nldates) | Open a daily note using natural language. Requires "Natural Language Dates" plugin to work. |
 | [Hierarchical Backlinks](https://github.com/jasonmotylinski/hierarchical-backlinks) | Displays backlinks in a tree structure. |
 | [ExMemo Client](https://github.com/exmemo-ai/obsidian-exmemo-client) | A client for the ExMemo service, used to search, sync, and organize data from the server. |
-| [Transfer LaTeX from GPT](https://github.com/xixia123/obsidian-transfer-latex-from-gpt) | Translate the LaTeX formula generated by OpenAI GPT into MathJax format. |
 | [PromptCrafter](https://github.com/fabricehong/obsidian-prompt-crafter-plugin) | Create reusable, modular prompts. |
 | [Cursor Bridge](https://github.com/lengff123/cursor-bridge) | Seamlessly bridge your notes with Cursor, the AI-powered code editor. |
 | [Nav Weight](https://github.com/shu307/obsidian-nav-weight) | Sort your navigation items by markdown frontmatter. |
