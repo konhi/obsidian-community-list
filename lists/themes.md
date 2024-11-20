@@ -311,3 +311,6 @@
 | [abhimangs/Obsidian-Luminex](https://github.com/abhimangs/Obsidian-Luminex) | ![Luminex](https://raw.githubusercontent.com/abhimangs/Obsidian-Luminex/master/Assets/Obsidian-Cover.png "") |
 | [artorias305/obsidian-shadeflow](https://github.com/artorias305/obsidian-shadeflow) | ![Shadeflow](https://raw.githubusercontent.com/artorias305/obsidian-shadeflow/master/dark.png "") |
 | [afrangi/Obsidian-Theme-Orange](https://github.com/afrangi/Obsidian-Theme-Orange) | ![Orange](https://raw.githubusercontent.com/afrangi/Obsidian-Theme-Orange/master/screenshot.png "") |
+| [incantatem2/Obsidian-winter-spices](https://github.com/incantatem2/Obsidian-winter-spices) | ![Winter Spices](https://raw.githubusercontent.com/incantatem2/Obsidian-winter-spices/master/images/winterspices-thumbnail.jpg "") |
+| [pinei/obsidian-consolas-theme](https://github.com/pinei/obsidian-consolas-theme) | ![Consolas](https://raw.githubusercontent.com/pinei/obsidian-consolas-theme/master/screenshot.png "") |
+| [incantatem2/Obsidian-neutral-academia](https://github.com/incantatem2/Obsidian-neutral-academia) | ![Neutral Academia](https://raw.githubusercontent.com/incantatem2/Obsidian-neutral-academia/master/images/neutralacademia-dark-thumbnail.jpg "") |

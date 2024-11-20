@@ -2003,3 +2003,15 @@
 | [Typezen](https://github.com/IlgamGabdullin/obsidian-typezen) | Type anything and get in zen mode instantly, no more distraction between you and your thoughts. |
 | [IOC Lens](https://github.com/acgabbert/ioc-lens) | Extracts and displays security-relevant indicators such as IP addresses, domains, and file hashes to enhance your cyber security note-taking process. |
 | [Automatic Renumbering](https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian) | Updates numbered lists automatically to keep them in sequential order. Features live updates, smart pasting, and manual control options. |
+| [Three Noun Prompts](https://github.com/jamespeachh/three-noun-prompts) | Creative writing prompts that can be synced offline. |
+| [HackMD Sync](https://github.com/thor314/hackmd-obsidian) | Sync notes to from HackMD |
+| [Bottom to Top](https://github.com/lizard-heart/obsidian-bottom-to-top-text) | Makes text go from left-to-right, bottom-to-top. |
+| [Recently Added Files](https://github.com/Lemon695/obsidian-recently-added-files) | List files by last added, including pictures, MP4s, PDFs etc. |
+| [Image Tools](https://github.com/Hosstell/image-tools-obsidian-plugin) | Formatter for image on page. |
+| [Gemini Scribe](https://github.com/allenhutchison/obsidian-gemini) | Allows you to interact with Gemini and use your notes as context. |
+| [Daily Summary](https://github.com/CSLukkun/ob_daily_summary) | Use LLM to summarize what you did today. |
+| [Auto Tasks](https://github.com/jamiefdhurst/obsidian-auto-tasks) | Combine periodic notes with tags and tasks to automatically manage your daily, weekly and project TODO lists. Requires the Periodic Notes and Tasks plugins. |
+| [Task Director](https://github.com/cybertramp/obsidian-task-director) | Manage and change tasks targeting a specific page |
+| [History Today](https://github.com/Yaob1990/obsidian-history-today) | View and review your historical notes from this day across previous years |
+| [Beautiful Contact Cards](https://github.com/seth10/beautiful-obsidian-contacts) | Renders "contact" code blocks with tappable links for phone, social media, etc. |
+| [BlazeJump](https://github.com/henryco/BlazeJump-Obsidian) | Navigate through text at blazing speed. |
