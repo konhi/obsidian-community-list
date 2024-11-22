@@ -314,3 +314,4 @@
 | [incantatem2/Obsidian-winter-spices](https://github.com/incantatem2/Obsidian-winter-spices) | ![Winter Spices](https://raw.githubusercontent.com/incantatem2/Obsidian-winter-spices/master/images/winterspices-thumbnail.jpg "") |
 | [pinei/obsidian-consolas-theme](https://github.com/pinei/obsidian-consolas-theme) | ![Consolas](https://raw.githubusercontent.com/pinei/obsidian-consolas-theme/master/screenshot.png "") |
 | [incantatem2/Obsidian-neutral-academia](https://github.com/incantatem2/Obsidian-neutral-academia) | ![Neutral Academia](https://raw.githubusercontent.com/incantatem2/Obsidian-neutral-academia/master/images/neutralacademia-dark-thumbnail.jpg "") |
+| [harmtemolder/obsidian-ink](https://github.com/harmtemolder/obsidian-ink) | ![Ink](https://raw.githubusercontent.com/harmtemolder/obsidian-ink/master/screenshot.png "") |

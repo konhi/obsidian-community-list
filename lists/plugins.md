@@ -2026,3 +2026,13 @@
 | [Auto switch themes between dark/light mode](https://github.com/carlrobert/double-switch) | Toggling dark/light mode switches themes automatically |
 | [Bluesky](https://github.com/eharris128/obsidian-bluesky) | Post to Bluesky. |
 | [AI bot](https://github.com/kuzzh/obsidian-ai-bot) | Polish, summarize, translate, analyze, and interpret code using AI |
+| [Folder Tabulation](https://github.com/SpeedaRJ/obsidian_folder_tabulation) | Enables navigation between files in a folder via hotkeys and commands. |
+| [Markdown Tags](https://github.com/binarynoir/obsidian-markdown-tags) | Enhance your documents with tags and arrow tags. Use predefined or custom labels, customizable colors, and arrow indicators to visually track tasks and statuses. |
+| [Instant Above Divider](https://github.com/sedationh/obsidian-instant-above-divider) | Quickly insert a divider line at the beginning of your note. |
+| [Folder Canvas](https://github.com/nancyel/obsidian-foldercanvas-plugin) | Generate a Canvas view of your folder structure. |
+| [Paper Importer](https://github.com/chenzhekl/obsidian_paper_importer) | Import papers from arXiv with one click. |
+| [Ridian](https://github.com/MichelNivard/Ridian) | Execute R code blocks and display outputs and plots & render documents with Quarto. |
+| [Blur Mode](https://github.com/dangehub/obsidian-blur-mode) | Blur anything you want to keep your privacy. |
+| [Link Preview](https://github.com/felipetappata/obsidian-link-preview) | Show a preview of external links on hover |
+| [Insta TOC](https://github.com/iLiftALot/insta-toc) | Simultaneously generate, update, and maintain a table of contents for your notes. |
+| [Password Audit](https://github.com/prashanthpulisetti/password-audit) | A plugin to audit passwords for strength and breaches, and generate secure passwords. |
