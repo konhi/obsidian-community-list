@@ -2036,3 +2036,4 @@
 | [Link Preview](https://github.com/felipetappata/obsidian-link-preview) | Show a preview of external links on hover |
 | [Insta TOC](https://github.com/iLiftALot/insta-toc) | Simultaneously generate, update, and maintain a table of contents for your notes. |
 | [Password Audit](https://github.com/prashanthpulisetti/password-audit) | A plugin to audit passwords for strength and breaches, and generate secure passwords. |
+| [Snippetsaurus](https://github.com/Chrstn67/obsidian-plugin-obsnippets) | Create and managing text and code snippets. |

@@ -315,3 +315,6 @@
 | [pinei/obsidian-consolas-theme](https://github.com/pinei/obsidian-consolas-theme) | ![Consolas](https://raw.githubusercontent.com/pinei/obsidian-consolas-theme/master/screenshot.png "") |
 | [incantatem2/Obsidian-neutral-academia](https://github.com/incantatem2/Obsidian-neutral-academia) | ![Neutral Academia](https://raw.githubusercontent.com/incantatem2/Obsidian-neutral-academia/master/images/neutralacademia-dark-thumbnail.jpg "") |
 | [harmtemolder/obsidian-ink](https://github.com/harmtemolder/obsidian-ink) | ![Ink](https://raw.githubusercontent.com/harmtemolder/obsidian-ink/master/screenshot.png "") |
+| [drkpxl/Frost](https://github.com/drkpxl/Frost) | ![Frost](https://raw.githubusercontent.com/drkpxl/Frost/master/screenshot.png "") |
+| [lorens-osman-dev/Glass-Robo](https://github.com/lorens-osman-dev/Glass-Robo) | ![Glass Robo](https://raw.githubusercontent.com/lorens-osman-dev/Glass-Robo/master/cover.png "") |
+| [incantatem2/Obsidian-mulled-wine](https://github.com/incantatem2/Obsidian-mulled-wine) | ![Mulled Wine](https://raw.githubusercontent.com/incantatem2/Obsidian-mulled-wine/master/images/mulledwine-thumbnail.jpg "") |
