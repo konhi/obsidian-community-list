@@ -2003,7 +2003,7 @@
 | [Daily Random Note](https://github.com/D4rkP1xel/daily-random-note) | Automatically open daily random notes based on your preferences. |
 | [Typezen](https://github.com/IlgamGabdullin/obsidian-typezen) | Type anything and get in zen mode instantly, no more distraction between you and your thoughts. |
 | [IOC Lens](https://github.com/acgabbert/ioc-lens) | Extracts and displays security-relevant indicators such as IP addresses, domains, and file hashes to enhance your cyber security note-taking process. |
-| [Automatic Renumbering](https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian) | Updates numbered lists automatically to keep them in sequential order. Features live updates, smart pasting, and manual control options. |
+| [Automatic List Renumbering](https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian) | Automatically renumber numbered lists as you edit them. |
 | [Three Noun Prompts](https://github.com/jamespeachh/three-noun-prompts) | Creative writing prompts that can be synced offline. |
 | [HackMD Sync](https://github.com/thor314/hackmd-obsidian) | Sync notes to from HackMD |
 | [Bottom to Top](https://github.com/lizard-heart/obsidian-bottom-to-top-text) | Makes text go from left-to-right, bottom-to-top. |

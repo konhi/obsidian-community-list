@@ -308,7 +308,7 @@
 | [xero/evangelion.obsidian](https://github.com/xero/evangelion.obsidian) | ![evangelion](https://raw.githubusercontent.com/xero/evangelion.obsidian/master/preview.png "") |
 | [juanchiparra/obsidian-borealis](https://github.com/juanchiparra/obsidian-borealis) | ![Borealis](https://raw.githubusercontent.com/juanchiparra/obsidian-borealis/master/docs/dark-cover.png "") |
 | [DKLiberty/Red-Shadow](https://github.com/DKLiberty/Red-Shadow) | ![Red-Shadow](https://raw.githubusercontent.com/DKLiberty/Red-Shadow/master/Resources/Screenshot.png "") |
-| [abhimangs/Obsidian-Luminex](https://github.com/abhimangs/Obsidian-Luminex) | ![Luminex](https://raw.githubusercontent.com/abhimangs/Obsidian-Luminex/master/Assets/Obsidian-Cover.png "") |
+| [abhimangs/Obsidian-Luminex](https://github.com/abhimangs/Obsidian-Luminex) | ![Luminex](https://raw.githubusercontent.com/abhimangs/Obsidian-Luminex/master/assets/cover-obsidian.png "") |
 | [artorias305/obsidian-shadeflow](https://github.com/artorias305/obsidian-shadeflow) | ![Shadeflow](https://raw.githubusercontent.com/artorias305/obsidian-shadeflow/master/dark.png "") |
 | [afrangi/Obsidian-Theme-Orange](https://github.com/afrangi/Obsidian-Theme-Orange) | ![Orange](https://raw.githubusercontent.com/afrangi/Obsidian-Theme-Orange/master/screenshot.png "") |
 | [incantatem2/Obsidian-winter-spices](https://github.com/incantatem2/Obsidian-winter-spices) | ![Winter Spices](https://raw.githubusercontent.com/incantatem2/Obsidian-winter-spices/master/images/winterspices-thumbnail.jpg "") |
