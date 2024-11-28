@@ -1758,7 +1758,7 @@
 | [Virtual Linker / Glossary](https://github.com/vschroeter/obsidian-virtual-linker) | Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links. |
 | [Are.na Manager](https://github.com/javierarce/arena-manager) | Publish content from your vault to Arena and the other way around. |
 | [Shrink pinned tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) | Shrinks pinned tabs to save screen space. |
-| [Remove Newlines](https://github.com/HandcartCactus/obsidian-remove-newlines) | Remove newlines from text selections and also paste content from the clipboard without newlines. |
+| [Remove Newlines](https://github.com/HandcartCactus/obsidian-remove-newlines) | Remove line breaks or blank lines from text selected in the editor, or as you paste from the clipboard. |
 | [Entity Linker](https://github.com/Ankush-Chander/obsidian-entity-linker) | Link research terms to standard entities |
 | [Datepicker](https://github.com/joycode-hub/datepicker-plugin) | Use a date picker to modify and insert date/time anywhere in your markdown notes. |
 | [AI Chat as Markdown](https://github.com/cpbotha/obsidian-ai-chat-as-md) | Multiple branching AI conversations as Markdown hierarchy |
@@ -2037,3 +2037,4 @@
 | [Insta TOC](https://github.com/iLiftALot/insta-toc) | Simultaneously generate, update, and maintain a table of contents for your notes. |
 | [Password Audit](https://github.com/prashanthpulisetti/password-audit) | A plugin to audit passwords for strength and breaches, and generate secure passwords. |
 | [Snippetsaurus](https://github.com/Chrstn67/obsidian-plugin-obsnippets) | Create and managing text and code snippets. |
+| [Simple Todo](https://github.com/elliotxx/obsidian-simple-todo) | A minimalist text-based todo manager (Text-Based GTD) for efficient task management. |
