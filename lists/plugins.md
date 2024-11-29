@@ -2038,3 +2038,13 @@
 | [Password Audit](https://github.com/prashanthpulisetti/password-audit) | A plugin to audit passwords for strength and breaches, and generate secure passwords. |
 | [Snippetsaurus](https://github.com/Chrstn67/obsidian-plugin-obsnippets) | Create and managing text and code snippets. |
 | [Simple Todo](https://github.com/elliotxx/obsidian-simple-todo) | A minimalist text-based todo manager (Text-Based GTD) for efficient task management. |
+| [Weekly Goal Tracker](https://github.com/GitGorman/weekly-goal-tracker) | Keep track of weekly goals in the status bar |
+| [Friday](https://github.com/mdfriday/obsidian-friday-plugin) | Notes to Website. Friday helps you turn Markdown documents into websites in minutes. |
+| [Chronos Timeline](https://github.com/clairefro/obsidian-plugin-chronos) | Render interactive timelines inline in your notes from simple markdown |
+| [Clear Todos](https://github.com/gutentag2012/obsidian-plugin-clear-todos) | Quickly remove all completed todos from your notes or selected text. |
+| [Post Webhook](https://github.com/Masterb1234/obsidian-post-webhook) | Send notes to webhook endpoints, for seamless integration with i.a. n8n, Make.com, and Zapier. |
+| [Simple Quiz](https://github.com/IvanKalmar/simple-quiz) | Creating simple quizzes. |
+| [Folder Links](https://github.com/SteveOverSea/obsidian-folder-links) | Clicking a link to a folder makes it revealed in the navigation. |
+| [Auto File Organizer](https://github.com/mofukuru/auto_file_organizer) | Automatically organizes files into folders based on their extensions. |
+| [Setlist.fm Sync](https://github.com/fleker/setlist-for-obsidian) | Syncs your setlist.fm attended concerts. |
+| [Mass Create](https://github.com/vellikhor/mass-create) | Create large quantities of notes easily at one time. |
