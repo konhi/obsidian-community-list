@@ -2048,3 +2048,11 @@
 | [Auto File Organizer](https://github.com/mofukuru/auto_file_organizer) | Automatically organizes files into folders based on their extensions. |
 | [Setlist.fm Sync](https://github.com/fleker/setlist-for-obsidian) | Syncs your setlist.fm attended concerts. |
 | [Mass Create](https://github.com/vellikhor/mass-create) | Create large quantities of notes easily at one time. |
+| [Obsifetch](https://github.com/tabibyte/obsifetch) | A neofetch-style vault information display. |
+| [Abbrlink](https://github.com/Hoshino-Yumetsuki/obsidian-plugin-abbrlink) | Automatically generate permanent short links for your markdown files. |
+| [LLM workspace](https://github.com/ofalvai/obsidian-llm-workspace) | Use Large Language Models grounded in your notes. |
+| [Todoist Context Bridge](https://github.com/wenlzhang/obsidian-todoist-context-bridge) | Bridge your note-taking and task management workflows by maintaining strong contextual connections with Todoist. |
+| [Discord Timestamps](https://github.com/Erallie/discord-timestamps) | Displays discord timestamps in read mode as they would appear in Discord. |
+| [Heatmap Tracker](https://github.com/mokkiebear/heatmap-tracker) | Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more—all in a single, interactive heatmap! |
+| [Visual Crossing Weather](https://github.com/willasm/vc-weather) | Visual Crossing Weather API for Your Notes |
+| [Image Uploader For Note](https://github.com/yy4382/obsidian-image-upload) | Upload images in a note, and remove the images from the vault if they're exclusively used within that note. |
