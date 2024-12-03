@@ -318,3 +318,4 @@
 | [drkpxl/Frost](https://github.com/drkpxl/Frost) | ![Frost](https://raw.githubusercontent.com/drkpxl/Frost/master/screenshot.png "") |
 | [lorens-osman-dev/Glass-Robo](https://github.com/lorens-osman-dev/Glass-Robo) | ![Glass Robo](https://raw.githubusercontent.com/lorens-osman-dev/Glass-Robo/master/cover.png "") |
 | [incantatem2/Obsidian-mulled-wine](https://github.com/incantatem2/Obsidian-mulled-wine) | ![Mulled Wine](https://raw.githubusercontent.com/incantatem2/Obsidian-mulled-wine/master/images/mulledwine-thumbnail.jpg "") |
+| [abhimangs/obsidian-vortex](https://github.com/abhimangs/obsidian-vortex) | ![Vortex](https://raw.githubusercontent.com/abhimangs/obsidian-vortex/master/assets/cover.png "") |
