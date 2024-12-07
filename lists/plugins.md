@@ -2056,3 +2056,13 @@
 | [Heatmap Tracker](https://github.com/mokkiebear/heatmap-tracker) | Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more—all in a single, interactive heatmap! |
 | [Visual Crossing Weather](https://github.com/willasm/vc-weather) | Visual Crossing Weather API for Your Notes |
 | [Image Uploader For Note](https://github.com/yy4382/obsidian-image-upload) | Upload images in a note, and remove the images from the vault if they're exclusively used within that note. |
+| [Sync to Hugo](https://github.com/crayhuang/Obsidian-Hugo-Sync) | Sync and convert the selected notes to Hugo blog. |
+| [Zen Mode](https://github.com/paperbenni/obsidian-zenmode) | Hide most UI elements. |
+| [Magiedit](https://github.com/magitools/magiedit-obsidian) | Official plugin to interact with Magiedit's API |
+| [Tab Limiter](https://github.com/lizard-heart/obsidian-tab-limit) | Limits the number of tabs that can be opened. |
+| [Share as ZIP](https://github.com/friebetill/obsidian-share-as-zip) | Share notes and their links as a zip folder. |
+| [Embed 3D](https://github.com/ElmoNeedsArson/Obsidian-3D-embed) | Embed 3DModels in markdown notes. |
+| [Wardley Maps](https://github.com/damonsk/obsidian-wardley-maps) | View and edit Wardley Maps directly within your notes using the popular Online Wardley Maps (OWM) format. |
+| [Class Relation Visualization](https://github.com/Cold-dragon7/Obsidian-Class-Relation-Visualization) | You can visualize your classes and their inheritance, composition, aggregation relation. |
+| [Usher](https://github.com/vrtmrz/usher) | The overridden config directory manager |
+| [create folder notes with dropdown](https://github.com/SturdyShawn/Create-folder-notes-with-dropdown) | create-folder-notes-with-dropdown is a plugin designed to help users quickly create Markdown files in existing or nonexisting folders with dropdown. |

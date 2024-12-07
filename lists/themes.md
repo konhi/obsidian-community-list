@@ -132,6 +132,7 @@
 | [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) | ![Typora-Vue](https://raw.githubusercontent.com/ZekunC/Obsidian-Typora-Vue-Theme/master/obsidian-typora-vue.png "") |
 | [zalenza/Abecedarium-theme](https://github.com/zalenza/Abecedarium-theme) | ![Abecedarium](https://raw.githubusercontent.com/zalenza/Abecedarium-theme/master/abecedarium_dark.png "") |
 | [Bluemoondragon07/obsidian-light-and-bright-theme](https://github.com/Bluemoondragon07/obsidian-light-and-bright-theme) | ![Light & Bright](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-light-and-bright-theme/master/light-and-bright-cover.png "") |
+| [Bluemoondragon07/Wikipedia-Theme](https://github.com/Bluemoondragon07/Wikipedia-Theme) | ![Wikipedia](https://raw.githubusercontent.com/Bluemoondragon07/Wikipedia-Theme/master/example.png "") |
 | [AllJavi/material_gruvbox_obsidian](https://github.com/AllJavi/material_gruvbox_obsidian) | ![Material Gruvbox](https://raw.githubusercontent.com/AllJavi/material_gruvbox_obsidian/master/promo_screenshot.png "") |
 | [hush-hush/obsidian_wombat](https://github.com/hush-hush/obsidian_wombat) | ![Wombat](https://raw.githubusercontent.com/hush-hush/obsidian_wombat/master/main_thumbnail.png "") |
 | [JamesLemony/obsidian_vibrant](https://github.com/JamesLemony/obsidian_vibrant) | ![Vibrant](https://raw.githubusercontent.com/JamesLemony/obsidian_vibrant/master/images/demo1.png "") |
@@ -166,6 +167,7 @@
 | [ScottKirvan/GitHubDHC](https://github.com/ScottKirvan/GitHubDHC) | ![GitHubDHC](https://raw.githubusercontent.com/ScottKirvan/GitHubDHC/master/imgs/thumbnail.png "") |
 | [lukasbach/obsidian-proper-dark](https://github.com/lukasbach/obsidian-proper-dark) | ![Proper Dark](https://raw.githubusercontent.com/lukasbach/obsidian-proper-dark/master/thumb.png "") |
 | [isax785/obsidian-sparkling-night](https://github.com/isax785/obsidian-sparkling-night) | ![Sparkling Night](https://raw.githubusercontent.com/isax785/obsidian-sparkling-night/master/img/sparkling_night.png "") |
+| [Bluemoondragon07/Obsidian-Serenity](https://github.com/Bluemoondragon07/Obsidian-Serenity) | ![Serenity](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Serenity/master/cover-small.png "") |
 | [OlivierPS/Olivier-s-Theme](https://github.com/OlivierPS/Olivier-s-Theme) | ![Olivier’s Theme](https://raw.githubusercontent.com/OlivierPS/Olivier-s-Theme/master/main-screenshot.png "") |
 | [G2Jose/synthwave-84-obsidian-theme](https://github.com/G2Jose/synthwave-84-obsidian-theme) | ![Synthwave '84](https://raw.githubusercontent.com/G2Jose/synthwave-84-obsidian-theme/master/screenshot-512x288.png "") |
 | [whereiswhere/iB-Writer](https://github.com/whereiswhere/iB-Writer) | ![iB Writer](https://raw.githubusercontent.com/whereiswhere/iB-Writer/master/store-screenshot.png "") |
@@ -320,3 +322,4 @@
 | [incantatem2/Obsidian-mulled-wine](https://github.com/incantatem2/Obsidian-mulled-wine) | ![Mulled Wine](https://raw.githubusercontent.com/incantatem2/Obsidian-mulled-wine/master/images/mulledwine-thumbnail.jpg "") |
 | [abhimangs/obsidian-vortex](https://github.com/abhimangs/obsidian-vortex) | ![Vortex](https://raw.githubusercontent.com/abhimangs/obsidian-vortex/master/assets/cover.png "") |
 | [sspaeti/obsidian_kanagawa_paper](https://github.com/sspaeti/obsidian_kanagawa_paper) | ![Kanagawa Paper](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa_paper/master/dark.jpg "") |
+| [IxBlazarxI/Obsidian-Theme-OverCast](https://github.com/IxBlazarxI/Obsidian-Theme-OverCast) | ![OverCast](https://raw.githubusercontent.com/IxBlazarxI/Obsidian-Theme-OverCast/master/Thumbnail.jpg "") |
