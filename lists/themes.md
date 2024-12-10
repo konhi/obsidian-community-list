@@ -320,6 +320,6 @@
 | [drkpxl/Frost](https://github.com/drkpxl/Frost) | ![Frost](https://raw.githubusercontent.com/drkpxl/Frost/master/screenshot.png "") |
 | [lorens-osman-dev/Glass-Robo](https://github.com/lorens-osman-dev/Glass-Robo) | ![Glass Robo](https://raw.githubusercontent.com/lorens-osman-dev/Glass-Robo/master/cover.png "") |
 | [incantatem2/Obsidian-mulled-wine](https://github.com/incantatem2/Obsidian-mulled-wine) | ![Mulled Wine](https://raw.githubusercontent.com/incantatem2/Obsidian-mulled-wine/master/images/mulledwine-thumbnail.jpg "") |
-| [abhimangs/obsidian-vortex](https://github.com/abhimangs/obsidian-vortex) | ![Vortex](https://raw.githubusercontent.com/abhimangs/obsidian-vortex/master/assets/cover.png "") |
+| [abhimangs/obsidian-vortex](https://github.com/abhimangs/obsidian-vortex) | ![Vortex](https://raw.githubusercontent.com/abhimangs/obsidian-vortex/master/cover.png "") |
 | [sspaeti/obsidian_kanagawa_paper](https://github.com/sspaeti/obsidian_kanagawa_paper) | ![Kanagawa Paper](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa_paper/master/dark.jpg "") |
 | [IxBlazarxI/Obsidian-Theme-OverCast](https://github.com/IxBlazarxI/Obsidian-Theme-OverCast) | ![OverCast](https://raw.githubusercontent.com/IxBlazarxI/Obsidian-Theme-OverCast/master/Thumbnail.jpg "") |
