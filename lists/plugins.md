@@ -905,7 +905,7 @@
 | [Copilot](https://github.com/logancyang/obsidian-copilot) | A ChatGPT Copilot. |
 | [GitHub Issue Augmentation](https://github.com/samprintz/obsidian-issue-augmentation-plugin) | Augment GitHub issue IDs. |
 | [Persistent Links](https://github.com/ivan-lednev/obsidian-persistent-links) | Automatically repair internal links to blocks and headings when moving them between files. |
-| [Personal Assistant](https://github.com/edonyzpc/personal-assistant) | Streamline workflows within Obsidian, managing memos, formatted records, callouts, frontmatter, local graph, themes and plugins with just one command. |
+| [Personal Assistant](https://github.com/edonyzpc/personal-assistant) | AI-powered workflows to streamline the management of records, callouts, frontmatter, graph view, themes, and plugins. |
 | [April's Automatic Timelines](https://github.com/April-Gras/obsidian-auto-timelines) | Simple timeline generator for story tellers. |
 | [AI Mentor](https://github.com/clementpoiret/ai-mentor) | Meet your open source AI mentor. Ask questions, get answers, and learn new things. |
 | [Game Search](https://github.com/CMorooney/obsidian-game-search-plugin) | Help insert game metadata into game notes or vaults, optionally sync with Steam Library and Wishlist |
@@ -1084,7 +1084,7 @@
 | [Zotero Sync](https://github.com/frthjf/obsidian-zotero-sync-client) | Zotero API client to sync your Zotero library into your vault. |
 | [Harpoon](https://github.com/rodrez/obsidian-harpoon) | Use shortcuts to manage and navigate your top four frequently-used files. |
 | [Nostr Writer](https://github.com/jamesmagoo/nostr-writer) | Publish your writing directly to Nostr. |
-| [Image Converter](https://github.com/xryul/obsidian-image-converter) | Convert, compress and resize images from one format to another by dragging and dropping or pasting into the note. |
+| [Image Converter](https://github.com/xryul/obsidian-image-converter) | Convert, compress, resize, annotate, markup, draw, crop, rotate, flip, align, drag-resize, rename with variables, and batch process images: WEBP, JPG, PNG, HEIC, TIF |
 | [Data Entry](https://github.com/waynevanson/data-entry-obsidian-plugin) | Create forms that save data simply; the data view of data entry. |
 | [@ Symbol Linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) | Link with @ (the at symbol). Can scope @ linking to a specific directory e.g. Contacts/ |
 | [Attachment Manager](https://github.com/chenfeicqq/obsidian-attachment-manager) | Attachment Manager: Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
