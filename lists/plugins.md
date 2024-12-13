@@ -1555,7 +1555,6 @@
 | [NotesOn Publish](https://github.com/shapkinaa/noteson-obsidian-plugin) | Make single notes instantly available on the web. |
 | [AI Summarize](https://github.com/RavenWits/obsidian-ai-summarize) | Summarize your notes using AI |
 | [Livecodes Playground](https://github.com/gapmiss/livecodes-playground) | Client-side code editor playground - Powered by LiveCodes |
-| [Auto Embed](https://github.com/GnoxNahte/obsidian-auto-embed) | Helps to embed links using markdown instead of iframe. |
 | [VARE](https://github.com/4Source/vare-obsidian-plugin) | Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary. |
 | [Hugo Publish](https://github.com/kirito41dd/obsidian-hugo-publish) | Publish your blog to hugo site. |
 | [Autoplay & Loop](https://github.com/Wapply/obsidian-autoplay-and-loop) | AutoPlay videos inside and outside notes. |
@@ -1944,7 +1943,6 @@
 | [Copy Section](https://github.com/skztr/obsidian-plugin-section-copy) | Adds a Copy button to the top of Headed sections. |
 | [Cloud Storage](https://github.com/yingjialong/obsidian-CloudStorage) | Allows users to upload local files to the cloud, reducing the burden on local vaults and enabling seamless synchronization across multiple devices. |
 | [Local Media Embedder](https://github.com/seyf1elislam/obsidian-LocalMediaEmbedder-plugin) | Embed videos and images and audios from your local device in your notes. |
-| [Tab Panels](https://github.com/GnoxNahte/obsidian-tab-panels) | Create tab panels to organize content into sections |
 | [Jura Links](https://github.com/justanotherjurastudent/Jura-Links) | Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstellen mit Gesetzesanbietern. |
 | [Advanced Copy](https://github.com/leschuster/obsidian-advanced-copy) | Copy Markdown and transform it according to your needs. |
 | [Nav Link Header](https://github.com/ahts4962/nav-link-header) | Display navigation links at the top of the notes. |
