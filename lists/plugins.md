@@ -1555,6 +1555,7 @@
 | [NotesOn Publish](https://github.com/shapkinaa/noteson-obsidian-plugin) | Make single notes instantly available on the web. |
 | [AI Summarize](https://github.com/RavenWits/obsidian-ai-summarize) | Summarize your notes using AI |
 | [Livecodes Playground](https://github.com/gapmiss/livecodes-playground) | Client-side code editor playground - Powered by LiveCodes |
+| [Auto Embed](https://github.com/GnoxNahte/obsidian-auto-embed) | Helps to embed links using markdown instead of iframe. |
 | [VARE](https://github.com/4Source/vare-obsidian-plugin) | Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary. |
 | [Hugo Publish](https://github.com/kirito41dd/obsidian-hugo-publish) | Publish your blog to hugo site. |
 | [Autoplay & Loop](https://github.com/Wapply/obsidian-autoplay-and-loop) | AutoPlay videos inside and outside notes. |
@@ -1943,6 +1944,7 @@
 | [Copy Section](https://github.com/skztr/obsidian-plugin-section-copy) | Adds a Copy button to the top of Headed sections. |
 | [Cloud Storage](https://github.com/yingjialong/obsidian-CloudStorage) | Allows users to upload local files to the cloud, reducing the burden on local vaults and enabling seamless synchronization across multiple devices. |
 | [Local Media Embedder](https://github.com/seyf1elislam/obsidian-LocalMediaEmbedder-plugin) | Embed videos and images and audios from your local device in your notes. |
+| [Tab Panels](https://github.com/GnoxNahte/obsidian-tab-panels) | Create tab panels to organize content into sections |
 | [Jura Links](https://github.com/justanotherjurastudent/Jura-Links) | Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstellen mit Gesetzesanbietern. |
 | [Advanced Copy](https://github.com/leschuster/obsidian-advanced-copy) | Copy Markdown and transform it according to your needs. |
 | [Nav Link Header](https://github.com/ahts4962/nav-link-header) | Display navigation links at the top of the notes. |
@@ -2070,3 +2072,14 @@
 | [Cypher](https://github.com/aths7/cypher) | Hides text in a simple diagrammatic cypher to make reading unrecognizable for viewers. |
 | [CalloutX](https://github.com/br4in/calloutX) | An easy way to explore, visualise, and modify callout icons. |
 | [Sync Cnblog](https://github.com/lei-ctyh/obsidian-sync-cnblog) | 将笔记同步到博客园 |
+| [ExMemo Tools](https://github.com/exmemo-ai/obsidian-exmemo-tools) | Use LLMs for smart document management and optimization, including relocating files, enhancing text, and generating tags and summary. |
+| [Fetch Prayer Times](https://github.com/Eccys/obsidian-prayer-times) | Fetches current prayer times using the Aladhan API and saves them to a note. |
+| [Header navigation](https://github.com/talwrii/obsidian-header-navigation) | Quickly jump between headers and toggle folding |
+| [WikiDocs](https://github.com/pahkey/obsidian-wikidocs-plugin) | Fetch, edit, and upload WikiDocs books. |
+| [Link Formatter](https://github.com/dilantha/link-formatter) | Formats a block of links into a clean markdown list |
+| [Focus Time](https://github.com/astradev123/obsidian-focus-time) | Track the time spent on each note and visualize the data. |
+| [ExMemo Assistant](https://github.com/exmemo-ai/obsidian-exmemo-assistant) | Using LLMs to manage files and generating metadata such as tags and summaries. |
+| [Color Folders and Files](https://github.com/Mithadon/obsidian-color-folders-files) | Customize the appearance of folders and files in the file explorer. |
+| [Template by Note Name](https://github.com/jacoblearned/obsidian-template-by-note-name) | Automatically template notes based on their title. |
+| [FastForwardLink](https://github.com/IdanLib/ObsidianFastForwardLinkPlugin) | Fast-forward multiple links to a single target note. Create custom link shorthands (like `ps` > `photoshop`) to create synonyms, streamline navigation, and keep your vault organized. |
+| [Unit Converter](https://github.com/ruszabarov/obsidian-unit-converter) | Converts units right in your Markdown files. |
