@@ -2083,3 +2083,4 @@
 | [Template by Note Name](https://github.com/jacoblearned/obsidian-template-by-note-name) | Automatically template notes based on their title. |
 | [FastForwardLink](https://github.com/IdanLib/ObsidianFastForwardLinkPlugin) | Fast-forward multiple links to a single target note. Create custom link shorthands (like `ps` > `photoshop`) to create synonyms, streamline navigation, and keep your vault organized. |
 | [Unit Converter](https://github.com/ruszabarov/obsidian-unit-converter) | Converts units right in your Markdown files. |
+| [Force Read Mode](https://github.com/al3xw/force-read-mode) | Forces Markdown files in specified folders to open in read-only mode. |
