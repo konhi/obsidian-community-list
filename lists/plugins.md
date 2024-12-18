@@ -286,7 +286,7 @@
 | [Enhance Copy Note](https://github.com/kzhovn/copy-command-obsidian) | Add commands to copy active note and copy folders. |
 | [Customizable Menu](https://github.com/kzhovn/obsidian-customizable-menu) | Add any command to Obsidian's right-click menu. |
 | [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus) | Quickly switch and manage workspaces. |
-| [ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) | Collect interesting information from your clipboard into your vault. A website will be converted to MD, Tweets and YouTube Videos embedded, plain text will just saved into a new notice. |
+| [ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) | Save online content to your Vault, utilize embedded template engine and organize your reading list to your needs. Preserve the web with ReadItLater. |
 | [Text Transporter](https://github.com/TfTHacker/obsidian42-text-transporter) | Advanced text tools for working with text in your vault. |
 | [MarginNote Companion](https://github.com/aidenlx/marginnote-companion) | Bridge MarginNote 3 and Obsidian. |
 | [Netwik](https://github.com/fivol/netwik-obsidian) | Union Vault. Access a global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants. |
@@ -2084,3 +2084,4 @@
 | [FastForwardLink](https://github.com/IdanLib/ObsidianFastForwardLinkPlugin) | Fast-forward multiple links to a single target note. Create custom link shorthands (like `ps` > `photoshop`) to create synonyms, streamline navigation, and keep your vault organized. |
 | [Unit Converter](https://github.com/ruszabarov/obsidian-unit-converter) | Converts units right in your Markdown files. |
 | [Force Read Mode](https://github.com/al3xw/force-read-mode) | Forces Markdown files in specified folders to open in read-only mode. |
+| [Note From Form](https://github.com/ArhiChief/obsidian-note-from-form) | Define dynamic input form and use it to create notes |
