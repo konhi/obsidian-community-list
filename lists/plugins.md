@@ -2085,3 +2085,12 @@
 | [Unit Converter](https://github.com/ruszabarov/obsidian-unit-converter) | Converts units right in your Markdown files. |
 | [Force Read Mode](https://github.com/al3xw/force-read-mode) | Forces Markdown files in specified folders to open in read-only mode. |
 | [Note From Form](https://github.com/ArhiChief/obsidian-note-from-form) | Define dynamic input form and use it to create notes |
+| [Latex Exporter](https://github.com/mscott99/latex-exporter) | Write a LaTeX paper. |
+| [AmpliFlow Page Publisher](https://github.com/AmpliFlow/obsidian-ampliflow-page) | Publish notes easily to AmpliFlow (https://www.ampliflow.se) |
+| [Kale Graph](https://github.com/olillin/obsidian-kale-graph) | Render mathematical graphs. |
+| [Scribe](https://github.com/Mikodin/obsidian-scribe) | Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize & Visualize the text - All in one clip |
+| [Custom Image Auto Uploader](https://github.com/haierkeys/obsidian-custom-image-auto-uploader) | You can upload and save images from your notes to your remote server, home NAS, or sync them to your cloud storage (Alibaba Cloud OSS, Amazon S3, Cloudflare R2). |
+| [WonderBox](https://github.com/Chrstn67/WonderBox) | Create more relevant text sections your tips, top notes, warnings and more |
+| [kkh](https://github.com/okikae/obsid-kkh) | Replace words in a string using kkh dictionary. |
+| [Import Todoist tasks](https://github.com/dukex/obsidian-import-todoist) | Import Todoist tasks as Markdown tasks. |
+| [Link Maintainer](https://github.com/wenlzhang/obsidian-link-maintainer) | Maintain note links when splitting or reorganizing notes. |
