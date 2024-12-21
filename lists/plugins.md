@@ -1193,7 +1193,7 @@
 | [iDoRecall](https://github.com/iDoRecall/idorecall) | Create recalls from your notes. |
 | [Recipe view](https://github.com/lachholden/obsidian-recipe-view) | View your notes as interactive recipe cards while you cook. |
 | [Modal forms](https://github.com/danielo515/obsidian-modal-form) | Define forms for capturing data that you will be able to open from anywhere you can run JavaScript. |
-| [Markdown table checkboxes](https://github.com/DylanGiesberts/obsidian-table-checkboxes) | Add support for stateful checkboxes inside Markdown tables. |
+| [Markdown table checkboxes](https://github.com/0x-DLN/obsidian-table-checkboxes) | Add support for stateful checkboxes inside Markdown tables. |
 | [Image2LaTEX](https://github.com/Hugo-Persson/obsidian-ocrlatex) | Convert your images with math to LaTeX code. |
 | [Tag Breakdown Generator](https://github.com/HananoshikaYomaru/obsidian-tag-generator) | Break down nested tags into multiple parent tags. |
 | [ReClipped Official](https://github.com/tech-reclipped/ReClipped-Obsidian-Official) | Official ReClipped integration. |
