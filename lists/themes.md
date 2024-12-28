@@ -323,3 +323,7 @@
 | [abhimangs/obsidian-vortex](https://github.com/abhimangs/obsidian-vortex) | ![Vortex](https://raw.githubusercontent.com/abhimangs/obsidian-vortex/master/cover.png "") |
 | [sspaeti/obsidian_kanagawa_paper](https://github.com/sspaeti/obsidian_kanagawa_paper) | ![Kanagawa Paper](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa_paper/master/dark.jpg "") |
 | [IxBlazarxI/Obsidian-Theme-OverCast](https://github.com/IxBlazarxI/Obsidian-Theme-OverCast) | ![OverCast](https://raw.githubusercontent.com/IxBlazarxI/Obsidian-Theme-OverCast/master/Thumbnail.jpg "") |
+| [raspberri05/simple-color](https://github.com/raspberri05/simple-color) | ![Simple Color](https://raw.githubusercontent.com/raspberri05/simple-color/master/screenshot.png "") |
+| [Daiki48/sakurajima.obsidian](https://github.com/Daiki48/sakurajima.obsidian) | ![Sakurajima](https://raw.githubusercontent.com/Daiki48/sakurajima.obsidian/master/screenshots/cover.png "") |
+| [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) | ![Cupertino](https://raw.githubusercontent.com/aaaaalexis/obsidian-cupertino/master/cupertino.png "") |
+| [MalcolmMielle/Emerald-Echo](https://github.com/MalcolmMielle/Emerald-Echo) | ![Emerald Echo](https://raw.githubusercontent.com/MalcolmMielle/Emerald-Echo/master/screenshot.png "") |

@@ -2051,7 +2051,7 @@
 | [Obsifetch](https://github.com/tabibyte/obsifetch) | A neofetch-style vault information display. |
 | [Abbrlink](https://github.com/Hoshino-Yumetsuki/obsidian-plugin-abbrlink) | Automatically generate permanent short links for your markdown files. |
 | [LLM workspace](https://github.com/ofalvai/obsidian-llm-workspace) | Use Large Language Models grounded in your notes. |
-| [Todoist Context Bridge](https://github.com/wenlzhang/obsidian-todoist-context-bridge) | Bridge your note-taking and task management workflows by maintaining strong contextual connections with Todoist. |
+| [Todoist Context Bridge](https://github.com/wenlzhang/obsidian-todoist-context-bridge) | Bridge your note-taking and Todoist task management workflows with contextual connections. Seamlessly integrate with Dataview and Tasks plugins. |
 | [Discord Timestamps](https://github.com/Erallie/discord-timestamps) | Displays discord timestamps in read mode as they would appear in Discord. |
 | [Heatmap Tracker](https://github.com/mokkiebear/heatmap-tracker) | Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more—all in a single, interactive heatmap! |
 | [Visual Crossing Weather](https://github.com/willasm/vc-weather) | Visual Crossing Weather API for Your Notes |
