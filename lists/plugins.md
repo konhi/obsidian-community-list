@@ -2094,3 +2094,12 @@
 | [kkh](https://github.com/okikae/obsid-kkh) | Replace words in a string using kkh dictionary. |
 | [Import Todoist tasks](https://github.com/dukex/obsidian-import-todoist) | Import Todoist tasks as Markdown tasks. |
 | [Link Maintainer](https://github.com/wenlzhang/obsidian-link-maintainer) | Maintain note links when splitting or reorganizing notes. |
+| [Export to HTML](https://github.com/kalvn/obsidian-export-to-html) | Export your Markdown notes as HTML, directly in the clipboard or as a file. |
+| [NodeFlow](https://github.com/LincZero/obsidian-node-flow) | Render node streams like `ComfyUi`, `UE`, `Houdini`, `Blender`, etc., to make it easy to write relevant notes. JSON describes the chart, compared to screenshots, making it easier to modify later. The plugin is also compatible with blogs. |
+| [Send Note](https://github.com/jvsteiner/send-note) | Self-host images on AWS S3. |
+| [Project Tasks](https://github.com/paulpaterson/obsidian-project-tasks) | Allows you to easily create linked tasks for projects by managing the task ID's and dependencies. |
+| [Cursor Position on Title Enter](https://github.com/chaintng/cursor-position-on-title-enter) | Set the cursor position after pressing Enter on the note title. |
+| [Smart Context](https://github.com/brianpetro/smart-context-obsidian) | Instantly copy folder contents or open notes—excluding specified headings—into your clipboard. Perfect for providing curated context to tools like ChatGPT, improving responses, and streamlining your AI workflows. |
+| [Theme Controller](https://github.com/Binaris00/Theme-Controller) | Set when and how the themes will be displayed. |
+| [Insert Multiple Attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments) | Allows to insert multiple attachments at a time. |
+| [Smart Link Alias](https://github.com/vpcano/obsidian-smart-link-alias) | Enhance your internal links management with dynamic alias customization. Display short, full, or combined titles for your notes effortlessly. |
