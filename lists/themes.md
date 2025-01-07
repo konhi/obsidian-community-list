@@ -326,3 +326,4 @@
 | [Daiki48/sakurajima.obsidian](https://github.com/Daiki48/sakurajima.obsidian) | ![Sakurajima](https://raw.githubusercontent.com/Daiki48/sakurajima.obsidian/master/screenshots/cover.png "") |
 | [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) | ![Cupertino](https://raw.githubusercontent.com/aaaaalexis/obsidian-cupertino/master/cupertino.png "") |
 | [MalcolmMielle/Emerald-Echo](https://github.com/MalcolmMielle/Emerald-Echo) | ![Emerald Echo](https://raw.githubusercontent.com/MalcolmMielle/Emerald-Echo/master/screenshot.png "") |
+| [benjaminezequiel/playground-theme](https://github.com/benjaminezequiel/playground-theme) | ![Playground](https://raw.githubusercontent.com/benjaminezequiel/playground-theme/master/theme_preview.png "") |
