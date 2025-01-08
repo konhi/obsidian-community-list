@@ -2106,3 +2106,12 @@
 | [Click Hint](https://github.com/kbwo/obsidian-click-hint) | Provide keyboard-driven hints for clickable elements. |
 | [BetaX NAS Sync](https://github.com/skye-z/ons) | Keep Vault synchronized with the NAS on your home intranet. |
 | [Structured Copy: Files & Folders](https://github.com/SeardnaSchmid/copy-recursive-content) | Copy the contents of files and folders in a structured JSON format. |
+| [Inbox Organiser](https://github.com/jamiefdhurst/obsidian-inbox-organiser) | Capture any new notes into an inbox and periodically prompt to organise these into other folders within the vault. |
+| [Atomizer](https://github.com/binxly/atomizer) | Turn any text into insightful atomic notes. |
+| [Jira Issue managing](https://github.com/angelperezasenjo/obsidian-to-jira) | Update and creating of Jira issues directly |
+| [External File Embed and Link](https://github.com/oylbin/obsidian-external-file-embed-and-link) | Embed and link local files outside your vault with relative paths for cross-device and multi-platform compatibility. |
+| [Photopea Editor](https://github.com/KarmaToast40340/photopea-editor) | Automatically opens images in Photopea when clicked in your vault. |
+| [Easy Timeline](https://github.com/Romelium/obsidian-easy-timeline) | This simplifies creating and visualizing timelines from text using dates and metadata. |
+| [Open Editors](https://github.com/4Source/open-editors-obsidian-plugin) | Adds a view which shows the opened windows, groups, tabs and editors inside them. Makes managing the open editors easier. |
+| [Contact Cards](https://github.com/aegixx/obsidian-contact-cards) | Transforms YAML data into a simple business/contact card with power features. |
+| [Better Plugins Manager](https://github.com/0011000000110010/obsidian-manager) | 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。 |
