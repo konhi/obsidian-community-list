@@ -1469,7 +1469,7 @@
 | [Prompt ChatGPT](https://github.com/Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian) | Send templated prompts to ChatGPT when you open a file. |
 | [Canvas Mindmap Helper](https://github.com/tim-smart/obsidian-canvas-mindmap) | Make the Canvas work like a mindmap. |
 | [Advanced Canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) | Supercharge your canvas experience. Create presentations, flowcharts and more. |
-| [Quadro](https://github.com/chrisgrieser/obsidian-quadro) | Qualitative Data Analysis (QDA) for Social Scientists. An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes. |
+| [Quadro](https://github.com/chrisgrieser/obsidian-quadro) | Qualitative Data Analysis (QDA) for social scientists. An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes. |
 | [Enhanced Annotations](https://github.com/ycnmhd/obsidian-enhanced-annotations) | Add a sidebar view for comments and highlights. |
 | [Pomodoro Widget](https://github.com/bitegw/obsidian-pomodoro-widget) | Provides a widget based on a pomodoro kitchen timer. It's designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled. |
 | [Yesterday](https://github.com/dominikmayer/obsidian-yesterday) | Transform your notes into a visually stunning diary, integrating dialogs, chat logs, and media content blocks for a seamless journaling experience. |
