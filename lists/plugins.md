@@ -1742,7 +1742,7 @@
 | [NoteToMP](https://github.com/sunbooshi/note-to-mp) | Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect preservation of note styles, support code highlighting, line numbers in code, and support local image uploads. |
 | [Xournal++](https://github.com/jonjampen/obsidian-xournalpp) | Integration with Xournal++ for handwritten notes and annotations. |
 | [Dataview Serializer](https://github.com/dsebastien/obsidian-dataview-serializer) | Serialize Dataview queries to Markdown, and keep the Markdown representation up to date |
-| [Fast Text Color](https://github.com/Superschnizel/obisdian-fast-text-color) | Quickly apply fully integrated text coloring and formatting with a custom syntax and a keyboard-centric interface. |
+| [Fast Text Color](https://github.com/Superschnizel/obsidian-fast-text-color) | Quickly apply fully integrated text coloring and formatting with a custom syntax and a keyboard-centric interface. |
 | [Guid Renamer](https://github.com/taskscape/ObsidianUniqueFileName) | Rename selected file with a random GUID |
 | [Multiplatform Highlights Importer](https://github.com/wwwkieran/obsidian-multiplatform-highlights-import) | Import and consolidate highlights from different reading sources. Supports reconciling books across reading sources. |
 | [Front Matter Timestamps](https://github.com/lighthousedino/obsidian-front-matter-timestamps) | Automatically manages and updates 'created' and 'modified' timestamps in the frontmatter of your notes. |
