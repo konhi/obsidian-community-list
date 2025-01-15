@@ -327,3 +327,5 @@
 | [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) | ![Cupertino](https://raw.githubusercontent.com/aaaaalexis/obsidian-cupertino/master/cupertino.png "") |
 | [MalcolmMielle/Emerald-Echo](https://github.com/MalcolmMielle/Emerald-Echo) | ![Emerald Echo](https://raw.githubusercontent.com/MalcolmMielle/Emerald-Echo/master/screenshot.png "") |
 | [benjaminezequiel/playground-theme](https://github.com/benjaminezequiel/playground-theme) | ![Playground](https://raw.githubusercontent.com/benjaminezequiel/playground-theme/master/theme_preview.png "") |
+| [druxorey/minimal-dracula-for-obsidian](https://github.com/druxorey/minimal-dracula-for-obsidian) | ![Minimal Dracula](https://raw.githubusercontent.com/druxorey/minimal-dracula-for-obsidian/master/resources/cover.png "") |
+| [technerium/obsidian-ukiyo](https://github.com/technerium/obsidian-ukiyo) | ![Ukiyo](https://raw.githubusercontent.com/technerium/obsidian-ukiyo/master/screenshot.png "") |
