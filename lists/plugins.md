@@ -2115,3 +2115,12 @@
 | [Open Editors](https://github.com/4Source/open-editors-obsidian-plugin) | Adds a view which shows the opened windows, groups, tabs and editors inside them. Makes managing the open editors easier. |
 | [Contact Cards](https://github.com/aegixx/obsidian-contact-cards) | Transforms YAML data into a simple business/contact card with power features. |
 | [Better Plugins Manager](https://github.com/0011000000110010/obsidian-manager) | 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。 |
+| [BuJo Bullets](https://github.com/frankolson/obsidian-bujo-bullets) | Alternate checkbox types to support Bullet Journal bullets. |
+| [AI-AnkiSync](https://github.com/jannusgoe/obsidian-ankisync) | Sync ai-enhanced flashcards with Anki via AnkiConnect |
+| [Dynamic Outline](https://github.com/theopavlove/obsidian-dynamic-outline) | Adds a customizable GitHub-like floating table of contents. |
+| [Syncthing status icon](https://github.com/Diego-Viero/Syncthing-status-icon-Obsidian-plugin) | Displas a status icon inside the status bar showing whether syncthing is running locally or not. |
+| [Simple Disguise](https://github.com/slow-groovin/simple-disguise) | disguise/obscure/hide the markdown content in a very simple way. |
+| [KoReader Highlight Importer](https://github.com/t5k6/obsidian-koreader-highlights) | Imports highlights and metadata from KoReader |
+| [Local Any Files](https://github.com/ShermanTsang/obsidian-local-any-files) | Extract and download any external files from links to local files |
+| [Publish to Discourse](https://github.com/woodchen-ink/obsidian-publish-to-discourse) | Post notes to the Discourse forum. |
+| [MoreDraw](https://github.com/webceoboy/moredraw-obsidian) | A infinite canvas whiteboard with ai to draw flowchart ,mind map and other diagram. |
