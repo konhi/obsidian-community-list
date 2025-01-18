@@ -288,7 +288,6 @@
 | [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus) | Quickly switch and manage workspaces. |
 | [ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) | Save online content to your Vault, utilize embedded template engine and organize your reading list to your needs. Preserve the web with ReadItLater. |
 | [Text Transporter](https://github.com/TfTHacker/obsidian42-text-transporter) | Advanced text tools for working with text in your vault. |
-| [MarginNote Companion](https://github.com/aidenlx/marginnote-companion) | Bridge MarginNote 3 and Obsidian. |
 | [Netwik](https://github.com/fivol/netwik-obsidian) | Union Vault. Access a global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants. |
 | [Prominent Bookmarked Files](https://github.com/javalent/prominent-files) | Prominently display bookmarked notes in the file explorer. |
 | [OzanShare Publish](https://github.com/ozntel/ozanshare-publish-plugin) | Publish your Markdown notes with a single click from your vault. (Closed source) |
@@ -2124,3 +2123,13 @@
 | [Local Any Files](https://github.com/ShermanTsang/obsidian-local-any-files) | Extract and download any external files from links to local files |
 | [Publish to Discourse](https://github.com/woodchen-ink/obsidian-publish-to-discourse) | Post notes to the Discourse forum. |
 | [MoreDraw](https://github.com/webceoboy/moredraw-obsidian) | A infinite canvas whiteboard with ai to draw flowchart ,mind map and other diagram. |
+| [Clojure Plugin Host](https://github.com/farcaller/obsidian-clojure-plugin-host) | A Clojure plugin host, allowing the creation of simple Clojure-based plugins right inside the editor. |
+| [Confluence Space Sync](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) | Sync entire Confluence spaces in your Vault. |
+| [Hoarder Sync](https://github.com/jhofker/obsidian-hoarder) | Sync your Hoarder bookmarks |
+| [Tencent COS for Imgur](https://github.com/bobostudio/obsidian-imgur-plugin) | Upload images to Tencent COS for Imgur. |
+| [Tengwar](https://github.com/mikevetkin/obsidian-tengwar) | Support Tengwar (The Elvish Letters). |
+| [Circuit Sketcher](https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin) | Draw circuits on a canvas using circuit-sketcher-core. |
+| [Christmas](https://github.com/Matse2005/Obsidian-Christmas) | Track the time left till Christmas. |
+| [Type Chinese Like English](https://github.com/Hwenyi/obsidian-type-chinese-like-english) | Convert pinyin to Chinese and LaTeX |
+| [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler) | Handles renames made outside of the app. |
+| [New Filename](https://github.com/TheLoneWanderer4/obsidian-uuid-title) | Change the default filename used for new notes |
