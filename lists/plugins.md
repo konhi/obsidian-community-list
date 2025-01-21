@@ -1318,7 +1318,7 @@
 | [Smart Title](https://github.com/magooup/obsidian-plugin-smart-title) | Automatically extract tags and aliases from the title. |
 | [Gamificate your PKM](https://github.com/saertna/obsidian-gamified-pkm) | Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM. |
 | [R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) | Multi-regex management for data linking and batch processing across selection, files, and folders. |
-| [Encoder/Decoder](https://github.com/rudimuc/obsidian-coder) | Convert text into base64 format. |
+| [Encoder/Decoder](https://github.com/rudimuc/obsidian-coder) | Encoding and decoding text using Base64, ROT13 and Atbash ciphers. |
 | [Habit Tracker 21](https://github.com/zoreet/habit-tracker) | Your 21-day journey to habit formation simplified. |
 | [Better Math in Callouts & Blockquotes](https://github.com/RyotaUshio/obsidian-math-in-callout) | Add better Live Preview support for math rendering inside callouts & blockquotes. |
 | [Dynamic Line Height for CJK](https://github.com/RyotaUshio/obsidian-dynamic-line-height-cjk) | Dynamically adjust line height for lines & paragraphs containing CJK characters. |
