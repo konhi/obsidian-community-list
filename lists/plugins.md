@@ -2133,3 +2133,13 @@
 | [Type Chinese Like English](https://github.com/Hwenyi/obsidian-type-chinese-like-english) | Convert pinyin to Chinese and LaTeX |
 | [External Rename Handler](https://github.com/mnaoumov/obsidian-external-rename-handler) | Handles renames made outside of the app. |
 | [New Filename](https://github.com/TheLoneWanderer4/obsidian-uuid-title) | Change the default filename used for new notes |
+| [Note Annotations](https://github.com/jancbeck/obsidian-note-annotations) | Add multi-colored highlights and comments to your notes. |
+| [pycalc](https://github.com/pycalc-plugin/obsidian) | Executing Python code directly within the editor by pressing the Enter key. |
+| [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links) | Adds support for markdown links in frontmatter. |
+| [Clipper Catalog](https://github.com/soundslikeinfo/obsidian-clipper-catalog) | A catalog view of all the clippings gathered with a common source property. |
+| [Hanko](https://github.com/Telehakke/hanko) | Register and paste any text. |
+| [Easy Test](https://github.com/forrest1398/obsidian-easyTest-plugin) | Easily create simple tests |
+| [Keep the Rhythm](https://github.com/benjaminezequiel/keep-the-rhythm) | Visualize daily word count with a heatmap. |
+| [Boardgame Search](https://github.com/Marlon154/boardgame-search) | Helps board game enthusiasts track their game collection seamlessly within their notes. |
+| [Sentinel](https://github.com/gsarig/obsidian-sentinel) | Trigger actions based on document visibility changes. |
+| [ShaahMaat-md](https://github.com/MihailKovachev/shaahmaat-md) | Render chess positions. |
