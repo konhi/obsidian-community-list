@@ -2143,3 +2143,13 @@
 | [Boardgame Search](https://github.com/Marlon154/boardgame-search) | Helps board game enthusiasts track their game collection seamlessly within their notes. |
 | [Sentinel](https://github.com/gsarig/obsidian-sentinel) | Trigger actions based on document visibility changes. |
 | [ShaahMaat-md](https://github.com/MihailKovachev/shaahmaat-md) | Render chess positions. |
+| [Anchor Link Display Text](https://github.com/rca-umb/anchor-link-display-text) | Automatically uses the linked heading as the display text for anchor links. |
+| [Friend Tracker](https://github.com/buzzguy/friend-tracker) | Keep track of friends, birthdays, and interactions |
+| [Backgroundset](https://github.com/Youngmoss/obsidian-backgroundset) | Allow you to set background image set(folder) |
+| [Mahgen Renderer](https://github.com/MichaelFW-ui/obsidian-mahgen-plugin) | Display mahjong images inline or in block using Mahgen. |
+| [Recent Notes](https://github.com/kamil-rudnicki/obsidian-recent-notes) | List of recently edited notes with previews by time periods. |
+| [Cooksync](https://github.com/furst/cooksync-obsidian) | Automatically imports Cooksync data. |
+| [Paperless](https://github.com/Talal-A/obsidian-paperless) | Link your paperless-ngx documents within your vault. |
+| [Missing Link File Creator](https://github.com/Lemon695/obsidian-missing-link-file-creator) | Creates missing linked files and detects missing wiki links. |
+| [Current File Tags](https://github.com/trung-tran-swe/obsidian-current-file-tags) | Display the active Markdown file's tags and associated files. |
+| [Goal Tracker](https://github.com/GizmoRay/obsidian-goal-tracker) | Track your goals with a calendar view |

@@ -329,3 +329,6 @@
 | [benjaminezequiel/playground-theme](https://github.com/benjaminezequiel/playground-theme) | ![Playground](https://raw.githubusercontent.com/benjaminezequiel/playground-theme/master/theme_preview.png "") |
 | [druxorey/minimal-dracula-for-obsidian](https://github.com/druxorey/minimal-dracula-for-obsidian) | ![Minimal Dracula](https://raw.githubusercontent.com/druxorey/minimal-dracula-for-obsidian/master/resources/cover.png "") |
 | [technerium/obsidian-ukiyo](https://github.com/technerium/obsidian-ukiyo) | ![Ukiyo](https://raw.githubusercontent.com/technerium/obsidian-ukiyo/master/screenshot.png "") |
+| [laughmaker/Zen](https://github.com/laughmaker/Zen) | ![Zen](https://raw.githubusercontent.com/laughmaker/Zen/master/cover.png "") |
+| [Inc44/OLED.Black](https://github.com/Inc44/OLED.Black) | ![OLED.Black](https://raw.githubusercontent.com/Inc44/OLED.Black/master/screenshot.png "") |
+| [iwa/Sei](https://github.com/iwa/Sei) | ![Sei](https://raw.githubusercontent.com/iwa/Sei/master/assets/thumbnail.jpg "") |
