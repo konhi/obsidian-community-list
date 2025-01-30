@@ -1449,10 +1449,10 @@
 | [Goban SGF](https://github.com/StinsonZhao/obsidian-plugin-goban-sgf) | Record Go games (SGF format goban). |
 | [Display Relative Path Img](https://github.com/dyc2424748461/obsidian-display-relative-path-img) | Display the image of the <img> tag |
 | [Metadata Icon](https://github.com/Benature/obsidian-metadata-icon) | Set custom icons for your properties. |
-| [AI File Organizer 2000](https://github.com/different-ai/file-organizer-2000) | AI assistant to automatically organize, chat, and format your notes. Works with images, PDFs, and your voice |
+| [Note Companion AI](https://github.com/different-ai/file-organizer-2000) | AI that goes beyond the chat interface. Enhance your meetings notes with live transcriptions, sync your handwritten jots, and let AI organize your vault. |
 | [Spotify API](https://github.com/Darren-project/obsidian-spotify) | Exposes Spotify API |
 | [PF2e Statblocks](https://github.com/pixley/pf2e-statblock-for-obsidian) | Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax. |
-| [Canvas Link Optimizer](https://github.com/khaelar/obsidian-canvas-link-optimizer) | Optimize Canvas links by displaying a page thumbnail. |
+| [Canvas Link Optimizer](https://github.com/Qbject/obsidian-canvas-link-optimizer) | Optimize Canvas links by displaying a page thumbnail. |
 | [Inline Admonitions](https://github.com/scottTomaszewski/obsidian-inline-admonitions) | Inline callouts to make text pop. |
 | [Filtered Opener](https://github.com/Balibaloo/obsidian-picker) | Open notes and folders, chose from sets defined by filters. |
 | [Todoist Review](https://github.com/imcauley/todoist-review) | A pane for reviewing overdue tasks from todoist |
