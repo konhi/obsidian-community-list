@@ -331,3 +331,4 @@
 | [laughmaker/Zen](https://github.com/laughmaker/Zen) | ![Zen](https://raw.githubusercontent.com/laughmaker/Zen/master/cover.png "") |
 | [Inc44/OLED.Black](https://github.com/Inc44/OLED.Black) | ![OLED.Black](https://raw.githubusercontent.com/Inc44/OLED.Black/master/screenshot.png "") |
 | [iwa/Sei](https://github.com/iwa/Sei) | ![Sei](https://raw.githubusercontent.com/iwa/Sei/master/assets/thumbnail.jpg "") |
+| [babidisrc/obsidian-sunbather](https://github.com/babidisrc/obsidian-sunbather) | ![Sunbather](https://raw.githubusercontent.com/babidisrc/obsidian-sunbather/master/thumbnail.png "") |
