@@ -2153,3 +2153,13 @@
 | [Missing Link File Creator](https://github.com/Lemon695/obsidian-missing-link-file-creator) | Creates missing linked files and detects missing wiki links. |
 | [Current File Tags](https://github.com/trung-tran-swe/obsidian-current-file-tags) | Display the active Markdown file's tags and associated files. |
 | [Goal Tracker](https://github.com/GizmoRay/obsidian-goal-tracker) | Track your goals with a calendar view |
+| [BibDesk Integration](https://github.com/alberti42/obsidian-bibdesk-integration) | Import BibTex citations into your notes and open PDF documents linked in a BibDesk library |
+| [AI Revisionist](https://github.com/ProfSynapse/obsidian-revisionist) | AI-powered text revision for your notes. |
+| [Plugin Update Locker](https://github.com/Lemon695/obsidian-plugin-update-locker) | Prevent specific plugins from being updated |
+| [Kikijiki Habit Tracker](https://github.com/kikijiki/obsidian-habit-tracker) | A simple habit tracker |
+| [Dataview Autocompletion](https://github.com/dnlbauer/obsidian-dataview-autocompletion) | Adds autocompletion to Dataview metadata fields |
+| [Image Preview on Icon Hover](https://github.com/rama1997/Image-Preview-On-Icon-Hover) | Adds custom image previews when hovering over various UI icons. |
+| [Clone Vault](https://github.com/laantorchaweb/clone-vault) | Clones the current vault by copying settings and folder structure without note contents. |
+| [Hephaistos Importer](https://github.com/Skallaturi/hephaistos-importer) | Imports main stats from the Starfinder RPG character website Hephaistos. |
+| [WhatsApp backup importer](https://github.com/LuigiCerone/obsidian-whatsapp-backup-importer) | Import WhatsApp export inside your vault. |
+| [Context Command Hider](https://github.com/mara-li/obsidian-context-menu-hider) | Hide any command from the right-click menu. |
