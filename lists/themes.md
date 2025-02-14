@@ -332,3 +332,5 @@
 | [Inc44/OLED.Black](https://github.com/Inc44/OLED.Black) | ![OLED.Black](https://raw.githubusercontent.com/Inc44/OLED.Black/master/screenshot.png "") |
 | [iwa/Sei](https://github.com/iwa/Sei) | ![Sei](https://raw.githubusercontent.com/iwa/Sei/master/assets/thumbnail.jpg "") |
 | [babidisrc/obsidian-sunbather](https://github.com/babidisrc/obsidian-sunbather) | ![Sunbather](https://raw.githubusercontent.com/babidisrc/obsidian-sunbather/master/thumbnail.png "") |
+| [AfonsoMiranda02/Obsidian-MinimalRed](https://github.com/AfonsoMiranda02/Obsidian-MinimalRed) | ![Minimal Red](https://raw.githubusercontent.com/AfonsoMiranda02/Obsidian-MinimalRed/master/cover.png "") |
+| [rose-pine/obsidian](https://github.com/rose-pine/obsidian) | ![Rose Pine](https://raw.githubusercontent.com/rose-pine/obsidian/master/thumbnail.png "") |

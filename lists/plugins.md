@@ -285,7 +285,7 @@
 | [Scales and Chords](https://github.com/egradman/scales-chords) | Capture musical tab notation. Chords become clickable links to modal images (provided by scales-chords.com). |
 | [Enhance Copy Note](https://github.com/kzhovn/copy-command-obsidian) | Add commands to copy active note and copy folders. |
 | [Customizable Menu](https://github.com/kzhovn/obsidian-customizable-menu) | Add any command to Obsidian's right-click menu. |
-| [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus) | Quickly switch and manage workspaces. |
+| [Workspaces Plus](https://github.com/jsmorabito/obsidian-workspaces-plus) | Quickly switch and manage workspaces. |
 | [ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) | Save online content to your Vault, utilize embedded template engine and organize your reading list to your needs. Preserve the web with ReadItLater. |
 | [Text Transporter](https://github.com/TfTHacker/obsidian42-text-transporter) | Advanced text tools for working with text in your vault. |
 | [Netwik](https://github.com/fivol/netwik-obsidian) | Union Vault. Access a global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants. |
@@ -2163,3 +2163,13 @@
 | [Hephaistos Importer](https://github.com/Skallaturi/hephaistos-importer) | Imports main stats from the Starfinder RPG character website Hephaistos. |
 | [WhatsApp backup importer](https://github.com/LuigiCerone/obsidian-whatsapp-backup-importer) | Import WhatsApp export inside your vault. |
 | [Context Command Hider](https://github.com/mara-li/obsidian-context-menu-hider) | Hide any command from the right-click menu. |
+| [NetClip](https://github.com/Elhary/Obsidian-NetClip) | Clip, save, search, and browse web pages |
+| [Plugin REPL](https://github.com/talwrii/plugin-repl) | Create automation using Javascript scripts from within your notes. Super light-weight plugins, access the plugin api, rapidly iterate for plugin development. Emacs inspired. |
+| [YouTube Video Summarizer](https://github.com/mbramani/obsidian-yt-video-summarizer) | Summarize YouTube videos using Gemini AI. Extract transcripts, generate summaries, and create structured notes. |
+| [WhatsApp export note](https://github.com/JoaoEmanuell/obsidian-whatsapp-export-note) | Convert the current note for WhatsApp format to share. |
+| [InlineAI](https://github.com/FBarrca/obsidian-inlineAI) | AI-powered suggestions, contextual edits, and advanced text transformations directly into your editor. |
+| [Tag Tactician](https://github.com/scottTomaszewski/obsidian-tag-tactician) | Tag operations and helpers |
+| [Spacekeys](https://github.com/jlumpe/obsidian-spacekeys) | Define hotkeys based on sequences of keypresses. |
+| [Data Files Editor](https://github.com/ZukTol/obsidian-data-files-editor) | Create and edit .txt, .json and .xml files. |
+| [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer) | Unifies the way non-existing notes are created when clicking on their links. |
+| [Media Companion](https://github.com/Nick-de-Bruin/obsidian-media-companion) | Creates a searchable gallery and sidecar files for attachments such as images and videos. The sidecar files allow you to add notes and tags to your media files. |
