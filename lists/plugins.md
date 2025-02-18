@@ -2173,3 +2173,11 @@
 | [Data Files Editor](https://github.com/ZukTol/obsidian-data-files-editor) | Create and edit .txt, .json and .xml files. |
 | [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer) | Unifies the way non-existing notes are created when clicking on their links. |
 | [Media Companion](https://github.com/Nick-de-Bruin/obsidian-media-companion) | Creates a searchable gallery and sidecar files for attachments such as images and videos. The sidecar files allow you to add notes and tags to your media files. |
+| [Explorer Colors](https://github.com/VaguelyElectric/obsidian-explorer-colors) | Set custom colors for files and folders. |
+| [Readeck Importer](https://github.com/makebit/obsidian-readeck-importer) | Import bookmarks from Readeck. |
+| [Pixel Perfect Image](https://github.com/johansan/pixel-perfect-image) | Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, edit image in external editor, and much more. |
+| [MCP Tools](https://github.com/jacksteamdev/obsidian-mcp-tools) | Securely connect Claude Desktop to your vault with semantic search, templates, and file management capabilities. |
+| [AI Providers](https://github.com/pfrankov/obsidian-ai-providers) | A hub for setting AI providers (OpenAI-like, Ollama and more) in one place. |
+| [Folder overview](https://github.com/LostPaul/obsidian-folder-overview) | Provides a dynamic overview of your vault or folders in the format of a codeblock. |
+| [WHISPERER.md](https://github.com/Falcion/Whisperer.md) | Play ambience in your vault, assign audio to files through metadata with support of local (from vault) and URLs (Youtube, Soundcloud) versions of audio: works on mobile vaults. |
+| [Enhanced Canvas](https://github.com/robertttbs/obsidian-enhanced-canvas) | Syncs Canvas node connections with properties in note, automating document relationship management. |
