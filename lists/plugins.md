@@ -823,7 +823,6 @@
 | [Zen](https://github.com/Maxymillion/zen) | Add a focus mode. |
 | [Fantasy Content Generator](https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator) | A fantasy content generator for all your TTRPG and world-building needs. |
 | [Tasks Calendar Wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper) | Simple wrapper for Tasks Calendar and Tasks Timeline. |
-| [Awesome Brain Manager](https://github.com/JuckZ/awesome-brain-manager) | A toolkit that tries to solve all the trivial problems most people usually encounter. |
 | [Open In New Tab](https://github.com/patleeman/obsidian-open-in-new-tab) | Open files in new tabs. |
 | [Commando](https://github.com/qaptoR/Commando) | Enable repeated calls of a command using defined or per-invocation values. |
 | [File Publisher](https://github.com/yiglas/obsidian-file-publisher) | Publish a file to a given POST API. |
@@ -2181,3 +2180,13 @@
 | [Folder overview](https://github.com/LostPaul/obsidian-folder-overview) | Provides a dynamic overview of your vault or folders in the format of a codeblock. |
 | [WHISPERER.md](https://github.com/Falcion/Whisperer.md) | Play ambience in your vault, assign audio to files through metadata with support of local (from vault) and URLs (Youtube, Soundcloud) versions of audio: works on mobile vaults. |
 | [Enhanced Canvas](https://github.com/robertttbs/obsidian-enhanced-canvas) | Syncs Canvas node connections with properties in note, automating document relationship management. |
+| [Varinote](https://github.com/gsarig/obsidian-varinote) | Add variables in Templates and set their values on-the-fly during the Note creation. |
+| [Vector Search](https://github.com/ashwin271/obsidian-vector-search) | Semantic search for your notes using Ollama and nomic-embed-text embeddings. Requires Ollama installation. |
+| [Feedly Annotations Sync](https://github.com/fleker/feedly-for-obsidian) | Syncs Feedly highlights and annotations to a folder in your vault. |
+| [Duplicate Detector](https://github.com/Wishmater/obsidian-plugin-duplicate-detector) | Highlights duplicate lines in the open note. |
+| [Callout Copy Buttons](https://github.com/alythobani/obsidian-callout-copy-buttons) | Adds copy buttons to callout blocks in your notes. |
+| [Lancaster University Week Format](https://github.com/IMB11/ObsidianLUWeeks) | (2024-2025 Academic Year) Extends moment.js to provide a custom 'Lancaster University Week' value or 'VACATION' if not in term. Use 'LUW' in the Daily Note format to use! |
+| [Sankey](https://github.com/finnromaneessen/obsidian-sankey) | Create Sankey diagrams in your notes. |
+| [External File Linker](https://github.com/Kay607/obsidian-pathlinker) | Embed external files into your notes. |
+| [Mastodon Threading](https://github.com/elpamplina/mastodon-threading) | Compose and post threads to Mastodon. |
+| [Memodack](https://github.com/pavlokobyliatskyi/obsidian-memodack-plugin) | Memorizing words or phrases |

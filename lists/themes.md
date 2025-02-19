@@ -334,3 +334,6 @@
 | [babidisrc/obsidian-sunbather](https://github.com/babidisrc/obsidian-sunbather) | ![Sunbather](https://raw.githubusercontent.com/babidisrc/obsidian-sunbather/master/thumbnail.png "") |
 | [AfonsoMiranda02/Obsidian-MinimalRed](https://github.com/AfonsoMiranda02/Obsidian-MinimalRed) | ![Minimal Red](https://raw.githubusercontent.com/AfonsoMiranda02/Obsidian-MinimalRed/master/cover.png "") |
 | [rose-pine/obsidian](https://github.com/rose-pine/obsidian) | ![Rose Pine](https://raw.githubusercontent.com/rose-pine/obsidian/master/thumbnail.png "") |
+| [vran-dev/obsidian-composer](https://github.com/vran-dev/obsidian-composer) | ![Composer](https://raw.githubusercontent.com/vran-dev/obsidian-composer/master/screenshot.png "") |
+| [double-tilde/old-world-obsidian](https://github.com/double-tilde/old-world-obsidian) | ![Old World](https://raw.githubusercontent.com/double-tilde/old-world-obsidian/master/images/screenshot.png "") |
+| [HarmfulBreeze/obsidian-material-3-theme](https://github.com/HarmfulBreeze/obsidian-material-3-theme) | ![Material 3](https://raw.githubusercontent.com/HarmfulBreeze/obsidian-material-3-theme/master/screenshot.png "") |
