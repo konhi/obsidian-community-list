@@ -2190,3 +2190,13 @@
 | [External File Linker](https://github.com/Kay607/obsidian-pathlinker) | Embed external files into your notes. |
 | [Mastodon Threading](https://github.com/elpamplina/mastodon-threading) | Compose and post threads to Mastodon. |
 | [Memodack](https://github.com/pavlokobyliatskyi/obsidian-memodack-plugin) | Memorizing words or phrases |
+| [AI integration Hub](https://github.com/hish-math/obsidian-ai-hub) | Integrate with AI models (currently Google's Gemini only) to quickly generate and refine notes. |
+| [Hanzi Writer](https://github.com/pakrentos/hanzi-writer-obsidian) | Interactive Chinese character writing blocks using Hanzi Writer |
+| [Glasp](https://github.com/glasp-co/obsidian-glasp-plugin) | Import your Glasp highlights and notes into your vault. |
+| [Confluence Converter](https://github.com/addozhang/obsidian-confluence-converter) | Convert markdown to Confluence wiki markup. |
+| [CAO](https://github.com/iamgodot/CAO) | Integrate Claude AI for chatting in notes. |
+| [Minote Sync](https://github.com/emac/obsidian-minote-plugin) | Sync Minote(小米笔记) into your vault. |
+| [Age Encrypt](https://github.com/Mr-1311/obsidian-age-encrypt) | Secure content encryption using age encryption library |
+| [Fold Properties By Default](https://github.com/tbergeron/obsidian-fold-properties-by-default) | Always have editor/metadata properties folded by default |
+| [Combo Colors](https://github.com/kevinkickback/Combo-Colors) | Automatically apply color to fighting game combo notations. |
+| [Autofit Tabs](https://github.com/bwya77/autofit-tabs) | Automatically adjusts tab header widths in real-time to perfectly fit each tab's title content while maintaining a clean, seamless interface that prevents awkward text truncation and ensures optimal readability of your document titles. |
