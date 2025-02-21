@@ -2200,3 +2200,12 @@
 | [Fold Properties By Default](https://github.com/tbergeron/obsidian-fold-properties-by-default) | Always have editor/metadata properties folded by default |
 | [Combo Colors](https://github.com/kevinkickback/Combo-Colors) | Automatically apply color to fighting game combo notations. |
 | [Autofit Tabs](https://github.com/bwya77/autofit-tabs) | Automatically adjusts tab header widths in real-time to perfectly fit each tab's title content while maintaining a clean, seamless interface that prevents awkward text truncation and ensures optimal readability of your document titles. |
+| [Organized daily notes](https://github.com/duchangkim/organized-daily-notes) | Automatically organizes your daily notes into customizable folder structures (Year/Month/Week) for systematic note management |
+| [Hotstrings](https://github.com/wakywayne/obsidian-hotstrings) | Allows you to set custom hot strings that get expanded to text once typed. |
+| [Inline Checkbox Groups](https://github.com/bwya77/Inline-Checkbox-Groups) | Create multiple checkboxes on a single line, separated by a customizable separator character (default '\|'), with the option to automatically cross out text when all checkboxes in the line are checked. |
+| [Runsh](https://github.com/Deedone/obsidian-runsh) | Create buttons that run shell commands from your notes. |
+| [Papyrus](https://github.com/Papyrus-doc-ai/papyrus-obsidian) | The most amazing documentation assistant |
+| [NerdFont Icon Picker](https://github.com/xavwe/obsidian-nerdfont-icon-picker) | Search and insert nerdfont icons. |
+| [EUpload](https://github.com/Appleec/e-obsidian-upload-plugin) | Support uploading files to different platforms. |
+| [Every Day Calendar](https://github.com/Sporarum/every-day-calendar) | Create calendars inspired by Simone Giertz's Every Day Calendar |
+| [Inkporter](https://github.com/AmadeussSystem/Inkporter) | digitize handwritten notes with intelligent ink isolation, adaptive theming, and automated workflows. |

@@ -337,3 +337,4 @@
 | [vran-dev/obsidian-composer](https://github.com/vran-dev/obsidian-composer) | ![Composer](https://raw.githubusercontent.com/vran-dev/obsidian-composer/master/screenshot.png "") |
 | [double-tilde/old-world-obsidian](https://github.com/double-tilde/old-world-obsidian) | ![Old World](https://raw.githubusercontent.com/double-tilde/old-world-obsidian/master/images/screenshot.png "") |
 | [HarmfulBreeze/obsidian-material-3-theme](https://github.com/HarmfulBreeze/obsidian-material-3-theme) | ![Material 3](https://raw.githubusercontent.com/HarmfulBreeze/obsidian-material-3-theme/master/screenshot.png "") |
+| [GodlyMan-bit/Serif](https://github.com/GodlyMan-bit/Serif) | ![Serif](https://raw.githubusercontent.com/GodlyMan-bit/Serif/master/screenshot.png "") |
