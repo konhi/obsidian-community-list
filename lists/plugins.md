@@ -108,7 +108,7 @@
 | [Mochi Cards Exporter](https://github.com/kalbetredev/mochi-cards-exporter) | Export Markdown notes to Mochi cards. |
 | [Prettier Format](https://github.com/hipstersmoothie/obsidian-plugin-prettier) | Opinionated formatting for your notes. |
 | [Furigana](https://github.com/uonr/obsidian-furigana) | Display furigana using <ruby> syntax. |
-| [Vault Changelog](https://github.com/badrbouslikhin/obsidian-vault-changelog) | Maintain a changelog of recently edited files in your vault. |
+| [Vault Changelog](https://github.com/philoserf/obsidian-vault-changelog) | Maintain a changelog of recently edited notes. |
 | [Chesser](https://github.com/SilentVoid13/Chesser) | A chess game viewer/editor. |
 | [Chessboard Viewer](https://github.com/THeK3nger/obsidian-chessboard) | Render chess positions diagrams in note preview. |
 | [Footnote Shortcut](https://github.com/MichaBrugger/obsidian-footnotes) | Makes creating footnotes more fun! |
@@ -1764,7 +1764,7 @@
 | [Refresh Preview](https://github.com/mnaoumov/obsidian-refresh-preview) | Allows to refresh preview mode without reopening the note |
 | [Hash Pasted Image](https://github.com/hardingadonis/hash-pasted-image) | Auto rename pasted images added to the vault via hash algorithm SHA-512 |
 | [Yanki](https://github.com/kitschpatrol/yanki-obsidian) | Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fuss. |
-| [Iconic](https://github.com/gfxholo/iconic) | Customize your icons and their colors directly from the UI, including tabs, files, bookmarks, properties, and ribbon commands. |
+| [Iconic](https://github.com/gfxholo/iconic) | Customize your icons and their colors directly from the UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands. |
 | [Notes Refresher](https://github.com/connorpark24/refresher-plugin) | Provides AI-generated refresher summaries of notes from your Vault using GPT-4. |
 | [DocBase (Unofficial)](https://github.com/kuvanov-2/obsidian-docbase) | Pull and push notes to DocBase |
 | [Latex Render](https://github.com/jvsteiner/obsidian-latex-render) | Render small latex snippets in your notes as SVG and PNG files. |
@@ -2000,7 +2000,7 @@
 | [Daily Random Note](https://github.com/D4rkP1xel/daily-random-note) | Automatically open daily random notes based on your preferences. |
 | [Typezen](https://github.com/IlgamGabdullin/obsidian-typezen) | Type anything and get in zen mode instantly, no more distraction between you and your thoughts. |
 | [IOC Lens](https://github.com/acgabbert/ioc-lens) | Extracts and displays security-relevant indicators such as IP addresses, domains, and file hashes to enhance your cyber security note-taking process. |
-| [Automatic List Renumbering](https://github.com/OmriLeviGit/Automatic-Renumbering-Obsidian) | Automatically renumber numbered lists as you edit them. |
+| [Automatic List Reordering](https://github.com/OmriLeviGit/Auto-List-Reordering-Obsidian) | Automatically reorder checklists and numbered lists as you edit them. |
 | [Three Noun Prompts](https://github.com/jamespeachh/three-noun-prompts) | Creative writing prompts that can be synced offline. |
 | [HackMD Sync](https://github.com/thor314/hackmd-obsidian) | Sync notes to from HackMD |
 | [Bottom to Top](https://github.com/lizard-heart/obsidian-bottom-to-top-text) | Makes text go from left-to-right, bottom-to-top. |
@@ -2209,3 +2209,13 @@
 | [EUpload](https://github.com/Appleec/e-obsidian-upload-plugin) | Support uploading files to different platforms. |
 | [Every Day Calendar](https://github.com/Sporarum/every-day-calendar) | Create calendars inspired by Simone Giertz's Every Day Calendar |
 | [Inkporter](https://github.com/AmadeussSystem/Inkporter) | digitize handwritten notes with intelligent ink isolation, adaptive theming, and automated workflows. |
+| [Media Link to HTML](https://github.com/cypar/obsidian-media-link-to-html) | Converts media links to HTML elements. |
+| [Emoji Picker](https://github.com/alifa98/obsidian-emoji-picker) | An Emoji Picker that allows you to insert the latest released emojis in your notes. |
+| [Task Board](https://github.com/tu2-atmanand/Task-Board) | Manage all your tasks throughout your vault from a single board and much more... |
+| [Pseudo Mica](https://github.com/aaaaalexis/obsidian-pseudo-mica) | Mica-like background effect for Windows. |
+| [Attachments MD Indexer](https://github.com/iinkov/obsidian-attachments-md-indexer) | Creates metadata notes for Canvas files, enhancing graph view visibility and plugin compatibility |
+| [SQLSeal Charts](https://github.com/h-sphere/sql-seal-charts) | Generate charts from your data. Graph line charts, pie charts, scatter plots and more. |
+| [hello nemesis](https://github.com/adiguno/hello-nemesis) | Uses OpenAI to challenge your ideas. |
+| [Forms](https://github.com/sorinmircea/obsidian-forms-plugin) | Publish beautiful forms and get responses straight to your vault. |
+| [Note ID](https://github.com/dominikmayer/obsidian-note-id) | Displays notes by their ID, enabling structured sequences for manuscripts or a Zettelkasten ("Folgezettel"). |
+| [Automatic Linker](https://github.com/kdnk/obsidian-automatic-linker) | automatically converts plain text file references into wiki links |
