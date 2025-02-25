@@ -2147,7 +2147,7 @@
 | [Backgroundset](https://github.com/Youngmoss/obsidian-backgroundset) | Allow you to set background image set(folder) |
 | [Mahgen Renderer](https://github.com/MichaelFW-ui/obsidian-mahgen-plugin) | Display mahjong images inline or in block using Mahgen. |
 | [Recent Notes](https://github.com/kamil-rudnicki/obsidian-recent-notes) | List of recently edited notes with previews by time periods. |
-| [Cooksync](https://github.com/furst/cooksync-obsidian) | Automatically imports Cooksync data. |
+| [Cooksync](https://github.com/furst/cooksync-obsidian) | Automatically imports recipes collected using Cooksync. |
 | [Paperless](https://github.com/Talal-A/obsidian-paperless) | Link your paperless-ngx documents within your vault. |
 | [Missing Link File Creator](https://github.com/Lemon695/obsidian-missing-link-file-creator) | Creates missing linked files and detects missing wiki links. |
 | [Current File Tags](https://github.com/trung-tran-swe/obsidian-current-file-tags) | Display the active Markdown file's tags and associated files. |
@@ -2219,3 +2219,12 @@
 | [Forms](https://github.com/sorinmircea/obsidian-forms-plugin) | Publish beautiful forms and get responses straight to your vault. |
 | [Note ID](https://github.com/dominikmayer/obsidian-note-id) | Displays notes by their ID, enabling structured sequences for manuscripts or a Zettelkasten ("Folgezettel"). |
 | [Automatic Linker](https://github.com/kdnk/obsidian-automatic-linker) | automatically converts plain text file references into wiki links |
+| [On This Day](https://github.com/jose-elias-alvarez/obsidian-on-this-day) | Show your daily notes from this day in a simple panel view. |
+| [Flowcharts](https://github.com/land0r/obsidian-flowchart-plugin) | Render flowcharts using flowchart.js markup. |
+| [Idle Monitor](https://github.com/alberto98fx/idle-monitor-obsidian) | Get notified when you stop typing to stay motivated. |
+| [Timecodes](https://github.com/gavvvr/obsidian-timecodes-plugin) | Converts raw text timecodes into clickable URLs if a note contains a link to a video |
+| [Thecap cv generator](https://github.com/xthecapx/thecap-cv-generator) | Generate PDF curriculum from your notes. |
+| [Last Position](https://github.com/Saktawdi/obsidian-last-position) | Automatically scroll to the last viewed position when opening the markdown document. |
+| [HTML checkboxes](https://github.com/anareaty/html-checkboxes) | Allows to quickly add HTML checkboxes to your notes and makes them clickable. |
+| [Checkbox Sync](https://github.com/groldsf/obsidian_check_plugin) | Automatically checks the parent checkbox if all child checkboxes are completed, and unchecks it otherwise. |
+| [Extended File Support](https://github.com/Nick-de-Bruin/obsidian-extended-file-support) | Adds file support for various file types. Allows viewing and embedding these filetypes. Includes: .kra, .psd, .obj, .glb, .gltf, and more. |
