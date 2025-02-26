@@ -249,7 +249,6 @@
 | [phchang/W95](https://github.com/phchang/W95) | ![W95](https://raw.githubusercontent.com/phchang/W95/master/w95.png "") |
 | [antoKeinanen/obsidian-sanctum-reborn](https://github.com/antoKeinanen/obsidian-sanctum-reborn) | ![Sanctum reborn](https://raw.githubusercontent.com/antoKeinanen/obsidian-sanctum-reborn/master/cover.png "") |
 | [ryanjrman/Spectrum-Blue](https://github.com/ryanjrman/Spectrum-Blue) | ![Spectrum Blue](https://raw.githubusercontent.com/ryanjrman/Spectrum-Blue/master/SpectrumBluePreview.png "") |
-| [SemiCirkle/Midnight-obsidian-theme](https://github.com/SemiCirkle/Midnight-obsidian-theme) | ![Midnight](https://raw.githubusercontent.com/SemiCirkle/Midnight-obsidian-theme/master/pictures/theme-preview-512x288.png "") |
 | [dpavaoman/cobalt-peacock-obmd](https://github.com/dpavaoman/cobalt-peacock-obmd) | ![Cobalt Peacock](https://raw.githubusercontent.com/dpavaoman/cobalt-peacock-obmd/master/screenshot.png "") |
 | [lorens-osman-dev/Lorens-Obsidian-Theme](https://github.com/lorens-osman-dev/Lorens-Obsidian-Theme) | ![Lorens](https://raw.githubusercontent.com/lorens-osman-dev/Lorens-Obsidian-Theme/master/cover.png "") |
 | [NoahBoos/Obsidian-Theme-Rift](https://github.com/NoahBoos/Obsidian-Theme-Rift) | ![Rift](https://raw.githubusercontent.com/NoahBoos/Obsidian-Theme-Rift/master/showcase-temporaire.png "") |
@@ -286,7 +285,6 @@
 | [buluw/nobb-obsidian](https://github.com/buluw/nobb-obsidian) | ![nobb](https://raw.githubusercontent.com/buluw/nobb-obsidian/master/nobb-obtheme.jpg "") |
 | [Sskki-exe/vanilla-amoled-theme-color](https://github.com/Sskki-exe/vanilla-amoled-theme-color) | ![Vanilla AMOLED Color](https://raw.githubusercontent.com/Sskki-exe/vanilla-amoled-theme-color/master/sample-screenshot-sm.png "") |
 | [ricedev10/Abate-theme](https://github.com/ricedev10/Abate-theme) | ![Abate](https://raw.githubusercontent.com/ricedev10/Abate-theme/master/ScreenshotPreview.png "") |
-| [taronull/ayu-obsidian](https://github.com/taronull/ayu-obsidian) | ![Ayu Light & Mirage](https://raw.githubusercontent.com/taronull/ayu-obsidian/master/cover.png "") |
 | [Elevict/Shade-Sanctuary](https://github.com/Elevict/Shade-Sanctuary) | ![Shade Sanctuary](https://raw.githubusercontent.com/Elevict/Shade-Sanctuary/master/cover.png "") |
 | [Seniblue/Underwater](https://github.com/Seniblue/Underwater) | ![Underwater](https://raw.githubusercontent.com/Seniblue/Underwater/master/uw.png "") |
 | [c-sooyoung/kiwi-mono-obsidian-theme](https://github.com/c-sooyoung/kiwi-mono-obsidian-theme) | ![Kiwi Mono](https://raw.githubusercontent.com/c-sooyoung/kiwi-mono-obsidian-theme/master/thumbnail.png "") |
@@ -338,3 +336,5 @@
 | [double-tilde/old-world-obsidian](https://github.com/double-tilde/old-world-obsidian) | ![Old World](https://raw.githubusercontent.com/double-tilde/old-world-obsidian/master/images/screenshot.png "") |
 | [HarmfulBreeze/obsidian-material-3-theme](https://github.com/HarmfulBreeze/obsidian-material-3-theme) | ![Material 3](https://raw.githubusercontent.com/HarmfulBreeze/obsidian-material-3-theme/master/screenshot.png "") |
 | [GodlyMan-bit/Serif](https://github.com/GodlyMan-bit/Serif) | ![Serif](https://raw.githubusercontent.com/GodlyMan-bit/Serif/master/screenshot.png "") |
+| [Halftroll0/Sad-Machine-Druid](https://github.com/Halftroll0/Sad-Machine-Druid) | ![Sad Machine Druid](https://raw.githubusercontent.com/Halftroll0/Sad-Machine-Druid/master/sad_machine_druid_screenshot_v1.jpg "") |
+| [bladeacer/flexcyon](https://github.com/bladeacer/flexcyon) | ![flexcyon](https://raw.githubusercontent.com/bladeacer/flexcyon/master//docs/dark.png "") |

@@ -182,7 +182,6 @@
 | [Charts View](https://github.com/caronchen/obsidian-chartsview-plugin) | Visualize data from your notes with plots and graphs. |
 | [Dictionary](https://github.com/phibr0/obsidian-dictionary) | A multilingual dictionary that shows word definitions in the sidebar and popover synonyms. |
 | [Liquid Templates](https://github.com/oeN/liquid-template) | Create your templates with LiquidJS tags support. |
-| [Better footnote](https://github.com/aidenlx/better-fn) | Display footnotes inline as a popover. |
 | [Aut-O-Backups](https://github.com/ryanpcmcquen/obsidian-dropbox-backups) | Automated Dropbox backups of your entire vault. |
 | [MetaEdit](https://github.com/chhoumann/MetaEdit) | Manage your metadata. |
 | [Static File Server](https://github.com/elias-sundqvist/obsidian-static-file-server) | Host subfolders as static file servers. |
@@ -1070,14 +1069,12 @@
 | [Wikidata Importer](https://github.com/samwho/obsidian-wikidata-importer) | Import data from Wikidata into your vault. |
 | [Copilot auto completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion) | A highly configurable copilot-like auto-completion using the ChatGPT API. |
 | [UNITADE.md](https://github.com/Falcion/UNITADE.md) | Treat any file as any view, code editor and syntax highlighting, modals for creating and renaming files, assign views for files, unloading registries and many more for advanced work with non-markdown files. |
-| [Python Scripter](https://github.com/nickrallison/obsidian-python-scripter) | Run Python scripts directly as commands. |
 | [Quick note](https://github.com/jamesgreenblue/obsidian-quicknote) | Create a quick note in a floating window (on command or by right-clicking the Obsidian app icon). |
 | [Update frontmatter modified date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) | Automatically update a frontmatter modified date field when the file is modified. |
 | [Multi Tag](https://github.com/fez-github/obsidian-multi-tag) | Add tags to multiple notes at once. Either right-click a folder, or select multiple notes and right-click the selection. |
 | [Zettelkasten LLM Tools](https://github.com/glovguy/obsidian-gpt-zettelkasten) | Zettelkasten note taking powered by Large Language Models (e.g. semantic search). |
 | [Reflection](https://github.com/brandonkboswell/reflection) | Show daily and weekly notes from this day in years past. |
 | [AI Research Assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) | A Prompt Engineering research utility for generative AI models like OpenAI's ChatGPT that facilitates archiving and searching conversations and live editing a conversation's context/memory. |
-| [Wallabag](https://github.com/huseyz/obsidian-wallabag) | Sync your Wallabag articles. |
 | [Red Pen](https://github.com/lucasmelin/red-pen) | Red Pen acts as a proofreader for your writing. |
 | [Zotero Sync](https://github.com/frthjf/obsidian-zotero-sync-client) | Zotero API client to sync your Zotero library into your vault. |
 | [Harpoon](https://github.com/rodrez/obsidian-harpoon) | Use shortcuts to manage and navigate your top four frequently-used files. |
@@ -1282,7 +1279,6 @@
 | [Feeds](https://github.com/lukemt/obsidian-feeds) | Create feeds of topic-specific bullet points. |
 | [Song Links](https://github.com/cutaiar/obsidian-song-links) | Insert a link to the song currently playing on your Spotify. |
 | [Hunchly](https://github.com/shadowoption/Hunchly-obsidian-plugin) | Import notes and images from Hunchly. |
-| [tckr](https://github.com/Git-Sum/obsidian-tckr) | Get your TickTicks! |
 | [Periodic Table](https://github.com/Jake-Cramer/Periodic-Table-Obsidian) | View a periodic table of elements in the sidebar. |
 | [HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) | Add a sidebar view to see help sites for the plugins and themes you have installed. |
 | [Paste Link](https://github.com/jose-elias-alvarez/obsidian-paste-link) | Intelligently paste Markdown links. |
@@ -2228,3 +2224,13 @@
 | [HTML checkboxes](https://github.com/anareaty/html-checkboxes) | Allows to quickly add HTML checkboxes to your notes and makes them clickable. |
 | [Checkbox Sync](https://github.com/groldsf/obsidian_check_plugin) | Automatically checks the parent checkbox if all child checkboxes are completed, and unchecks it otherwise. |
 | [Extended File Support](https://github.com/Nick-de-Bruin/obsidian-extended-file-support) | Adds file support for various file types. Allows viewing and embedding these filetypes. Includes: .kra, .psd, .obj, .glb, .gltf, and more. |
+| [PDF Writer](https://github.com/jkom4/obsidian-pdf-writer) | to write and fill a PDF. |
+| [PDF Paste](https://github.com/Cormac-C/obsidian-paste-plugin) | Improve copy-paste from PDFs by cleaning newlines and hyphens. |
+| [Vault File Renamer](https://github.com/louanfontenele/obsidian-vault-file-renamer) | Automatically standardizes file names to GitHub style (lowercase, no accents, only -, ., _) while preserving folder structure and file contents.  |
+| [Hide Commands in Menu](https://github.com/bomian98/obsidian-hide-commands-in-menu) | Allows you to hide any command to different menu. |
+| [FolderFile Splitter](https://github.com/XuQuan-nikkkki/FolderFile-Splitter-Plugin) | Splits folder and file lists into separate views, simplifying navigation, improving clarity, and making it more intuitive to organize your notes |
+| [Daily Routine](https://github.com/sechan100/daily-routine-2) | Manage your daily tasks as 'ROUTINES' and organize your everyday life more effectively. |
+| [LLM Tagger](https://github.com/djayatillake/obsidian-llm-tagger) | Automatically tag your documents using a local LLM |
+| [Paste Quote](https://github.com/brokensandals/obsidian-paste-quote-plugin) | Helps with formatting and citing quotes. |
+| [YourPulse - Your Writing Activity Visualised](https://github.com/jsifalda/obsipulse-plugin) | It's like your Github profile, but for your vault (featuring daily streak, average daily word count, comprehensive stats and plugins overview). |
+| [Image Size](https://github.com/cynicalight/obsidian-image-size) | Set the default size for pasted images. |
