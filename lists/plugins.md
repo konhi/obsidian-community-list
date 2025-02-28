@@ -2234,3 +2234,9 @@
 | [Paste Quote](https://github.com/brokensandals/obsidian-paste-quote-plugin) | Helps with formatting and citing quotes. |
 | [YourPulse - Your Writing Activity Visualised](https://github.com/jsifalda/obsipulse-plugin) | It's like your Github profile, but for your vault (featuring daily streak, average daily word count, comprehensive stats and plugins overview). |
 | [Image Size](https://github.com/cynicalight/obsidian-image-size) | Set the default size for pasted images. |
+| [Rsync](https://github.com/GanapathyRaman/rsync-plugin) | Sync notes and automate backups using Rsync. |
+| [Extended Markdown Syntax](https://github.com/kotaindah55/extended-markdown-syntax) | Extend your markdown syntax using delimiters instead of HTML tags, such as underlining, superscript, subscript, highlighting, aligning. |
+| [Paste Image Into Property](https://github.com/Nitero/obsidian-paste-image-into-property) | Allows pasting images from the clipboard into frontmatter properties in live preview. |
+| [My Thesaurus](https://github.com/Mara-Li/obsidian-my-thesaurus) | Automagically adds tags based on a simple csv file or a Markdown table. |
+| [Media Viewer](https://github.com/Devon22/obsidian-mediaviewer) | View and manage media files within your notes. |
+| [GridExplorer](https://github.com/Devon22/obsidian-gridexplorer) | Browse note files in a grid view. |
