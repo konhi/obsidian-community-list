@@ -338,3 +338,7 @@
 | [GodlyMan-bit/Serif](https://github.com/GodlyMan-bit/Serif) | ![Serif](https://raw.githubusercontent.com/GodlyMan-bit/Serif/master/screenshot.png "") |
 | [Halftroll0/Sad-Machine-Druid](https://github.com/Halftroll0/Sad-Machine-Druid) | ![Sad Machine Druid](https://raw.githubusercontent.com/Halftroll0/Sad-Machine-Druid/master/sad_machine_druid_screenshot_v1.jpg "") |
 | [bladeacer/flexcyon](https://github.com/bladeacer/flexcyon) | ![flexcyon](https://raw.githubusercontent.com/bladeacer/flexcyon/master//docs/dark.png "") |
+| [codeisconfusing/retro-windows-obsidian](https://github.com/codeisconfusing/retro-windows-obsidian) | ![Retro Windows](https://raw.githubusercontent.com/codeisconfusing/retro-windows-obsidian/master/screenshot.png "") |
+| [outsidetext/lesswrong-obsidian](https://github.com/outsidetext/lesswrong-obsidian) | ![LessWrong](https://raw.githubusercontent.com/outsidetext/lesswrong-obsidian/master/preview.png "") |
+| [en3sis/vercel-obsidian](https://github.com/en3sis/vercel-obsidian) | ![Vercel Geist](https://raw.githubusercontent.com/en3sis/vercel-obsidian/master/assets/vercel-obsidian-small.png "") |
+| [incantatem2/Obsidian-aged-whisky](https://github.com/incantatem2/Obsidian-aged-whisky) | ![aged whisky](https://raw.githubusercontent.com/incantatem2/Obsidian-aged-whisky/master/images/aged-whisky-thumbnail.jpg "") |
