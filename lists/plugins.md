@@ -2250,3 +2250,6 @@
 | [Content Cards](https://github.com/liqms/obsidian-content-cards) | Insert content cards in Markdown, such as timeline, highlightblock, target card, book information card, music information card, movie information card, photoes ablum, business card, content subfield, countdown, etc. |
 | [Manual Sorting](https://github.com/Kh4f/obsidian-manual-sorting) | Drag'n'Drop file sorting. |
 | [ASCII Tree Generator](https://github.com/michalekmatej/obsidian.md-ascii-tree-generator) | Convert indented code blocks with hierarchy markers into formatted ASCII tree diagrams. |
+| [KOI Sync](https://github.com/metagov/koi-obsidian-plugin) | Synchronizes data from a Slack Telescope instance using the KOI-net protocol. |
+| [AI Tagger Universe](https://github.com/niehu2018/obsidian-ai-tagger-universe) | Automatically analyze note content and add relevant tags using AI |
+| [Chat clips](https://github.com/sleepingraven/obsidian-chat-clips) | Record chat in ordinary markdown list. |
