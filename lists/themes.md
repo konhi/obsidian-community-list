@@ -342,3 +342,4 @@
 | [outsidetext/lesswrong-obsidian](https://github.com/outsidetext/lesswrong-obsidian) | ![LessWrong](https://raw.githubusercontent.com/outsidetext/lesswrong-obsidian/master/preview.png "") |
 | [en3sis/vercel-obsidian](https://github.com/en3sis/vercel-obsidian) | ![Vercel Geist](https://raw.githubusercontent.com/en3sis/vercel-obsidian/master/assets/vercel-obsidian-small.png "") |
 | [incantatem2/Obsidian-aged-whisky](https://github.com/incantatem2/Obsidian-aged-whisky) | ![aged whisky](https://raw.githubusercontent.com/incantatem2/Obsidian-aged-whisky/master/images/aged-whisky-thumbnail.jpg "") |
+| [LostViking09/obsidian-fastppuccin](https://github.com/LostViking09/obsidian-fastppuccin) | ![FastPpuccin](https://raw.githubusercontent.com/LostViking09/obsidian-fastppuccin/master/theme_image.png "") |
