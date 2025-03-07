@@ -2253,3 +2253,11 @@
 | [KOI Sync](https://github.com/metagov/koi-obsidian-plugin) | Synchronizes data from a Slack Telescope instance using the KOI-net protocol. |
 | [AI Tagger Universe](https://github.com/niehu2018/obsidian-ai-tagger-universe) | Automatically analyze note content and add relevant tags using AI |
 | [Chat clips](https://github.com/sleepingraven/obsidian-chat-clips) | Record chat in ordinary markdown list. |
+| [Memos AI Sync](https://github.com/leoleelxh/obsidian-memos-ai-sync) | Sync Memos content powered by AI |
+| [Blog AI Generator](https://github.com/garethng/obsidian-blog-generator) | Generate blog posts from your notes using OpenAI |
+| [Spaced Repetition AI](https://github.com/ai-learning-tools/obsidian-spaced-repetition-ai) | Review, generate, and add flashcards for your notes using AI |
+| [Tier List](https://github.com/MoxAlehin/TierList) | Visual ranking and organizing content into customizable tier lists. |
+| [Write Good](https://github.com/markahesketh/write-good-obsidian) | Linter for English prose and improving writing style |
+| [Reading View j/k Scroll](https://github.com/LukasKorotaj/Scroll-With-j-k-in-Obsidian) | Scroll in reading view with j/k keys. Scroll to top with gg and to bottom with G. |
+| [Export Graph View](https://github.com/seantiz/obsidian_egv_plugin) | Export your vault's graph view to mermaid and dot format. |
+| [Hârn Weather Generator](https://github.com/marcueberall/obsidian-harn-weather) | Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rule system. |
