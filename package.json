@@ -24,7 +24,7 @@
   "homepage": "https://github.com/konhi/obsidian-community-list#readme",
   "dependencies": {
     "json2md": "^1.11.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "jshint": "^2.13.1",
