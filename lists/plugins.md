@@ -541,7 +541,7 @@
 | [Image Gallery](https://github.com/lucaorio/obsidian-image-gallery) | A zero setup masonry image gallery for Obsidian. |
 | [Thumbnails](https://github.com/Meikul/obsidian-thumbnails) | Insert YouTube thumbnails into your notes. |
 | [Table to CSV Exporter](https://github.com/metawops/obsidian-table-to-csv-export) | Export tables from a pane in reading mode into CSV files. |
-| [Task Progress Bar](https://github.com/Quorafind/Obsidian-Task-Progress-Bar) | A task progress bar for tasks. |
+| [Task Genius](https://github.com/Quorafind/Obsidian-Task-Progress-Bar) | Comprehensive task management that includes progress bars, task status cycling, and advanced task tracking features. |
 | [Scroll Speed](https://github.com/flolu/obsidian-scroll-speed) | Change the scroll speed. |
 | [Translator](https://github.com/luhaifeng666/obsidian-translator) | Translate selected text. |
 | [echarts](https://github.com/cumany/obsidian-echarts) | Render echarts. |
@@ -2235,7 +2235,7 @@
 | [YourPulse - Your Writing Activity Visualised](https://github.com/jsifalda/obsipulse-plugin) | It's like your Github profile, but for your vault (featuring daily streak, average daily word count, comprehensive stats and plugins overview). |
 | [Image Size](https://github.com/cynicalight/obsidian-image-size) | Set the default size for pasted images. |
 | [Rsync](https://github.com/GanapathyRaman/rsync-plugin) | Sync notes and automate backups using Rsync. |
-| [Extended Markdown Syntax](https://github.com/kotaindah55/extended-markdown-syntax) | Extend your markdown syntax using delimiters instead of HTML tags, such as underlining, superscript, subscript, highlighting, aligning. |
+| [Extended Markdown Syntax](https://github.com/kotaindah55/extended-markdown-syntax) | Extend your Markdown syntax using delimiters instead of HTML tags, such as underlining, superscript, subscript, highlighting, and spoiler. |
 | [Paste Image Into Property](https://github.com/Nitero/obsidian-paste-image-into-property) | Allows pasting images from the clipboard into frontmatter properties in live preview. |
 | [My Thesaurus](https://github.com/Mara-Li/obsidian-my-thesaurus) | Automagically adds tags based on a simple csv file or a Markdown table. |
 | [Media Viewer](https://github.com/Devon22/obsidian-mediaviewer) | View and manage media files within your notes. |
