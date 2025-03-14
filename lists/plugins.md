@@ -2209,7 +2209,7 @@
 | [Emoji Picker](https://github.com/alifa98/obsidian-emoji-picker) | An Emoji Picker that allows you to insert the latest released emojis in your notes. |
 | [Task Board](https://github.com/tu2-atmanand/Task-Board) | Manage all your tasks throughout your vault from a single board and much more... |
 | [Pseudo Mica](https://github.com/aaaaalexis/obsidian-pseudo-mica) | Mica-like background effect for Windows. |
-| [Attachments MD Indexer](https://github.com/iinkov/obsidian-attachments-md-indexer) | Creates metadata notes for Canvas files, enhancing graph view visibility and plugin compatibility |
+| [Attachments MD Indexer](https://github.com/iinkov/obsidian-attachments-md-indexer) | Creates searchable metadata notes for Canvas files, PDFs, and images, enhancing graph view visibility and plugin compatibility. |
 | [SQLSeal Charts](https://github.com/h-sphere/sql-seal-charts) | Generate charts from your data. Graph line charts, pie charts, scatter plots and more. |
 | [hello nemesis](https://github.com/adiguno/hello-nemesis) | Uses OpenAI to challenge your ideas. |
 | [Forms](https://github.com/sorinmircea/obsidian-forms-plugin) | Publish beautiful forms and get responses straight to your vault. |
@@ -2261,3 +2261,13 @@
 | [Reading View j/k Scroll](https://github.com/LukasKorotaj/Scroll-With-j-k-in-Obsidian) | Scroll in reading view with j/k keys. Scroll to top with gg and to bottom with G. |
 | [Export Graph View](https://github.com/seantiz/obsidian_egv_plugin) | Export your vault's graph view to mermaid and dot format. |
 | [Hârn Weather Generator](https://github.com/marcueberall/obsidian-harn-weather) | Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rule system. |
+| [Previous Daily Note](https://github.com/talau/obsidian-previous-daily-note) | Unlike the "Daily notes" command "Open previous daily note", it opens the previous daily note starting from today, rather than the daily note currently open. It also provides a ribbon icon and a command to perform this action. |
+| [Easy Fonts](https://github.com/jose-elias-alvarez/obsidian-easy-fonts) | Easily load custom fonts, even on mobile. |
+| [SQLite DB](https://github.com/stfrigerio/sqliteDB) | Interact with local SQLite files in your notes |
+| [Tab Group Arrangement](https://github.com/situ2001/obsidian-tab-group-arrangement) | Arrange the tab group in a more flexible way. For now, it supports arranging evenly and expanded like VSCode. User can make action and switch mode of arrangement by clicking the status bar or executing commands. |
+| [File Ignore](https://github.com/Feng6611/Obsidian-File-Ignore) | Control file indexing by adding or removing dot prefix to files, providing a .gitignore-like experience |
+| [Waveform Player](https://github.com/zhouhua/obsidian-waveform-player) | Render audio files as waveforms |
+| [Media Slider](https://github.com/amatya-aditya/obsidian-media-slider) | A media slider for images, gifs, audios, videos, and PDFs. |
+| [Jade Publisher](https://github.com/LucasJi/jade-publisher) | Publish your vault and changes to your Jade service. |
+| [Sync Vault CE](https://github.com/abcamus/obsidian-sync-vault-ce) | sync with cloud disk fast and safely. |
+| [Bible sidecar](https://github.com/janisringli/bible-sidecar-obsidian-plugin) | Open the bible in your preferred translation in a split-screen view within your workspace |
