@@ -2271,3 +2271,13 @@
 | [Jade Publisher](https://github.com/LucasJi/jade-publisher) | Publish your vault and changes to your Jade service. |
 | [Sync Vault CE](https://github.com/abcamus/obsidian-sync-vault-ce) | sync with cloud disk fast and safely. |
 | [Bible sidecar](https://github.com/janisringli/bible-sidecar-obsidian-plugin) | Open the bible in your preferred translation in a split-screen view within your workspace |
+| [tidit](https://github.com/codingthings-com/tidit-obsidian) | tidit adds timestamps to your document as you type — when you want it, how you want it, where you want it. |
+| [Copy Local Graph Paths](https://github.com/0melette/copy-local-graph-paths) | Copies file paths of local graph links to clipboard. |
+| [IMSwitch in Math Block](https://github.com/cailurus/imswitch_mathblock_obsidian) | Automatically switch input method in math block |
+| [Daily Note Metrics](https://github.com/Andre-Diamond/note-metrics) | Parses the tags in your Daily Notes and create interactive charts in a dashboard view. |
+| [Musical Text](https://github.com/tynanpurdy/musical-text) | Highlight sentences with color based on their length as you write. |
+| [Mode manager](https://github.com/dk949/obsidian-mode-manager) | Provide an easier way to manipulate reading/editing and preview/source mode |
+| [Note Placeholder](https://github.com/XZSt4nce/note-placeholder) | Replaces text of note link to placeholder in view mode. |
+| [URI Converter](https://github.com/wenlzhang/obsidian-uri-converter) | Convert URIs to internal links. |
+| [Inline Code Copy](https://github.com/lhinxue/obsidian-inline-code-copy-plugin) | Copy inline code on click in reading view. |
+| [Student Repo](https://github.com/yingflower/obsidian-stu-repo-helper) | Manage student repositories. |
