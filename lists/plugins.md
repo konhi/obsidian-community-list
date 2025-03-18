@@ -2281,3 +2281,13 @@
 | [URI Converter](https://github.com/wenlzhang/obsidian-uri-converter) | Convert URIs to internal links. |
 | [Inline Code Copy](https://github.com/lhinxue/obsidian-inline-code-copy-plugin) | Copy inline code on click in reading view. |
 | [Student Repo](https://github.com/yingflower/obsidian-stu-repo-helper) | Manage student repositories. |
+| [InfoFlow](https://github.com/InfoFlow/Obsidian-InfoFlow) | Sync your saved InfoFlow.app articles and highlights, similar to ReadWise and Omnivore |
+| [Image Picker](https://github.com/AriTheElk/obsidian-image-picker) | A blazingly fast way to browse, search, and embed pictures across your vault |
+| [Note Favicon](https://github.com/mdklab/note-favicon) | Extracts a URL from the frontmatter of notes and displays an associated favicon image next to the note title in the file tree. Supports standard URLs and base64-encoded images. |
+| [CSV All-in-One](https://github.com/Hangeol-Chang/obsidian-csv-allinone) | all about CSV. |
+| [Bookshelf](https://github.com/weph/obsidian-bookshelf) | Manage your books and reading progress |
+| [Dropbox Photo Grid](https://github.com/alimoeeny/obsidian-dropbox-photo-grid) | Fetch images from your dropbox based on date or path |
+| [Tagvis](https://github.com/mason-bryant/Obsidian-Tagvis) | Visualize your tags as a configurable sunburst visualization. |
+| [Attachments Cache](https://github.com/luisbs/obsidian-attachments-cache) | Store images and other attachments on the vault |
+| [Idealogs Annotator](https://github.com/idlgcl/obsidialogs) | For viewing and linking Idealogs articles. |
+| [Paper Clipper](https://github.com/ras0q/obsidian-paper-clipper) | Capture and manage academic papers |
