@@ -288,7 +288,7 @@
 | [Elevict/Shade-Sanctuary](https://github.com/Elevict/Shade-Sanctuary) | ![Shade Sanctuary](https://raw.githubusercontent.com/Elevict/Shade-Sanctuary/master/cover.png "") |
 | [Seniblue/Underwater](https://github.com/Seniblue/Underwater) | ![Underwater](https://raw.githubusercontent.com/Seniblue/Underwater/master/uw.png "") |
 | [c-sooyoung/kiwi-mono-obsidian-theme](https://github.com/c-sooyoung/kiwi-mono-obsidian-theme) | ![Kiwi Mono](https://raw.githubusercontent.com/c-sooyoung/kiwi-mono-obsidian-theme/master/thumbnail.png "") |
-| [Avesend/obsidian-lumines](https://github.com/Avesend/obsidian-lumines) | ![Lumines](https://raw.githubusercontent.com/Avesend/obsidian-lumines/master/obsidian-lumines.png "") |
+| [Nordwen/obsidian-lumines](https://github.com/Nordwen/obsidian-lumines) | ![Lumines](https://raw.githubusercontent.com/Nordwen/obsidian-lumines/master/obsidian-lumines.png "") |
 | [Erallie/colored-candy](https://github.com/Erallie/colored-candy) | ![Colored Candy](https://raw.githubusercontent.com/Erallie/colored-candy/master/colored-candy-thumbnail.png "") |
 | [Spekulucius/obsidian-adrenaline](https://github.com/Spekulucius/obsidian-adrenaline) | ![Adrenaline](https://raw.githubusercontent.com/Spekulucius/obsidian-adrenaline/master/adrenaline_thumbnail.png "") |
 | [omsandippatil/OISTNB](https://github.com/omsandippatil/OISTNB) | ![OISTNB](https://raw.githubusercontent.com/omsandippatil/OISTNB/master/OISTNB.png "") |
@@ -343,3 +343,4 @@
 | [en3sis/vercel-obsidian](https://github.com/en3sis/vercel-obsidian) | ![Vercel Geist](https://raw.githubusercontent.com/en3sis/vercel-obsidian/master/assets/vercel-obsidian-small.png "") |
 | [incantatem2/Obsidian-aged-whisky](https://github.com/incantatem2/Obsidian-aged-whisky) | ![aged whisky](https://raw.githubusercontent.com/incantatem2/Obsidian-aged-whisky/master/images/aged-whisky-thumbnail.jpg "") |
 | [LostViking09/obsidian-fastppuccin](https://github.com/LostViking09/obsidian-fastppuccin) | ![FastPpuccin](https://raw.githubusercontent.com/LostViking09/obsidian-fastppuccin/master/theme_image.png "") |
+| [Krishna-Sen-Programming-World/Minimal-Dark-Coder](https://github.com/Krishna-Sen-Programming-World/Minimal-Dark-Coder) | ![Minimal-Dark-Coder](https://raw.githubusercontent.com/Krishna-Sen-Programming-World/Minimal-Dark-Coder/master/images/image.jpg "") |

@@ -2291,3 +2291,8 @@
 | [Attachments Cache](https://github.com/luisbs/obsidian-attachments-cache) | Store images and other attachments on the vault |
 | [Idealogs Annotator](https://github.com/idlgcl/obsidialogs) | For viewing and linking Idealogs articles. |
 | [Paper Clipper](https://github.com/ras0q/obsidian-paper-clipper) | Capture and manage academic papers |
+| [Multiple Daily Notes](https://github.com/vaibzzz123/multiple-daily-notes) | Create multiple daily notes in one vault, with additional configuration options including time offsets for creating notes past midnight, choosing the ribbon icon to use for the note, and more. |
+| [Time Bullet](https://github.com/pedrogdn/obsidian-time-bullet-plugin) | Quickly add timestamp bullet points to your notes |
+| [Smooth Cursor](https://github.com/busyoGG/SmoothCursor) | 平滑光标 Smooth Cursor |
+| [Annotate Audio](https://github.com/12-VidE/annotate-audio) | Listen to an audio and add comments to it. |
+| [File Title Updater](https://github.com/wenlzhang/obsidian-file-title-updater) | Synchronize titles between filename, frontmatter, and first heading in notes. |
