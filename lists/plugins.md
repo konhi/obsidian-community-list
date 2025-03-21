@@ -1890,7 +1890,7 @@
 | [Poker Range](https://github.com/marplek/obsidian-poker-range) | Create a poker range grid |
 | [Spaced everything](https://github.com/zachmueller/spaced-everything) | Apply spaced repetition algorithms to everything in your vault. |
 | [Epiphany](https://github.com/Epiphany-Notes/epiphany-obsidian-plugin) | Synchronize voice notes from the Epiphany app directly into your vault |
-| [Pixel Banner](https://github.com/jparkerweb/pixel-banner) | Apply an image from various sources as a banner to your notes. |
+| [Pixel Banner](https://github.com/jparkerweb/pixel-banner) | Enhance your notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that add context, improve aesthetics, and take your note-taking beyond the ordinary. |
 | [Rich Foot](https://github.com/jparkerweb/rich-foot) | Adds backlink tags and created/modified dates to the footer of your notes. |
 | [Pintora](https://github.com/amiaslee/obsidian-pintora) | Generates diagrams using Pintora. |
 | [Alignment Tracker](https://github.com/FioPio/ObsidianAlignmentTracker) | Track character alignment using a 3x3 grid. |
