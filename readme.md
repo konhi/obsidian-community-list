@@ -17,3 +17,7 @@ bun run build   # emits dist/ via tsc for consumers that need JS output
 ```
 
 Bun executes the TypeScript entrypoint directly (no `tsx` shim required). The `npm start` / `npm run generate` aliases still work as long as Bun is on your `PATH`.
+
+## CI
+
+The scheduled GitHub Action runs on Bun but still installs Node.js 20 because the `tsc` CLI is a Node script (the compiled output lives in `dist/` for consumers that need JavaScript builds).
