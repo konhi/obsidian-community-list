@@ -2,10 +2,14 @@
   "name": "obsidian-community-list",
   "version": "1.0.0",
   "description": "📃 Regularly updated list of community themes and plugins for Obsidian.md",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "start": "npm i && node index.js",
-    "build": "node index.js"
+    "start": "npm run generate",
+    "build": "tsc -p tsconfig.json && node dist/index.js",
+    "generate": "tsx src/index.ts",
+    "format": "prettier --write .",
+    "lint": "prettier --check ."
   },
   "repository": {
     "type": "git",
@@ -23,11 +27,13 @@
   },
   "homepage": "https://github.com/konhi/obsidian-community-list#readme",
   "dependencies": {
-    "json2md": "^1.11.0",
-    "node-fetch": "^2.6.1"
+    "markdown-table": "^3.0.4",
+    "undici": "^7.16.0"
   },
   "devDependencies": {
-    "jshint": "^2.13.1",
-    "prettier": "^2.3.2"
+    "@types/node": "^24.10.2",
+    "prettier": "^3.7.4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
   }
 }
