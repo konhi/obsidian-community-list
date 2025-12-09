@@ -18,7 +18,7 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false,
-    "types": ["bun", "node"],
+    "types": ["bun"],
     "resolveJsonModule": true
   },
   "include": ["src"]

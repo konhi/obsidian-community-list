@@ -12,7 +12,7 @@
     "rootDir": "src",
     "declaration": true,
     "resolveJsonModule": true,
-    "types": ["node"],
+    "types": ["bun"],
     "lib": ["ES2022"],
     "noUncheckedIndexedAccess": true
   },
