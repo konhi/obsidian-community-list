@@ -20,4 +20,4 @@ Bun executes the TypeScript entrypoint directly (no `tsx` shim required). The `n
 
 ## CI
 
-The scheduled GitHub Action runs on Bun but still installs Node.js 20 because the `tsc` CLI is a Node script (the compiled output lives in `dist/` for consumers that need JavaScript builds).
+The scheduled GitHub Action uses Bun end-to-end: `bun install`, `bun run lint`, `bun test`, `bun tsc -p tsconfig.build.json`, and finally `bun run start` to refresh the published lists.
