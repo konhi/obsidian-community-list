@@ -1,5 +1,6 @@
 function sanitizeCell(value: string): string {
   const cleaned = value
+    .replace(/\\/g, "\\\\")
     .replace(/\|/g, "\\|")
     .replace(/\r?\n/g, "<br />")
     .trim();
