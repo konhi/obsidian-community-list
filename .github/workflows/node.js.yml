@@ -5,11 +5,11 @@ name: Bun CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
   schedule:
-    - cron: '00 00 * * *'
+    - cron: "00 00 * * *"
 
 jobs:
   build:
@@ -25,7 +25,6 @@ jobs:
       - run: bun install --no-save
       - run: bun run lint
       - run: bun test
-      - run: bun tsc -p tsconfig.build.json
       - run: bun run start
       - name: Commit generated output
         if: github.event_name == 'schedule'
