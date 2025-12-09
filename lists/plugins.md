@@ -593,9 +593,7 @@
 | [Day and Night](https://github.com/CyberT17/obsidian-day-and-night) | Automatically toggle themes between day theme and night theme on a set time schedule. |
 | [TikZJax](https://github.com/artisticat1/obsidian-tikzjax) | Render LaTeX and TikZ diagrams in your notes. |
 | [Todoist completed tasks](https://github.com/Ledaryy/obsidian-todoist-completed-tasks) | Add completed Todoist tasks to your notes. |
-| [Quick snippets and navigation](https://github.com/ieviev/obsidian-keyboard-shortcuts) | Keyboard navigation up/down for headings
-- Configurable default code block and callout
-- Copy code block via keyboard shortcut. |
+| [Quick snippets and navigation](https://github.com/ieviev/obsidian-keyboard-shortcuts) | Keyboard navigation up/down for headings<br />- Configurable default code block and callout<br />- Copy code block via keyboard shortcut. |
 | [Google Calendar](https://github.com/YukiGasai/obsidian-google-calendar) | Interact with your Google Calendar. |
 | [Copy Search URL](https://github.com/czottmann/obsidian-copy-search-url) | Add a button to the search view to copy the search URL. |
 | [Super Simple Time Tracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker) | Multi-purpose time trackers for your notes. |
