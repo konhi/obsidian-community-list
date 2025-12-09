@@ -7,9 +7,9 @@ const OUTPUT_DIRECTORY = "lists";
 const URLS = {
   github: "https://github.com",
   themes:
-    "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-css-themes.json",
+    "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/refs/heads/master/community-css-themes.json",
   plugins:
-    "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugins.json",
+    "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/refs/heads/master/community-plugins.json",
 };
 
 export type PluginRecord = {
