@@ -5,11 +5,12 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "start": "npm run generate",
-    "build": "tsc -p tsconfig.json && node dist/index.js",
-    "generate": "tsx src/index.ts",
+    "start": "bun run src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "generate": "bun run src/index.ts",
     "format": "prettier --write .",
-    "lint": "prettier --check ."
+    "lint": "prettier --check .",
+    "test": "bun test"
   },
   "repository": {
     "type": "git",
@@ -26,14 +27,11 @@
     "url": "https://github.com/konhi/obsidian-community-list/issues"
   },
   "homepage": "https://github.com/konhi/obsidian-community-list#readme",
-  "dependencies": {
-    "markdown-table": "^3.0.4",
-    "undici": "^7.16.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^24.10.2",
+    "bun-types": "^1.3.4",
     "prettier": "^3.7.4",
-    "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   }
 }

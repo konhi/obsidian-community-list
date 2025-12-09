@@ -1,6 +1,6 @@
 # 📃 obsidian-community-list
 
-This repository fetches the [community themes and plugins catalog](https://github.com/obsidianmd/obsidian-releases) and turns it into Markdown tables using a modern TypeScript pipeline powered by [`markdown-table`](https://github.com/wooorm/markdown-table) and [`undici`](https://github.com/nodejs/undici).
+This repository fetches the [community themes and plugins catalog](https://github.com/obsidianmd/obsidian-releases) and turns it into Markdown tables with native `fetch`, Bun, and a dependency-free Markdown table renderer.
 
 - [🎀 Themes](lists/themes.md)
 - [🔌 Plugins](lists/plugins.md)
@@ -10,8 +10,10 @@ This repository fetches the [community themes and plugins catalog](https://githu
 ```bash
 git clone https://github.com/konhi/obsidian-community-list.git
 cd obsidian-community-list
-npm install
-npm start
+npm install # or bun install
+bun run start   # generates lists from TypeScript directly
+bun test        # runs the Bun test suite
+bun run build   # emits dist/ via tsc for consumers that need JS output
 ```
 
-`npm start` runs the TypeScript entrypoint directly via [`tsx`](https://github.com/esbuild-kit/tsx). Use `npm run build` to emit `dist/` and execute the compiled script (the CI job relies on this).
+Bun executes the TypeScript entrypoint directly (no `tsx` shim required). The `npm start` / `npm run generate` aliases still work as long as Bun is on your `PATH`.

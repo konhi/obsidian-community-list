@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "es2022",
     "module": "commonjs",
+    "lib": ["ES2022"],
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
@@ -10,7 +11,10 @@
     "outDir": "dist",
     "rootDir": "src",
     "declaration": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "types": ["bun-types", "node"],
+    "noUncheckedIndexedAccess": true
   },
-  "include": ["src"]
+  "include": ["src"],
+  "exclude": ["src/**/*.test.ts"]
 }
