@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "start": "bun run src/index.ts",
-    "build": "tsc -p tsconfig.json",
+    "build": "tsc -p tsconfig.build.json",
     "generate": "bun run src/index.ts",
     "format": "prettier --write .",
     "lint": "prettier --check .",
@@ -27,10 +27,9 @@
     "url": "https://github.com/konhi/obsidian-community-list/issues"
   },
   "homepage": "https://github.com/konhi/obsidian-community-list#readme",
-  "dependencies": {},
   "devDependencies": {
+    "@types/bun": "^1.3.4",
     "@types/node": "^24.10.2",
-    "bun-types": "^1.3.4",
     "prettier": "^3.7.4",
     "typescript": "^5.9.3"
   }
