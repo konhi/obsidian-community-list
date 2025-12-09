@@ -34,7 +34,7 @@ describe("parseMarkdownTable", () => {
 
     expect(parsed.headers).toEqual(["📁 Name", "✨ Description"]);
     expect(parsed.rows).toHaveLength(1);
-    expect(parsed.rows[0][1]).toBe(
+    expect(parsed.rows[0]?.[1]).toBe(
       "Keyboard navigation up/down for headings\n- Configurable default code block and callout\n- Copy code block via keyboard shortcut.",
     );
 
