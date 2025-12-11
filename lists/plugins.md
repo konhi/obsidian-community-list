@@ -2696,3 +2696,4 @@
 | [LaTeX Panel Helper](https://github.com/myluster/Obsidian-LaTeX-Helper) | Provides a convenient panel with categorized LaTeX symbols, real-time search, and a pop-out window to enhance your mathematical note-taking efficiency! |
 | [Advanced Ruby](https://github.com/peter-yanase/obsidian-advanced-ruby) | Enable complex, language-independent ruby annotation rendering. |
 | [newslog](https://github.com/protoavatar/obsidian-newsletters) | Sync newsletters and kindle highlights from your newslog.me daily bundles. |
+| [Fix Math](https://github.com/loglux/fix-math-for-obsidian) | Convert LaTeX equations from ChatGPT and AI assistants to the correct Markdown format: block equations to display math, inline to inline math. |
