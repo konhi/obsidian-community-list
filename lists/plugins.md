@@ -1031,7 +1031,7 @@
 | [GTD No Next Step](https://github.com/saibotsivad/obsidian-gtd-no-next-step) | Add a badge to Getting Things Done (GTD) "project" files with no defined next step. |
 | [Safe Filename Linter](https://github.com/sneakyfoxes/obsidian-safe-filename-linter) | Lint filenames for invalid or troublesome characters. |
 | [Copy Inline Code](https://github.com/ozavodny/obsidian-copy-inline-code-plugin) | Easily copy the contents of an inline code element with a single click. |
-| [At People](https://github.com/saibotsivad/obsidian-at-people) | Use the familiar @ notation to cross link to people files in a people folder. |
+| [At People](https://github.com/backmind/obsidian-at-people) | Use the @ to create links to people files with smart fuzzy search, accent-insensitive matching, and backlink-based ranking. |
 | [ArchWiki Reader](https://github.com/lucifayr/archwiki-obsidian) | Read any ArchWiki page. |
 | [Easy Bake](https://github.com/mgmeyers/obsidian-easy-bake) | Easily compile many notes down to a single file. |
 | [Yet Another Obsidian Synchronizer](https://github.com/mahyarmirrashed/yaos) | Use Git to synchronize your vault contents across devices. |
@@ -1077,7 +1077,7 @@
 | [ChatGPT Definition](https://github.com/julix14/chatGPT-Obsidian) | Let your AI assistant ChatGPT define words and concepts for you. |
 | [Postfix](https://github.com/bhagyas/obsidian-postfix-plugin) | Use postfix completions to automatically format text. |
 | [Typing Assistant](https://github.com/Jambo2018/notion-assistant-plugin) | Support multiple shortcut menus to improve input efficiency. |
-| [Excalidraw CN](https://github.com/korbinjoe/obsidian-excalidraw-cn-plugin) | Excalidraw supporting Chinese hand write font by default. |
+| [Excalidraw CN](https://github.com/korbinzhao/obsidian-excalidraw-cn-plugin) | Excalidraw supporting Chinese hand write font by default. |
 | [BattleSnake Board Viewer](https://github.com/EnderInvader/battlesnake-viewer) | Render BattleSnake positions diagrams in note preview. |
 | [MTG Card Links](https://github.com/aedans/mtg-card-links) | Link to Magic the Gathering cards by enclosing the card name in square brackets. |
 | [Floccus Bookmarks to Markdown](https://github.com/mddevils/floccus-bookmarks-to-markdown) | Import and convert your bookmarks from Floccus. |
@@ -1219,7 +1219,6 @@
 | [Global Markdown Encryption](https://github.com/shlemiel/globaloe) | In-memory AES256-GCM Markdown encryption. |
 | [Tag Project](https://github.com/Odaimoko/tag-project) | A Project Management Tool: Tag tasks everywhere, Manage in One page. |
 | [Multi Properties](https://github.com/technohiker/obsidian-multi-properties) | Add properties to multiple notes at once. Either right-click a folder or select multiple notes and right-click the selection. |
-| [Nothing](https://github.com/chrisgrieser/obsidian-nothing) | Add a no-op command to disable hotkeys. |
 | [Slackify Note](https://github.com/jeremyoverman/obsidian-slackify-note) | Convert a note to Slack-compliant Markdown. |
 | [Timestamp Link](https://github.com/wenlzhang/obsidian-timestamp-link) | Copy timestamped links to blocks, headings and notes. |
 | [Keyword Highlighter](https://github.com/marcel-goldammer/obsidian-keyword-highlighter) | Automatically highlight specified keywords within your notes for enhanced visibility and quick reference. |
@@ -2080,7 +2079,7 @@
 | [Easy Timeline](https://github.com/Romelium/obsidian-easy-timeline) | This simplifies creating and visualizing timelines from text using dates and metadata. |
 | [Open Editors](https://github.com/4Source/open-editors-obsidian-plugin) | Adds a view which shows the opened windows, groups, tabs and editors inside them. Makes managing the open editors easier. |
 | [Contact Cards](https://github.com/aegixx/obsidian-contact-cards) | Transforms YAML data into a simple business/contact card with power features. |
-| [Better Plugins Manager](https://github.com/Obsidian-Forge/obsidian-manager) | 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。 |
+| [Better Plugins Manager](https://github.com/zenozero-dev/obsidian-manager) | 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。 |
 | [BuJo Bullets](https://github.com/frankolson/obsidian-bujo-bullets) | Alternate checkbox types to support Bullet Journal bullets. |
 | [AI-AnkiSync](https://github.com/jannusgoe/obsidian-ankisync) | Sync ai-enhanced flashcards with Anki via AnkiConnect |
 | [Dynamic Outline](https://github.com/theopavlove/obsidian-dynamic-outline) | Adds a customizable GitHub-like floating table of contents. |
@@ -2140,7 +2139,7 @@
 | [Data Files Editor](https://github.com/ZukTol/obsidian-data-files-editor) | Create and edit .txt, .json and .xml files. |
 | [New Note Fixer](https://github.com/mnaoumov/obsidian-new-note-fixer) | Unifies the way non-existing notes are created when clicking on their links. |
 | [Media Companion](https://github.com/Nick-de-Bruin/obsidian-media-companion) | Creates a searchable gallery and sidecar files for attachments such as images and videos. The sidecar files allow you to add notes and tags to your media files. |
-| [Explorer Colors](https://github.com/VaguelyElectric/obsidian-explorer-colors) | Set custom colors for files and folders. |
+| [Explorer Colors](https://github.com/VaguelyElectric/obsidian-explorer-colors) | Allows for files and folders to be configured with custom colors and other settings. |
 | [Readeck Importer](https://github.com/makebit/obsidian-readeck-importer) | Import bookmarks from Readeck. |
 | [Pixel Perfect Image](https://github.com/johansan/pixel-perfect-image) | Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, edit image in external editor, and much more. |
 | [MCP Tools](https://github.com/jacksteamdev/obsidian-mcp-tools) | Securely connect Claude Desktop to your vault with semantic search, templates, and file management capabilities. |
@@ -2340,7 +2339,6 @@
 | [Hide Index Files](https://github.com/d7sd6u/obsidian-hide-index-files) | Hide index files (folder notes) more reliably. |
 | [Crosslink Advanced](https://github.com/d7sd6u/obsidian-crosslink-advanced) | Tag files using folders and symlinks system (ftags). |
 | [Folder Navigator](https://github.com/wenlzhang/obsidian-folder-navigator) | Quickly navigate to folders in your vault using fuzzy search. |
-| [Digital Sticky Notes](https://github.com/dalecgu/obsidian-sticky-notes) | A lightweight plugin that digitizes physical sticky notes, helping you quickly save, organize, and retrieve temporary notes. |
 | [QueryDash](https://github.com/liufree/obsidian-querydash) | Add new views and enhanced features for bases. Inspired by Dataview and bases, this includes search, sorting, and pagination functionalities similar to Notion. |
 | [Disciples Journal](https://github.com/scottTomaszewski/obsidian-disciples-journal) | Embed Bible references and passages in your notes and read the Bible. |
 | [Minimal Quiz](https://github.com/Lutu-gl/Obsidian-Minimal-Quiz) | Start a quick Markdown-based quiz on your current note. Simple, straightforward, and fully integrated — similar to flashcards in Anki or Quizlet! |
@@ -2442,7 +2440,7 @@
 | [MP Preview](https://github.com/Yeban8090/mp-preview) | Preview and convert Markdown files to MP format |
 | [Viewer ftags](https://github.com/d7sd6u/obsidian-viewer-ftags) | Add file's ftags as chips at the top of the markdown view. |
 | [Sync Emails](https://github.com/taskrobin/Obsidian-Plugin) | Sync and save emails and attachment files to your vault with TaskRobin. |
-| [OMG.lol Publisher](https://github.com/ericmwalk/obsidian-omglol-publish) | Allows you to post to weblogs.lol, status.lol, some.pics and paste.lol. |
+| [OMG.lol Publisher](https://github.com/ericmwalk/obsidian-omglol-publisher) | Allows you to post to weblogs.lol, status.lol, some.pics and paste.lol. |
 | [Come Through](https://github.com/mntno/obsidian-come-through) | Drill flashcards using spaced repetition. |
 | [PDF Printer](https://github.com/cubexy/obsidian-pdf-printer) | Convert PDF documents to images directly in your notes without external dependencies. |
 | [Monokakido Copilot](https://github.com/NoHeartPen/obsidian-monokakido-copilot-plugin) | During editing, simply double-press the option key to search with the Dictionaries by Monokakido. |
@@ -2492,7 +2490,6 @@
 | [Smart Link Formatter](https://github.com/ccmdi/smart-link-formatter) | Automatically fetches page metadata from pasted links, with explicit support for specific websites. |
 | [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) | Manage and publish your notes to Quartz, the fast, batteries-included static-site generator. |
 | [Gyazo Viewer](https://github.com/nota/gyazo-obsidian-plugin) | Display your Gyazo captures and embed them into your notes. |
-| [Click Unsupported Files](https://github.com/Alb-O/obsidian-click-unsupported-files) | Changes click behavior for unsupported files to work similar to Windows File Explorer: single-click selects, double-click opens in default app. |
 | [Tag Index](https://github.com/wenlzhang/obsidian-tag-index) | Create a curated list of important tags to serve as meaningful entry points to your knowledge base. |
 | [Text Block Timer](https://github.com/wth461694678/text-block-timer) | Add a timer to text block to track task time consumption. |
 | [Simple Table Math](https://github.com/eatcodeplay/obsidian-simple-table-math) | Do some math (sum, average, etc.) in your markdown tables. |
@@ -2508,7 +2505,6 @@
 | [Slash snippets](https://github.com/echo-saurav/slash-snippets-plugin) | Use slash command to insert quick text |
 | [Scrolling](https://github.com/omeyenburg/obsidian-scrolling) | Improve scrolling and keep your cursor exactly where you want it. |
 | [Random broken link](https://github.com/janTatesa/obsidian-open-random-broken-link) | Expand your knowledge by visiting random broken links. |
-| [Copy Absolute Path](https://github.com/Alb-O/obsidian-copy-absolute-path) | Copy the system absolute path of files and folders to the clipboard. |
 | [Link Remover](https://github.com/AlphaHasher/obsidian-remove-links) | Easily remove hyperlinks and wikilinks from selected text or the entire note. |
 | [Kindle Highlights Import](https://github.com/LeonLuttenberger/obsidian-kindle-highlight-import) | Imports the Kindle highlights HTML file and saves it as a note in your vault. |
 | [Eccirian Encrypt](https://github.com/Enthalpiex/Eccirian-Encrypt) | Encrypt your notes using advanced encryption algorithms. |
@@ -2522,7 +2518,6 @@
 | [Yandex Wiki Integration](https://github.com/CubieProg/Obsidian-Yandex-Wiki-Integration) | Integration with Yandex Wiki knowledge base |
 | [Scratchpad](https://github.com/kvh03/obsidian-scratchpad) | Take temporary notes and draw freehand in a sidebar scratchpad. |
 | [Diary ICS](https://github.com/mousebomb/obsidian-diary-ics) | Sync diary entries to system calendar via ICS feed. |
-| [Sidecars](https://github.com/Alb-O/obsidian-sidecars) | Automated, user-friendly management of 'sidecar' companion notes for non-markdown files. |
 | [TaskNotes](https://github.com/callumalpass/tasknotes) | Note-based task management with calendar, pomodoro and time-tracking integration. |
 | [SOC Toolkit](https://github.com/michaelmassoni/obsidian-soc-toolkit) | A collection of tools for cyber security analysts. |
 | [Simple Vault Importer](https://github.com/WebInspectInc/obsidian-simple-template-importer) | Import starter vaults into your own vault. |
@@ -2686,7 +2681,7 @@
 | [Checkbox Style Menu](https://github.com/ReticentEclectic/checkbox-style-menu) | Provides an intuitive menu for quickly changing checkbox styles. |
 | [SideNote](https://github.com/mofukuru/SideNote) | Add comment on the part of sentence and refer in comment view. |
 | [Table Checkbox Renderer](https://github.com/dannns/obsidian-table-checkbox-renderer) | Interactive checkboxes for Markdown tables. Toggle checkboxes in Reading Mode to instantly update the Markdown file. Supports multiple checkboxes per cell and any table layout. |
-| [Vault Encrypt](https://github.com/pluppen/obsidian-vault-encrypt-plugin) | Encrypts and decrypts the contents of the vault using a password. |
+| [Vault Encrypt](https://github.com/Pluppen/obsidian-vault-encrypt-plugin) | Encrypts and decrypts the contents of the vault using a password. |
 | [Lark Style CountDown Timer](https://github.com/MoshiQAQ/obsidian-lark-countdown-plugin) | Create Feishu/Lark-style countdown blocks. |
 | [Quick Matrix](https://github.com/thewheelbarrow/quick-matrix) | Adds command to make LaTeX matrices quickly. |
 | [Hydrate](https://github.com/hydrateagent/hydrate) | Cursor-like note agent with MCP support. |
@@ -2697,3 +2692,5 @@
 | [Advanced Ruby](https://github.com/peter-yanase/obsidian-advanced-ruby) | Enable complex, language-independent ruby annotation rendering. |
 | [newslog](https://github.com/protoavatar/obsidian-newsletters) | Sync newsletters and kindle highlights from your newslog.me daily bundles. |
 | [Fix Math](https://github.com/loglux/fix-math-for-obsidian) | Convert LaTeX equations from ChatGPT and AI assistants to the correct Markdown format: block equations to display math, inline to inline math. |
+| [API Designer](https://github.com/ruveydayilmaz/obsidian-api-designer-plugin) | Design and document API endpoints visually without leaving your notes. |
+| [Book Clipper](https://github.com/fardm/obsidian-book-clipper) | Save book details from websites into your notes. |
