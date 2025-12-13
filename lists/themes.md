@@ -130,6 +130,7 @@
 | [hush-hush/obsidian_wombat](https://github.com/hush-hush/obsidian_wombat) | ![Wombat](https://raw.githubusercontent.com/hush-hush/obsidian_wombat/master/main_thumbnail.png) |
 | [JamesLemony/obsidian_vibrant](https://github.com/JamesLemony/obsidian_vibrant) | ![Vibrant](https://raw.githubusercontent.com/JamesLemony/obsidian_vibrant/master/images/demo1.png) |
 | [ph17/Dust](https://github.com/ph17/Dust) | ![Atomus](https://raw.githubusercontent.com/ph17/Dust/master/Screenshot_2.png) |
+| [faroukx/Obsidian-shiba-inu-theme](https://github.com/faroukx/Obsidian-shiba-inu-theme) | ![Shiba Inu](https://raw.githubusercontent.com/faroukx/Obsidian-shiba-inu-theme/master/shibainubackgroundshowcase.png) |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | ![AnuPpuccin](https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/master/preview.png) |
 | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) | ![Abyssal](https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/master/abyssal-thumbnail.png) |
 | [lnbgc/obsidian-jotter](https://github.com/lnbgc/obsidian-jotter) | ![Jotter](https://raw.githubusercontent.com/lnbgc/obsidian-jotter/master/jotter.png) |
