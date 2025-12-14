@@ -2694,3 +2694,4 @@
 | [Fix Math](https://github.com/loglux/fix-math-for-obsidian) | Convert LaTeX equations from ChatGPT and AI assistants to the correct Markdown format: block equations to display math, inline to inline math. |
 | [API Designer](https://github.com/ruveydayilmaz/obsidian-api-designer-plugin) | Design and document API endpoints visually without leaving your notes. |
 | [Book Clipper](https://github.com/fardm/obsidian-book-clipper) | Save book details from websites into your notes. |
+| [DOCX Exporter](https://github.com/kanshurichard/obsidian-docx-exporter) | Export notes to Microsoft Word docx files with mobile devices support. |
