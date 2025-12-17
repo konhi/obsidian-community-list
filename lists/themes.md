@@ -129,7 +129,6 @@
 | [AllJavi/material_gruvbox_obsidian](https://github.com/AllJavi/material_gruvbox_obsidian) | ![Material Gruvbox](https://raw.githubusercontent.com/AllJavi/material_gruvbox_obsidian/master/promo_screenshot.png) |
 | [hush-hush/obsidian_wombat](https://github.com/hush-hush/obsidian_wombat) | ![Wombat](https://raw.githubusercontent.com/hush-hush/obsidian_wombat/master/main_thumbnail.png) |
 | [JamesLemony/obsidian_vibrant](https://github.com/JamesLemony/obsidian_vibrant) | ![Vibrant](https://raw.githubusercontent.com/JamesLemony/obsidian_vibrant/master/images/demo1.png) |
-| [ph17/Dust](https://github.com/ph17/Dust) | ![Atomus](https://raw.githubusercontent.com/ph17/Dust/master/Screenshot_2.png) |
 | [faroukx/Obsidian-shiba-inu-theme](https://github.com/faroukx/Obsidian-shiba-inu-theme) | ![Shiba Inu](https://raw.githubusercontent.com/faroukx/Obsidian-shiba-inu-theme/master/shibainubackgroundshowcase.png) |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | ![AnuPpuccin](https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/master/preview.png) |
 | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) | ![Abyssal](https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/master/abyssal-thumbnail.png) |
@@ -339,7 +338,6 @@
 | [LennZone/Neumorphism](https://github.com/LennZone/Neumorphism) | ![Neumorphism](https://raw.githubusercontent.com/LennZone/Neumorphism/master/thumbnail.png) |
 | [splendidissimemendax/Camena](https://github.com/splendidissimemendax/Camena) | ![Camena](https://raw.githubusercontent.com/splendidissimemendax/Camena/master/Thumbnail.png) |
 | [MrParalloid/pomme-notes](https://github.com/MrParalloid/pomme-notes) | ![Pomme Notes](https://raw.githubusercontent.com/MrParalloid/pomme-notes/master/images/screenshot.jpg) |
-| [ph17/Dust](https://github.com/ph17/Dust) | ![Dust](https://raw.githubusercontent.com/ph17/Dust/master/theme_screenshot.png) |
 | [incantatem2/Obsidian-deep-submerge](https://github.com/incantatem2/Obsidian-deep-submerge) | ![deep submerge](https://raw.githubusercontent.com/incantatem2/Obsidian-deep-submerge/master/images/deep-submerge-thumbnail.jpg) |
 | [manuelcoca/obsidian-mono-high-contrast-theme](https://github.com/manuelcoca/obsidian-mono-high-contrast-theme) | ![Mono High Contrast](https://raw.githubusercontent.com/manuelcoca/obsidian-mono-high-contrast-theme/master/assets/thumbnail.png) |
 | [aidanastridge/Publisher](https://github.com/aidanastridge/Publisher) | ![Publisher](https://raw.githubusercontent.com/aidanastridge/Publisher/master/src/thumbnail.png) |

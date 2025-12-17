@@ -1622,7 +1622,7 @@
 | [Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) | Timesheet generator for tasks in daily notes. |
 | [List Outline Helper](https://github.com/triangular-sneaky/obsidian-list-outline-helper) | Utilities to work with list outlines. Currently supports selecting the outline (current line and children) |
 | [Query JSON](https://github.com/Rooyca/query-json) | Read, query and work with JSON. |
-| [Voicenotes Sync](https://github.com/mysticcoders/voicenotes-sync) | A plugin for syncing Voicenotes.com data into notes |
+| [Voicenotes Sync](https://github.com/voicenotes-community/voicenotes-sync) | A plugin for syncing Voicenotes.com data into notes |
 | [Légifrance Intégration](https://github.com/carnetdethese/legifrance-integration) | Intégration de l'API Légifrance. |
 | [Github Copilot](https://github.com/Pierrad/obsidian-github-copilot) | Implement suggestions from Github Copilot directly in your editor. |
 | [Toggle RTL mode](https://github.com/YoniA/toggle-rtl-obsidian-plugin) | Toggle RTL mode using command or ribbon action |
@@ -1904,7 +1904,7 @@
 | [Open Interpreter](https://github.com/MikeBirdTech/obsidian-open-interpreter) | An AI assistant that you can control with natural language. The power of Open Interpreter in your vault |
 | [Scrambling Title Animations](https://github.com/DvorakDwarf/scrambling-title-animations) | Animates the title of any note you open by scrambling and revealing it in several visually appealing ways. |
 | [Lemons Search](https://github.com/mProjectsCode/obsidian-lemons-search-plugin) | A blazingly fast fuzzy finder with file preview. |
-| [Flow](https://github.com/tavva/flow-release) | Implements key processes in David Allen's Getting Things Done (GTD) methodology (Closed source) |
+| [Flow](https://github.com/tavva/flow) | Implements key processes in David Allen's Getting Things Done (GTD) methodology (Closed source) |
 | [Quarto Exporter](https://github.com/AndreasThinks/obsidian-to-quarto-exporter) | Export notes to Quarto-compatible QMD files. |
 | [Copy Section](https://github.com/skztr/obsidian-plugin-section-copy) | Adds a Copy button to the top of Headed sections. |
 | [Cloud Storage](https://github.com/yingjialong/obsidian-CloudStorage) | Allows users to upload local files to the cloud, reducing the burden on local vaults and enabling seamless synchronization across multiple devices. |
