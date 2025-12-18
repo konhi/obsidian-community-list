@@ -2695,3 +2695,6 @@
 | [API Designer](https://github.com/ruveydayilmaz/obsidian-api-designer-plugin) | Design and document API endpoints visually without leaving your notes. |
 | [Book Clipper](https://github.com/fardm/obsidian-book-clipper) | Save book details from websites into your notes. |
 | [DOCX Exporter](https://github.com/kanshurichard/obsidian-docx-exporter) | Export notes to Microsoft Word docx files with mobile devices support. |
+| [AI Companion](https://github.com/kowshik24/obsidian-ai-assistant) | AI companion accessible with /ai command in notes. Supports OpenAI integration. |
+| [Reading progress desktop](https://github.com/qian-shen/obsidian-reading-progress-desktop) | A progress bar for some views in the status bar(desktopAPP). |
+| [OCR Extractor](https://github.com/jritzi/ocr-extractor) | Extract text from documents, images, etc. and store it as Markdown in your notes. |
