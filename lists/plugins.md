@@ -729,7 +729,7 @@
 | [Vega Visualizations](https://github.com/Justin-J-K/obsidian-vega) | Create highly-customizable data visualizations like line charts and scatter plots using Vega or Vega-Lite. |
 | [Link Nodes in Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) | Add edges between notes in Canvas based on their links. |
 | [Canvas CSS class](https://github.com/Mara-Li/obsidian-canvas-css-class) | Add a CSS class to the canvas, but also other attributes. |
-| [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3 |
+| [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) | AI link discovery copilot. See related notes as you write. Lookup using semantic (vector) search across your vault. Zero-setup local model for embeddings, no API keys, private. |
 | [Short links](https://github.com/scottwillmoore/obsidian-short-links) | Display short internal links to files, notes, headings, and blocks. |
 | [Hyphenation](https://github.com/7596ff/obsidian-hyphenation) | Enable justified text and hyphenation. |
 | [S3 attachments storage](https://github.com/ttax00/obsidian-s3) | Storage and retrieval of media attachments on S3 compatible services. |
@@ -1281,7 +1281,7 @@
 | [Rendered Block Link Suggestions](https://github.com/RyotaUshio/obsidian-rendered-block-link-suggestions) | Upgrade Obsidian's built-in link suggestions with block Markdown rendering. |
 | [Quick Preview](https://github.com/RyotaUshio/obsidian-quick-preview) | Quickly preview a suggestion before selecting it in link suggestions & quick switcher. |
 | [Desk](https://github.com/davidlandry93/obsidian-desk) | A desk to see notes at a glance. Requires Dataview. |
-| [Tldraw](https://github.com/szamsolo/tldraw-in-obsidian) | Use Tldraw to draw and edit content on a virtual whiteboard. |
+| [Tldraw](https://github.com/tldraw-in-obsidian/tldraw-in-obsidian) | Use Tldraw to draw and edit content on a virtual whiteboard. |
 | [Autocorrect Formatter](https://github.com/b-yp/obsidian-autocorrect) | Format Markdown content using Autocorrect. |
 | [Vim Yank Highlight](https://github.com/aleksey-rowan/obsidian-vim-yank-highlight) | Highlight yanked text in Vim mode. Enjoy that subtle animation you've missed so much. |
 | [TickTickSync](https://github.com/thesamim/TickTickSync) | Sync TickTick tasks. |
@@ -2079,7 +2079,7 @@
 | [Easy Timeline](https://github.com/Romelium/obsidian-easy-timeline) | This simplifies creating and visualizing timelines from text using dates and metadata. |
 | [Open Editors](https://github.com/4Source/open-editors-obsidian-plugin) | Adds a view which shows the opened windows, groups, tabs and editors inside them. Makes managing the open editors easier. |
 | [Contact Cards](https://github.com/aegixx/obsidian-contact-cards) | Transforms YAML data into a simple business/contact card with power features. |
-| [Better Plugins Manager](https://github.com/zenozero-dev/obsidian-manager) | 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。 |
+| [Better Plugins Manager](https://github.com/zenozerocode/obsidian-manager) | 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。 |
 | [BuJo Bullets](https://github.com/frankolson/obsidian-bujo-bullets) | Alternate checkbox types to support Bullet Journal bullets. |
 | [AI-AnkiSync](https://github.com/jannusgoe/obsidian-ankisync) | Sync ai-enhanced flashcards with Anki via AnkiConnect |
 | [Dynamic Outline](https://github.com/theopavlove/obsidian-dynamic-outline) | Adds a customizable GitHub-like floating table of contents. |
@@ -2126,7 +2126,7 @@
 | [Dataview Autocompletion](https://github.com/dnlbauer/obsidian-dataview-autocompletion) | Adds autocompletion to Dataview metadata fields |
 | [Image Preview on Icon Hover](https://github.com/rama1997/Image-Preview-On-Icon-Hover) | Adds custom image previews when hovering over various UI icons. |
 | [Clone Vault](https://github.com/laantorchaweb/clone-vault) | Clones the current vault by copying settings and folder structure without note contents. |
-| [Hephaistos Importer](https://github.com/Skallaturi/hephaistos-importer) | Imports main stats from the Starfinder RPG character website Hephaistos. |
+| [Hephaistos Importer](https://github.com/runa-rist/hephaistos-importer) | Imports main stats from the Starfinder RPG character website Hephaistos. |
 | [WhatsApp backup importer](https://github.com/LuigiCerone/obsidian-whatsapp-backup-importer) | Import WhatsApp export inside your vault. |
 | [Context Command Hider](https://github.com/Mara-Li/obsidian-context-menu-hider) | Hide any command from the right-click menu. |
 | [NetClip](https://github.com/Elhary/Obsidian-NetClip) | Clip, save, search, and browse web pages |
