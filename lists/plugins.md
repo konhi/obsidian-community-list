@@ -1281,7 +1281,7 @@
 | [Rendered Block Link Suggestions](https://github.com/RyotaUshio/obsidian-rendered-block-link-suggestions) | Upgrade Obsidian's built-in link suggestions with block Markdown rendering. |
 | [Quick Preview](https://github.com/RyotaUshio/obsidian-quick-preview) | Quickly preview a suggestion before selecting it in link suggestions & quick switcher. |
 | [Desk](https://github.com/davidlandry93/obsidian-desk) | A desk to see notes at a glance. Requires Dataview. |
-| [Tldraw](https://github.com/tldraw-in-obsidian/tldraw-in-obsidian) | Use Tldraw to draw and edit content on a virtual whiteboard. |
+| [Tldraw](https://github.com/tldraw-in-obsidian/tldraw-in-obsidian) | Integration with tldraw, allowing users to draw and edit content on a virtual whiteboard. |
 | [Autocorrect Formatter](https://github.com/b-yp/obsidian-autocorrect) | Format Markdown content using Autocorrect. |
 | [Vim Yank Highlight](https://github.com/aleksey-rowan/obsidian-vim-yank-highlight) | Highlight yanked text in Vim mode. Enjoy that subtle animation you've missed so much. |
 | [TickTickSync](https://github.com/thesamim/TickTickSync) | Sync TickTick tasks. |
@@ -2698,3 +2698,6 @@
 | [AI Companion](https://github.com/kowshik24/obsidian-ai-assistant) | AI companion accessible with /ai command in notes. Supports OpenAI integration. |
 | [Reading progress desktop](https://github.com/qian-shen/obsidian-reading-progress-desktop) | A progress bar for some views in the status bar(desktopAPP). |
 | [OCR Extractor](https://github.com/jritzi/ocr-extractor) | Extract text from documents, images, etc. and store it as Markdown in your notes. |
+| [Transcription Audio](https://github.com/cha-yh/transcription-audio-obsidian-plugin) | Transcribe audio files into Markdown notes. |
+| [Deep Sit](https://github.com/bassio/obsidian-deepsit) | Focused study and research tool that allows citing and reviewing primary sources through a Zotero integration. |
+| [TIPA Support](https://github.com/akdemirdeniz/obsidian-tipa) | Adds support for TIPA phonetic notation. |
