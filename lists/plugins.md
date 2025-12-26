@@ -2701,3 +2701,5 @@
 | [Transcription Audio](https://github.com/cha-yh/transcription-audio-obsidian-plugin) | Transcribe audio files into Markdown notes. |
 | [Deep Sit](https://github.com/bassio/obsidian-deepsit) | Focused study and research tool that allows citing and reviewing primary sources through a Zotero integration. |
 | [TIPA Support](https://github.com/akdemirdeniz/obsidian-tipa) | Adds support for TIPA phonetic notation. |
+| [Last Edit Location](https://github.com/awfrok/obsidian-plugin-last-edit-location) | Put the cursor at the last edit location when opening a note. Work well with multiple notes. |
+| [TsumugiMark](https://github.com/mofukuru/TsumugiMark) | vertical editor for Japanese writer. |
