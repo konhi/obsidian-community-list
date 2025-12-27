@@ -2703,3 +2703,4 @@
 | [TIPA Support](https://github.com/akdemirdeniz/obsidian-tipa) | Adds support for TIPA phonetic notation. |
 | [Last Edit Location](https://github.com/awfrok/obsidian-plugin-last-edit-location) | Put the cursor at the last edit location when opening a note. Work well with multiple notes. |
 | [TsumugiMark](https://github.com/mofukuru/TsumugiMark) | vertical editor for Japanese writer. |
+| [Tag Timer](https://github.com/quantavil/Tag-Timer) | Add a timer to Tags and get analytics on how long you spend on each task. |
