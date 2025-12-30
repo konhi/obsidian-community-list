@@ -322,7 +322,7 @@
 | [Oura Ring](https://github.com/kinabalu/obsidian-oura-plugin) | Import Oura Ring data into a note. |
 | [Image Caption](https://github.com/bicarlsen/obsidian_image_caption) | Add caption to images. |
 | [Graph Analysis](https://github.com/SkepticMystic/graph-analysis) | Find hidden connections between notes in your vault using cool graph algorithms. |
-| [Custom Attachment Location](https://github.com/RainCat1998/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like Typora. |
+| [Custom Attachment Location](https://github.com/mnaoumov/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like Typora. |
 | [Cryptsidian](https://github.com/triumphantomato/cryptsidian) | Encrypt all files in your vault with a password. |
 | [Crypto Lookup](https://github.com/kinabalu/obsidian-crypto-lookup) | Use the Cryptonator API to pull prices for crypto in a target currency. |
 | [Copy as LaTeX](https://github.com/mo-seph/obsidian-copy-as-latex) | Quickly copy Markdown as LaTeX, with citations. |
