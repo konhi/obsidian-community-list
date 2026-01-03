@@ -414,3 +414,7 @@
 | [AstroAir/obsidian-night-owl](https://github.com/AstroAir/obsidian-night-owl) | ![Night Owl](https://raw.githubusercontent.com/AstroAir/obsidian-night-owl/master/owl-icon.png) |
 | [flowing-abyss/obsidian-base16-default-dark](https://github.com/flowing-abyss/obsidian-base16-default-dark) | ![Base16 Default Dark](https://raw.githubusercontent.com/flowing-abyss/obsidian-base16-default-dark/master/assets/theme.png) |
 | [volodinroman/obsidian-tech001-theme](https://github.com/volodinroman/obsidian-tech001-theme) | ![Tech001](https://raw.githubusercontent.com/volodinroman/obsidian-tech001-theme/master/screenshot.png) |
+| [Nichtigott/NichNeumor](https://github.com/Nichtigott/NichNeumor) | ![NichNeumor](https://raw.githubusercontent.com/Nichtigott/NichNeumor/master/Picture/preview.jpg) |
+| [yuanzhixiang/obsidian-theme-quietus](https://github.com/yuanzhixiang/obsidian-theme-quietus) | ![Quietus](https://raw.githubusercontent.com/yuanzhixiang/obsidian-theme-quietus/master/screenshot.png) |
+| [davidvkimball/obsidian-oxygen](https://github.com/davidvkimball/obsidian-oxygen) | ![Oxygen](https://raw.githubusercontent.com/davidvkimball/obsidian-oxygen/master/theme-cover-512.png) |
+| [DuckTapeKiller/Brutalist](https://github.com/DuckTapeKiller/Brutalist) | ![Brutalist](https://raw.githubusercontent.com/DuckTapeKiller/Brutalist/master/screenshot.png) |
