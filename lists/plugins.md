@@ -2705,3 +2705,8 @@
 | [TsumugiMark](https://github.com/mofukuru/TsumugiMark) | vertical editor for Japanese writer. |
 | [Tag Timer](https://github.com/quantavil/Tag-Timer) | Add a timer to Tags and get analytics on how long you spend on each task. |
 | [Timelog](https://github.com/eddie/obsidian-time-log) | Add timestamps to entries under dated headers for lab notebook style logging. |
+| [Minidoro](https://github.com/shaktisampadswain/minidoro) | A minimal Pomodoro timer to help you focus. |
+| [Remember Scrollposition](https://github.com/s-blu/obsidian-remember-scrollposition) | Remembers the scroll position in your notes and returns you to your last position upon opening a note. |
+| [Asciinema Player](https://github.com/deeplook/obsidian-asciinema-player) | Embed local and remote Asciinema asciicast files in Markdown notes. |
+| [Open in Terminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Gemini CLI directly from a terminal. |
+| [Default Template](https://github.com/raeperd/obsidian-default-template) | Automatically apply templates to new notes with user-configurable template selection. |
