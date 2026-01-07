@@ -2710,3 +2710,5 @@
 | [Asciinema Player](https://github.com/deeplook/obsidian-asciinema-player) | Embed local and remote Asciinema asciicast files in Markdown notes. |
 | [Open in Terminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Gemini CLI directly from a terminal. |
 | [Default Template](https://github.com/raeperd/obsidian-default-template) | Automatically apply templates to new notes with user-configurable template selection. |
+| [Disable Tabs](https://github.com/davidvkimball/obsidian-disable-tabs) | Disables having more than one tab open at a time. |
+| [Auto Keyword Linker](https://github.com/danrhodes/AutoKeywordLinker) | Automatically creates backlinks for specified keywords with variations and preview mode. |
