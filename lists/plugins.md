@@ -2712,3 +2712,4 @@
 | [Default Template](https://github.com/raeperd/obsidian-default-template) | Automatically apply templates to new notes with user-configurable template selection. |
 | [Disable Tabs](https://github.com/davidvkimball/obsidian-disable-tabs) | Disables having more than one tab open at a time. |
 | [Auto Keyword Linker](https://github.com/danrhodes/AutoKeywordLinker) | Automatically creates backlinks for specified keywords with variations and preview mode. |
+| [Conditional Properties](https://github.com/diegoeis/obsidian-conditional-properties) | Automate frontmatter updates using conditional rules (IF/THEN). |
