@@ -398,7 +398,7 @@
 | [HotAndCold245/Hidden-Grotto](https://github.com/HotAndCold245/Hidden-Grotto) | ![Hidden Grotto](https://raw.githubusercontent.com/HotAndCold245/Hidden-Grotto/master/grotto-screenshot.png) |
 | [vinitkumar/oscura-obsidian](https://github.com/vinitkumar/oscura-obsidian) | ![Oscura](https://raw.githubusercontent.com/vinitkumar/oscura-obsidian/master/screenshot.png) |
 | [david-troyer/obsidian-theme-minimalist-studio](https://github.com/david-troyer/obsidian-theme-minimalist-studio) | ![Minimalist Studio](https://raw.githubusercontent.com/david-troyer/obsidian-theme-minimalist-studio/master/thumbnail.jpg) |
-| [wulflo/obsidian-3Sumaq](https://github.com/wulflo/obsidian-3Sumaq) | ![Universitario](https://raw.githubusercontent.com/wulflo/obsidian-3Sumaq/master/cover.jpg) |
+| [wulflo/obsidian-3Sumaq](https://github.com/wulflo/obsidian-3Sumaq) | ![Universitario](https://raw.githubusercontent.com/wulflo/obsidian-3Sumaq/master/cover.png) |
 | [modigaphemelo/Dedication-obsidian-theme](https://github.com/modigaphemelo/Dedication-obsidian-theme) | ![Dedication](https://raw.githubusercontent.com/modigaphemelo/Dedication-obsidian-theme/master/Dark.png) |
 | [vinitkumar/monokai-ristretto-obsidian](https://github.com/vinitkumar/monokai-ristretto-obsidian) | ![Monokai Ristretto](https://raw.githubusercontent.com/vinitkumar/monokai-ristretto-obsidian/master/screenshot.png) |
 | [Jawuj/Blur-Theme](https://github.com/Jawuj/Blur-Theme) | ![Blur](https://raw.githubusercontent.com/Jawuj/Blur-Theme/master/Screenshot.png) |
