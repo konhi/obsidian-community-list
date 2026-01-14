@@ -113,7 +113,7 @@
 | [marcoluzi/obsidian-synthwave](https://github.com/marcoluzi/obsidian-synthwave) | ![SynthWave](https://raw.githubusercontent.com/marcoluzi/obsidian-synthwave/master/screenshot.jpeg) |
 | [ltctceplrm/oldsidian-purple](https://github.com/ltctceplrm/oldsidian-purple) | ![Oldsidian Purple](https://raw.githubusercontent.com/ltctceplrm/oldsidian-purple/master/cover.png) |
 | [lucas-fern/obsidian-deeper-work-theme](https://github.com/lucas-fern/obsidian-deeper-work-theme) | ![deeper work](https://raw.githubusercontent.com/lucas-fern/obsidian-deeper-work-theme/master/thumbnail.png) |
-| [ashwinjadhav818/obsidian-aura](https://github.com/ashwinjadhav818/obsidian-aura) | ![Aura](https://raw.githubusercontent.com/ashwinjadhav818/obsidian-aura/master/assets/showcase-preview.png) |
+| [shadowash8/obsidian-aura](https://github.com/shadowash8/obsidian-aura) | ![Aura](https://raw.githubusercontent.com/shadowash8/obsidian-aura/master/assets/showcase-preview.png) |
 | [zamsyt/obsidian-ion](https://github.com/zamsyt/obsidian-ion) | ![ion](https://raw.githubusercontent.com/zamsyt/obsidian-ion/master/thumbnail.png) |
 | [efemkay/obsidian-listive-theme](https://github.com/efemkay/obsidian-listive-theme) | ![Listive](https://raw.githubusercontent.com/efemkay/obsidian-listive-theme/master/thumbnail.jpg) |
 | [dragonwocky/obsidian-material-ocean](https://github.com/dragonwocky/obsidian-material-ocean) | ![Material Ocean](https://raw.githubusercontent.com/dragonwocky/obsidian-material-ocean/master/thumbnail.png) |
