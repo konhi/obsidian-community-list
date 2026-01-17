@@ -2712,3 +2712,6 @@
 | [Auto Keyword Linker](https://github.com/danrhodes/AutoKeywordLinker) | Automatically creates backlinks for specified keywords with variations and preview mode. |
 | [Conditional Properties](https://github.com/diegoeis/obsidian-conditional-properties) | Automate frontmatter updates using conditional rules (IF/THEN). |
 | [Edit Link Alias](https://github.com/mnaoumov/obsidian-edit-link-alias) | Adds edit link alias command. |
+| [Better Link Clicker](https://github.com/eniverz/obsidian-better-link-clicker-plugin) | Changes link click behavior to edit on click and navigate on Ctrl+Click. |
+| [Next TOC](https://github.com/RavenHogWarts/obsidian-next-toc) | Floating panel displaying the current document's reading progress, table of contents, and navigation aids. |
+| [GoBoard](https://github.com/dsokolov/goboard) | Render Go game diagrams from Markdown code blocks. |
