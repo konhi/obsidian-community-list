@@ -2715,3 +2715,7 @@
 | [Better Link Clicker](https://github.com/eniverz/obsidian-better-link-clicker-plugin) | Changes link click behavior to edit on click and navigate on Ctrl+Click. |
 | [Next TOC](https://github.com/RavenHogWarts/obsidian-next-toc) | Floating panel displaying the current document's reading progress, table of contents, and navigation aids. |
 | [GoBoard](https://github.com/dsokolov/goboard) | Render Go game diagrams from Markdown code blocks. |
+| [RSS Dashboard](https://github.com/amatya-aditya/obsidian-rss-dashboard) | A dashboard for organizing and consuming RSS feeds, YouTube channels, and podcasts with smart tagging, media playback, and seamless content flow. |
+| [YOLO](https://github.com/Lapis0x0/obsidian-yolo) | Smart, snappy, and multilingual AI assistant for your vault. |
+| [Connections](https://github.com/evancleve/obsidian-connections) | Define and view named connections between your notes. |
+| [Japanese Manuscript Counter](https://github.com/YoFujii0705/japanese-manuscript-counter) | Displays the number of Japanese characters and their equivalent in 400-character manuscript paper in real time. Provides an accurate count taking into account line breaks, paragraphs, and character breaks. |
