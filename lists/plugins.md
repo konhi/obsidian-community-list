@@ -2719,3 +2719,5 @@
 | [YOLO](https://github.com/Lapis0x0/obsidian-yolo) | Smart, snappy, and multilingual AI assistant for your vault. |
 | [Connections](https://github.com/evancleve/obsidian-connections) | Define and view named connections between your notes. |
 | [Japanese Manuscript Counter](https://github.com/YoFujii0705/japanese-manuscript-counter) | Displays the number of Japanese characters and their equivalent in 400-character manuscript paper in real time. Provides an accurate count taking into account line breaks, paragraphs, and character breaks. |
+| [Easy Tracker](https://github.com/hunter-ji/obsidian-easy-tracker) | Instantly track goals and habits. Simple, beautiful, and configuration-free. |
+| [My SVGs](https://github.com/ce-omarbadawy/obsidian-my-svgs) | Registers your own SVGs into the global icon library for use with other plugins or however you want. |
