@@ -16,7 +16,7 @@
 | [kartik-karz/moonlight-obsidian](https://github.com/kartik-karz/moonlight-obsidian) | ![Moonlight](https://raw.githubusercontent.com/kartik-karz/moonlight-obsidian/master/moonlight-theme.png) |
 | [seanwcom/Red-Graphite-for-Obsidian](https://github.com/seanwcom/Red-Graphite-for-Obsidian) | ![Red Graphite](https://raw.githubusercontent.com/seanwcom/Red-Graphite-for-Obsidian/master/thumbnail.png) |
 | [kartik-karz/subtlegold-obsidian](https://github.com/kartik-karz/subtlegold-obsidian) | ![Subtlegold](https://raw.githubusercontent.com/kartik-karz/subtlegold-obsidian/master/subtlegold-theme.png) |
-| [sainadh-d/obsidian-boom](https://github.com/sainadh-d/obsidian-boom) | ![Obsidian Boom](https://raw.githubusercontent.com/sainadh-d/obsidian-boom/master/roam-1.png) |
+| [sainadhx/obsidian-boom](https://github.com/sainadhx/obsidian-boom) | ![Obsidian Boom](https://raw.githubusercontent.com/sainadhx/obsidian-boom/master/roam-1.png) |
 | [pgalliford/Obsidian-theme-Incredible-Hulk](https://github.com/pgalliford/Obsidian-theme-Incredible-Hulk) | ![Hulk](https://raw.githubusercontent.com/pgalliford/Obsidian-theme-Incredible-Hulk/master/Screen%20Shot.png) |
 | [GuangluWu/obsidian-pisum](https://github.com/GuangluWu/obsidian-pisum) | ![Pisum](https://raw.githubusercontent.com/GuangluWu/obsidian-pisum/master/fullpower.png) |
 | [elliotboyd/obsidian-traffic-lights](https://github.com/elliotboyd/obsidian-traffic-lights) | ![Traffic Lights](https://raw.githubusercontent.com/elliotboyd/obsidian-traffic-lights/master/dark.png) |
@@ -182,7 +182,7 @@
 | [davidjroos/obsidian-notswift](https://github.com/davidjroos/obsidian-notswift) | ![NotSwift](https://raw.githubusercontent.com/davidjroos/obsidian-notswift/master/screenie.png) |
 | [x0aa7i/obsidian-neo](https://github.com/x0aa7i/obsidian-neo) | ![Neo](https://raw.githubusercontent.com/x0aa7i/obsidian-neo/master/cover.png) |
 | [SakuraIsayeki/vanilla-amoled-theme](https://github.com/SakuraIsayeki/vanilla-amoled-theme) | ![Vanilla AMOLED](https://raw.githubusercontent.com/SakuraIsayeki/vanilla-amoled-theme/master/sample-screenshot-sm.png) |
-| [Fro-Q/Qlean](https://github.com/Fro-Q/Qlean) | ![Qlean](https://raw.githubusercontent.com/Fro-Q/Qlean/master/assets/Qlean.png) |
+| [froq0/Qlean](https://github.com/froq0/Qlean) | ![Qlean](https://raw.githubusercontent.com/froq0/Qlean/master/assets/Qlean.png) |
 | [possibly-not/obsidian-aura-theme](https://github.com/possibly-not/obsidian-aura-theme) | ![Aura Dark](https://raw.githubusercontent.com/possibly-not/obsidian-aura-theme/master/img/aura_dark_diagonal.png) |
 | [Warrobot10/Serika-for-obsidian](https://github.com/Warrobot10/Serika-for-obsidian) | ![Serika](https://raw.githubusercontent.com/Warrobot10/Serika-for-obsidian/master/Serika.png) |
 | [1612elphi/autotape-theme](https://github.com/1612elphi/autotape-theme) | ![Autotape](https://raw.githubusercontent.com/1612elphi/autotape-theme/master/Screen.png) |
@@ -361,7 +361,7 @@
 | [anotherlusitano/SpectrumPlus](https://github.com/anotherlusitano/SpectrumPlus) | ![SpectrumPlus](https://raw.githubusercontent.com/anotherlusitano/SpectrumPlus/master/SpectrumPlusStorePreview.png) |
 | [JabariD/obsidian-radiance](https://github.com/JabariD/obsidian-radiance) | ![Radiance](https://raw.githubusercontent.com/JabariD/obsidian-radiance/master/cover.png) |
 | [kyffa/Iridium](https://github.com/kyffa/Iridium) | ![Iridium](https://raw.githubusercontent.com/kyffa/Iridium/master/screenshot.png) |
-| [cheycron/flat-cap-obsidian](https://github.com/cheycron/flat-cap-obsidian) | ![FlatCap](https://raw.githubusercontent.com/cheycron/flat-cap-obsidian/master/images/screenshot.png) |
+| [cheycron/flatcap-obsidian](https://github.com/cheycron/flatcap-obsidian) | ![FlatCap](https://raw.githubusercontent.com/cheycron/flatcap-obsidian/master/images/screenshot.png) |
 | [Vlad3Design/Mushin](https://github.com/Vlad3Design/Mushin) | ![Mushin](https://raw.githubusercontent.com/Vlad3Design/Mushin/master/Mushin.jpg) |
 | [cxj05h/obsidian-avatar](https://github.com/cxj05h/obsidian-avatar) | ![Avatar](https://raw.githubusercontent.com/cxj05h/obsidian-avatar/master/Avatar_Theme.png) |
 | [Riffaells/Robsi](https://github.com/Riffaells/Robsi) | ![Robsi](https://raw.githubusercontent.com/Riffaells/Robsi/master/screenshot.png) |
