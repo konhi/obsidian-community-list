@@ -2720,3 +2720,4 @@
 | [AI Transcriber](https://github.com/mssoftjp/obsidian-ai-transcriber) | AI-powered speech-to-text transcription using OpenAI GPT-4o and Whisper APIs. |
 | [Weather Widget](https://github.com/mr-asa/obsidian_weather) | Weather widget for display in notes, Canvas, and a separate tab. |
 | [Status Bar Clock](https://github.com/marty331/status-bar-clock-obsidian) | Status bar clock. |
+| [Simple Steam Auth](https://github.com/dreamscached/obsidian-simple-steam-auth) | Generate Steam Guard codes right in your vault. |
