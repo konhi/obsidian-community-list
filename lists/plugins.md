@@ -554,7 +554,6 @@
 | [Hard Breaks](https://github.com/bkis/obsidian-hard-breaks) | Turn soft line breaks in Markdown into hard line breaks. |
 | [Open Related Url](https://github.com/dpickett/open-related-url) | Open URLs found in a note's YAML frontmatter. |
 | [PodNotes](https://github.com/chhoumann/PodNotes) | Write notes on podcasts with ease. |
-| [Meeting notes](https://github.com/TimHi/obsidian-meeting-notes) | Automatically create meeting notes in a specified folder. |
 | [Tagged Documents Viewer](https://github.com/mgeduld/obsidian-tagged-documents-viewer) | Open a modal with scrollable content of all documents that contain a specific tag or tags. |
 | [Simple Note Review](https://github.com/dartungar/obsidian-simple-note-review) | Simple, customizable plugin for easy note review, resurfacing and repetition. |
 | [Better Inline Fields](https://github.com/dsarman/better-inline-fields) | Enhance Dataview-style inline fields. |
@@ -1542,7 +1541,7 @@
 | [Cluster](https://github.com/lorens-osman-dev/cluster) | Make the notes clustering simpler on mobile devices and work well on PCs ether, Notes Clustering is the process of creating hierarchical notes structures. |
 | [IMDb](https://github.com/aaachen/IMDb-Obsidian) | Sync your IMDb list. |
 | [Daily Prompt](https://github.com/Erl-koenig/obsidian-dailyPrompt) | Set up custom prompts and automatically fill them into your daily notes. |
-| [Custom Icons](https://github.com/RavenHogWarts/obsidian-custom-icons) | Enhance your workspace with customizable icons for documents and folders. |
+| [Custom Icons](https://github.com/Raven-Pensieve/obsidian-custom-icons) | Enhance your workspace with customizable icons for documents and folders. |
 | [Update Time Updater](https://github.com/muratagawa/update-time-updater) | Manually update the modified date field in frontmatter. |
 | [Markpilot](https://github.com/taichimaeda/markpilot) | Inline completions and chat view powered by OpenAI. |
 | [Hierarchical Outgoing Links](https://github.com/jasonmotylinski/hierarchical-outgoing-links) | Displays outgoing links in a tree structure. |
@@ -2121,7 +2120,7 @@
 | [Hephaistos Importer](https://github.com/runa-rist/hephaistos-importer) | Imports main stats from the Starfinder RPG character website Hephaistos. |
 | [WhatsApp backup importer](https://github.com/LuigiCerone/obsidian-whatsapp-backup-importer) | Import WhatsApp export inside your vault. |
 | [Context Command Hider](https://github.com/Mara-Li/obsidian-context-menu-hider) | Hide any command from the right-click menu. |
-| [NetClip](https://github.com/Elhary/Obsidian-NetClip) | Clip, save, search, and browse web pages |
+| [NetClip](https://github.com/elhariss/Obsidian-NetClip) | Clip, save, search, and browse web pages |
 | [Plugin REPL](https://github.com/talwrii/plugin-repl) | Create automation using Javascript scripts from within your notes. Super light-weight plugins, access the plugin api, rapidly iterate for plugin development. Emacs inspired. |
 | [YouTube Video Summarizer](https://github.com/mbramani/obsidian-yt-video-summarizer) | Summarize YouTube videos using Gemini AI. Extract transcripts, generate summaries, and create structured notes. |
 | [WhatsApp export note](https://github.com/JoaoEmanuell/obsidian-whatsapp-export-note) | Convert the current note for WhatsApp format to share. |
@@ -2463,7 +2462,7 @@
 | [OpenWords](https://github.com/insile/OpenWords) | 用于英语学习中背单词与单词管理的插件 |
 | [Course Module Loader](https://github.com/QuintSmart/obsidian-course-module-loader) | Downloads and unzips course module zip files from a URL into a specified vault folder, skipping existing files. |
 | [Note UID Generator](https://github.com/Netajam/obsidian_note_uid_generator) | Automatically or manually generates Unique IDs (UIDs) for notes and registers them in metadata (frontmatter). |
-| [Ace Code Editor](https://github.com/RavenHogWarts/obsidian-ace-code-editor) | An enhanced code editor using Ace editor, providing syntax highlighting, code folding, and other advanced editing features. |
+| [Ace Code Editor](https://github.com/Raven-Pensieve/obsidian-ace-code-editor) | An enhanced code editor using Ace editor, providing syntax highlighting, code folding, and other advanced editing features. |
 | [Folder Filelist](https://github.com/band/obsidian-folder-filelist) | Create and maintain a list of wikilinks to files in specified folders. |
 | [Custom Selected Word Count](https://github.com/banisterious/obsidian-custom-selected-word-count) | Provides advanced word counting features for selected text across all view modes. Goes beyond basic word counting with customizable path exclusion, and more. |
 | [Google Contacts](https://github.com/aleksejs1/obsidian-contact-sync-plugin) | Synchronize your Google Contacts with separate contact-notes |
@@ -2707,7 +2706,7 @@
 | [Conditional Properties](https://github.com/diegoeis/obsidian-conditional-properties) | Automate frontmatter updates using conditional rules (IF/THEN). |
 | [Edit Link Alias](https://github.com/mnaoumov/obsidian-edit-link-alias) | Adds edit link alias command. |
 | [Better Link Clicker](https://github.com/eniverz/obsidian-better-link-clicker-plugin) | Changes link click behavior to edit on click and navigate on Ctrl+Click. |
-| [Next TOC](https://github.com/RavenHogWarts/obsidian-next-toc) | Floating panel displaying the current document's reading progress, table of contents, and navigation aids. |
+| [Next TOC](https://github.com/Raven-Pensieve/obsidian-next-toc) | Floating panel displaying the current document's reading progress, table of contents, and navigation aids. |
 | [GoBoard](https://github.com/dsokolov/goboard) | Render Go game diagrams from Markdown code blocks. |
 | [RSS Dashboard](https://github.com/amatya-aditya/obsidian-rss-dashboard) | A dashboard for organizing and consuming RSS feeds, YouTube channels, and podcasts with smart tagging, media playback, and seamless content flow. |
 | [YOLO](https://github.com/Lapis0x0/obsidian-yolo) | Smart, snappy, and multilingual AI assistant for your vault. |

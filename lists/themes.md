@@ -246,7 +246,7 @@
 | [grjsmith/Neon-Synthwave](https://github.com/grjsmith/Neon-Synthwave) | ![Neon Synthwave](https://raw.githubusercontent.com/grjsmith/Neon-Synthwave/master/screenshot.jpg) |
 | [CyanVoxel/vauxhall-obsidian](https://github.com/CyanVoxel/vauxhall-obsidian) | ![Vauxhall](https://raw.githubusercontent.com/CyanVoxel/vauxhall-obsidian/master/cover.png) |
 | [xainapse/Allium](https://github.com/xainapse/Allium) | ![Allium](https://raw.githubusercontent.com/xainapse/Allium/master/AlliumScreenshot.png) |
-| [Elhary/obsidian-Pale](https://github.com/Elhary/obsidian-Pale) | ![Pale - 淡](https://raw.githubusercontent.com/Elhary/obsidian-Pale/master/screenshot.png) |
+| [elhariss/obsidian-Pale](https://github.com/elhariss/obsidian-Pale) | ![Pale - 淡](https://raw.githubusercontent.com/elhariss/obsidian-Pale/master/screenshot.png) |
 | [anareaty/creme-brulee-obsidian-theme](https://github.com/anareaty/creme-brulee-obsidian-theme) | ![Creme brulee](https://raw.githubusercontent.com/anareaty/creme-brulee-obsidian-theme/master/screenshot.png) |
 | [rodydavis/obsidian-dynamic-color](https://github.com/rodydavis/obsidian-dynamic-color) | ![Dynamic Color](https://raw.githubusercontent.com/rodydavis/obsidian-dynamic-color/master/screenshots/light-purple.png) |
 | [scottgriv/Dark-Castle-Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian) | ![Dark Castle](https://raw.githubusercontent.com/scottgriv/Dark-Castle-Obsidian/master/screenshot-small.png) |
@@ -284,7 +284,7 @@
 | [b3h3m0th/black-obsidian-theme](https://github.com/b3h3m0th/black-obsidian-theme) | ![Black](https://raw.githubusercontent.com/b3h3m0th/black-obsidian-theme/master/screenshot_512x275.png) |
 | [FaisalTamanoJr/Refined-Default](https://github.com/FaisalTamanoJr/Refined-Default) | ![Refined Default](https://raw.githubusercontent.com/FaisalTamanoJr/Refined-Default/master/banner.png) |
 | [tu2-atmanand/RoseRed-ObsidianTheme](https://github.com/tu2-atmanand/RoseRed-ObsidianTheme) | ![Rose Red](https://raw.githubusercontent.com/tu2-atmanand/RoseRed-ObsidianTheme/master/Thumbnail.png) |
-| [Elhary/Obsidian-Minimal-Edge](https://github.com/Elhary/Obsidian-Minimal-Edge) | ![Minimal Edge](https://raw.githubusercontent.com/Elhary/Obsidian-Minimal-Edge/master/minimal-edge.png) |
+| [elhariss/Obsidian-Minimal-Edge](https://github.com/elhariss/Obsidian-Minimal-Edge) | ![Minimal Edge](https://raw.githubusercontent.com/elhariss/Obsidian-Minimal-Edge/master/minimal-edge.png) |
 | [darthdemono/AMOLED-Serenity](https://github.com/darthdemono/AMOLED-Serenity) | ![AMOLED Serenity](https://raw.githubusercontent.com/darthdemono/AMOLED-Serenity/master/AMOLED-Serenity-sm.png) |
 | [golam71/obsidian-hackthebox](https://github.com/golam71/obsidian-hackthebox) | ![Hackthebox](https://raw.githubusercontent.com/golam71/obsidian-hackthebox/master/dark.png) |
 | [Oczko24/Obsidian-transparent](https://github.com/Oczko24/Obsidian-transparent) | ![Transparent](https://raw.githubusercontent.com/Oczko24/Obsidian-transparent/master/cover.png) |
@@ -307,7 +307,6 @@
 | [incantatem2/Obsidian-mulled-wine](https://github.com/incantatem2/Obsidian-mulled-wine) | ![Mulled Wine](https://raw.githubusercontent.com/incantatem2/Obsidian-mulled-wine/master/images/mulledwine-thumbnail.jpg) |
 | [abhimangs/obsidian-vortex](https://github.com/abhimangs/obsidian-vortex) | ![Vortex](https://raw.githubusercontent.com/abhimangs/obsidian-vortex/master/cover.png) |
 | [sspaeti/obsidian_kanagawa_paper](https://github.com/sspaeti/obsidian_kanagawa_paper) | ![Kanagawa Paper](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa_paper/master/dark.jpg) |
-| [IxBlazarxI/Obsidian-Theme-OverCast](https://github.com/IxBlazarxI/Obsidian-Theme-OverCast) | ![OverCast](https://raw.githubusercontent.com/IxBlazarxI/Obsidian-Theme-OverCast/master/Thumbnail.jpg) |
 | [Daiki48/sakurajima.obsidian](https://github.com/Daiki48/sakurajima.obsidian) | ![Sakurajima](https://raw.githubusercontent.com/Daiki48/sakurajima.obsidian/master/screenshots/cover.png) |
 | [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) | ![Cupertino](https://raw.githubusercontent.com/aaaaalexis/obsidian-cupertino/master/cupertino.png) |
 | [MalcolmMielle/Emerald-Echo](https://github.com/MalcolmMielle/Emerald-Echo) | ![Emerald Echo](https://raw.githubusercontent.com/MalcolmMielle/Emerald-Echo/master/screenshot.png) |
