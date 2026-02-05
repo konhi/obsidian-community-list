@@ -2720,3 +2720,8 @@
 | [Weather Widget](https://github.com/mr-asa/obsidian_weather) | Weather widget for display in notes, Canvas, and a separate tab. |
 | [Status Bar Clock](https://github.com/marty331/status-bar-clock-obsidian) | Status bar clock. |
 | [Simple Steam Auth](https://github.com/dreamscached/obsidian-simple-steam-auth) | Generate Steam Guard codes right in your vault. |
+| [Inline Local Graph](https://github.com/TKOxff/obsidian-inline-local-graph) | Visualize the local graph inline within your notes. |
+| [Dictionary Lexicon](https://github.com/st-vin/obsidian-lexicon-dictionary-plugin) | Look up words and improve vocabulary by using flash card style cards. |
+| [Handlebars Dynamic Templating](https://github.com/hided62/obsidian-handlebars-dynamic) | Handlebars dynamic templating. Define template files and use them dynamically via hb blocks. Template recursion is also possible. |
+| [Memories](https://github.com/DIMFLIX/obsidian-memories) | Display media galleries with images, videos, and audio directly in notes. |
+| [GLSL Viewer](https://github.com/iY0Yi/obsidian_glslviewer) | Preview GLSL shaders. |
