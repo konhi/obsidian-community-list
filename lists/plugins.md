@@ -2725,3 +2725,4 @@
 | [Handlebars Dynamic Templating](https://github.com/hided62/obsidian-handlebars-dynamic) | Handlebars dynamic templating. Define template files and use them dynamically via hb blocks. Template recursion is also possible. |
 | [Memories](https://github.com/DIMFLIX/obsidian-memories) | Display media galleries with images, videos, and audio directly in notes. |
 | [GLSL Viewer](https://github.com/iY0Yi/obsidian_glslviewer) | Preview GLSL shaders. |
+| [Nova](https://github.com/shawnduggan/nova) | Your AI writing partner that edits exactly where you want - select text and transform, or chat at cursor position. |
