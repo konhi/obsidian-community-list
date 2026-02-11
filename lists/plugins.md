@@ -2726,3 +2726,9 @@
 | [Memories](https://github.com/DIMFLIX/obsidian-memories) | Display media galleries with images, videos, and audio directly in notes. |
 | [GLSL Viewer](https://github.com/iY0Yi/obsidian_glslviewer) | Preview GLSL shaders. |
 | [Nova](https://github.com/shawnduggan/nova) | Your AI writing partner that edits exactly where you want - select text and transform, or chat at cursor position. |
+| [Anki Helper](https://github.com/panAtGitHub/anki-helper) | Standardizes Anki card display for seamless integration with the expand_to_anki plugin. |
+| [Hardcover](https://github.com/aliceinwaterdeep/obsidian-hardcover) | Sync your Hardcover library to your notes. |
+| [Mermaid Icons](https://github.com/toshs/obsidian-mermaid-icons) | Use Font Awesome and other icon sets within your Mermaid diagrams. |
+| [Pandoc Extended Markdown](https://github.com/ErrorTzy/obsidian-pandoc-extended-markdown) | Render Pandoc extended markdown syntax: fancy lists, definition lists, example lists with cross-references, superscripts, and subscripts. |
+| [Typst Mate](https://github.com/azyarashi/obsidian-typst-mate) | Render math expressions with Typst instead of MathJax. |
+| [Blueprint](https://github.com/madx/blueprint-obsidian-plugin) | Write once, update everywhere - note templates that pull from Properties. |
