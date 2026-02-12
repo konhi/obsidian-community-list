@@ -2732,3 +2732,6 @@
 | [Pandoc Extended Markdown](https://github.com/ErrorTzy/obsidian-pandoc-extended-markdown) | Render Pandoc extended markdown syntax: fancy lists, definition lists, example lists with cross-references, superscripts, and subscripts. |
 | [Typst Mate](https://github.com/azyarashi/obsidian-typst-mate) | Render math expressions with Typst instead of MathJax. |
 | [Blueprint](https://github.com/madx/blueprint-obsidian-plugin) | Write once, update everywhere - note templates that pull from Properties. |
+| [Decks](https://github.com/dscherdi/decks) | Decks - Spaced repetition flashcards plugin with FSRS algorithm. |
+| [Floating Headings](https://github.com/k0src/Floating-Headings-Obsidian-Plugin) | Displays a floating, collapsible outline of a note's headings on the right side of the editor. Expands on hover, click to navigate. |
+| [Source Mode Styling](https://github.com/chrishoward-projects/sourcemode-styling) | Provides a customisable raw look in source mode using a monospace font to clearly differentiate from Live Preview. |
