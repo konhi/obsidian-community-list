@@ -2735,3 +2735,4 @@
 | [Decks](https://github.com/dscherdi/decks) | Decks - Spaced repetition flashcards plugin with FSRS algorithm. |
 | [Floating Headings](https://github.com/k0src/Floating-Headings-Obsidian-Plugin) | Displays a floating, collapsible outline of a note's headings on the right side of the editor. Expands on hover, click to navigate. |
 | [Source Mode Styling](https://github.com/chrishoward-projects/sourcemode-styling) | Provides a customisable raw look in source mode using a monospace font to clearly differentiate from Live Preview. |
+| [Table Line Break Mobile](https://github.com/marcelflymark/new-line-break-inside-table-cell) | Insert line breaks into tables on mobile devices via shortcut or toolbar. |
