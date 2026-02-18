@@ -2541,7 +2541,7 @@
 | [Random Wikipedia Article](https://github.com/SpencerF718/obsidian-random-wikipedia) | Generates a note for a random Wikipedia article. |
 | [Github Issues](https://github.com/LonoxX/obsidian-github-issues) | Track Github Issues and pull requests directly in your vault |
 | [PhraseSync](https://github.com/digvijay-s-todiwal/phrasesync) | Auto-suggests internal links mid-sentence from note titles, headings, and block references. |
-| [Similar Notes](https://github.com/joybro/obsidian-similar-notes) | Find semantically similar notes using local AI. Works on desktop and mobile without external servers. |
+| [Similar Notes](https://github.com/joybro/obsidian-similar-notes) | Find semantically similar notes using AI. Local models (mobile & desktop) or cloud APIs. |
 | [EasyLink](https://github.com/isitwho/EasyLink) | Select text in your editor to find the most similar content from other notes and easily create links. |
 | [New 3D Graph](https://github.com/Apoo711/obsidian-3d-graph) | Visualize your Vault in 3D with a powerful, highly customizable, and filterable graph. |
 | [Sonkil](https://github.com/ohyoungpark/obsidian-sonkil) | Provides Emacs-style text operations like Kill/Yank (Kill Ring), multi-cursor editing, and visual mark selection. |
