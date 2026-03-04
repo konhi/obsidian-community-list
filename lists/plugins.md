@@ -2263,7 +2263,7 @@
 | [Daily News Briefing](https://github.com/ChenziqiAdam/Daily-News-Briefing) | Get AI-powered daily news summaries in your vault. Features customizable topics, smart filtering, and automated scheduling. |
 | [Wordflow Tracker](https://github.com/LeCheenaX/WordFlow-Tracker) | Track the changes and stats of your edited note files automatically. Record the modified notes and statistics to your daily note |
 | [MathType](https://github.com/slateblua/mathtype) | Get MathJax syntax suggestions from natural language. |
-| [AutoMover](https://github.com/al0cam/AutoMover) | Moves files with specified names into the same folder. |
+| [AutoMover](https://github.com/al0cam/AutoMover) | Automatically move files and notes with specified names into their designated folders according to rules you define. |
 | [Canvas Format Brush](https://github.com/wenlzhang/obsidian-canvas-format-brush) | Copy and paste formatting attributes (size and color) between canvas elements, similar to the format painter in Word. |
 | [Image to HTML](https://github.com/0x1DA9430/img2html) | Paste images as HTML format instead of wikilink or markdown format. |
 | [One Step Wiki Link](https://github.com/busyoGG/OneStepWikiLink) | 一步添加 wiki 链接 |
