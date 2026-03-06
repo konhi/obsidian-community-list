@@ -2736,3 +2736,5 @@
 | [Table Line Break Mobile](https://github.com/marcelflymark/new-line-break-inside-table-cell) | Insert line breaks into tables on mobile devices via shortcut or toolbar. |
 | [Post To Bluesky](https://github.com/RieTamura/Post-To-Bluesky) | Post selected text or entire note to Bluesky. |
 | [Role Switch](https://github.com/zafrem/obsidian-role-switch) | Switch between different work roles (developer, writer, researcher, etc.) with intentional transitions and session tracking. |
+| [Double-Click Image Opener](https://github.com/atman-33/double-click-image-opener) | Open images with your system's default application by double-clicking. |
+| [Capitaliser](https://github.com/hardpath/obsidian-capitalise-plugin) | Cycle text capitalisation (lowercase, Capitalise Each Word, UPPERCASE). |
