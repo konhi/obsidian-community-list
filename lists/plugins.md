@@ -133,7 +133,7 @@
 | [Admonition](https://github.com/javalent/admonitions) | Admonition block-styled content. |
 | [Tracker](https://github.com/pyrochlore/obsidian-tracker) | Track occurrences and numbers in your notes. |
 | [Hotkeys for templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) | Add commands to insert specific templates with a hotkey. |
-| [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Adjust theme, plugin, and snippet CSS variables. |
+| [Style Settings](https://github.com/obsidian-community/obsidian-style-settings) | Adjust theme, plugin, and snippet CSS variables. |
 | [Advanced URI](https://github.com/Vinzent03/obsidian-advanced-uri) | Control everything with URI. |
 | [Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror editor to support Simplified Chinese word splitting. |
 | [Table Extended](https://github.com/aidenlx/table-extended) | Enable extended table support with MultiMarkdown 6 syntax. |
@@ -148,7 +148,7 @@
 | [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) | Edit and view Excalidraw drawings. |
 | [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) | Automatically fetches the titles of links from the web. |
 | [Python lab](https://github.com/cristianvasquez/obsidian-lab) | An interface to experiment with Python scripts and more. |
-| [Kanban](https://github.com/mgmeyers/obsidian-kanban) | Create Markdown-backed Kanban boards. |
+| [Kanban](https://github.com/obsidian-community/obsidian-kanban) | Create Markdown-backed Kanban boards. |
 | [Incremental Writing](https://github.com/bjsi/incremental-writing) | Incrementally review notes and blocks over time. |
 | [Kindle Highlights](https://github.com/hadynz/obsidian-kindle-plugin) | Sync your Kindle book highlights using your Amazon login or uploading your My Clippings file. |
 | [Image in Editor](https://github.com/ozntel/oz-image-in-editor-obsidian) | View Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview. |
@@ -453,7 +453,7 @@
 | [Etherpad Lite](https://github.com/egradman/obsidian-etherpad-lite) | Copy and sync notes with an Etherpad Lite server to unlock easy web-based collaboration with others. |
 | [Quiet Outline](https://github.com/guopenghui/obsidian-quiet-outline) | Make outline quiet and more powerful, including no-auto-expand, rendering heading as Markdown, and search support. |
 | [Daily Notes Viewer](https://github.com/johnsonhong997/obsidian-daily-notes-viewer) | Help you to view some recent daily notes on one page. |
-| [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration) | Insert and import citations, bibliographies, notes, and PDF annotations from Zotero. |
+| [Zotero Integration](https://github.com/obsidian-community/obsidian-zotero-integration) | Insert and import citations, bibliographies, notes, and PDF annotations from Zotero. |
 | [Telegraph Publish](https://github.com/reorx/obsidian-telegraph-publish) | Publish your note to a Telegraph page. |
 | [Path Title](https://github.com/jdeal/obsidian-path-title-plugin) | Add the path (or optional replacement) to the filename title of each pane. |
 | [Jira Issue](https://github.com/marc0l92/obsidian-jira-issue) | Track the progress of Atlassian Jira issues from your notes. |
@@ -492,7 +492,7 @@
 | [Folder Index](https://github.com/turulix/obsidian-folder-index) | Automatically generate a Map of Content for the current Folder and Subfolders. |
 | [Filename Emoji Remover](https://github.com/YTolun/obsidian-filename-emoji-remover) | Automatically remove emojis from filenames. Main purpose is to get rid of Dropbox sync issues for Readwise imported content. |
 | [ePub Reader](https://github.com/caronchen/obsidian-epub-plugin) | Open documents with ".epub" file extension. |
-| [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) | Display a formatted reference in the sidebar for each Pandoc citekey present in the current document. |
+| [Pandoc Reference List](https://github.com/obsidian-community/obsidian-pandoc-reference-list) | Display a formatted reference in the sidebar for each Pandoc citekey present in the current document. |
 | [Enhancing Export](https://github.com/mokeyish/obsidian-enhancing-export) | Enhanced export based on Pandoc. Allows export to formats like HTML, DOCX, ePub and PDF or Hugo. |
 | [Enlightenment](https://github.com/ryanjamurphy/enlightenment-obsidian) | Pay attention to what you're paying attention to. Enlightenment adds a 'zen mode' for Preview, hiding the contents of your notes except for what's underneath your pointer. |
 | [Release Timeline](https://github.com/cakechaser/obsidian-release-timeline) | Release timeline rendered based on notes metadata with a Dataview-like syntax. |
@@ -1028,7 +1028,7 @@
 | [Copy Inline Code](https://github.com/ozavodny/obsidian-copy-inline-code-plugin) | Easily copy the contents of an inline code element with a single click. |
 | [At People](https://github.com/backmind/obsidian-at-people) | Use the @ to create links to people files with smart fuzzy search, accent-insensitive matching, and backlink-based ranking. |
 | [ArchWiki Reader](https://github.com/lucifayr/archwiki-obsidian) | Read any ArchWiki page. |
-| [Easy Bake](https://github.com/mgmeyers/obsidian-easy-bake) | Easily compile many notes down to a single file. |
+| [Easy Bake](https://github.com/obsidian-community/obsidian-easy-bake) | Easily compile many notes down to a single file. |
 | [Finnish Spellcheck](https://github.com/antoKeinanen/obsidian-finnish-spellcheck) | Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä, joka hyödyntää Voikkoa. |
 | [Birthday-Tracker](https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin) | Keep track of all birthdays of your family and friends. |
 | [Lovely-Mindmap](https://github.com/shaunhurryup/lovely-mindmap) | Build your own knowledge graph with smiles :-) |
