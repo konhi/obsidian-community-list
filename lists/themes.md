@@ -163,7 +163,6 @@
 | [whereiswhere/iB-Writer](https://github.com/whereiswhere/iB-Writer) | ![iB Writer](https://raw.githubusercontent.com/whereiswhere/iB-Writer/master/store-screenshot.png) |
 | [oqipoDev/buena-vista-obsidian](https://github.com/oqipoDev/buena-vista-obsidian) | ![Buena Vista](https://raw.githubusercontent.com/oqipoDev/buena-vista-obsidian/master/img/thumb.png) |
 | [Thiews/obsidian-simplicity](https://github.com/Thiews/obsidian-simplicity) | ![Simplicity](https://raw.githubusercontent.com/Thiews/obsidian-simplicity/master/cover.png) |
-| [drbap/magicuser-theme-for-obsidian](https://github.com/drbap/magicuser-theme-for-obsidian) | ![MagicUser](https://raw.githubusercontent.com/drbap/magicuser-theme-for-obsidian/master/screenshot.png) |
 | [PrettyBoyCosmo/ProtocolBlue](https://github.com/PrettyBoyCosmo/ProtocolBlue) | ![ProtocolBlue](https://raw.githubusercontent.com/PrettyBoyCosmo/ProtocolBlue/master/assets/image.png) |
 | [GixoXYZ/YueObsidian](https://github.com/GixoXYZ/YueObsidian) | ![Yue](https://raw.githubusercontent.com/GixoXYZ/YueObsidian/master/assets/main-demo.png) |
 | [abrahambahez/Brutalism](https://github.com/abrahambahez/Brutalism) | ![Brutalism](https://raw.githubusercontent.com/abrahambahez/Brutalism/master/brutalism_dark.png) |

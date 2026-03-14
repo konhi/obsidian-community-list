@@ -1020,7 +1020,6 @@
 | [Index Checker](https://github.com/pavloDeshko/obsidian-index-checker) | Make sure your index "MOC" files (notes or Canvas) contain all links they should contain. |
 | [Syncthing Integration](https://github.com/LBF38/obsidian-syncthing-integration) | Syncthing integration. |
 | [RunJS](https://github.com/eoureo/obsidian-runjs) | Run JavaScript code. |
-| [Touch Bar Macros](https://github.com/frostplexx/obsidian-touchbar-macros) | Run custom macros from your Mac's Touch Bar. |
 | [Obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) | A bridge from your vault to Docusaurus. |
 | [Quail](https://github.com/lyricat/obsidian-quail) | Save, publish, delivery notes via Quail.ink as newsletters and blogs. |
 | [GTD No Next Step](https://github.com/saibotsivad/obsidian-gtd-no-next-step) | Add a badge to Getting Things Done (GTD) "project" files with no defined next step. |
@@ -1630,7 +1629,6 @@
 | [MathLive in Editor Mode](https://github.com/MizarZh/mathlive-in-editor-mode) | MathLive input in editor mode |
 | [Lineage](https://github.com/ycnmhd/obsidian-lineage) | A writing interface that combines structure and content. Inspired by Gingko Writer. |
 | [Settings Management](https://github.com/xhuajin/obsidian-settings-management) | Manage settings options, including show enabled/disabled plugins and css, grid layout, save current plugins/css enable config for quick enable/disable, etc. |
-| [Laser beam](https://github.com/drbap/laser-beam-for-obsidian) | Improve your reading experience with customizable laser lines. |
 | [Freeform](https://github.com/tmcw/obsidian-freeform) | Create visualizations, run custom JS, and mix live programs with your notes |
 | [Smart HTML Select](https://github.com/IsaiaScope/smart-html-select-plugin) | Create select that change the markdown on change adding an action button to the ribbon (left sidebar) |
 | [File Preview](https://github.com/xhuajin/obsidian-file-preview) | Add file preview contents under file in file explorer. |
@@ -1772,7 +1770,6 @@
 | [Note 2 Tag Generator](https://github.com/augustin7698/note-2-tag-generator) | Generate tags from notes without openai key in multiple languages |
 | [Fast Image Auto Uploader](https://github.com/eust-w/obsidian-image-auto-upload) | Fast upload images from your clipboard by gopic |
 | [Auto Folder Collapse](https://github.com/DarioCasciato/obsidian-auto-folder-collapse) | Automatically collapses subfolders when a parent folder is collapsed |
-| [Dashboard navigator](https://github.com/drbap/dashboard-navigator-for-obsidian) | Vault dashboard and navigator. Show recent files by type, files per day, week, month, search files by name, date, tags and more. |
 | [Quick Select](https://github.com/itsonlyjames/obsidian-quick-select) | Quickly select items in any modal using keyboard shortcuts. Supercharge your workflow with fast, efficient item selection in Obsidian modals. |
 | [Rich Text Editor Shortcuts](https://github.com/joshuawootonn/obsidian-rich-text-editor-shortcuts) | Create and toggle checkboxes, paste links wrapping your current selection, and toggle underline without leaving the keyboard. |
 | [Share via Notepad Tab](https://github.com/revolter/obsidian-share-via-notepad-tab-plugin) | Share notes via Notepad Tab (https://notepadtab.com). |
@@ -1780,7 +1777,6 @@
 | [Marker PDF to MD](https://github.com/L3-N0X/obsidian-marker) | Convert PDFs to rich Markdown, including images and ocr using the marker api |
 | [Hexo Publisher](https://github.com/zhenlohuang/obsidian-hexo-publisher) | Publish your notes to Hexo. |
 | [Inline spoilers](https://github.com/logonoff/obsidian-inline-spoilers) | Adds Discord-like syntax for inline spoilers in reader mode. |
-| [Enhanced Symbols Prettifier](https://github.com/noam-sc/obsidian-enhanced-symbols-prettifier) | Replace/substitute the symbols with actual symbols you commonly type. It also works for emojis shortcuts, abbreviations, greek letters, math symbols or other snippets/aliases you define |
 | [Smart Templates](https://github.com/brianpetro/obsidian-smart-templates) | AI powered templates for generating structured content. Works with Local Models, Anthropic Claude, Gemini, OpenAI & more. |
 | [Canvas Picture in Picture](https://github.com/h-sphere/obsidian-canvas-picture-in-picture) | Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture mode) |
 | [Super Duper Audio Recorder](https://github.com/madpin/super-duper-audio-recorder) | Records audio directly, with input device and folder configuration, similar to the core one, but better |
@@ -1869,7 +1865,6 @@
 | [XMind Viewer](https://github.com/Ssentiago/obsidian-xmind-viewer) | Integrate viewing of your XMind files |
 | [Auto Strikethrough Tasks](https://github.com/Nomekuma/auto-strikethrough-task-obsidian-pluggin) | Automatically adds strikethrough to completed tasks. |
 | [Colorizelt](https://github.com/WiNE-iNEFF/colorizelt) | Easy color and clear selected text |
-| [Magic Mic](https://github.com/drewmcdonald/obsidian-magic-mic) | Record, transcribe, and summarize audio directly into your vault with custom assistants. |
 | [Editing Mode Hotkey](https://github.com/Signynt/obsidian-editing-mode-hotkey) | Adds a command and hotkey to toggle the default editing mode (between Live Preview and Source) |
 | [Hierarchy](https://github.com/kdnk/obsidian-hierarchy) | Visualize the hierarchy of your link. |
 | [Minimize on Close](https://github.com/alberti42/obsidian-minimize-on-close) | Minimizes the app window to an icon after closing the last open pane |
@@ -2737,4 +2732,4 @@
 | [Post To Bluesky](https://github.com/RieTamura/Post-To-Bluesky) | Post selected text or entire note to Bluesky. |
 | [Role Switch](https://github.com/zafrem/obsidian-role-switch) | Switch between different work roles (developer, writer, researcher, etc.) with intentional transitions and session tracking. |
 | [Double-Click Image Opener](https://github.com/atman-33/double-click-image-opener) | Open images with your system's default application by double-clicking. |
-| [Capitaliser](https://github.com/hardpath/obsidian-capitalise-plugin) | Cycle text capitalisation (lowercase, Capitalise Each Word, UPPERCASE). |
+| [Capitaliser](https://github.com/eoliversec/obsidian-capitalise-plugin) | Cycle text capitalisation (lowercase, Capitalise Each Word, UPPERCASE). |
