@@ -2195,7 +2195,6 @@
 | [My Thesaurus](https://github.com/Mara-Li/obsidian-my-thesaurus) | Automagically adds tags based on a simple csv file or a Markdown table. |
 | [Media Viewer](https://github.com/Devon22/obsidian-mediaviewer) | View and manage media files within your notes. |
 | [GridExplorer](https://github.com/Devon22/obsidian-gridexplorer) | Browse note files in a grid view. |
-| [Infio Copilot](https://github.com/infiolab/infio-copilot) | A Cursor-inspired AI assistant for notes that offers smart autocomplete and interactive chat with your selected notes |
 | [Task Mover](https://github.com/nemariia/task-mover) | Move unfinished tasks to the daily note automatically |
 | [Title As Link Text](https://github.com/lextoumbourou/obsidian-title-as-link-text) | Automatically updates link text to use note titles instead of filenames. |
 | [Cursor Position History](https://github.com/fgubler/obsidian-cursor-position-history) | Remember the previous positions of the cursor across files: auto-scroll to the correct position in a new file. Navigate backward and forward through your cursor position history without losing context. |
