@@ -2732,3 +2732,9 @@
 | [Role Switch](https://github.com/zafrem/obsidian-role-switch) | Switch between different work roles (developer, writer, researcher, etc.) with intentional transitions and session tracking. |
 | [Double-Click Image Opener](https://github.com/atman-33/double-click-image-opener) | Open images with your system's default application by double-clicking. |
 | [Capitaliser](https://github.com/eoliversec/obsidian-capitalise-plugin) | Cycle text capitalisation (lowercase, Capitalise Each Word, UPPERCASE). |
+| [TikToker](https://github.com/ameyxd/obsidian-tiktoker) | Save TikTok videos as markdown notes with embedded content and metadata extraction. |
+| [Frontmatter to HTML Attributes](https://github.com/IllDepence/obsidian-frontmatter-to-html-attributes) | Makes YAML frontmatter available as data-* attributes in HTML, enabling metadata based CSS styling. |
+| [Card Forge](https://github.com/carlsverre/obsidian-card-forge) | Convert notes into printable cards. |
+| [Archivist Importer](https://github.com/archivistai/archivist-obsidian-importer) | Import selected vault files into Archivist campaigns. |
+| [WebDAV Explorer](https://github.com/sunmagicshow/obsidian-webdav) | WebDAV Explorer: Connect to WebDAV server, preview files directly in web view, and generate links through simple drag-and-drop. |
+| [LongtimeDiary](https://github.com/sawamaru/obsidian-LongtimeDiary) | Show past Daily notes on the same day in previous years. |
