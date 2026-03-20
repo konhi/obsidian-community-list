@@ -2738,3 +2738,9 @@
 | [Archivist Importer](https://github.com/archivistai/archivist-obsidian-importer) | Import selected vault files into Archivist campaigns. |
 | [WebDAV Explorer](https://github.com/sunmagicshow/obsidian-webdav) | WebDAV Explorer: Connect to WebDAV server, preview files directly in web view, and generate links through simple drag-and-drop. |
 | [LongtimeDiary](https://github.com/sawamaru/obsidian-LongtimeDiary) | Show past Daily notes on the same day in previous years. |
+| [Smart Export](https://github.com/LittleHaku/obsidian-smart-export) | Plugin that follows wikilinks to a configurable depth, joining the notes into a single export. |
+| [Kanban Bases View](https://github.com/xiwcx/obsidian-bases-kanban) | A kanban-style drag-and-drop custom view for Bases. |
+| [Auto Math](https://github.com/loglux/auto-math-for-obsidian) | Auto-expands LaTeX snippets. External rules with live reload, Custom Rules Editor, and default math pack. |
+| [Negative Heading](https://github.com/cyne-wulf/obsidian-negative-heading) | Render Discord-style "-#" lines as compact headings in reading view and the editor. |
+| [Banners Reloaded](https://github.com/dgcreations00/obsidian-banners-reloaded) | A simple, fast, and lightweight way to add customizable banners to your notes. |
+| [Content-Addressed Attachments](https://github.com/NateScarlet/obsidian-content-addressed-attachments) | Content-addressed attachment storage for automatic deduplication. Works entirely locally; optionally uses GitHub private repositories for hosting. |
