@@ -2744,3 +2744,8 @@
 | [Negative Heading](https://github.com/cyne-wulf/obsidian-negative-heading) | Render Discord-style "-#" lines as compact headings in reading view and the editor. |
 | [Banners Reloaded](https://github.com/dgcreations00/obsidian-banners-reloaded) | A simple, fast, and lightweight way to add customizable banners to your notes. |
 | [Content-Addressed Attachments](https://github.com/NateScarlet/obsidian-content-addressed-attachments) | Content-addressed attachment storage for automatic deduplication. Works entirely locally; optionally uses GitHub private repositories for hosting. |
+| [Graphic Organizer](https://github.com/nickfreedom/obsidian-graphic-organizer) | Interactive tree view for visualizing and managing your vault's file hierarchy. |
+| [Calendar Bases](https://github.com/edrickleong/obsidian-calendar-bases) | Adds a calendar layout to bases so you can display notes with dates in an interactive calendar view. |
+| [Lskypro Upload V2](https://github.com/Aceak/Lskypro-Upload-V2) | Auto upload local images to LskyPro. |
+| [LighterPack importer](https://github.com/nsiniscalchi/LighterPackObsidianImporter) | Import a packing list from https://lighterpack.com. |
+| [Synaptic View](https://github.com/especialkim/obsidian-synaptic-view) | A dynamic control center for your vault. Unify hubs, notes, tasks, periodic notes, and web resources with intuitive buttons. Replace new tab for instant access. |
