@@ -2749,3 +2749,7 @@
 | [Lskypro Upload V2](https://github.com/Aceak/Lskypro-Upload-V2) | Auto upload local images to LskyPro. |
 | [LighterPack importer](https://github.com/nsiniscalchi/LighterPackObsidianImporter) | Import a packing list from https://lighterpack.com. |
 | [Synaptic View](https://github.com/especialkim/obsidian-synaptic-view) | A dynamic control center for your vault. Unify hubs, notes, tasks, periodic notes, and web resources with intuitive buttons. Replace new tab for instant access. |
+| [Hide Traffic Lights](https://github.com/tavva/obsidian-plugin-hide-traffic-lights) | Hides macOS traffic light buttons for a distraction-free experience. Hover over the top-left corner to reveal them. |
+| [Expand Selection](https://github.com/atait/obsidian-expand-selection) | Expands the editor selection to lines, sections, or the entire note for convenience on mobile. |
+| [Segerlab](https://github.com/ksemkav/obsidian-segerlab-plugin) | Renders calculator views within notes from JSON data copied from the Segerlab app. |
+| [Note Progressbar](https://github.com/ryohma0510/obsidian-note-progressbar) | Displays a live progress bar summarizing checkbox completion in the active note. |
