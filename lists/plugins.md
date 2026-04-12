@@ -2753,3 +2753,4 @@
 | [Expand Selection](https://github.com/atait/obsidian-expand-selection) | Expands the editor selection to lines, sections, or the entire note for convenience on mobile. |
 | [Segerlab](https://github.com/ksemkav/obsidian-segerlab-plugin) | Renders calculator views within notes from JSON data copied from the Segerlab app. |
 | [Note Progressbar](https://github.com/ryohma0510/obsidian-note-progressbar) | Displays a live progress bar summarizing checkbox completion in the active note. |
+| [WPM Reading Time - How Long to Read This Text](https://github.com/santiyounger/wpm-reading-time) | Calculate reading time estimates for selected text using your own reading speed in Words Per Minute. |
