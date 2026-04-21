@@ -100,7 +100,6 @@
 | [aitaDev/Violet-Evening-for-Obsidian](https://github.com/aitaDev/Violet-Evening-for-Obsidian) | ![Violet Evening](https://raw.githubusercontent.com/aitaDev/Violet-Evening-for-Obsidian/master/screenshot.png) |
 | [danyim/obsidian-zenburn](https://github.com/danyim/obsidian-zenburn) | ![Zenburn](https://raw.githubusercontent.com/danyim/obsidian-zenburn/master/screen.png) |
 | [roberts-code/obsidian-theme-modern-dark](https://github.com/roberts-code/obsidian-theme-modern-dark) | ![Modern Dark](https://raw.githubusercontent.com/roberts-code/obsidian-theme-modern-dark/master/screenshot.png) |
-| [KyleKlus/solitude-obsidian-theme](https://github.com/KyleKlus/solitude-obsidian-theme) | ![Solitude](https://raw.githubusercontent.com/KyleKlus/solitude-obsidian-theme/master/promo_screenshot.png) |
 | [mulfok/obsidian-viridian](https://github.com/mulfok/obsidian-viridian) | ![Viridian](https://raw.githubusercontent.com/mulfok/obsidian-viridian/master/cover.png) |
 | [sspaeti/obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) | ![Kanagawa](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa/master/dark.png) |
 | [Carbonateb/obsidian-encore-theme](https://github.com/Carbonateb/obsidian-encore-theme) | ![Encore](https://raw.githubusercontent.com/Carbonateb/obsidian-encore-theme/master/images/promo-image.png) |
@@ -239,7 +238,7 @@
 | [SandmansDreams/Spectrum-Blue](https://github.com/SandmansDreams/Spectrum-Blue) | ![Spectrum Blue](https://raw.githubusercontent.com/SandmansDreams/Spectrum-Blue/master/SpectrumBluePreview.png) |
 | [dpavaoman/cobalt-peacock-obmd](https://github.com/dpavaoman/cobalt-peacock-obmd) | ![Cobalt Peacock](https://raw.githubusercontent.com/dpavaoman/cobalt-peacock-obmd/master/screenshot.png) |
 | [lorens-osman-dev/Lorens-Obsidian-Theme](https://github.com/lorens-osman-dev/Lorens-Obsidian-Theme) | ![Lorens](https://raw.githubusercontent.com/lorens-osman-dev/Lorens-Obsidian-Theme/master/cover.png) |
-| [NoahBoos/obsidian-rift](https://github.com/NoahBoos/obsidian-rift) | ![Rift](https://raw.githubusercontent.com/NoahBoos/obsidian-rift/master/showcase-temporaire.png) |
+| [rifts-obsidian-laboratory/rift](https://github.com/rifts-obsidian-laboratory/rift) | ![Rift](https://raw.githubusercontent.com/rifts-obsidian-laboratory/rift/master/showcase-temporaire.png) |
 | [BlossomTheme/Obsidian](https://github.com/BlossomTheme/Obsidian) | ![Blossom](https://raw.githubusercontent.com/BlossomTheme/Obsidian/master/screenshot01.png) |
 | [bhappen/obsidian-space](https://github.com/bhappen/obsidian-space) | ![Space](https://raw.githubusercontent.com/bhappen/obsidian-space/master/obsidian-space.png) |
 | [grjsmith/Neon-Synthwave](https://github.com/grjsmith/Neon-Synthwave) | ![Neon Synthwave](https://raw.githubusercontent.com/grjsmith/Neon-Synthwave/master/screenshot.jpg) |
@@ -388,7 +387,7 @@
 | [bastiangx/poimandres.obsidian](https://github.com/bastiangx/poimandres.obsidian) | ![Poimandres Extended](https://raw.githubusercontent.com/bastiangx/poimandres.obsidian/master/sc.png) |
 | [Bluemoondragon07/obsidian-future](https://github.com/Bluemoondragon07/obsidian-future) | ![Future](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-future/master/cover.jpg) |
 | [IchiroFukuda/spy-terminal-theme](https://github.com/IchiroFukuda/spy-terminal-theme) | ![Spy Terminal](https://raw.githubusercontent.com/IchiroFukuda/spy-terminal-theme/master/screenshots/spy-terminal-atmosphere.png) |
-| [xscriptordev/obsidian](https://github.com/xscriptordev/obsidian) | ![Xscriptor](https://raw.githubusercontent.com/xscriptordev/obsidian/master/screenshot.png) |
+| [xscriptor/obsidian](https://github.com/xscriptor/obsidian) | ![Xscriptor](https://raw.githubusercontent.com/xscriptor/obsidian/master/screenshot.png) |
 | [account-not-relevant/museifu-basic-theme](https://github.com/account-not-relevant/museifu-basic-theme) | ![Museifu Basic](https://raw.githubusercontent.com/account-not-relevant/museifu-basic-theme/master/cover.png) |
 | [codejota/NightlyWolf_ObsidianTheme](https://github.com/codejota/NightlyWolf_ObsidianTheme) | ![Nightly Wolf](https://raw.githubusercontent.com/codejota/NightlyWolf_ObsidianTheme/master/screenshot.png) |
 | [incantatem2/Obsidian-antique-flowers](https://github.com/incantatem2/Obsidian-antique-flowers) | ![Antique Flowers](https://raw.githubusercontent.com/incantatem2/Obsidian-antique-flowers/master/images/antique-flowers-dark-thumbnail.jpg) |
