@@ -399,7 +399,7 @@
 | [Relativenumber (relative line numbers)](https://github.com/thisdotrob/obsidian-relativenumber-plugin) | Display relative line numbers in the editor's gutter. |
 | [Core Search Assistant](https://github.com/qawatake/obsidian-core-search-assistant-plugin) | Enhance built-in search: keyboard interface, card preview, bigger preview. |
 | [Save as Gist](https://github.com/ghedamat/obsidian-save-as-gist) | Save current note as a GitHub Gist. |
-| [Divide & Conquer](https://github.com/chrisgrieser/obsidian-divide-and-conquer) | Commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins. |
+| [Divide & Conquer](https://github.com/mikedidomizio/obsidian-divide-and-conquer) | Commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins. |
 | [Excel to Markdown Table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table) | Paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables. |
 | [Power Search](https://github.com/aviral-batra/obsidian-power-search) | Search notes based on current line. |
 | [Tag, Word & Link Cloud](https://github.com/joethei/obsidian-tagcloud) | Show a cloud of your tags, words, or links. |
