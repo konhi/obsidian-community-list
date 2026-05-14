@@ -321,7 +321,7 @@
 | [harmfulbreeze/obsidian-material-3-theme](https://github.com/harmfulbreeze/obsidian-material-3-theme) | ![Material 3](https://raw.githubusercontent.com/harmfulbreeze/obsidian-material-3-theme/master/screenshot.png) |
 | [godlyman-bit/Serif](https://github.com/godlyman-bit/Serif) | ![Serif](https://raw.githubusercontent.com/godlyman-bit/Serif/master/screenshot.png) |
 | [halftroll0/Sad-Machine-Druid](https://github.com/halftroll0/Sad-Machine-Druid) | ![Sad Machine Druid](https://raw.githubusercontent.com/halftroll0/Sad-Machine-Druid/master/sad_machine_druid_screenshot_v1.jpg) |
-| [bladeacer/flexcyon](https://github.com/bladeacer/flexcyon) | ![flexcyon](https://raw.githubusercontent.com/bladeacer/flexcyon/master//docs/dark.png) |
+| [bladeacer/flexcyon](https://github.com/bladeacer/flexcyon) | ![flexcyon](https://raw.githubusercontent.com/bladeacer/flexcyon/master/./docs/dark.png) |
 | [outsidetext/lesswrong-obsidian](https://github.com/outsidetext/lesswrong-obsidian) | ![LessWrong](https://raw.githubusercontent.com/outsidetext/lesswrong-obsidian/master/preview.png) |
 | [codeisconfusing/retro-windows-obsidian](https://github.com/codeisconfusing/retro-windows-obsidian) | ![Retro Windows](https://raw.githubusercontent.com/codeisconfusing/retro-windows-obsidian/master/screenshot.png) |
 | [en3sis/vercel-obsidian](https://github.com/en3sis/vercel-obsidian) | ![Vercel Geist](https://raw.githubusercontent.com/en3sis/vercel-obsidian/master/assets/vercel-obsidian-small.png) |
@@ -483,6 +483,7 @@
 | [incantatem2/Obsidian-jolly-holly](https://github.com/incantatem2/Obsidian-jolly-holly) | ![Jolly Holly](https://raw.githubusercontent.com/incantatem2/Obsidian-jolly-holly/master/images/thumbnail-holly.jpg) |
 | [davidszp/obsidian-rationale](https://github.com/davidszp/obsidian-rationale) | ![Rationale](https://raw.githubusercontent.com/davidszp/obsidian-rationale/master/assets/rationale-light-thumb.png) |
 | [orvpagadua/Code-Azur](https://github.com/orvpagadua/Code-Azur) | ![CodeAzur](https://raw.githubusercontent.com/orvpagadua/Code-Azur/master/cover.png) |
+| [moyf/obsidian-gumroad-theme](https://github.com/moyf/obsidian-gumroad-theme) | ![Brutal Gum](https://raw.githubusercontent.com/moyf/obsidian-gumroad-theme/master/screenshot.png) |
 | [saucy/obsidian-half-life-theme](https://github.com/saucy/obsidian-half-life-theme) | ![Half-Life](https://raw.githubusercontent.com/saucy/obsidian-half-life-theme/master/images/thumbnail.png) |
 | [jackers228/quest-journal-theme](https://github.com/jackers228/quest-journal-theme) | ![Quest Journal](https://raw.githubusercontent.com/jackers228/quest-journal-theme/master/questjournal.png) |
 | [kazi-aidah/blobob](https://github.com/kazi-aidah/blobob) | ![blobob](https://raw.githubusercontent.com/kazi-aidah/blobob/master/assets/screenshot.png) |
@@ -493,7 +494,8 @@
 | [oneprogramador/ObsidianCodingTheme](https://github.com/oneprogramador/ObsidianCodingTheme) | ![Happy Coding](https://raw.githubusercontent.com/oneprogramador/ObsidianCodingTheme/master/Screenshot%20Dark_small.png) |
 | [noi8282/obsidian-Pastel-Yumekawa-Theme](https://github.com/noi8282/obsidian-Pastel-Yumekawa-Theme) | ![Pastel-Yumekawa](https://raw.githubusercontent.com/noi8282/obsidian-Pastel-Yumekawa-Theme/master/image.png) |
 | [yejun-exe/calm-nights](https://github.com/yejun-exe/calm-nights) | ![calm nights](https://raw.githubusercontent.com/yejun-exe/calm-nights/master/theme-sample-ss.png) |
-| [matothetomato/Elysian](https://github.com/matothetomato/Elysian) | ![Elysian](https://raw.githubusercontent.com/matothetomato/Elysian/master/MainB.png) |
+| [matothetomato/Elysian](https://github.com/matothetomato/Elysian) | ![Elysian](https://raw.githubusercontent.com/matothetomato/Elysian/master/cover.png) |
+| [darkings/Obsidian-MonokaiSyntax](https://github.com/darkings/Obsidian-MonokaiSyntax) | ![Monokai Syntax](https://raw.githubusercontent.com/darkings/Obsidian-MonokaiSyntax/master/screenshot.png) |
 | [amdhj22/rbr.obsidian](https://github.com/amdhj22/rbr.obsidian) | ![RBR](https://raw.githubusercontent.com/amdhj22/rbr.obsidian/master/screenshot.png) |
 | [makindajack/makinda-obsidian](https://github.com/makindajack/makinda-obsidian) | ![Makinda](https://raw.githubusercontent.com/makindajack/makinda-obsidian/master/screenshot.png) |
 | [steven-theuerl/forest-phosphor-obsidian](https://github.com/steven-theuerl/forest-phosphor-obsidian) | ![Forest Phosphor](https://raw.githubusercontent.com/steven-theuerl/forest-phosphor-obsidian/master/screenshot.png) |
