@@ -1,6 +1,5 @@
 | 📁 Repository | 📷 Screenshot |
 | --- | --- |
-| [deathau/80s-Neon-for-Obsidian.md](https://github.com/deathau/80s-Neon-for-Obsidian.md) | ![80s Neon](https://raw.githubusercontent.com/deathau/80s-Neon-for-Obsidian.md/master/screenshot.jpg) |
 | [cotemaxime/obsidian-amethyst](https://github.com/cotemaxime/obsidian-amethyst) | ![Amethyst](https://raw.githubusercontent.com/cotemaxime/obsidian-amethyst/master/screenshot.png) |
 | [mediapathic/obsidian-arsmagna-theme](https://github.com/mediapathic/obsidian-arsmagna-theme) | ![Ars Magna](https://raw.githubusercontent.com/mediapathic/obsidian-arsmagna-theme/master/arsmagna.png) |
 | [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom) | ![Atom](https://raw.githubusercontent.com/kognise/obsidian-atom/master/screenshot-hybrid.png) |
@@ -358,7 +357,6 @@
 | [jabarid/obsidian-radiance](https://github.com/jabarid/obsidian-radiance) | ![Radiance](https://raw.githubusercontent.com/jabarid/obsidian-radiance/master/cover.png) |
 | [kyffa/Iridium](https://github.com/kyffa/Iridium) | ![Iridium](https://raw.githubusercontent.com/kyffa/Iridium/master/screenshot.png) |
 | [cxj05h/obsidian-avatar](https://github.com/cxj05h/obsidian-avatar) | ![Avatar](https://raw.githubusercontent.com/cxj05h/obsidian-avatar/master/Avatar_Theme.png) |
-| [cheycron/flatcap-obsidian](https://github.com/cheycron/flatcap-obsidian) | ![FlatCap](https://raw.githubusercontent.com/cheycron/flatcap-obsidian/master/images/screenshot.png) |
 | [vlad3design/Mushin](https://github.com/vlad3design/Mushin) | ![Mushin](https://raw.githubusercontent.com/vlad3design/Mushin/master/Mushin.jpg) |
 | [riffaells/Robsi](https://github.com/riffaells/Robsi) | ![Robsi](https://raw.githubusercontent.com/riffaells/Robsi/master/screenshot.png) |
 | [regawaras/Coffee](https://github.com/regawaras/Coffee) | ![Coffee](https://raw.githubusercontent.com/regawaras/Coffee/master/coffee.png) |
@@ -507,3 +505,6 @@
 | [jaminbrazil2/phosphor-crt](https://github.com/jaminbrazil2/phosphor-crt) | ![Phosphor CRT](https://raw.githubusercontent.com/jaminbrazil2/phosphor-crt/master/screenshot.png) |
 | [jkvetina/obsidian-one-oracle-developer](https://github.com/jkvetina/obsidian-one-oracle-developer) | ![One Oracle Developer](https://raw.githubusercontent.com/jkvetina/obsidian-one-oracle-developer/master/screenshot.png) |
 | [jshuntley/fjord-obsidian](https://github.com/jshuntley/fjord-obsidian) | ![Fjord](https://raw.githubusercontent.com/jshuntley/fjord-obsidian/master/images/obsidian.png) |
+| [devm0nk3y/CyberGlow](https://github.com/devm0nk3y/CyberGlow) | ![CyberGlow](https://raw.githubusercontent.com/devm0nk3y/CyberGlow/master/preview.png) |
+| [wn2try/obsidian-theme-silver](https://github.com/wn2try/obsidian-theme-silver) | ![Silver](https://raw.githubusercontent.com/wn2try/obsidian-theme-silver/master/thumbnail.jpg) |
+| [wrongvibe/colours](https://github.com/wrongvibe/colours) | ![COLOURS](https://raw.githubusercontent.com/wrongvibe/colours/master/assets/COLOURS_thumbnail.png) |
