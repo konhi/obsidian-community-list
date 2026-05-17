@@ -80,7 +80,6 @@
 | [zcysxy/Obsidian-Terminal-Theme](https://github.com/zcysxy/Obsidian-Terminal-Theme) | ![Terminal](https://raw.githubusercontent.com/zcysxy/Obsidian-Terminal-Theme/master/screenshots/terminal.png) |
 | [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) | ![Things](https://raw.githubusercontent.com/colineckert/obsidian-things/master/assets/main-demo.png) |
 | [curio-heart/obsidian-wyrd](https://github.com/curio-heart/obsidian-wyrd) | ![Wyrd](https://raw.githubusercontent.com/curio-heart/obsidian-wyrd/master/img/Wyrd.png) |
-| [emrie-candera/Bubble-Space-Theme](https://github.com/emrie-candera/Bubble-Space-Theme) | ![Bubble Space](https://raw.githubusercontent.com/emrie-candera/Bubble-Space-Theme/master/screenshot.png) |
 | [hungsu/typomagical-obsidian](https://github.com/hungsu/typomagical-obsidian) | ![Typomagical](https://raw.githubusercontent.com/hungsu/typomagical-obsidian/master/Typomagical-split.jpg) |
 | [crashmoney/obsidian-typewriter](https://github.com/crashmoney/obsidian-typewriter) | ![Typewriter](https://raw.githubusercontent.com/crashmoney/obsidian-typewriter/master/cover.jpg) |
 | [thiews/Obsidian-Harmonic](https://github.com/thiews/Obsidian-Harmonic) | ![Harmonic](https://raw.githubusercontent.com/thiews/Obsidian-Harmonic/master/cover.png) |
@@ -411,7 +410,6 @@
 | [ducktapekiller/Brutalist](https://github.com/ducktapekiller/Brutalist) | ![Brutalist](https://raw.githubusercontent.com/ducktapekiller/Brutalist/master/screenshot.png) |
 | [nichtigott/NichNeumor](https://github.com/nichtigott/NichNeumor) | ![NichNeumor](https://raw.githubusercontent.com/nichtigott/NichNeumor/master/Picture/preview.jpg) |
 | [yuanzhixiang/obsidian-theme-quietus](https://github.com/yuanzhixiang/obsidian-theme-quietus) | ![Quietus](https://raw.githubusercontent.com/yuanzhixiang/obsidian-theme-quietus/master/screenshot.png) |
-| [hariiy-sys/obsidian-Pale](https://github.com/hariiy-sys/obsidian-Pale) | ![Pale](https://raw.githubusercontent.com/hariiy-sys/obsidian-Pale/master/screenshot.png) |
 | [y15865708228-pixel/pensea-theme](https://github.com/y15865708228-pixel/pensea-theme) | ![Pensea](https://raw.githubusercontent.com/y15865708228-pixel/pensea-theme/master/pensea.png) |
 | [artemislin/obsidian-milk-tea-theme](https://github.com/artemislin/obsidian-milk-tea-theme) | ![Milk Tea](https://raw.githubusercontent.com/artemislin/obsidian-milk-tea-theme/master/obsidian.png) |
 | [kevinlangleyjr/obsidian-slatewave](https://github.com/kevinlangleyjr/obsidian-slatewave) | ![Slatewave](https://raw.githubusercontent.com/kevinlangleyjr/obsidian-slatewave/master/docs/preview-scaled.png) |
@@ -461,6 +459,7 @@
 | [eugenesvk/Obsidian-Densy](https://github.com/eugenesvk/Obsidian-Densy) | ![Densy](https://raw.githubusercontent.com/eugenesvk/Obsidian-Densy/master/img/screenshot.png) |
 | [futurecreator/obsidian-dolch-theme](https://github.com/futurecreator/obsidian-dolch-theme) | ![Dolch](https://raw.githubusercontent.com/futurecreator/obsidian-dolch-theme/master/screenshot.png) |
 | [iodic/obsidian-ayu-theme](https://github.com/iodic/obsidian-ayu-theme) | ![Ayu Palette](https://raw.githubusercontent.com/iodic/obsidian-ayu-theme/master/theme-screenshot.png) |
+| [leapsurge/Monkey-King](https://github.com/leapsurge/Monkey-King) | ![Monkey King](https://raw.githubusercontent.com/leapsurge/Monkey-King/master/cover-optimized.jpg) |
 | [kylesnav/obsidian-delightful](https://github.com/kylesnav/obsidian-delightful) | ![Delightful](https://raw.githubusercontent.com/kylesnav/obsidian-delightful/master/screenshot.png) |
 | [johanviberg/obsidian-phosphor](https://github.com/johanviberg/obsidian-phosphor) | ![Phosphor](https://raw.githubusercontent.com/johanviberg/obsidian-phosphor/master/screenshot.png) |
 | [magmabits/Panorama-Theme](https://github.com/magmabits/Panorama-Theme) | ![Panorama](https://raw.githubusercontent.com/magmabits/Panorama-Theme/master/panorama-screen.png) |
@@ -497,6 +496,7 @@
 | [darkings/Obsidian-MonokaiSyntax](https://github.com/darkings/Obsidian-MonokaiSyntax) | ![Monokai Syntax](https://raw.githubusercontent.com/darkings/Obsidian-MonokaiSyntax/master/screenshot.png) |
 | [amdhj22/rbr.obsidian](https://github.com/amdhj22/rbr.obsidian) | ![RBR](https://raw.githubusercontent.com/amdhj22/rbr.obsidian/master/screenshot.png) |
 | [makindajack/makinda-obsidian](https://github.com/makindajack/makinda-obsidian) | ![Makinda](https://raw.githubusercontent.com/makindajack/makinda-obsidian/master/screenshot.png) |
+| [randomusername21349/cognia-noir](https://github.com/randomusername21349/cognia-noir) | ![Cognia Noir](https://raw.githubusercontent.com/randomusername21349/cognia-noir/master/screenshot.png) |
 | [steven-theuerl/forest-phosphor-obsidian](https://github.com/steven-theuerl/forest-phosphor-obsidian) | ![Forest Phosphor](https://raw.githubusercontent.com/steven-theuerl/forest-phosphor-obsidian/master/screenshot.png) |
 | [livastar/sacred-geometry-obsidian-theme](https://github.com/livastar/sacred-geometry-obsidian-theme) | ![Sacred Geometry Systems](https://raw.githubusercontent.com/livastar/sacred-geometry-obsidian-theme/master/assets/screenshot-catalog.png) |
 | [asgardehs/nott-dagr-obsidian](https://github.com/asgardehs/nott-dagr-obsidian) | ![Nott Dagr](https://raw.githubusercontent.com/asgardehs/nott-dagr-obsidian/master/Nott.png) |
@@ -508,3 +508,5 @@
 | [devm0nk3y/CyberGlow](https://github.com/devm0nk3y/CyberGlow) | ![CyberGlow](https://raw.githubusercontent.com/devm0nk3y/CyberGlow/master/preview.png) |
 | [wn2try/obsidian-theme-silver](https://github.com/wn2try/obsidian-theme-silver) | ![Silver](https://raw.githubusercontent.com/wn2try/obsidian-theme-silver/master/thumbnail.jpg) |
 | [wrongvibe/colours](https://github.com/wrongvibe/colours) | ![COLOURS](https://raw.githubusercontent.com/wrongvibe/colours/master/assets/COLOURS_thumbnail.png) |
+| [joangen/Obsidian-Material-3-Expressive](https://github.com/joangen/Obsidian-Material-3-Expressive) | ![Material 3 Expressive](https://raw.githubusercontent.com/joangen/Obsidian-Material-3-Expressive/master/assets/Material-3-Expressive-06E4C5568EB40B24643BC469BC3738A7.png) |
+| [jackmort/flamingo-noir](https://github.com/jackmort/flamingo-noir) | ![Flamingo Noir](https://raw.githubusercontent.com/jackmort/flamingo-noir/master/screenshot.png) |
