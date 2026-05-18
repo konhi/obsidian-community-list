@@ -415,7 +415,6 @@
 | [kevinlangleyjr/obsidian-slatewave](https://github.com/kevinlangleyjr/obsidian-slatewave) | ![Slatewave](https://raw.githubusercontent.com/kevinlangleyjr/obsidian-slatewave/master/docs/preview-scaled.png) |
 | [jaysan0/cardinal](https://github.com/jaysan0/cardinal) | ![Cardinal](https://raw.githubusercontent.com/jaysan0/cardinal/master/screenshot.png) |
 | [aejkatappaja/sora-obsidian](https://github.com/aejkatappaja/sora-obsidian) | ![Sora](https://raw.githubusercontent.com/aejkatappaja/sora-obsidian/master/screenshot.jpg) |
-| [masa-sumimoto/green-holiday](https://github.com/masa-sumimoto/green-holiday) | ![Green Holiday](https://raw.githubusercontent.com/masa-sumimoto/green-holiday/master/screenshot.png) |
 | [aduneer/gruber-darker-obsidian](https://github.com/aduneer/gruber-darker-obsidian) | ![Gruber Darker](https://raw.githubusercontent.com/aduneer/gruber-darker-obsidian/master/screenshot.png) |
 | [lucciano-re/Harbor-dark](https://github.com/lucciano-re/Harbor-dark) | ![Harbor-dark](https://raw.githubusercontent.com/lucciano-re/Harbor-dark/master/cover.png) |
 | [gopeshkachhadiya/Cosmic-Events](https://github.com/gopeshkachhadiya/Cosmic-Events) | ![Cosmic Events](https://raw.githubusercontent.com/gopeshkachhadiya/Cosmic-Events/master/screenshot.png) |
@@ -442,6 +441,7 @@
 | [pierry/obsidian-cloud-dancer-theme](https://github.com/pierry/obsidian-cloud-dancer-theme) | ![Cloud Dancer](https://raw.githubusercontent.com/pierry/obsidian-cloud-dancer-theme/master/screenshot.png) |
 | [lukokaravan-cloud/karadigm](https://github.com/lukokaravan-cloud/karadigm) | ![Karadigm](https://raw.githubusercontent.com/lukokaravan-cloud/karadigm/master/screenshot.png) |
 | [lemon695/obsidian-theme-ouroboros](https://github.com/lemon695/obsidian-theme-ouroboros) | ![Ouroboros](https://raw.githubusercontent.com/lemon695/obsidian-theme-ouroboros/master/screenshot.png) |
+| [adnan0-im/Obisidian_Cinderpaper](https://github.com/adnan0-im/Obisidian_Cinderpaper) | ![Cinderpaper](https://raw.githubusercontent.com/adnan0-im/Obisidian_Cinderpaper/master/screenshot.png) |
 | [zojer-studio/prose-obsidian](https://github.com/zojer-studio/prose-obsidian) | ![Prose](https://raw.githubusercontent.com/zojer-studio/prose-obsidian/master/screenshot.png) |
 | [infosecwarrior/Infosecwarrior-UI](https://github.com/infosecwarrior/Infosecwarrior-UI) | ![Infosecwarrior UI](https://raw.githubusercontent.com/infosecwarrior/Infosecwarrior-UI/master/Infosecwarrior-UI-Preview.png) |
 | [ethanthatonekid/obsidian-nerv](https://github.com/ethanthatonekid/obsidian-nerv) | ![nerv](https://raw.githubusercontent.com/ethanthatonekid/obsidian-nerv/master/screenshot.png) |
@@ -493,6 +493,7 @@
 | [noi8282/obsidian-Pastel-Yumekawa-Theme](https://github.com/noi8282/obsidian-Pastel-Yumekawa-Theme) | ![Pastel-Yumekawa](https://raw.githubusercontent.com/noi8282/obsidian-Pastel-Yumekawa-Theme/master/image.png) |
 | [yejun-exe/calm-nights](https://github.com/yejun-exe/calm-nights) | ![calm nights](https://raw.githubusercontent.com/yejun-exe/calm-nights/master/theme-sample-ss.png) |
 | [matothetomato/Elysian](https://github.com/matothetomato/Elysian) | ![Elysian](https://raw.githubusercontent.com/matothetomato/Elysian/master/cover.png) |
+| [nnniv/palenight.obsidian](https://github.com/nnniv/palenight.obsidian) | ![Palenight](https://raw.githubusercontent.com/nnniv/palenight.obsidian/master/assets/screenshot.png) |
 | [darkings/Obsidian-MonokaiSyntax](https://github.com/darkings/Obsidian-MonokaiSyntax) | ![Monokai Syntax](https://raw.githubusercontent.com/darkings/Obsidian-MonokaiSyntax/master/screenshot.png) |
 | [amdhj22/rbr.obsidian](https://github.com/amdhj22/rbr.obsidian) | ![RBR](https://raw.githubusercontent.com/amdhj22/rbr.obsidian/master/screenshot.png) |
 | [makindajack/makinda-obsidian](https://github.com/makindajack/makinda-obsidian) | ![Makinda](https://raw.githubusercontent.com/makindajack/makinda-obsidian/master/screenshot.png) |
@@ -510,3 +511,5 @@
 | [wrongvibe/colours](https://github.com/wrongvibe/colours) | ![COLOURS](https://raw.githubusercontent.com/wrongvibe/colours/master/assets/COLOURS_thumbnail.png) |
 | [joangen/Obsidian-Material-3-Expressive](https://github.com/joangen/Obsidian-Material-3-Expressive) | ![Material 3 Expressive](https://raw.githubusercontent.com/joangen/Obsidian-Material-3-Expressive/master/assets/Material-3-Expressive-06E4C5568EB40B24643BC469BC3738A7.png) |
 | [jackmort/flamingo-noir](https://github.com/jackmort/flamingo-noir) | ![Flamingo Noir](https://raw.githubusercontent.com/jackmort/flamingo-noir/master/screenshot.png) |
+| [linyanna/panda-syntax-obsidian](https://github.com/linyanna/panda-syntax-obsidian) | ![Panda Syntax](https://raw.githubusercontent.com/linyanna/panda-syntax-obsidian/master/panda-syntax-dark.png) |
+| [jackmort/manuscript](https://github.com/jackmort/manuscript) | ![Manuscript](https://raw.githubusercontent.com/jackmort/manuscript/master/screenshot.png) |
