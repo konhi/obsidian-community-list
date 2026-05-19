@@ -415,6 +415,7 @@
 | [kevinlangleyjr/obsidian-slatewave](https://github.com/kevinlangleyjr/obsidian-slatewave) | ![Slatewave](https://raw.githubusercontent.com/kevinlangleyjr/obsidian-slatewave/master/docs/preview-scaled.png) |
 | [jaysan0/cardinal](https://github.com/jaysan0/cardinal) | ![Cardinal](https://raw.githubusercontent.com/jaysan0/cardinal/master/screenshot.png) |
 | [aejkatappaja/sora-obsidian](https://github.com/aejkatappaja/sora-obsidian) | ![Sora](https://raw.githubusercontent.com/aejkatappaja/sora-obsidian/master/screenshot.jpg) |
+| [masa-sumimoto/green-holiday](https://github.com/masa-sumimoto/green-holiday) | ![Green Holiday](https://raw.githubusercontent.com/masa-sumimoto/green-holiday/master/screenshot.png) |
 | [aduneer/gruber-darker-obsidian](https://github.com/aduneer/gruber-darker-obsidian) | ![Gruber Darker](https://raw.githubusercontent.com/aduneer/gruber-darker-obsidian/master/screenshot.png) |
 | [lucciano-re/Harbor-dark](https://github.com/lucciano-re/Harbor-dark) | ![Harbor-dark](https://raw.githubusercontent.com/lucciano-re/Harbor-dark/master/cover.png) |
 | [gopeshkachhadiya/Cosmic-Events](https://github.com/gopeshkachhadiya/Cosmic-Events) | ![Cosmic Events](https://raw.githubusercontent.com/gopeshkachhadiya/Cosmic-Events/master/screenshot.png) |
