@@ -514,3 +514,5 @@
 | [jackmort/flamingo-noir](https://github.com/jackmort/flamingo-noir) | ![Flamingo Noir](https://raw.githubusercontent.com/jackmort/flamingo-noir/master/screenshot.png) |
 | [linyanna/panda-syntax-obsidian](https://github.com/linyanna/panda-syntax-obsidian) | ![Panda Syntax](https://raw.githubusercontent.com/linyanna/panda-syntax-obsidian/master/panda-syntax-dark.png) |
 | [jackmort/manuscript](https://github.com/jackmort/manuscript) | ![Manuscript](https://raw.githubusercontent.com/jackmort/manuscript/master/screenshot.png) |
+| [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
+| [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
