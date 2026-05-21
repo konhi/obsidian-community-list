@@ -417,6 +417,7 @@
 | [aejkatappaja/sora-obsidian](https://github.com/aejkatappaja/sora-obsidian) | ![Sora](https://raw.githubusercontent.com/aejkatappaja/sora-obsidian/master/screenshot.jpg) |
 | [masa-sumimoto/green-holiday](https://github.com/masa-sumimoto/green-holiday) | ![Green Holiday](https://raw.githubusercontent.com/masa-sumimoto/green-holiday/master/screenshot.png) |
 | [aduneer/gruber-darker-obsidian](https://github.com/aduneer/gruber-darker-obsidian) | ![Gruber Darker](https://raw.githubusercontent.com/aduneer/gruber-darker-obsidian/master/screenshot.png) |
+| [foreverwelearn/obsidian-superflat](https://github.com/foreverwelearn/obsidian-superflat) | ![Superflat](https://raw.githubusercontent.com/foreverwelearn/obsidian-superflat/master/imgs/cover.png) |
 | [lucciano-re/Harbor-dark](https://github.com/lucciano-re/Harbor-dark) | ![Harbor-dark](https://raw.githubusercontent.com/lucciano-re/Harbor-dark/master/cover.png) |
 | [gopeshkachhadiya/Cosmic-Events](https://github.com/gopeshkachhadiya/Cosmic-Events) | ![Cosmic Events](https://raw.githubusercontent.com/gopeshkachhadiya/Cosmic-Events/master/screenshot.png) |
 | [kxc-korthcore/obsidian-kxc-cipher](https://github.com/kxc-korthcore/obsidian-kxc-cipher) | ![KXC Cipher](https://raw.githubusercontent.com/kxc-korthcore/obsidian-kxc-cipher/master/screenshot.png) |
@@ -516,3 +517,4 @@
 | [jackmort/manuscript](https://github.com/jackmort/manuscript) | ![Manuscript](https://raw.githubusercontent.com/jackmort/manuscript/master/screenshot.png) |
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
+| [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
