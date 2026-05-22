@@ -476,6 +476,7 @@
 | [austinsuun/obsidian-AAAA](https://github.com/austinsuun/obsidian-AAAA) | ![AAAA](https://raw.githubusercontent.com/austinsuun/obsidian-AAAA/master/screenshots/light.png) |
 | [ducktapekiller/obsidian-aubade](https://github.com/ducktapekiller/obsidian-aubade) | ![Aubade](https://raw.githubusercontent.com/ducktapekiller/obsidian-aubade/master/screenshot.png) |
 | [scbrown/neon-dracula-obsidian](https://github.com/scbrown/neon-dracula-obsidian) | ![Neon Dracula](https://raw.githubusercontent.com/scbrown/neon-dracula-obsidian/master/screenshot.png) |
+| [baileylu121/obsidian-compline](https://github.com/baileylu121/obsidian-compline) | ![Compline](https://raw.githubusercontent.com/baileylu121/obsidian-compline/master/screenshot.png) |
 | [adamkdean/standard-plus-obsidian-theme](https://github.com/adamkdean/standard-plus-obsidian-theme) | ![Standard Plus](https://raw.githubusercontent.com/adamkdean/standard-plus-obsidian-theme/master/preview.png) |
 | [willn-dev/Phosphor-Mono](https://github.com/willn-dev/Phosphor-Mono) | ![Phosphor-Mono](https://raw.githubusercontent.com/willn-dev/Phosphor-Mono/master/phosphor-mono-example.png) |
 | [antonabbac/obsidian-purple-haze](https://github.com/antonabbac/obsidian-purple-haze) | ![Purple Haze](https://raw.githubusercontent.com/antonabbac/obsidian-purple-haze/master/Screenshots/Overview.png) |
@@ -490,11 +491,13 @@
 | [catthode/obsidian](https://github.com/catthode/obsidian) | ![Catthode](https://raw.githubusercontent.com/catthode/obsidian/master/screenshot.png) |
 | [robertttbs/obsidian-rain-washed-sky](https://github.com/robertttbs/obsidian-rain-washed-sky) | ![Rain-Washed Sky](https://raw.githubusercontent.com/robertttbs/obsidian-rain-washed-sky/master/rain-washed_sky.png) |
 | [jzcurious/obsidian-theme-exotic-original](https://github.com/jzcurious/obsidian-theme-exotic-original) | ![Exotic](https://raw.githubusercontent.com/jzcurious/obsidian-theme-exotic-original/master/promo_screenshot.png) |
+| [jpcranford/obsidian-theme-StarlitAbyss](https://github.com/jpcranford/obsidian-theme-StarlitAbyss) | ![Starlit Abyss](https://raw.githubusercontent.com/jpcranford/obsidian-theme-StarlitAbyss/master/img/theme_picker.png) |
 | [hanakin/miami-wind-obsidian-theme](https://github.com/hanakin/miami-wind-obsidian-theme) | ![Miami Wind](https://raw.githubusercontent.com/hanakin/miami-wind-obsidian-theme/master/screenshot.png) |
 | [oneprogramador/ObsidianCodingTheme](https://github.com/oneprogramador/ObsidianCodingTheme) | ![Happy Coding](https://raw.githubusercontent.com/oneprogramador/ObsidianCodingTheme/master/Screenshot%20Dark_small.png) |
 | [noi8282/obsidian-Pastel-Yumekawa-Theme](https://github.com/noi8282/obsidian-Pastel-Yumekawa-Theme) | ![Pastel-Yumekawa](https://raw.githubusercontent.com/noi8282/obsidian-Pastel-Yumekawa-Theme/master/image.png) |
 | [yejun-exe/calm-nights](https://github.com/yejun-exe/calm-nights) | ![calm nights](https://raw.githubusercontent.com/yejun-exe/calm-nights/master/theme-sample-ss.png) |
 | [matothetomato/Elysian](https://github.com/matothetomato/Elysian) | ![Elysian](https://raw.githubusercontent.com/matothetomato/Elysian/master/cover.png) |
+| [sikoso774/Nebulux](https://github.com/sikoso774/Nebulux) | ![Nebulux](https://raw.githubusercontent.com/sikoso774/Nebulux/master/screenshot.png) |
 | [nnniv/palenight.obsidian](https://github.com/nnniv/palenight.obsidian) | ![Palenight](https://raw.githubusercontent.com/nnniv/palenight.obsidian/master/assets/screenshot.png) |
 | [darkings/Obsidian-MonokaiSyntax](https://github.com/darkings/Obsidian-MonokaiSyntax) | ![Monokai Syntax](https://raw.githubusercontent.com/darkings/Obsidian-MonokaiSyntax/master/screenshot.png) |
 | [amdhj22/rbr.obsidian](https://github.com/amdhj22/rbr.obsidian) | ![RBR](https://raw.githubusercontent.com/amdhj22/rbr.obsidian/master/screenshot.png) |
@@ -518,3 +521,4 @@
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
 | [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
+| [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |

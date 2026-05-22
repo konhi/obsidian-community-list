@@ -2,7 +2,7 @@
 | --- | --- |
 | [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) | Improved table navigation, formatting, and manipulation. |
 | [Hotkeys++](https://github.com/argenos/hotkeysplus-obsidian) | Additional hotkeys to do common things. |
-| [Natural Language Dates](https://github.com/argenos/nldates-obsidian) | Create date-links based on natural language. |
+| [Natural Language Dates](https://github.com/obsidian-community/nldates) | Create date-links based on natural language. |
 | [Git](https://github.com/vinzent03/obsidian-git) | Integrate Git version control with automatic backup and other advanced features. |
 | [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection) | Paste URL "into" selected text. |
 | [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) | Explore your daily notes. |
@@ -26,7 +26,6 @@
 | [Latex Environments](https://github.com/raineszm/obsidian-latex-environments) | Quickly insert and change LaTeX environments within math environments. |
 | [RTL Support](https://github.com/esm7/obsidian-rtl) | Right-to-left (RTL) text direction support for languages like Arabic, Hebrew, and Farsi. |
 | [Markdown prettifier](https://github.com/cristianvasquez/obsidian-prettify) | Fix and reformats ugly Markdown. |
-| [css snippets](https://github.com/jdbrice/obsidian-css-snippets) | Load and manage CSS snippets. |
 | [Link indexer](https://github.com/aviskase/obsidian-link-indexer) | Generate index notes with links based on various conditions. |
 | [macOS Keyboard Navigation](https://github.com/ryanjamurphy/macOS-keyboard-nav-obsidian) | Enable alt+↑ and alt+↓ keyboard navigation. |
 | [Hider](https://github.com/kepano/obsidian-hider) | Hide interface elements such as tooltips, status bar, titlebar, and more. |
@@ -318,8 +317,6 @@
 | [Webhook Plugin](https://github.com/trashhalo/obsidian-webhooks) | Connect your editor to the internet of things through webhooks. |
 | [Oura Ring](https://github.com/kinabalu/obsidian-oura-plugin) | Import Oura Ring data into a note. |
 | [Habitica Sync](https://github.com/superchamp234/habitica-sync) | Integrate Habitica tasks and stats. |
-| [Image Caption](https://github.com/bicarlsen/obsidian_image_caption) | Add caption to images. |
-| [Graph Analysis](https://github.com/skepticmystic/graph-analysis) | Find hidden connections between notes in your vault using cool graph algorithms. |
 | [Cryptsidian](https://github.com/triumphantomato/cryptsidian) | Encrypt all files in your vault with a password. |
 | [Custom Attachment Location](https://github.com/mnaoumov/obsidian-custom-attachment-location) | Customize attachment location with variables($filename, $data, etc) like Typora. |
 | [Crypto Lookup](https://github.com/kinabalu/obsidian-crypto-lookup) | Use the Cryptonator API to pull prices for crypto in a target currency. |
@@ -376,7 +373,6 @@
 | [Local File Interface](https://github.com/qawatake/obsidian-local-file-interface-plugin) | Commands for moving files in and out of the vault. |
 | [Thino](https://github.com/quorafind/Obsidian-Thino) | Quickly capture memos and display them in the sidebar with a heatmap. (Closed source) |
 | [13th Age Statblocks](https://github.com/ben/obsidian-13th-age-statblocks) | Render 13th Age statblocks. |
-| [Dynamic Highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) | Dynamically highlight text based on cursor selection or search query with full regex, mobile, and live preview support. |
 | [Snippetor](https://github.com/ebullient/obsidian-snippetor) | Create and tweak common snippets. |
 | [PARA Shortcuts](https://github.com/goatiful/para-shortcuts) | Useful commands to set up and manage your knowledge using the PARA method. |
 | [KOReader Highlights](https://github.com/edo78/obsidian-koreader-sync) | Sync highlights/notes from KOReader. |
@@ -874,7 +870,6 @@
 | [AI Mentor](https://github.com/clementpoiret/ai-mentor) | Meet your open source AI mentor. Ask questions, get answers, and learn new things. |
 | [Show Diff](https://github.com/ivan-lednev/obsidian-automatic-changelog) | Render Git diffs in your notes. |
 | [Markdoc](https://github.com/kamoshi/obsidian-markdoc) | Basic support for Markdoc files. |
-| [Confluence Integration](https://github.com/markdown-confluence/obsidian-integration) | Publish Markdown content to Atlassian Confluence. It supports some Obsidian Markdown extensions for richer content. |
 | [Personal Assistant](https://github.com/edonyzpc/personal-assistant) | AI-powered workflows to streamline the management of records, callouts, frontmatter, graph view, themes, and plugins. |
 | [Colored Text](https://github.com/erincayaz/obsidian-colored-text) | Color the selected texts. |
 | [File Creation and Last Modified Timestamps in Status Bar](https://github.com/yustynn/obsidian-last-modified-timestamp-in-status-bar) | Dynamic display of file modification timestamp in the status bar. |
@@ -936,7 +931,6 @@
 | [Cloudinary](https://github.com/uday-samsani/obsidian-cloudinary) | Upload content (images, videos, audio) to Cloudinary and insert (copy or drag both) them into your notes. |
 | [Markdown Link Space Encoder](https://github.com/rkosova/obsidian-markdown-link-space-encoder) | Automatically encode spaces to %20 in Markdown-style links. |
 | [AI Notes Summary](https://github.com/irbull/obsidian-ai-summary) | Use OpenAI to generate a summary of referenced notes. |
-| [Query all the things](https://github.com/sytone/obsidian-queryallthethings) | Execute SQL queries against your data in Obsidian and render it using templates. |
 | [BMO Chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) | Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as OpenAI's "gpt-3.5-turbo" and "gpt-4". |
 | [Lilypond](https://github.com/dot-asterisk-nl/obsidian-lilypond) | Render Lilypond templates. |
 | [Time Ruler](https://github.com/j-palindrome/obsidian-time-ruler) | A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview). |
@@ -979,18 +973,15 @@
 | [oblogger](https://github.com/lofttech/obsidian-oblogger) | Tag explorer and frontmatter logger. |
 | [Code Styler](https://github.com/mayurankv/Obsidian-Code-Styler) | Style codeblocks and inline code in reading view and editing view. |
 | [Bulk Exporter](https://github.com/symunona/obsidian-bulk-exporter) | Filter, export notes from your vault using metadata into a customizable new structure. |
-| [AI Tools](https://github.com/solderneer/obsidian-ai-tools) | Adding powerful semantic search, generative answers, and other AI tools, using Supabase + OpenAI. |
 | [Ruled template](https://github.com/ypetremann/obsidian-ruled-template) | Use templates based on rules when creating a new file. |
 | [Colored Tags](https://github.com/pfrankov/obsidian-colored-tags) | Colorize tags in different colors to visually distinguish them from each other. |
 | [Auto Hyperlink](https://github.com/take6/obsidian-plugin-auto-hyperlink) | Insert hyperlink according to user-defined rule. |
-| [Markdown Sync Scroll](https://github.com/xeroalpha/markdown-sync-scroll) | Allow two linked Markdown views to scroll synchronously. |
 | [Simple CanvaSearch](https://github.com/ddalexb/obsidian-simple-canvasearch) | Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas. |
 | [Source Scanner](https://github.com/gerrie-myburgh/source-scanner) | Scanner that extracts comments from source and places it in Markdown files. |
 | [Link Tree](https://github.com/j-palindrome/obsidian-link-tree) | View file links and backlinks as a recursively expandable, filterable list with editable text, combining the structure of outliners like Dynalist & WorkFlowy with the flexibility of Obsidian. |
 | [Markdown to Slack Message](https://github.com/idreamer/markdown-to-slack-message) | Convert a Markdown note to the Slack message blocks that enable you to send to Slack. |
 | [Poker](https://github.com/maadhattah/obsidian-poker) | Easily document and view your poker hands. |
 | [Color Palette](https://github.com/alegendstale/obsidian-color-palette) | Create and insert color palettes into your notes. |
-| [Invio](https://github.com/frontend-engineering/Invio) | Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online. |
 | [LifeOS](https://github.com/quanru/obsidian-lifeos) | Life management system. |
 | [ZettelGPT](https://github.com/overraddit/ZettelGPT) | Effortlessly generate context-aware answers from ChatGPT, while maintaining a visually clear and organized conversation history. |
 | [ICS](https://github.com/open-horizon-labs/obsidian-ics) | Add events from calendar ics on the web to daily notes on demand. Includes vdir support. Daily Planner, Templater and Dataview friendly. |
@@ -1113,7 +1104,6 @@
 | [Text Conversions](https://github.com/ironsigma/obsidian-text-conversions) | Perform various text conversions on the selected text. |
 | [ZotLit](https://github.com/aidenlx/zotlit) | Integrate with Zotero, create literature notes, and insert citations from a Zotero library. |
 | [QB Reader Parser](https://github.com/j-barta/qb-reader-parser) | Automatically parse tossups from QB Reader into a format readable by the Obsidian_to_Anki plugin. |
-| [Sync Contacts on macOS](https://github.com/motschel123/Mac-Contact-Sync-Obsidian) | Sync your macOS contacts. |
 | [Contentful Publisher](https://github.com/ziyafenn/obsidian-contentful-publisher) | Manage your Contentful content. |
 | [Copy Metadata](https://github.com/wenlzhang/obsidian-copy-metadata) | Copy file metadata, e.g., creation time, to clipboard. Insert copied metadata to file name. |
 | [Palta Note](https://github.com/mrniket/palta-obsidian-plugin) | Render Bhatkhande notation for Tabla. |
@@ -1159,7 +1149,6 @@
 | [Sets](https://github.com/canna71/obsidian-sets) | Create, edit and search sets of notes like Notion or AnyType DBs. |
 | [MagicCalendar](https://github.com/vaccarini-lorenzo/MagicCalendar) | Leverage natural language processing techniques to find calendar events in Markdown notes, seamlessly synchronizing them with a calendar of choice. |
 | [ReClipped Official](https://github.com/tech-reclipped/ReClipped-Obsidian-Official) | Export video annotations from ReClipped into your vault. |
-| [Typing](https://github.com/konodyuk/obsidian-typing) | Customizable note types. |
 | [Gemini AI Assistant](https://github.com/artel250/Obsidian-Gemini-Assistant) | A Google Gemini integration, completely for free. |
 | [Lunar Calendar](https://github.com/whg555/lunar-calendar) | A calendar that supports the lunar calendar. |
 | [Halo](https://github.com/halo-sigs/obsidian-halo) | Publish content to Halo sites. |
@@ -1301,7 +1290,6 @@
 | [Docxer](https://github.com/developer-mike/obsidian-docxer) | Import Word files easily. Adds a preview mode for .docx files and the ability to convert them to markdown (.md) files. |
 | [Strip Internal Links](https://github.com/adiron/obsidian-strip-internal-links) | Copy the contents of files or selections within to the clipboard, without internal links. |
 | [Git File Explorer](https://github.com/mateusmolina/obsidian-git-file-explorer) | Add relevant git information of detected git repositories to the file explorer. |
-| [Cloud Atlas](https://github.com/open-horizon-labs/obsidian-client) | Connect to Cloud Atlas to auto-process notes, generate contextual responses. |
 | [IMDb](https://github.com/aaachen/IMDb-Obsidian) | Sync your IMDb list. |
 | [CoCo AskAI](https://github.com/yamfeel/coco-askai) | Let your questions flow swiftly with CoCo AskAI. (Closed source) |
 | [Additional Icons](https://github.com/matthewturk/obsidian-additional-icons) | Add additional iconsets. |
@@ -1335,7 +1323,6 @@
 | [Orgmode (cm6)](https://github.com/bbazard/obsidian-orgmode-cm6) | Edit Orgmode files. |
 | [Pinyin Replacer](https://github.com/larrysal/pinyin-replacer) | Use the Pinyin tones without having to install extra keyboard layouts. |
 | [Single File Daily Notes](https://github.com/pranavmangal/obsidian-single-file-daily-notes) | Create and manage daily notes in a single file. |
-| [UseSemaLogic](https://github.com/mm-go/UseSemaLogic) | Real-time use of the SemaLogic formal language |
 | [Vk group notifier](https://github.com/filichev-evgeny/obsidianvkupdatenotifier) | Track news posts from vk.com groups. |
 | [Rss Copyist](https://github.com/aoout/obsidian-rss-copyist) | Get RSS articles as notes. |
 | [Markline](https://github.com/hotoo/obsidian-markline) | Timeline view from Markdown |
@@ -1408,7 +1395,6 @@
 | [Enhanced tables](https://github.com/pistacchio/obsidian-enhanced-tables) | Add programmable controls to selected tables. |
 | [Folders to Graph](https://github.com/ratibus11/folders2graph) | Display your vault folder structure into your graphs. |
 | [Lean Syntax Highlight](https://github.com/tomaz1502/lean-syntax-highlight) | Provides live syntax highlight for the Lean programming language |
-| [Filtered Opener](https://github.com/balibaloo/obsidian-filtered-opener) | Open notes and folders, chose from sets defined by filters. |
 | [Note Companion (prev. File Organizer 2000)](https://github.com/nexus-jpf/note-companion) | AI-powered note organization and chat. Requires subscription or self-hosting with your own API keys. |
 | [PF2e Statblocks](https://github.com/pixley/pf2e-statblock-for-obsidian) | Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax. |
 | [Canvas Link Optimizer](https://github.com/qbject/obsidian-canvas-link-optimizer) | Optimize Canvas links by displaying a page thumbnail. |
@@ -1423,7 +1409,6 @@
 | [Tiff Viewer](https://github.com/ullmannjan/obsidian-tiff-viewer) | View .tif(f) files by generating duplicates in form of .tif(f).png |
 | [Select & Complete](https://github.com/macro21kgb/select-and-complete) | Select something and let the AI complete it for you. |
 | [Track-a-Lot](https://github.com/revolter/obsidian-track-a-lot-plugin) | Scrapes different webpages, builds lists with the items as Markdown tables, and allows you to track their status. |
-| [Seafile](https://github.com/conql/obsidian-seafile) | Sync notes across devices using Seafile. |
 | [Plugin Reloader](https://github.com/benature/obsidian-plugin-reloader) | Manually reload plugins. |
 | [Prompt ChatGPT](https://github.com/coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian) | Send templated prompts to ChatGPT when you open a file. |
 | [Tab Shifter](https://github.com/jsrozner/obsidian-tab-shifter) | Enables shifting tabs between different tab splits |
@@ -1633,7 +1618,6 @@
 | [Zen Mode](https://github.com/paperbenni/obsidian-zenmode) | Hide most UI elements. |
 | [Update Time](https://github.com/dsebastien/obsidian-update-time) | Update front matter to include creation and last update times |
 | [Voicenotes Sync](https://github.com/voicenotes-community/voicenotes-sync) | A plugin for syncing Voicenotes.com data into notes |
-| [Hexo Publisher](https://github.com/zhenlohuang/obsidian-hexo-publisher) | Publish your notes to Hexo. |
 | [Freeform](https://github.com/tmcw/obsidian-freeform) | Create visualizations, run custom JS, and mix live programs with your notes |
 | [TaskWarrior Task Wiki](https://github.com/snttgr/obsidian-tw-task-wiki) | Wrapper and integration around TaskWarrior. Allows you to view and edit tasks in your TaskWarrior database as tables. |
 | [Notes 2 Tweets](https://github.com/tej-sharma/notes2tweets-obsidian) | Generate tweets automatically from all the notes you took |
@@ -1704,7 +1688,6 @@
 | [RPG Stat Tracker](https://github.com/name/obsidian-rpg) | RPG-like stat tracker. |
 | [Syrinscape Online Player](https://github.com/scooper4711/obsidian-syrinscape) | Control Syrinscape Online Player from inside of notes. |
 | [Edit in Neovim](https://github.com/theseusgrey/edit-in-neovim) | Open a Neovim buffer for the currently open file |
-| [Todoist Indicator](https://github.com/kapej42/obsidian-todoist-indicator) | Adds a badge to "project" files to indicate a missing link to a Todoist project. |
 | [Vimium](https://github.com/karstenpedersen/obsidian-vimium) | Interact with elements using keyboard shortcuts in the spirit of Vim. |
 | [Quran Helper](https://github.com/ammarcodes/obsidian-quran-helper-plugin) | Find and insert any Quran Ayah (verse) in your notes. |
 | [Page Scroll](https://github.com/chenshutian9610/obsidian-pagescroll-plugin) | Page Up\|Down\|Top\|Bottom |
@@ -1756,7 +1739,6 @@
 | [Inline spoilers](https://github.com/logonoff/obsidian-inline-spoilers) | Adds Discord-like syntax for inline spoilers in reader mode. |
 | [Auto Correct Capitals Misspellings](https://github.com/ummler/obsidian-auto-correct-capitals) | Correct words with the first two letters in uppercase. |
 | [Daily Statistics](https://github.com/yefengr/obsidian-daily-statistics) | Count the number of words written each day and display it on a calendar. |
-| [Todoist Project sync](https://github.com/stuporfly/ObsidianTodoistProjects) | Synchronizes projects from Todoist, creating a note for each. |
 | [Paste as Embed](https://github.com/i-m-mll/obsidian-paste-as-embed) | Redirect pasted text into a separate note, and embed it. |
 | [Block Link Plus](https://github.com/jasper-1024/block-link-plus) | Simplifies the creation of multi-line blockquotes, with customizable block IDs. |
 | [Better Recall](https://github.com/florianwoelki/obsidian-better-recall) | Add anki-like spaced repetition and recall to your vault. |
@@ -1819,7 +1801,6 @@
 | [Vault to blog](https://github.com/barkstone2/vault-to-blog) | Publish the vault to a GitHub Pages blog. |
 | [simple-sketch](https://github.com/yohh/obsidian-simple-sketch) | Create minimalist sketches in a dedicated view, draw with a pencil, generate shapes, add text, save it to the vault or download it as an image. |
 | [Scrambling Title Animations](https://github.com/dvorakdwarf/scrambling-title-animations) | Animates the title of any note you open by scrambling and revealing it in several visually appealing ways. |
-| [LDS Library Reference](https://github.com/ingiestein/obsidian-lds-scriptures-plugin) | Easily insert references to scriptures and conference talks from the Church of Jesus Christ of Latterday Saints. |
 | [Draw Steel Elements](https://github.com/steelcompendium/draw-steel-elements) | Components to support the Draw Steel TTRPG by MCDM. |
 | [Highlight active folder section](https://github.com/justanotherjurastudent/highlight-active-folder-section) | Highlight the active folder section and the title in the file explorer. |
 | [Tokenz](https://github.com/ferenk/obsidian-tokenz) | Insert any type of short codes into your document. You can add smileys (:), ;), ...) or emojis (:smile:, :wink:, ...). More code maps will be added later. Even you, as a user can create your own. |
@@ -2047,7 +2028,6 @@
 | [On This Day](https://github.com/jose-elias-alvarez/obsidian-on-this-day) | Show your daily notes from this day in a simple panel view. |
 | [Import Todoist tasks](https://github.com/dukex/obsidian-import-todoist) | Import Todoist tasks as Markdown tasks. |
 | [Link Maintainer](https://github.com/wenlzhang/obsidian-link-maintainer) | Maintain note links when splitting or reorganizing notes. |
-| [Syncthing status icon](https://github.com/diego-viero/Syncthing-status-icon-Obsidian-plugin) | Displays a status icon in the status bar showing whether Syncthing is running locally or not. |
 | [kkh](https://github.com/okikae/obsid-kkh) | Replace words in a string using kkh dictionary. |
 | [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links) | Adds support for markdown links in frontmatter. |
 | [Clipper Catalog](https://github.com/soundslikeinfo/obsidian-clipper-catalog) | A catalog view of all the clippings gathered with a common source property. |
@@ -2111,7 +2091,6 @@
 | [Explorer Colors](https://github.com/vaguelyelectric/obsidian-explorer-colors) | Allows for files and folders to be configured with custom colors and other settings. |
 | [WhatsApp export note](https://github.com/joaoemanuell/obsidian-whatsapp-export-note) | Convert the current note for WhatsApp format to share. |
 | [YouTube Video Summarizer](https://github.com/mbramani/obsidian-yt-video-summarizer) | Summarize YouTube videos using Gemini AI. Extract transcripts, generate summaries, and create structured notes. |
-| [Hanzi Writer](https://github.com/pakrentos/hanzi-writer-obsidian) | Interactive Chinese character writing blocks using Hanzi Writer |
 | [Tag Tactician](https://github.com/scotttomaszewski/obsidian-tag-tactician) | Tag operations and helpers |
 | [InlineAI](https://github.com/fbarrca/obsidian-inlineAI) | AI-powered suggestions, contextual edits, and advanced text transformations directly into your editor. |
 | [Spacekeys](https://github.com/jlumpe/obsidian-spacekeys) | Define hotkeys based on sequences of keypresses. |
@@ -2131,7 +2110,6 @@
 | [Duplicate Detector](https://github.com/wishmater/obsidian-plugin-duplicate-detector) | Highlights duplicate lines in the open note. |
 | [Vector Search](https://github.com/ashwin271/obsidian-vector-search) | Semantic search for your notes using Ollama and nomic-embed-text embeddings. Requires Ollama installation. |
 | [Enhanced Canvas](https://github.com/robertttbs/obsidian-enhanced-canvas) | Syncs Canvas node connections with properties in note, automating document relationship management. |
-| [Lancaster University Week Format](https://github.com/imb11/ObsidianLUWeeks) | (2024-2025 Academic Year) Extends moment.js to provide a custom 'Lancaster University Week' value or 'VACATION' if not in term. Use 'LUW' in the Daily Note format to use! |
 | [Idle Monitor](https://github.com/alberto98fx/idle-monitor-obsidian) | Get notified when you stop typing to stay motivated. |
 | [Sankey](https://github.com/finnromaneessen/obsidian-sankey) | Create Sankey diagrams in your notes. |
 | [External File Linker](https://github.com/kay607/obsidian-pathlinker) | Embed external files into your notes. |
@@ -2197,7 +2175,6 @@
 | [My Thesaurus](https://github.com/mara-li/obsidian-my-thesaurus) | Automagically adds tags based on a simple csv file or a Markdown table. |
 | [Asana](https://github.com/mryanb/obsidian-asana) | Create Asana tasks from highlighted text or the current line. |
 | [VaultSync](https://github.com/thewordisbird/VaultSync) | Sync vault with cloud storage provider. |
-| [Smart Vault Visualizer](https://github.com/mossy1022/Smart-Connections-Vault-Visualizer) | Visualizes and manages smart clusters and cluster groups in your vault. |
 | [Content Cards](https://github.com/liqms/obsidian-content-cards) | Insert various types of content cards in Markdown, such as timeline, highlightblock, and more. |
 | [Manual Sorting](https://github.com/kh4f/manual-sorting) | Drag'n'Drop sorting within file explorer. |
 | [ASCII Tree Generator](https://github.com/michalekmatej/obsidian.md-ascii-tree-generator) | Convert indented code blocks with hierarchy markers into formatted ASCII tree diagrams. |
@@ -2208,7 +2185,6 @@
 | [Chat clips](https://github.com/sleepingraven/obsidian-chat-clips) | Record chat in ordinary markdown list. |
 | [Media Slider](https://github.com/amatya-aditya/obsidian-media-slider) | A media slider for images, gifs, audios, videos, and PDFs. |
 | [YourPulse - Your Writing Activity Visualised](https://github.com/jsifalda/obsipulse-plugin) | It's like your Github profile, but for your vault (featuring daily streak, average daily word count, comprehensive stats and plugins overview). |
-| [Jade Publisher](https://github.com/lucasji/jade-publisher) | Publish your vault and changes to your Jade service. |
 | [Textfresser](https://github.com/clockblocker/filler-de) | Building your a personal German dictionary, based on the contexts in the German texts, that you have read |
 | [Wakatime / Wakapi](https://github.com/kovah/obsidian-wakatime) | Connect to Wakatime or Wakapi to track the time spent while browsing or writing notes. |
 | [Rainbow-Colored Sidebar](https://github.com/kovah/obsidian-rainbow-colored-sidebar) | Automatically color your sidebar like a rainbow. No configuration needed. |
@@ -2245,7 +2221,6 @@
 | [Student Repo](https://github.com/yingflower/obsidian-stu-repo-helper) | Manage student repositories. |
 | [KOI Sync](https://github.com/metagov/koi-obsidian-plugin) | Synchronizes data from a Slack Telescope instance using the KOI-net protocol. |
 | [Notes Explorer](https://github.com/tu2-atmanand/obsidian-notes-explorer) | Explore your notes as cards in gallery or masonry view. A new way to revise your content. |
-| [Tagvis](https://github.com/mason-bryant/Obsidian-Tagvis) | Visualize your tags as a configurable sunburst visualization. |
 | [PDF Folder to Markdowns](https://github.com/crishood/pdf-folder-to-markdowns) | Convert a folder of PDFs into Markdown files with embedded PDFs |
 | [Daily News Briefing](https://github.com/chenziqiadam/Daily-News-Briefing) | Get AI-powered daily news summaries in your vault. Features customizable topics, smart filtering, and automated scheduling. |
 | [Attachments Cache](https://github.com/luisbs/obsidian-attachments-cache) | Store images and other attachments on the vault |
@@ -2268,7 +2243,6 @@
 | [Reveal Folded](https://github.com/d7sd6u/obsidian-reveal-folded) | Reveal the current file in the file explorer while collapsing all other tree items. |
 | [Crosslink Advanced](https://github.com/d7sd6u/obsidian-crosslink-advanced) | Tag files using folders and symlinks system (ftags). |
 | [Folder Navigator](https://github.com/wenlzhang/obsidian-folder-navigator) | Quickly navigate to folders in your vault using fuzzy search. |
-| [AI Helper](https://github.com/davidjconnolly/obsidian-ai-helper) | An AI helper tool for summarizing text and providing a chatbot to let you ask questions about your notes. |
 | [AutoMover](https://github.com/al0cam/AutoMover) | Automatically move files and notes with specified names into their designated folders according to rules you define. |
 | [File Compressor](https://github.com/networkmastered/obsidian-compress) | Make your files smaller with compression! |
 | [Canvas Format Brush](https://github.com/wenlzhang/obsidian-canvas-format-brush) | Copy and paste formatting attributes (size and color) between canvas elements, similar to the format painter in Word. |
@@ -2281,7 +2255,6 @@
 | [QueryDash](https://github.com/liufree/obsidian-querydash) | Add new views and enhanced features for bases. Inspired by Dataview and bases, this includes search, sorting, and pagination functionalities similar to Notion. |
 | [One Step Wiki Link](https://github.com/busyogg/OneStepWikiLink) | One step to add wiki links. |
 | [Markitdown File Converter](https://github.com/ethanolivertroy/obsidian-markitdown) | Convert PDFs, Office documents, images, and other file formats to Markdown using Microsoft's Markitdown tool |
-| [AI Note Tagger](https://github.com/jaspermayone/obsidian-ai-tagger) | Automatically tag your notes using AI and update frontmatter with generated tags. |
 | [Waveform Player](https://github.com/zhouhua/obsidian-waveform-player) | Render audio files as waveforms |
 | [Wheel Tab Switcher](https://github.com/22-2/wheel-tab-switcher) | Switch between Tabs using your mouse wheel when hovering over tab headers |
 | [Pinned Daily Notes](https://github.com/docmarionum1/obsidian-pinned-daily-notes) | Dynamically update a pinned tab with today's daily note |
@@ -2315,7 +2288,6 @@
 | [Interactive Ratings](https://github.com/peritus/obsidian-interactive-ratings) | Edit symbol ratings in your notes interactively. |
 | [Date Range Expander](https://github.com/mildeveloper/obsidian-date-range-expander) | Quickly add a range of day references given a date duration. |
 | [ClipperMaster](https://github.com/aqeja/ClipperMaster-for-Obsidian) | Works with the ClipperMaster Chrome extension to clip structured content from the web and save it to your vault as Markdown files. |
-| [GitHub Tracker](https://github.com/schaier-io/obsidian-github-tracker-plugin) | Track GitHub issues and pull requests in your vault |
 | [Cubox](https://github.com/olcubo/obsidian-cubox) | Sync your Cubox articles & annotations |
 | [Mention Things](https://github.com/stracker-phil/obsidian-mention-things) | Define a list of prefixes to trigger an autocomplete suggestion to insert a link. |
 | [Note Sync](https://github.com/zigholding/obsidian-notesync-plugin) | Sync notes or plugins between vaults. |
@@ -2343,7 +2315,6 @@
 | [Image Embedder](https://github.com/sky150/obsidian-image-embedder) | Automatically downloads and embeds images from URLs when pasting |
 | [Advanced Note Composer](https://github.com/mnaoumov/obsidian-advanced-note-composer) | Enhances Note composer core plugin. |
 | [Japanese note taking helper](https://github.com/overfitted/obsidian-japanese-helper) | Streamline Japanese note-taking with romaji to kana conversion |
-| [JW Library Linker](https://github.com/msakowski/obsidian-library-linker) | Converts JW Library and Bible references to actual links in JW Library. |
 | [Rainbow Folders Fixer](https://github.com/dee158/obsidian-rainbow-folders-fixer) | Stop rainbow folders from changing colors when you scroll through the File explorer. |
 | [Zen Space](https://github.com/amatya-aditya/obsidian-zen-space) | An enhanced file explorer showing relevant only relevant files when required. |
 | [Daily Notes Automater](https://github.com/davidpedrero/obsidian-daily-notes-automater) | Automates the creation of a daily note |
@@ -2355,7 +2326,6 @@
 | [Note Status](https://github.com/devonthesofa/obsidian-note-status) | Organize notes with customizable statuses. Track progress through an intuitive status pane, dropdown selector, and file explorer integration. |
 | [LawList: Custom List Styles](https://github.com/willem-schlieter/lawlist) | Adds support for freely configurable, custom list styles (Edit Mode and Read Mode). |
 | [Another Name](https://github.com/eurfelux/obsidian-another-name-plugin) | Add an another name after your inline title! |
-| [Pasterly](https://github.com/easternkite/Pasterly) | Automatically upload clipboard images to Firebase Storage and insert them as markdown links! |
 | [Timelive](https://github.com/annimon/obsidian-timelive) | Turn a list of dates into a timeline. |
 | [Inline Callouts](https://github.com/gapmiss/inline-callouts) | Add inline callouts/badges/icons to notes. |
 | [DataCards](https://github.com/sophokles187/data-cards) | Transform Dataview query results into visually appealing, customizable card layouts. |
@@ -2514,7 +2484,6 @@
 | [Vault Stats](https://github.com/blueheron786/obsidian-stats-plugin) | Provides methods to retrieve statistics about the vault, such as the number of notes, total word count, recently modified notes, and more. |
 | [Citation Callouts](https://github.com/marvive/Citation-Callouts) | Elegantly formats quotes with citations from various sources into custom callouts. |
 | [Discrete](https://github.com/shkarlsson/obsidian-discrete) | Filter in Explorer based on file frontmatter metadata |
-| [.md Merge](https://github.com/tosatur/obsidian-md-merge) | Merge all markdown files from a folder into a single file. |
 | [WebDAV Image Uploader](https://github.com/koishiiko/obsidian-webdav-image-uploader) | Uploads, downloads and deletes images on WebDAV server within notes. |
 | [Custom File Viewer](https://github.com/peabody28/obsidian-extension-custom-file-viewer) | Open files with custom external applications based on file extension |
 | [Efficient Word Count](https://github.com/blueheron786/obsidian-efficient-word-count) | Efficiently calculates and caches word counts for notes, with folder exclusion. Uses cache to avoid recalculating word counts for unchanged notes. |
@@ -2579,7 +2548,6 @@
 | [Move Cursor On Startup](https://github.com/treadder/move-cursor-on-startup) | Move cursor right then left briefly on startup --> first opened note. Makes DataView expressions 'activate' automatically instead of waiting for user interaction. |
 | [Notebook Navigator](https://github.com/johansan/notebook-navigator) | A better file browser and calendar inspired by Apple Notes, Bear, Evernote and Day One. |
 | [HOME key](https://github.com/shichishima/obsidian-homekey-plugin) | Move cursor to beginning of text, considering Markdown heading characters. |
-| [XMind Linker](https://github.com/leafney/obsidian-xmind-linker) | View XMind files in your vault and connect to XMind software for editing. |
 | [Maps](https://github.com/obsidianmd/obsidian-maps) | Adds a map layout to bases so you can display notes as an interactive map view. |
 | [Radial timeline](https://github.com/ericrhystaylor/Radial-Timeline) | A radial timeline for creative fiction writing projects that displays scenes organized by act, subplot, and numeric order for a complete view of the project. |
 | [Tasks Map](https://github.com/nicoknl/tasks-map) | A visual graph view of your tasks. |
@@ -2738,8 +2706,10 @@
 | [Path in tab title](https://github.com/d9k/obsidian-path-in-tab-title) | This plugin has not been manually reviewed by Obsidian staff. Show folders names in the tabs titles. |
 | [Markdown Cleaner](https://github.com/gao-qian-long/obsidian-markdown-cleaner) | This plugin has not been manually reviewed by Obsidian staff. Clean Markdown syntax and automatically convert LaTeX to a compatible format. |
 | [LexiNote](https://github.com/alucpro/obsidian-lexinote) | This plugin has not been manually reviewed by Obsidian staff. Highlight difficult English words and learn vocabulary while writing. |
+| [Enhanced Tab Settings](https://github.com/boerlabs/obsidian-enhanced-tab-settings) | This plugin has not been manually reviewed by Obsidian staff. Customize tab opening behavior with preview tabs, deduplication, and placement control. |
 | [Tree Modal](https://github.com/krannich/obsidian-tree-modal) | This plugin has not been manually reviewed by Obsidian staff. Open files from the file explorer in a modal preview instead of in the editor. |
 | [Embeds+](https://github.com/sz-1f/obsidian-embeds-plus) | This plugin has not been manually reviewed by Obsidian staff. View and embed HTML, MHTML, and Web Archive files natively with full styling and inline preview support. |
+| [Bangumi Sync](https://github.com/threeyang3/bangumi-sync) | This plugin has not been manually reviewed by Obsidian staff. Sync your Bangumi collections to notes with episode tracking, control panel, and batch editing. |
 | [Zone Scroll Zoom](https://github.com/kqint/obsidian-zone-scroll-zoom) | This plugin has not been manually reviewed by Obsidian staff. Zoom where your mouse is — font in editor, interface elsewhere. |
 | [Export to Rodin](https://github.com/peacewalkert/obsidian-rodin-export) | This plugin has not been manually reviewed by Obsidian staff. Send your vault to Rodin to generate your intellectual fingerprint — discover how you think. |
 | [Yori Task](https://github.com/yorigo77/obsidian-yori-task) | This plugin has not been manually reviewed by Obsidian staff. Task manager, week planner, year planner. |
@@ -2764,6 +2734,7 @@
 | [Heading Level Adjust](https://github.com/obcdian/obsidian-heading-level-adjust) | This plugin has not been manually reviewed by Obsidian staff. Adjust Markdown heading levels and clean up dividers/empty lines in selected text or the entire document. |
 | [Media Embed](https://github.com/punkyard/obsidian-video-embed) | This plugin has not been manually reviewed by Obsidian staff. Automatically converts pasted YouTube links into your preferred embed style on an empty line. |
 | [More Excellent Hotkeys (MEH)](https://github.com/kraxen72/more-excellent-hotkeys) | This plugin has not been manually reviewed by Obsidian staff. Smart quality-of-life hotkeys. |
+| [Karma Notes](https://github.com/teoechavarria/karma-notes) | This plugin has not been manually reviewed by Obsidian staff. Reddit-style upvote/downvote for your notes. 1 vote per day, auto-decay after 2 weeks of inactivity. |
 | [Beeminder Task Sync](https://github.com/leonstaufer/obsidian-beeminder-task-sync) | This plugin has not been manually reviewed by Obsidian staff. Sync task completions to Beeminder goals. Works with the Tasks plugin. |
 | [Ghost Writer Manager](https://github.com/diegoeis/ghost-writer-manager-plugin) | This plugin has not been manually reviewed by Obsidian staff. Sync notes to Ghost CMS with post scheduling, YAML metadata control, and periodic sync. |
 | [Smart Import](https://github.com/0126-hash/obsidian-smart-import) | This plugin has not been manually reviewed by Obsidian staff. Desktop-only file importer that converts external files into Markdown and stores source assets inside the vault. |
@@ -2781,6 +2752,8 @@
 | [CloudAttach](https://github.com/curryhendry/obsidian-cloud-attach) | This plugin has not been manually reviewed by Obsidian staff. Connect to OpenList and manage cloud attachments, insert signed file links into notes. |
 | [Ollama Notes Chat](https://github.com/tdmarchetta/obsidian-ollama-notes-chat) | This plugin has not been manually reviewed by Obsidian staff. Chat with your notes in a right sidebar using a remote Ollama server. |
 | [Vocab Hover](https://github.com/chingchen0119/obsidian-vocab-hover) | This plugin has not been manually reviewed by Obsidian staff. Add hover tooltips to words by right-clicking selected text. Perfect for vocabulary learning. |
+| [Toggl Import](https://github.com/theaspect/obsidian-toggl) | This plugin has not been manually reviewed by Obsidian staff. Import Toggl Track time entries into daily notes with a single command. |
+| [Split Web Viewer Modifier](https://github.com/hucy/split-link-router) | This plugin has not been manually reviewed by Obsidian staff. Open external links in a split-pane Web Viewer. Supports reuse, new tab, new split, and browser modes. Configurable Shift / Cmd/Ctrl click behavior. |
 | [HWPX writer](https://github.com/jundamin/obsidian-hwpx-writer) | This plugin has not been manually reviewed by Obsidian staff. Convert Markdown notes to HWPX (Hancom Office Hangul) documents with live preview, templates, and detailed style controls. |
 | [Colophon](https://github.com/davidgolding/obsidian-colophon) | This plugin has not been manually reviewed by Obsidian staff. A dedicated, typographically refined writing canvas for structuring long-form manuscripts and screenplays. |
 | [Quran inserter](https://github.com/ramysami/obsidian-quran-plugin) | This plugin has not been manually reviewed by Obsidian staff. Insert Quran verses into the editor by specifying the surah and ayah number. |
@@ -2827,6 +2800,7 @@
 | [Enhanced search and replace](https://github.com/liuhaoxd/obsidian-enhanced-search-replace) | This plugin has not been manually reviewed by Obsidian staff. Inline editor search and replace panel with match case, whole word, and regex. |
 | [Rainbow Highlight](https://github.com/norman-lawyer/obsidian-rainbow-highlight) | This plugin has not been manually reviewed by Obsidian staff. Beautiful multi-color text highlighting with a quick color palette popup. |
 | [Theme Quick Switch](https://github.com/lyxtsinghua/obsidian-theme-quick-switch) | This plugin has not been manually reviewed by Obsidian staff. Quickly switch between light, dark, follow-system, and eye-care themes, with gentler PDF reading. |
+| [DataCharts](https://github.com/jcf-402/datacharts) | This plugin has not been manually reviewed by Obsidian staff. Create charts and visualize data directly inside notes. |
 | [Nushell](https://github.com/christianlemer/obsidian-nushell) | This plugin has not been manually reviewed by Obsidian staff. Render Nushell data files (.nuon) and syntax-highlight Nushell scripts (.nu) using the local Nushell installation. |
 | [Link Plus](https://github.com/jabaho9523/obsidian-link-plus) | This plugin has not been manually reviewed by Obsidian staff. Find every unlinked mention in your vault and convert them to wikilinks — one click or batch. Zero setup. |
 | [Media Lens](https://github.com/stephquery/obsidian-media-lens) | This plugin has not been manually reviewed by Obsidian staff. Inspect and compare metadata for images, video, audio, and subtitle files. |
@@ -2876,7 +2850,6 @@
 | [LLR: Live Life Recording](https://github.com/goryugocast/llr) | This plugin has not been manually reviewed by Obsidian staff. Live Life Recording — operate tasks directly in Markdown with start/finish records, routine insertion, and a lightweight daily summary. |
 | [Notion Sync](https://github.com/sharkello/notion-sync) | This plugin has not been manually reviewed by Obsidian staff. Sync your vault with Notion — preserves folder hierarchy, markdown formatting, internal links, metadata, and attachments. |
 | [Header Backlinks](https://github.com/rekby/obsidian-header-backlinks) | This plugin has not been manually reviewed by Obsidian staff. Displays anchor icons next to headings targeted by internal links and lets you navigate to every note that references each heading. |
-| [Infobox](https://github.com/ozzycosmo/obsidian-infobox) | This plugin has not been manually reviewed by Obsidian staff. Renders Wikipedia-style infoboxes from YAML frontmatter. |
 | [Muse](https://github.com/tekgadgt/obsidian-muse) | This plugin has not been manually reviewed by Obsidian staff. Distraction-free writing mode with AI-generated prompts personalized to your projects and interests. |
 | [Authorship](https://github.com/rflpazini/obsidian-authorship) | This plugin has not been manually reviewed by Obsidian staff. Track and visualize text authorship in the editor. Distinguishes typed, pasted, AI-generated, and reference text with color-coded highlights. |
 | [Autism Task Planner](https://github.com/mm0x1/obsidian-autism-task-planner) | This plugin has not been manually reviewed by Obsidian staff. Reduce your mental load by sequencing your tasks in a drag-and-drop UI with compounding time estimates. |
@@ -2894,11 +2867,11 @@
 | [Word Progress Bar](https://github.com/somenoy/obsidian-word-progress-bar) | This plugin has not been manually reviewed by Obsidian staff. Progress bar in the status bar that shows goal of words. |
 | [YACHT](https://github.com/jayandoh/obsidian-habit-tracker) | This plugin has not been manually reviewed by Obsidian staff. Yet another chill habit tracker. Embed it in your notes or open it from the sidebar, and export your data! |
 | [Heading Outliner](https://github.com/tgrrrr/heading-outliner) | This plugin has not been manually reviewed by Obsidian staff. Outliner-style editing for heading-based Markdown: move, indent, and unindent full sections with keyboard shortcuts. |
+| [Nexus](https://github.com/profsynapse/nexus) | This plugin has not been manually reviewed by Obsidian staff. Agentic AI for your vault. Use Claude, ChatGPT, Gemini, and local models to chat, search, create, and manage your notes with semantic memory, image generation, and MCP server integration. |
 | [Little Milestones 🌱](https://github.com/tinswangtao-web/obsidian-little-milestones) | This plugin has not been manually reviewed by Obsidian staff. Daily record plugin for kids — behavior scoring, diary, diet & activity tracking, with structured data ready for AI analysis. |
 | [Cockpit Board](https://github.com/andreconde21/cockpit-board) | This plugin has not been manually reviewed by Obsidian staff. Dynamic Kanban board from frontmatter properties with calendar views, timers, and recurring tasks. |
 | [Agent Skill Graph](https://github.com/hanamizuki/obsidian-skill-graph) | This plugin has not been manually reviewed by Obsidian staff. Visualize AI agent skill structures in graph view. Renames SKILL.md nodes from frontmatter, draws reference edges, and colors nodes by type. |
 | [Codex Narrative Engine](https://github.com/djinnmind/codex-narrative-engine) | This plugin has not been manually reviewed by Obsidian staff. Narrative intelligence for TTRPG world-building — entity indexing, consistency linting, and dead-link detection for your campaign vault. |
-| [Zotero Annotations](https://github.com/bpiwowar/obsidian-zotero-annotations) | This plugin has not been manually reviewed by Obsidian staff. Automatically show Zotero PDF annotations in a sidebar when the cursor is on a zotero:// link. |
 | [DXF Viewer](https://github.com/eweinhoffer/dxf-viewer) | This plugin has not been manually reviewed by Obsidian staff. View, measure, and embed DXF drawings in your vault. |
 | [Stratum](https://github.com/sprice/stratum-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Sync your Zotero library into structured literature notes with zero configuration. |
 | [Urso](https://github.com/ariedotme/urso) | This plugin has not been manually reviewed by Obsidian staff. Tag and property explorer with pins, icons, and responsive layouts. |
@@ -2913,8 +2886,8 @@
 | [CodeSuite](https://github.com/felixleopold/obsidian-code-suite) | This plugin has not been manually reviewed by Obsidian staff. VS Code-quality code blocks: Shiki syntax highlighting with 65+ themes, code execution with live I/O, embedded file rendering, and custom VS Code theme import. |
 | [Colorful Folders](https://github.com/rohitnahar-offical/colorful-folders-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Automatically adds premium preset colors to all folders and subfolders. |
 | [AI Search for Your Second Brain](https://github.com/snoopyrain/obvec-sync) | This plugin has not been manually reviewed by Obsidian staff. Let AI search your second brain. Connect your vault to Claude, ChatGPT, and Cursor via MCP. |
+| [Kindle Transformation](https://github.com/tristan0929/Kindle-Transformation) | This plugin has not been manually reviewed by Obsidian staff. Elegantly transform Kindle exported HTML notes into beautifully formatted markdown files. |
 | [Agentfiles](https://github.com/railly/agentfiles) | This plugin has not been manually reviewed by Obsidian staff. Discover, organize, and edit AI agent skills, commands, and agents across Claude Code, Cursor, Codex, Windsurf, and more. |
-| [Writing Tracker Heatmap Streaks](https://github.com/viszkit/obsidian-writing-streak) | This plugin has not been manually reviewed by Obsidian staff. Daily word goal webhook + minimal sidebar heatmap with detailed stats view. |
 | [Sidecar Notes](https://github.com/rosemary1812/Sidecar-Notes) | This plugin has not been manually reviewed by Obsidian staff. A sidecar note workflow with split view, synced quotes, and companion note files. |
 | [WeChat Publisher](https://github.com/rancelee233/wechat-publisher) | This plugin has not been manually reviewed by Obsidian staff. 免费一键将 Obsidian 笔记发布到微信公众号 Publish WeChat Official Account articles with formatting, image upload, and draft push. |
 | [Advanced Multi Column](https://github.com/amatya-aditya/advanced-multi-column) | This plugin has not been manually reviewed by Obsidian staff. Allows to create interactive multi-columns. |
@@ -2949,7 +2922,6 @@
 | [Smart Vault Chat](https://github.com/logotipza/obsidian-ya-gpt) | This plugin has not been manually reviewed by Obsidian staff. AI assistant with multi-provider support: Yandex AI Studio, Groq, OpenAI, Anthropic, GigaChat. Chat panel, vault search, inline text editing. |
 | [Search External Files](https://github.com/tttt-k/obsidian-search-external-files) | This plugin has not been manually reviewed by Obsidian staff. Browse external files and search for file or folder paths in Obsidian. |
 | [Activity Graph](https://github.com/rwyattwalker/obsidian-activity-graph) | This plugin has not been manually reviewed by Obsidian staff. Render activity heatmaps from Dataview query results. |
-| [Weekly Routine Planner](https://github.com/lylaminju/weekly-routine-planner) | This plugin has not been manually reviewed by Obsidian staff. Plan weekly routines with a timetable-style editor. |
 | [Eagle Integration](https://github.com/goberomsu/obsidian-eagle-plugin) | This plugin has not been manually reviewed by Obsidian staff. Upload images to Eagle and manage them alongside your vault. |
 | [Hard Wrap](https://github.com/alethiophile/obsidian-hard-wrap) | This plugin has not been manually reviewed by Obsidian staff. Transparently hard-wrap markdown files on disk while displaying them as soft-wrapped paragraphs in the editor. |
 | [Arbor](https://github.com/kpyruy/Arbor) | This plugin has not been manually reviewed by Obsidian staff. Write notes as branching Markdown cards while keeping a normal note as the source of truth. |
@@ -2966,7 +2938,8 @@
 | [Kanban view](https://github.com/chi1180/Obsidian-Kanban) | This plugin has not been manually reviewed by Obsidian staff. Kanban view for bases. |
 | [Index Flow](https://github.com/phongviez/obsidian-index-flow) | This plugin has not been manually reviewed by Obsidian staff. Smart renumber and remove numbering for markdown files. |
 | [WordOrb Vocabulary](https://github.com/nicoletterankin/wordorb-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Look up words from WordOrb.ai — definitions, IPA, translations across 47 languages, etymology, and audio. |
-| [Set to Root](https://github.com/lixingyu41/obsidian-setToRoot) | This plugin has not been manually reviewed by Obsidian staff. Open additional File Explorer tabs rooted to a specific folder. |
+| [NotePack](https://github.com/kynatro/notepack-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Scans your vault's markdown files for unchecked todos and collates them in a todos sidebar. Supports @mention for team members and natural language due date logic. |
+| [RAG Chat](https://github.com/a2fsa2k/obsidian-ask-my-vault-plugin) | This plugin has not been manually reviewed by Obsidian staff. Chat with your vault using local vector search (RAG) and any AI provider — OpenAI, Claude, Gemini, Mistral, Groq, Ollama, and more. |
 | [Syro](https://github.com/piyooko/obsidian-syro) | This plugin has not been manually reviewed by Obsidian staff. Seamless spaced repetition, flashcards, and incremental reading workflows. A stylized, modern interface alternative to Anki for your plain-text knowledge base. |
 | [Dynalist Mover](https://github.com/oneoffobject/dynalist-mover) | This plugin has not been manually reviewed by Obsidian staff. Move selected lines up and down like Dynalist. |
 | [Force Reading Mode](https://github.com/shubhmadhavan/obsidian-force-reading-mode) | This plugin has not been manually reviewed by Obsidian staff. A Plugin that forces reading mode, making it persistent. Plugin is controllable using both keyboard shortcuts and the ribbon menu item. |
@@ -2998,12 +2971,14 @@
 | [Click Image to Zoom](https://github.com/saltyfireball/obsidian-click-image-to-zoom) | This plugin has not been manually reviewed by Obsidian staff. Click any image in your notes to open it in a full-size zoomable modal. Supports scroll-to-zoom, drag-to-pan, and per-note frontmatter control. |
 | [Visual Flashcards](https://github.com/nyaaas/visual-flashcards-obsidian) | This plugin has not been manually reviewed by Obsidian staff. A visual card-flip flashcard system for your notes. |
 | [Realtime Transcription](https://github.com/garetneda-gif/obsidian-realtime-transcription) | This plugin has not been manually reviewed by Obsidian staff. Real-time speech-to-text powered by SenseVoice-Small. Supports Chinese, English, Japanese, Korean, and Cantonese with auto-translation, AI summarization, and text polishing. |
+| [Companion MCP](https://github.com/yama662607/obsidian-companion-mcp) | This plugin has not been manually reviewed by Obsidian staff. Enables AI agents to use MCP tools for semantic vault search and editor actions via the companion MCP server. |
 | [Eisenhower Matrix](https://github.com/oamadorr/eisenhower-matrix-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Organize your tasks using the Eisenhower Matrix — prioritize by urgency and importance across 4 quadrants. |
 | [Khattat](https://github.com/sattarip/obsidian-khattat) | This plugin has not been manually reviewed by Obsidian staff. Handwrite in your notes with realistic pens and dual OCR providers (MyScript & Google Cloud Vision) for accurate handwriting recognition. |
 | [Pagecord](https://github.com/lylo/obsidian-pagecord) | This plugin has not been manually reviewed by Obsidian staff. Publish notes to your Pagecord blog. |
 | [Game Backlog Tracker](https://github.com/kevmorelli/obsidian-game-backlog) | This plugin has not been manually reviewed by Obsidian staff. Track completed games from your game backlog. |
 | [PWBS Smart Briefings](https://github.com/sauremilk/obsidian-pwbs-sync) | This plugin has not been manually reviewed by Obsidian staff. Sync your vault to PWBS and receive AI-powered daily briefings, meeting prep notes, and knowledge insights. |
 | [PDF.notes](https://github.com/lucidalpha/obsidian-pdf-notes) | This plugin has not been manually reviewed by Obsidian staff. Annotate PDFs with smooth ink drawings and shape tools. |
+| [Yandex Disk Sync](https://github.com/nikolay-eltsov/obsidian-yadisk-sync) | This plugin has not been manually reviewed by Obsidian staff. Synchronize your vault with Yandex Disk. Supports bidirectional sync, conflict resolution, and works on mobile. |
 | [Better Quote](https://github.com/junjieim/better-quote) | This plugin has not been manually reviewed by Obsidian staff. Mirror blocks between notes with mirror-to and mirror-from commands. |
 | [Custom Selectors](https://github.com/hodie/obsidian-custom-selectors) | This plugin has not been manually reviewed by Obsidian staff. Allows defining 'selector' properties (e.g., selector.status) which display as interactive dropdown menus with pre-defined options in both the standard Properties View and inside Bases views. |
 | [Timestamp Player](https://github.com/zhoulianglen/obsidian-timestamp-player) | This plugin has not been manually reviewed by Obsidian staff. Click timestamps in transcription documents to seek and play the embedded audio. |
@@ -3049,6 +3024,7 @@
 | [Youtnote](https://github.com/khaldevmedia/obsidian-youtnote) | This plugin has not been manually reviewed by Obsidian staff. Take timestamped Markdown notes across multiple embedded YouTube videos, all inside a single note. |
 | [Local LLM Hub](https://github.com/takeshy/obsidian-local-llm-hub) | This plugin has not been manually reviewed by Obsidian staff. Chat with local LLMs (Ollama, LM Studio) with local embeddings RAG, file encryption, edit history, slash commands, and workflow automation. |
 | [Open in Claude Code](https://github.com/wepee/obsidian-open-in-claude-code) | This plugin has not been manually reviewed by Obsidian staff. Open the current note's directory or vault root in Claude Code from the command palette or ribbon. |
+| [Note Calendar](https://github.com/is-ming/obsidian-note-calendar) | This plugin has not been manually reviewed by Obsidian staff. A calendar plugin that displays lunar dates, holidays, workday adjustments, solar terms, and allows updating/creating notes associated with calendar entries. |
 | [TideLog](https://github.com/enhen3/Tidelog) | This plugin has not been manually reviewed by Obsidian staff. Plan tasks, complete Review loops, and preview weekly, monthly, and AI profile insights from daily notes. |
 | [On-Demand](https://github.com/22-2/obsidian-on-demand-plugins) | This plugin has not been manually reviewed by Obsidian staff. Lazy load plugins by caching their commands. Plugins are enabled on-demand when you trigger their commands (or open specific views), keeping startup fast. |
 | [Callout Control Panel](https://github.com/jv209/callout-control-panel) | This plugin has not been manually reviewed by Obsidian staff. Insert, detect, and manage custom callout types with a unified modal and full icon support. |
@@ -3084,6 +3060,7 @@
 | [Smart Fold](https://github.com/shenfan19/smart-fold) | This plugin has not been manually reviewed by Obsidian staff. Smart tools for efficiently folding markdown sections. |
 | [Cooklang Rich Preview](https://github.com/shepherdjerred/cooklang-for-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Preview Cooklang .cook files. |
 | [Foldstate](https://github.com/samhopwell/obsidian-foldstate) | This plugin has not been manually reviewed by Obsidian staff. A plugin that persists heading fold state across devices and sessions by embedding fold markers directly in your markdown files. |
+| [Weave](https://github.com/zhuzhige123/obsidian---Weave) | This plugin has not been manually reviewed by Obsidian staff. Enhance knowledge learning and memory consolidation with incremental reading, memory decks, and practice quiz decks. |
 | [AI Link Summarizer](https://github.com/laroy-sh/obsidian-ai-link-summarizer) | This plugin has not been manually reviewed by Obsidian staff. Right-click links in the editor and summarize them with Gemini, OpenAI, or Claude. |
 | [Tab Duplicate](https://github.com/antoineart/obsidian-tab-duplicate) | This plugin has not been manually reviewed by Obsidian staff. Duplicate a file from the tab or file-explorer right-click menu. Creates a -copy file next to the original and opens it. |
 | [Limn](https://github.com/tednaleid/limn) | This plugin has not been manually reviewed by Obsidian staff. Keyboard-first mind mapping. Open .limn files as interactive mind map views. |
@@ -3091,6 +3068,7 @@
 | [Open in New Tab](https://github.com/saltyfireball/obsidian-sfb-open-in-new-tab) | This plugin has not been manually reviewed by Obsidian staff. Forces files to open in new tabs instead of replacing the current tab. Covers all opening methods including Quick Switcher, command palette, bookmarks, search, backlinks, and graph view. |
 | [Focus Mode Pro](https://github.com/mvru/focus-mode-pro) | This plugin has not been manually reviewed by Obsidian staff. Premium Focus Mode plugin with File Finder and Tab Switcher. |
 | [Gemini AI Commander](https://github.com/etsefzale/obsidian_gemini-ai-commander) | This plugin has not been manually reviewed by Obsidian staff. A simple AI assistant to help with your notes using the Google Gemini API. |
+| [Agents](https://github.com/tsilva/obsidian-agents) | This plugin has not been manually reviewed by Obsidian staff. Launch AI agents from your vault — right-click any file or folder to open a terminal with context. Supports Claude, Codex, and other AI CLI tools. |
 | [NotebookLM Mindmap to Canvas](https://github.com/ayv4zyan/NotebookLM-Mindmap-To-Obsidian-Canvas) | This plugin has not been manually reviewed by Obsidian staff. Convert NotebookLM mindmaps to Canvas with one click. Requires NotebookLM Ultra Exporter Chrome extension. |
 | [CList Calc](https://github.com/abdur-nur-porag/CList-Calc) | This plugin has not been manually reviewed by Obsidian staff. Perform calculations on nested or simple task lists using sum, average, and math expressions. |
 | [Sequencer](https://github.com/alieron/obsidian-sequencer) | This plugin has not been manually reviewed by Obsidian staff. Organise and traverse through notes as a sequence using a doubly-linked list like system. |
@@ -3099,11 +3077,13 @@
 | [Vault SVN](https://github.com/caesarloo/obsidian-svn) | This plugin has not been manually reviewed by Obsidian staff. Manage SVN working copies inside your vault. |
 | [EVC Team Relay](https://github.com/entire-vc/evc-team-relay-obsidian-plugin) | This plugin has not been manually reviewed by Obsidian staff. Enterprise collaboration with self-hosted relay infrastructure. Real-time editing with live cursors and secure team workspaces. |
 | [Ghostty Terminal](https://github.com/lavs9/obsidian-ghostty-terminal) | This plugin has not been manually reviewed by Obsidian staff. True Ghostty embedded terminal (libghostty-vt WASM) – with your real Ghostty config, multi-split support, and file-explorer context menu. |
+| [Advanced search](https://github.com/clingfei/advanced-search) | This plugin has not been manually reviewed by Obsidian staff. Extend built-in Search by adding VS Code-like search controls. |
 | [Pairwise Ranking](https://github.com/sxxgrc/obsidian-pairwise-ranking) | This plugin has not been manually reviewed by Obsidian staff. O(log n) pairwise ranking insertion of items in notes. |
 | [Bases Auto Search](https://github.com/churnish/bases-auto-search) | This plugin has not been manually reviewed by Obsidian staff. Automatically open the search bar in Bases. |
 | [Link Mention](https://github.com/robcc/obsidian-link-mention-plugin) | This plugin has not been manually reviewed by Obsidian staff. Render empty markdown links as rich inline pills with favicon and page title. |
 | [Web Task Dashboard](https://github.com/mbedded/obsidian-web-task-dashboard) | This plugin has not been manually reviewed by Obsidian staff. Integrate tasks from external services directly into your workspace to minimize distractions. |
 | [Qlaude](https://github.com/ziadkadry99/Qlaude) | This plugin has not been manually reviewed by Obsidian staff. Run Claude Code CLI from within your vault to read and write your notes. |
+| [Field Recorder](https://github.com/donmccurdy/obsidian-field-recorder) | This plugin has not been manually reviewed by Obsidian staff. Audio recorder with quality settings and waveform visualization. |
 | [Claude Code Skills](https://github.com/p3nguln5/obsidian-claude-code-skills) | This plugin has not been manually reviewed by Obsidian staff. Stream Claude Code skill responses into a persistent side panel from any note. |
 | [Scrobble](https://github.com/yipqp/obsidian-scrobble) | This plugin has not been manually reviewed by Obsidian staff. Log and connect thoughts on Spotify songs and albums. |
 | [Interstitial Journal](https://github.com/andrewbowley/interstitial-journal) | This plugin has not been manually reviewed by Obsidian staff. Create interstitial journal entries from the command palette. |
@@ -3119,6 +3099,7 @@
 | [Auto View Mode](https://github.com/saltyfireball/obsidian-auto-view-mode) | This plugin has not been manually reviewed by Obsidian staff. Automatically switch between Reading View, Source Mode, and Live Preview based on a frontmatter key in your notes. |
 | [Bookmark API](https://github.com/niko-drossos/bookmarks-API) | This plugin has not been manually reviewed by Obsidian staff. Exposes global bookmarking functions for programmatically adding files to bookmark groups. |
 | [Deadline Countdown](https://github.com/hotandcold245/Deadline-Countdown) | This plugin has not been manually reviewed by Obsidian staff. Set and manage deadlines. |
+| [OpenTerm](https://github.com/daolyap/openterm) | This plugin has not been manually reviewed by Obsidian staff. Adds context menu options to open files and folders in a terminal, with configurable executables/apps for each option. |
 | [Replace Em Dash](https://github.com/joaonoturno/Em-dash-plugin) | This plugin has not been manually reviewed by Obsidian staff. Automatically replaces -- with — (em dash) |
 | [Diary](https://github.com/pobsiz/obsidian-diary) | This plugin has not been manually reviewed by Obsidian staff. Yearly and monthly planner with date notes, range notes, and holiday support. |
 | [Anything as Markdown](https://github.com/sec-ml/obsidian-anything-as-md) | This plugin has not been manually reviewed by Obsidian staff. Very simple plugin that allows any file extension to be registered as Markdown (e.g. mdx, svx, rmd, qmd, mdown, mkdn, mkd, mdwn, mdtxt, mdtext, myst, markua). User-configurable in settings. |
@@ -3144,11 +3125,12 @@
 | [TaskNotes Project Colors](https://github.com/minorchange/obsidian-tasknotes-project-colors) | This plugin has not been manually reviewed by Obsidian staff. Automatically colors TaskNotes task cards by project using a deterministic hash-based color scheme. |
 | [Live Preview Bold Fix](https://github.com/konoyo-014/obsidian-live-preview-bold-fix) | This plugin has not been manually reviewed by Obsidian staff. Fixes bold rendering drift in Live Preview by overriding strong styling ranges. |
 | [LaTeX Paren Math](https://github.com/konoyo-014/obsidian-latex-paren-math) | This plugin has not been manually reviewed by Obsidian staff. Render LaTeX paren and bracket math delimiters in preview by converting at render time. |
+| [Daily Writing Stats](https://github.com/xsixteen/obsidian-daily-heatmap) | This plugin has not been manually reviewed by Obsidian staff. Track your daily word count across all notes in your vaults and display them in a heatmap and on the status bar. |
 | [JotBird](https://github.com/jotbirdhq/obsidian-jotbird) | This plugin has not been manually reviewed by Obsidian staff. Publish notes as shareable web pages with one click. No account required. |
 | [Shamsi Date Converter](https://github.com/milad-s5/obsidian-shamsi-date-converter) | This plugin has not been manually reviewed by Obsidian staff. Automatically converts Gregorian dates to Shamsi (Jalali/Persian) dates. |
 | [Hermes TTS](https://github.com/thematthiasleitner/hermes-tts) | This plugin has not been manually reviewed by Obsidian staff. Generate lightweight audio from a markdown note and prepend timestamped metadata with an embedded audio link. |
 | [AtLine AI](https://github.com/ergesmema/obsidian-atline-ai) | This plugin has not been manually reviewed by Obsidian staff. Ask any LLM questions about your notes inline using custom triggers. |
-| [Tag Toggler](https://github.com/studiogamma/tag-toggler) | This plugin has not been manually reviewed by Obsidian staff. Hide specific tag nodes from Graph View by converting tags to plain text (e.g. #Year → —#Year). Unhide to restore them. |
+| [AI Copilot](https://github.com/alexjiaguo/obsidian-ai-copilot) | This plugin has not been manually reviewed by Obsidian staff. Your intelligent writing and thinking assistant. |
 | [Custom Publish](https://github.com/danyim/obsidian-custom-publish) | This plugin has not been manually reviewed by Obsidian staff. Command palette actions to manage frontmatter publish and visibility properties, with a copy-URL command for published pages. |
 | [Doodle](https://github.com/alexsussy/obsidian-doodle) | This plugin has not been manually reviewed by Obsidian staff. A cute, minimal drawing tool for your notes. |
 | [PropMove](https://github.com/shu-red/propmove) | This plugin has not been manually reviewed by Obsidian staff. Move notes based on a frontmatter property value. |
@@ -3158,7 +3140,6 @@
 | [Interactive Timeline](https://github.com/tulgardinc/obsidian-interactive-timeline) | This plugin has not been manually reviewed by Obsidian staff. View your notes in an interactive timeline. |
 | [Word Cloud](https://github.com/jetrica/obsidian-word-cloud) | This plugin has not been manually reviewed by Obsidian staff. Create word cloud from your words with random sizes, colors, and orientations. Click on word to center it and redistribute others! |
 | [Mind Elixir Mind Map](https://github.com/ssshooter/obsidian-mindmap) | This plugin has not been manually reviewed by Obsidian staff. A mind map plugin powered by Mind Elixir. |
-| [Hide Tags](https://github.com/marcantoinewilly/obsidian-hide-tags) | This plugin has not been manually reviewed by Obsidian staff. Hide notes with user-defined tags from the File Explorer and optionally exclude them from the Graph and Local Graph. |
 | [Simple Kanban](https://github.com/denis2710/simple-kanban) | This plugin has not been manually reviewed by Obsidian staff. Kanban view for folder with status-based columns and drag & drop. |
 | [Moments](https://github.com/mattmcmanus/obsidian-moments) | This plugin has not been manually reviewed by Obsidian staff. Unify date-based note-taking with inline moments, standalone dated notes, and a chronological timeline view. |
 | [Auto Reveal in Explorer](https://github.com/martinopolo/obsidian-auto-reveal-in-explorer) | This plugin has not been manually reviewed by Obsidian staff. Auto-reveals the active file in the File Explorer without transferring keyboard focus. |
@@ -3180,6 +3161,7 @@
 | [Ollama Assistant](https://github.com/xlrve/ollama-assistant) | This plugin has not been manually reviewed by Obsidian staff. Connect local AI via Ollama for convenient text editing, note discussion, and web search for accurate information. |
 | [ChessView](https://github.com/tuxitop/chessview) | This plugin has not been manually reviewed by Obsidian staff. Render interactive chess boards from PGN/FEN notation with puzzles, arrows, and move navigation. |
 | [CalSync](https://github.com/jash101/calsync) | This plugin has not been manually reviewed by Obsidian staff. Sync todo items with time estimates to Google Calendar. Tracks estimated vs actual time on completion. |
+| [GitHub Pager](https://github.com/cloudac7/obsidian-github-pager) | This plugin has not been manually reviewed by Obsidian staff. Selectively publish your notes and images to GitHub for Hugo/Jekyll/Hexo sites. |
 | [New Paragraph on Enter](https://github.com/biigfish/new-paragraph-on-enter) | This plugin has not been manually reviewed by Obsidian staff. Create a new paragraph by pressing the enter key once. |
 | [Timebox daily](https://github.com/rvzenteno/O-Timebox-Daily) | This plugin has not been manually reviewed by Obsidian staff. Smart daily timeboxing with automatic task rollover and structured planning. |
 | [Note Lock](https://github.com/pyh1107/obsidian-note-lock) | This plugin has not been manually reviewed by Obsidian staff. Password-protect individual notes with per-file idle auto-lock. |
@@ -3240,6 +3222,7 @@
 | [Go Playground](https://github.com/huluntuntao/go-playground-plugin-for-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Run, format, and share Golang code snippets using the Go Playground API. |
 | [QMD Semantic Search](https://github.com/achekulaev/obsidian-qmd) | This plugin has not been manually reviewed by Obsidian staff. Semantic-first search for your vault using QMD (Quick Markdown Search). Provides vector-based semantic search with keyword fallback. |
 | [Graph Mind](https://github.com/axxshen/obsidian-graph-mind) | This plugin has not been manually reviewed by Obsidian staff. AI-powered graph exploration, semantic search, and connected-note navigation. |
+| [Typing Cat](https://github.com/jefrry/obsidian-typing-cat) | This plugin has not been manually reviewed by Obsidian staff. A cozy typing cat that keeps you company and tracks your typing speed. |
 | [Code Folding](https://github.com/mr-pounds/code-folding) | This plugin has not been manually reviewed by Obsidian staff. A lightweight plugin that adds smart folding functionality to code blocks. |
 | [Focus Timer](https://github.com/zhoutianye/obsidian-focus-timer) | This plugin has not been manually reviewed by Obsidian staff. Local dedicated timer, supporting statistical analysis and card view, can embed data display in notes. |
 | [Text Hider](https://github.com/unbrokenhunter/obsidian-text-hider-plugin) | This plugin has not been manually reviewed by Obsidian staff. Visually hides note text while editing to protect privacy in public. |
@@ -3263,6 +3246,7 @@
 | [Remote Vault Sync](https://github.com/suneater-labs/remote-vault-sync) | This plugin has not been manually reviewed by Obsidian staff. Back up and sync your vault to S3 with git-based version control. |
 | [Linear Year Map](https://github.com/michaelatdisney/ObsidianLinearYearMap) | This plugin has not been manually reviewed by Obsidian staff. A 12-month linear calendar to visualize note flow and clusters. This is based on the Linear Calendar concept from Nick Milo. |
 | [Tab Link](https://github.com/jon-vii/obsidian-tab-link) | This plugin has not been manually reviewed by Obsidian staff. Cursor-style ghost text autocomplete for linking to notes. |
+| [Spark Assistant](https://github.com/crossgen-ai-public/crossgen-spark-obsidian-plugin) | This plugin has not been manually reviewed by Obsidian staff. AI-powered automation with slash commands, chat widget, and intelligent workflows. |
 | [Speed Reader](https://github.com/madhusudan-kulkarni/obsidian-speed-reader) | This plugin has not been manually reviewed by Obsidian staff. RSVP-based speed reading for your notes - flash one word at a time with optimal recognition point highlighting. |
 | [Duplicate Line Up/Down](https://github.com/ando-s/obsidian-duplicate-line-up-down) | This plugin has not been manually reviewed by Obsidian staff. Duplicate the current line or selection upward or downward. |
 | [Periodic Links](https://github.com/davidvkimball/obsidian-periodic-links) | This plugin has not been manually reviewed by Obsidian staff. Automatically link between periodic notes with natural language. |
@@ -3270,6 +3254,7 @@
 | [Pinbox](https://github.com/kuoe0/obsidian-pinbox) | This plugin has not been manually reviewed by Obsidian staff. Instantly capture content to pinned notes on the mobile app. |
 | [Em Dash Replace](https://github.com/jefrry/obsidian-em-dash-replace) | This plugin has not been manually reviewed by Obsidian staff. Replaces double dashes with em dashes in real time. |
 | [Tag View Untagged](https://github.com/joaq33/obsidian-tag-view-untagged) | This plugin has not been manually reviewed by Obsidian staff. Shows untagged file count in Tags sidebar with quick browser and live sync. |
+| [Live Columns](https://github.com/nhiwentwest/live-columns) | This plugin has not been manually reviewed by Obsidian staff. Create editable columns in your notes with customizable colors. Type directly in columns in Live Preview mode. |
 | [Sparklines](https://github.com/deeplook/obsidian-sparklines) | This plugin has not been manually reviewed by Obsidian staff. Render inline sparklines, converting code blocks to SVG. |
 | [Bases Style Enhancer](https://github.com/uniqueclone/bases-style-enhancer) | This plugin has not been manually reviewed by Obsidian staff. Enhance the appearance of Bases views (starting with table font size) |
 | [Simple Command Panel](https://github.com/oquhe/obsidian-scp) | This plugin has not been manually reviewed by Obsidian staff. A command panel that includes aliases, descriptions, hidden content, parameters, and text commands. |
@@ -3287,6 +3272,7 @@
 | [Markdown Password](https://github.com/hoyin258/markdown-password) | This plugin has not been manually reviewed by Obsidian staff. Securely manage secrets in your notes using standard [\|vault:id\|] placeholders and local AES-256-GCM encryption. |
 | [Confluence Publisher](https://github.com/grhawk/obsidian-2-confluence) | This plugin has not been manually reviewed by Obsidian staff. Sync the active note to Confluence using the REST API. |
 | [Mermaid View](https://github.com/weppos/obsidian-mermaid-view) | This plugin has not been manually reviewed by Obsidian staff. Handle Mermaid files as first-class citizens, rendering them fullscreen when opened. |
+| [Better File Properties View](https://github.com/dsynkd/obsidian-better-properties-view) | This plugin has not been manually reviewed by Obsidian staff. Enhances the Properties View core plugin. |
 | [Japanese Popup Dictionary](https://github.com/atacansuder/obsidian-japanese-dictionary) | This plugin has not been manually reviewed by Obsidian staff. Fast, offline Japanese popup dictionary using Yomitan dictionaries. |
 | [ObShare](https://github.com/xigua222/ObShare) | This plugin has not been manually reviewed by Obsidian staff. Your Note Synchronization and Share Solution Based on Feishu Docs. |
 | [Text Color Tags](https://github.com/psyda/obsidian-text-color-tags) | This plugin has not been manually reviewed by Obsidian staff. Simple and fast inline text coloring that feels native with $red, $#hex syntax. Clickable swatches, color picker, vault presets. |
@@ -3319,6 +3305,7 @@
 | [AICHE Voice](https://github.com/aiche-app/obsidian-aiche-voice) | This plugin has not been manually reviewed by Obsidian staff. Create voice-to-text notes on desktop and mobile, with transcription, punctuation, and cleanup. |
 | [MemMaster — Spaced Repetition](https://github.com/qoonmax/memmaster-obsidian-plugin) | This plugin has not been manually reviewed by Obsidian staff. A spaced repetition plugin that helps you remember your notes by scheduling them for review at the right time. |
 | [Property Annotations](https://github.com/ppeirce/property-annotations) | This plugin has not been manually reviewed by Obsidian staff. Display inline annotations for note properties in daily notes. |
+| [Journal to Daily Note](https://github.com/defcube/obsidian-journal-to-daily-note) | This plugin has not been manually reviewed by Obsidian staff. Add entries quickly to your daily note from any file. |
 | [Pretty URLs](https://github.com/daun/obsidian-pretty-urls) | This plugin has not been manually reviewed by Obsidian staff. Improve display of URLs in reading view by removing https:// and www. prefixes. |
 | [Habitica Full Sync](https://github.com/midwestguru/habitica-fullsync) | This plugin has not been manually reviewed by Obsidian staff. Sync Habitica tasks, score completed tasks, support group tasks, folder selection, automatic sync, device binding, and advanced options. |
 | [Redirect HTTPS to Local](https://github.com/iamjjanga-ouo/obsidian-link) | This plugin has not been manually reviewed by Obsidian staff. Convert redirect HTTPS to local redirect URL for better compatibility with external platforms. |
@@ -3345,27 +3332,32 @@
 | [Year Glance](https://github.com/yy/obsidian-year-glance) | This plugin has not been manually reviewed by Obsidian staff. Render yearly calendar views with events marked and color-coded. |
 | [YouTube transcript fetcher](https://github.com/ljantzen/obsidian-youtube-transcript) | This plugin has not been manually reviewed by Obsidian staff. Fetch, clean and embed YouTube video transcripts in your notes. |
 | [Folder New Note Button](https://github.com/wuhup/obsidian-folder-new-note-button) | This plugin has not been manually reviewed by Obsidian staff. Create new notes from a hover button on each folder in the Files view. |
+| [Vault Backup](https://github.com/mshr-h/obsidian-vault-backup) | This plugin has not been manually reviewed by Obsidian staff. Create local ZIP backups of your vault with automatic retention management. |
 | [Embed Metadata](https://github.com/schemen/embed-metadata) | This plugin has not been manually reviewed by Obsidian staff. Render frontmatter metadata (Properties) inside your notes with a lightweight inline syntax. |
 | [NAVER Sync](https://github.com/buwon/naver-sync-plugin) | This plugin has not been manually reviewed by Obsidian staff. Sync your vault with NAVER memo service. |
 | [Sentence Enhancers](https://github.com/garrett-is-a-swann/obsidian-sentence-enhancers) | This plugin has not been manually reviewed by Obsidian staff. Enhances customization by adding additional contextual classes for use by plugins and themes. |
 | [FBD Writing Timer](https://github.com/fdirham/fbd-obsidian-writing-timer) | This plugin has not been manually reviewed by Obsidian staff. Timer and word count plugin for writing sessions. |
-| [VaultQuery](https://github.com/bobstanton/vaultquery) | This plugin has not been manually reviewed by Obsidian staff. Execute SELECT, INSERT, UPDATE, and DELETE statements on notes, properties, tasks, tables, headings and links. |
+| [VaultQuery](https://github.com/bobstanton/vaultquery) | This plugin has not been manually reviewed by Obsidian staff. Execute SELECT, INSERT, UPDATE, and DELETE statements on notes, properties, tasks, tables, headings and links using SQL and SQLite. |
 | [Lock Cards](https://github.com/erezak/obsidian-lock-cards) | This plugin has not been manually reviewed by Obsidian staff. Lock selected Canvas cards to prevent moving and resizing. |
+| [Solo TTRPG Notation](https://github.com/zeruhur/obsidian-solottrpgnotation) | This plugin has not been manually reviewed by Obsidian staff. A plugin for recording and tracking solo tabletop RPG sessions using a standardized notation system. |
 | [Auto Tagger](https://github.com/canepa/plugin-obsidian-classifier) | This plugin has not been manually reviewed by Obsidian staff. Multi-collection semantic tag suggestions. Create specialized classifiers for different note types with independent training and filtering. |
 | [OpsToMP](https://github.com/eatmelonsec/OpsToMP) | This plugin has not been manually reviewed by Obsidian staff. Convert and post Markdown notes to WeChat Official Account Draft Box. |
 | [Image Importer](https://github.com/ahmed-hegazi0/image-importer) | This plugin has not been manually reviewed by Obsidian staff. Import images into the vault from the device or the web, with an option to create an accompanying markdown file on import. |
 | [Vault Intelligence](https://github.com/cybaea/obsidian-vault-intelligence) | This plugin has not been manually reviewed by Obsidian staff. Maintain your vault as a self-updating knowledge system by running AI agents that find gaps, audit and unify tags, and retrieve context based on similarity and explicit links via Graph RAG |
+| [Lightbox](https://github.com/jackcipher/obsidian-lightbox) | This plugin has not been manually reviewed by Obsidian staff. Click to zoom images and mermaid diagrams with lightbox effect. |
 | [External Codeblock Editor](https://github.com/glebglazov/obsidian-external-codeblock-editor) | This plugin has not been manually reviewed by Obsidian staff. Edit codeblocks of Markdown documents with external editors to get autocompletion, indentation, LSP capabilities of your favourite editor (Neovim, VSCode, etc). |
 | [Custom Views](https://github.com/anupchavan/obsidian-custom-views) | This plugin has not been manually reviewed by Obsidian staff. Create custom HTML views for your notes based on filter rules. Transform how your notes are displayed. |
 | [Task Count](https://github.com/anareaty/task-count) | This plugin has not been manually reviewed by Obsidian staff. Count tasks in notes and save result to properties. |
 | [Propsec](https://github.com/ccmdi/propsec) | This plugin has not been manually reviewed by Obsidian staff. Schema enforcement for frontmatter. |
 | [Kitty](https://github.com/amilleah/obsidian-kitty-plugin) | This plugin has not been manually reviewed by Obsidian staff. A tiny kitty sprite that roams your panes. |
 | [Reverse Complement](https://github.com/bjornfjohansson/reverse-complement) | This plugin has not been manually reviewed by Obsidian staff. Right-click menu to convert selected DNA to its reverse complement. |
+| [Letterboxd Mirror](https://github.com/diego-vicente/obsidian-letterboxd-mirror-plugin) | This plugin has not been manually reviewed by Obsidian staff. Sync your Letterboxd diary as notes. |
 | [Explorer Focus](https://github.com/davidvkimball/obsidian-explorer-focus) | This plugin has not been manually reviewed by Obsidian staff. Focus on a specific file or folder in the file explorer. |
 | [Singularity App Integration](https://github.com/svs696/obsidian-singularity) | This plugin has not been manually reviewed by Obsidian staff. Integrates Singularity App tasks. Renders task links as interactive badges and syncs note URLs back to Singularity. |
 | [Fast Callout](https://github.com/vkalahas/fast-callout) | This plugin has not been manually reviewed by Obsidian staff. Lets you create callouts faster. |
 | [Auto Index](https://github.com/rakushkatop/obsidian-auto-index) | This plugin has not been manually reviewed by Obsidian staff. Automatically generates index notes for specified folders, listing files and subfolders recursively. |
 | [Termux Bridge](https://github.com/abduznik/obsidian-shell-termux) | This plugin has not been manually reviewed by Obsidian staff. Execute Termux commands directly via a local HTTP bridge. |
+| [Similarity](https://github.com/jorammillenaar/obsidian-similarity) | This plugin has not been manually reviewed by Obsidian staff. Intelligently suggests related notes—fully local and private, revealing connections in your knowledge vault. |
 | [Auto-Properties](https://github.com/aarongilly/obsidian-auto-properties) | This plugin has not been manually reviewed by Obsidian staff. Create automated properties based on note content and rules. |
 | [WriteTex](https://github.com/jacklitstar/writetex-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Use WriteTex to write math on tablet. |
 | [Bases Paginator](https://github.com/sean2077/obsidian-bases-paginator) | This plugin has not been manually reviewed by Obsidian staff. Adds a paginated table view with quick filtering to Bases. Features include pagination controls, global search, click-to-filter, and filter presets. |
@@ -3373,7 +3365,6 @@
 | [Snipsy](https://github.com/dimagious/snipsidian) | This plugin has not been manually reviewed by Obsidian staff. Snipsy adds hotstrings/text expansion to the editor — folders, bulk editing, and Espanso-compatible packs. |
 | [Modal Keys Remapper](https://github.com/naoki-mizuno/obsidian-modal-keys) | This plugin has not been manually reviewed by Obsidian staff. Customize keyboard shortcuts for navigating modal dialogs and suggestion lists. |
 | [Quick Bookmarks](https://github.com/kieranmansfield/obsidian-quick-bookmarks) | This plugin has not been manually reviewed by Obsidian staff. Quickly access bookmarks through a fuzzy search modal. |
-| [Claude Sidebar](https://github.com/derek-larson14/obsidian-claude-sidebar) | This plugin has not been manually reviewed by Obsidian staff. Run Claude Code in your sidebar. |
 | [Countdown Timer](https://github.com/thenewhobbyist/obsidian-countdown-timer) | This plugin has not been manually reviewed by Obsidian staff. Embed countdown timers for tracking vacations, deadlines, and due dates. |
 | [EOF Stats](https://github.com/h21465/eof-stats) | This plugin has not been manually reviewed by Obsidian staff. Display file statistics (URLs, Links) and EOF indicator at the end of markdown files. |
 | [Bases Improvements](https://github.com/real1tyy/BasesImprovements) | This plugin has not been manually reviewed by Obsidian staff. Enhances Bases by adding dynamic search filtering to base code blocks. |
@@ -3382,6 +3373,7 @@
 | [Soundify](https://github.com/solomonarul/soundify) | This plugin has not been manually reviewed by Obsidian staff. Allows for sounds to play on specific events. |
 | [Privacy Screen](https://github.com/chanhee-lee/obsidian-privacy-screen) | This plugin has not been manually reviewed by Obsidian staff. Blur your workspace while keeping a spotlight around your cursor. |
 | [AI Selection Toolbar](https://github.com/lxy3372/obsidian-ai-selection-toolbar) | This plugin has not been manually reviewed by Obsidian staff. AI-powered toolbar for selected text with TTS, translation, explanation, and word recognition features. |
+| [Tab Swap](https://github.com/masaki39/tab-swap) | This plugin has not been manually reviewed by Obsidian staff. Swap the active tab left or right. |
 | [UI Tweaker](https://github.com/davidvkimball/obsidian-ui-tweaker) | This plugin has not been manually reviewed by Obsidian staff. Add, hide, or modify various interface elements. |
 | [Run Script on Property Edit](https://github.com/oneautumnmango/run-script-on-property-edit) | This plugin has not been manually reviewed by Obsidian staff. Detects when YAML frontmatter properties are edited and runs supplied scripts. |
 | [Saloon](https://github.com/collierking/saloon-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Build AI-powered Wikis, Ontologies and Study Flashcards with SALOON. |
@@ -3451,6 +3443,7 @@
 | [Daily notes sorter](https://github.com/reifat/daily-notes-sorter) | This plugin has not been manually reviewed by Obsidian staff. Automatically sort daily notes and files by date in the file explorer. Supports multiple date formats (YYYY-MM-DD, DD.MM.YYYY, DD.MM.YY, MM/DD/YYYY) and flexible folder configuration. |
 | [SideCards](https://github.com/kazi-aidah/sidecards) | This plugin has not been manually reviewed by Obsidian staff. Quickly create cards in your sidebar, color, tag, and drag them straight into your notes. |
 | [Sortable File Explorer](https://github.com/ninjalope/obsidian-sortable-file-explorer) | This plugin has not been manually reviewed by Obsidian staff. Alternative file explorer with custom sorting and drag & drop. |
+| [uuu.gl Markdown Uploader](https://github.com/johnkim05/obsidian-uuugl-plugin) | This plugin has not been manually reviewed by Obsidian staff. Upload your notes to uuu.gl as rendered Markdown documents. |
 | [Lofi Focus](https://github.com/jatin-shihora/Obsidian-lofi-plugin) | This plugin has not been manually reviewed by Obsidian staff. Focus better with lofi vibes and Pomodoro sessions. Stream radio or play your music library, all within your vault. |
 | [Oxygen Theme Settings](https://github.com/davidvkimball/obsidian-oxygen-settings) | This plugin has not been manually reviewed by Obsidian staff. Configure advanced customization options in Oxygen Theme. |
 | [N-brace](https://github.com/nn-ninja/n-brace) | This plugin has not been manually reviewed by Obsidian staff. Altered local graph's visual layout. Quick graph navigation. |
@@ -3496,6 +3489,7 @@
 | [Theme Engine](https://github.com/yazanammar/obsidian-theme-engine) | This plugin has not been manually reviewed by Obsidian staff. Customize Obsidian without touching CSS. Create profiles with colors, snippets, backgrounds, and themes - all managed from one place. |
 | [TikToken Tokenizer](https://github.com/s3ga1ov/obsidian-tiktoken-tokenizer) | This plugin has not been manually reviewed by Obsidian staff. Displays the token count of the active note in the status bar using TikToken |
 | [Astro Composer](https://github.com/davidvkimball/obsidian-astro-composer) | This plugin has not been manually reviewed by Obsidian staff. Turn your notes into posts and pages for your Astro blog with automated content management features. |
+| [Audio PlugList](https://github.com/ragetrip/audio-pluglist) | This plugin has not been manually reviewed by Obsidian staff. Multi playlist-based audio player — folder & link playlists, mini-player, shuffle, repeat, fade-out. |
 | [Favorites](https://github.com/4source/favorites-obsidian-plugin) | This plugin has not been manually reviewed by Obsidian staff. Store and manage a global favorites list of plugins and themes, keeping them accessible across all your vaults. |
 | [Voice Input](https://github.com/mssoftjp/obsidian-voice-input) | This plugin has not been manually reviewed by Obsidian staff. Capture notes with high-accuracy multilingual voice input using OpenAI Speech-to-Text. |
 | [VaultGuard](https://github.com/uthvah/vaultguard) | This plugin has not been manually reviewed by Obsidian staff. Secure your vault with a beautiful lockscreen and industry-standard AES-GCM encryption. |
@@ -3505,6 +3499,7 @@
 | [TickTick Today](https://github.com/wudanyang27/ticktick-today) | This plugin has not been manually reviewed by Obsidian staff. Display TickTick today's tasks in a sidebar panel. |
 | [Customizable LaTeX Autocomplete](https://github.com/aiksxd/latex-autocomplete) | This plugin has not been manually reviewed by Obsidian staff. Build a personalized autocomplete list for any LaTeX formula. |
 | [Naver Blog Importer](https://github.com/hyungyunlim/obsidian-naver-blog-importer) | This plugin has not been manually reviewed by Obsidian staff. Import posts from Naver Blog with AI-powered features, subscription management, and comprehensive content parsing |
+| [Semantic Notes Vault MCP](https://github.com/aaronsb/obsidian-mcp-plugin) | This plugin has not been manually reviewed by Obsidian staff. Give Claude Desktop and other AI assistants semantic access to your notes through a built-in Model Context Protocol (MCP) server. |
 | [Co-Intelligence AI](https://github.com/epistemic-technology/co-intelligence) | This plugin has not been manually reviewed by Obsidian staff. A full AI chat experience with models from OpenAI, Anthropic, Google, and Perplexity. |
 | [GraphPro](https://github.com/air-mark/graph-pro) | This plugin has not been manually reviewed by Obsidian staff. Advanced controls and layout tools for the graph view. |
 | [Jira Issue Notes](https://github.com/maksim77/obsidian-jira) | This plugin has not been manually reviewed by Obsidian staff. Integration for accessing and managing Jira issues directly in your notes |
@@ -3512,7 +3507,6 @@
 | [AI聊天页面](https://github.com/qq510447097/obsidian-ai-chat-ui) | This plugin has not been manually reviewed by Obsidian staff. Parse AI-exported chats and generate notes. |
 | [Atlassian Jira Auto-Linker](https://github.com/kovah/obsidian-jira-auto-linker) | This plugin has not been manually reviewed by Obsidian staff. Automatically create links to Jira from issue IDs like APP-1426. |
 | [TubeSage](https://github.com/rmccorkl/TubeSage) | This plugin has not been manually reviewed by Obsidian staff. Create comprehensive notes from YouTube transcripts using LLMs. |
-| [External Links Icon](https://github.com/moziar/obsidian-external-links-icon) | This plugin has not been manually reviewed by Obsidian staff. Auto add icons to the external and internal links. |
 | [AnyBlock Min](https://github.com/any-block/obsidian-any-block-min) | This plugin has not been manually reviewed by Obsidian staff. AnyBlock min version. Remove some features and dependencies to reduce size and improve performance. |
 | [Natural Language Dates Redux](https://github.com/tbergeron/obsidian-nldates-redux) | This plugin has not been manually reviewed by Obsidian staff. Insert timestamps and cross-link your notes with the flexibility of natural language. Now with Notion-like behavior! |
 | [Pinned Tab Utils](https://github.com/narwhai/pinned-tab-utils) | This plugin has not been manually reviewed by Obsidian staff. Automatically moves pinned tabs to the left side of the tab bar, mimicking browser behaviour. |
@@ -3521,7 +3515,7 @@
 | [Theme Basics](https://github.com/narwhai/theme-basics) | This plugin has not been manually reviewed by Obsidian staff. Customize the appearance of Obsidian without plugins. Modify colors, text sizing/spacing, and more |
 | [Smart Explorer](https://github.com/rogerdigital/smart-explorer) | This plugin has not been manually reviewed by Obsidian staff. An alternative file explorer with custom sorting, grouping, filtering, and lightweight previews. |
 | [Vault Inspector](https://github.com/rogerdigital/vault-inspector) | This plugin has not been manually reviewed by Obsidian staff. Scan your vault for maintenance problems: broken links, orphan attachments, duplicate files, frontmatter inconsistencies, unused tags, and large files. |
-| [Chess Vault](https://github.com/dun8/Chess-Vault) | This plugin has not been manually reviewed by Obsidian staff. Sync your Lichess games! |
+| [Chess Vault](https://github.com/dun8/Chess-Vault) | This plugin has not been manually reviewed by Obsidian staff. Sync your Lichess/Chess.com games! |
 | [Codeian](https://github.com/wdblink/codein) | This plugin has not been manually reviewed by Obsidian staff. Use Codex from a sidebar in your vault. |
 | [XGKB Sync](https://github.com/xgjk/obsidian-xgkb-sync) | This plugin has not been manually reviewed by Obsidian staff. Sync notes with 玄关知识库 (XGKB Knowledge Base) |
 | [Vim Scrolling](https://github.com/xlongfeng/obsidian-vim-scrolling) | This plugin has not been manually reviewed by Obsidian staff. Adds vim-style scrolling (j/k, Ctrl+D/U, gg, G) in reading mode when vim key bindings are enabled. |
@@ -3544,6 +3538,7 @@
 | [Directory Summary](https://github.com/va9id/obsidian-directory-summary) | This plugin has not been manually reviewed by Obsidian staff. Generate a summary note for any directory in your vault. |
 | [Draggable List Items](https://github.com/viscouspot/draggable-list-items) | This plugin has not been manually reviewed by Obsidian staff. Drag list items to reorder them. |
 | [Outline for All Files](https://github.com/cemtan/all-outline) | This plugin has not been manually reviewed by Obsidian staff. A single, unified outline panel for both Markdown notes and PDF documents. |
+| [Papertrail](https://github.com/ankitchouhan1020/papertrail) | This plugin has not been manually reviewed by Obsidian staff. Browse all notes from the sidebar with excerpts, modified dates, search, quick create, and the File Explorer context menu. |
 | [Better Vim](https://github.com/nilsgke/obsidian-better-vim) | This plugin has not been manually reviewed by Obsidian staff. Fixes some annoyances with the built in vim mode. |
 | [Note Mate](https://github.com/ialex32x/ai-note-mate) | This plugin has not been manually reviewed by Obsidian staff. Note Mate is a smart AI assistant for your vault. With Note Mate, you can easily create new notes, expand on ideas, and get insights from your vault. |
 | [Sheet Music](https://github.com/corecube/obsidian-sheet-music) | This plugin has not been manually reviewed by Obsidian staff. Render ABC notation, strumming patterns, and chord sheets inside notes. |
@@ -3593,10 +3588,12 @@
 | [Custom Translate](https://github.com/liwbcraft/custom-translate) | This plugin has not been manually reviewed by Obsidian staff. Translate selected text via local API and manage your personal vocabulary. |
 | [Dataview Toggle](https://github.com/p1tt1/obsidian-dataview-toggle) | This plugin has not been manually reviewed by Obsidian staff. Toggle Dataview auto-refresh on/off from the status bar or command palette. |
 | [Bragi Canvas](https://github.com/nextbound/bragi-canvas) | This plugin has not been manually reviewed by Obsidian staff. Turn Canvas into a node-based AI generation pipeline for images, video, text, and audio. |
+| [Flomo Sync](https://github.com/watermelon4000/flomo-obsidian-sync) | This plugin has not been manually reviewed by Obsidian staff. Sync your Flomo memos to your vault. Auto-login, tag-based folders, incremental updates. |
 | [Folder Pin](https://github.com/42milesz/obsidian-folder-pin) | This plugin has not been manually reviewed by Obsidian staff. Pin folders as tabs in the default file explorer. |
 | [GTC Sync](https://github.com/etudes-informatiques-et-services35/gtc-sync) | This plugin has not been manually reviewed by Obsidian staff. Synchronizing notes with GTC. |
 | [Image Gin](https://github.com/lossless-group/image-gin) | This plugin has not been manually reviewed by Obsidian staff. Generate AI images, search stock images, and upload to ImageKit CDN. |
 | [Bindery](https://github.com/evdboom/Bindery) | This plugin has not been manually reviewed by Obsidian staff. Typography formatting and multi-format export for book projects written in Markdown. |
+| [Better Explorer](https://github.com/iscii/obsidian-better-explorer) | This plugin has not been manually reviewed by Obsidian staff. Adds VS Code-style nested sticky folder headers to the file explorer. |
 | [Import Fixer](https://github.com/tonylee2016/obsidian-import-fixer) | This plugin has not been manually reviewed by Obsidian staff. Cleans up web-clipped notes (Evernote, Reddit, Zhihu, etc.): repairs broken resource links and shrinks oversized header favicons, avatars, and UI icons. |
 | [Writing Studio](https://github.com/writerp-777/obsidian-writing-studio) | This plugin has not been manually reviewed by Obsidian staff. A professional writing environment with Focus Mode, Writing Binder, Sprint Timer, WordPress publishing, Folder Sidebar Explorer, and more. |
 | [Alchemist](https://github.com/ksawl/obsidian-alchemist) | This plugin has not been manually reviewed by Obsidian staff. Modular super-plugin for TextBundle, Audio conversion, and Dataview exports. |
@@ -3608,6 +3605,7 @@
 | [Vox Reader](https://github.com/danialkalbasi/obsidian-vox) | This plugin has not been manually reviewed by Obsidian staff. Bring your notes to life with natural voices from ElevenLabs or OpenAI, or use the built-in browser voice. |
 | [Smart Folder View](https://github.com/sixtarocyan/smart-folder-view) | This plugin has not been manually reviewed by Obsidian staff. Interactive folder dashboard with timeline and board views, filters, drag sorting, and saved page presets. |
 | [Caissa](https://github.com/ekrizdis367/obsidian-caissa) | This plugin has not been manually reviewed by Obsidian staff. Study chess in your vault. Embed positions, study openings and endgames, browse World Championship games, annotate PGNs, and explore Lichess opening statistics. |
+| [Coach](https://github.com/ekrizdis367/obsidian-coach) | This plugin has not been manually reviewed by Obsidian staff. An in-depth fitness and workout tracking system for your vault. |
 | [Pantry](https://github.com/ekrizdis367/obsidian-pantry) | This plugin has not been manually reviewed by Obsidian staff. Manage your recipes and generate grocery lists. |
 | [Vault Bridge SFTP](https://github.com/andrewkopylev/vaultbridge) | This plugin has not been manually reviewed by Obsidian staff. Bridge your vault across devices through your own SSH/SFTP server. Bidirectional sync with conflict resolution, multi-device safety, and full self-hosting. |
 | [Overboard](https://github.com/alona-iaig/obsidian-overboard) | This plugin has not been manually reviewed by Obsidian staff. Embed AI whiteboards from overboard.studio in your notes. Sketch, generate diagrams from text with AI, collaborate in real time. |
@@ -3626,7 +3624,6 @@
 | [PaperForge](https://github.com/lllin000/PaperForge) | This plugin has not been manually reviewed by Obsidian staff. PaperForge — Zotero literature pipeline. Sync PDFs, run OCR, and read with AI-assisted deep reading. |
 | [Structure Commander](https://github.com/akudlay-ru/structure-commander) | This plugin has not been manually reviewed by Obsidian staff. Manage Markdown structure as a tree: move branches, change heading levels, fold sections, renumber outlines, export branches, and navigate long notes. |
 | [MCP Vault Bridge](https://github.com/allexcd/obsidian-mcp) | This plugin has not been manually reviewed by Obsidian staff. Read-only, exclusion-based local bridge for using vault notes through MCP clients. |
-| [Meeting Scribe AI](https://github.com/chinoryunqin/ObMeeting) | This plugin has not been manually reviewed by Obsidian staff. Record audio, transcribe with Doubao Speech, polish the transcript, and generate meeting minutes. |
 | [Image Hoist](https://github.com/jcmexdev/obsidian-image-hoist) | This plugin has not been manually reviewed by Obsidian staff. Automatically uploads local vault images to ImgBB and replaces them with remote links to optimize storage. |
 | [Download Image](https://github.com/yinshaohua/obsidian-download-image) | This plugin has not been manually reviewed by Obsidian staff. Download remote images in the current note to local vault storage. |
 | [AI Autocomplete](https://github.com/leoyishou/obsidian-ai-autocomplete) | This plugin has not been manually reviewed by Obsidian staff. Inline AI writing completion with ghost text. Powered by Groq. Tab to accept. |
@@ -3653,7 +3650,7 @@
 | [Auto Refresh Explorer](https://github.com/mathieubonvaletpro-commits/auto-refresh-explorer) | This plugin has not been manually reviewed by Obsidian staff. Automatically refreshes the file explorer when external sync tools create new files in the vault. |
 | [Lyrio - Song Helper](https://github.com/whitte-h/Lyrio) | This plugin has not been manually reviewed by Obsidian staff. Automatically synchronize song sections (Chorus, Verse, Bridge, etc.) across your note. |
 | [Alignment](https://github.com/kool-ankit-raj/Alignment) | This plugin has not been manually reviewed by Obsidian staff. Align Text to Center or Right. |
-| [File tag picker](https://github.com/sameerbajaj/file-tag-picker) | This plugin has not been manually reviewed by Obsidian staff. Manage note tags in the file explorer context menu with recent-first paging and multi-file support. |
+| [My Todo](https://github.com/amanxarora/my-todo) | This plugin has not been manually reviewed by Obsidian staff. Sorting based personal todo system with categories, weekly and daily planning for Obsidian. |
 | [Cross-App Notes Bridge](https://github.com/huangcheng/obsidian-advanced-import-export) | This plugin has not been manually reviewed by Obsidian staff. Copy notes as portable Markdown and bridge with Bear, WPS Cloud Note, and Youdao Note. |
 | [QMD Semantic Search](https://github.com/winboost/obsidian-qmd-semantic-search) | This plugin has not been manually reviewed by Obsidian staff. Search your vault locally with QMD semantic and keyword search. |
 | [Archivist](https://github.com/mmomm-org/obsidian-archivist) | This plugin has not been manually reviewed by Obsidian staff. Versioned vault backups to Dropbox with content-addressed storage, hierarchical retention, and file-level restore. |
@@ -3737,12 +3734,13 @@
 | [Progressive](https://github.com/kelen-argosi/progressive) | This plugin has not been manually reviewed by Obsidian staff. Sidebar progress bar that tracks tasks across notes (daily, weekly, monthly, or custom). Supports multiple color modes and adapts to your theme. |
 | [L10n.dev - AI Translator](https://github.com/l10n-dev/obsidian-plugin-ai-translator) | This plugin has not been manually reviewed by Obsidian staff. Translate notes into any of 165 languages with AI. Preserves Markdown formatting and structure. Powered by L10n.dev's AI translation API. |
 | [Lexophile - Personal Dictionary](https://github.com/bryanmanio/obsidian-lexophile) | This plugin has not been manually reviewed by Obsidian staff. Build your vocabulary one word at a time. Add words manually, or grab them instantly with the Chrome extension or Kobo importer. |
+| [AI Model Workbench](https://github.com/flash555588/ai-model-workbench) | This plugin has not been manually reviewed by Obsidian staff. Turn 3D models into linked knowledge assets. |
 | [Multimuse Tracker](https://github.com/tea0s/multimuse-tracker) | This plugin has not been manually reviewed by Obsidian staff. Roleplay sync tool for use with the MultiMuse bot in discord. |
 | [Iconocolor](https://github.com/gavinpicard/iconocolor) | This plugin has not been manually reviewed by Obsidian staff. An all-in-one solution for folder icons and coloring, featuring auto-gradients. |
 | [Manex Brain](https://github.com/krcnow/manex-brain) | This plugin has not been manually reviewed by Obsidian staff. Local AI brain for your Obsidian vault. Indexes all your notes and answers questions privately using a local Apple Silicon MLX model — no cloud, no API keys. |
 | [AI Wiki](https://github.com/ikeniborn/obsidian-llm-wiki) | This plugin has not been manually reviewed by Obsidian staff. AI-powered compoundable knowledge base — extracts, synthesizes and maintains a wiki from raw sources. |
 | [Copy Highlighter](https://github.com/nymbo/Copy-Highlighter) | This plugin has not been manually reviewed by Obsidian staff. Highlights copied text. |
-| [Copy Text Protocol](https://github.com/jldiaz/copy-protocol-plugin) | This plugin has not been manually reviewed by Obsidian staff. Adds support for copying text to the clipboard using a custom protocol. |
+| [Copy Text Protocol](https://github.com/jldiaz/copy-protocol-plugin) | This plugin has not been manually reviewed by Obsidian staff. Create clickable links to instantly copy text snippets, commands, or templates to your clipboard, with live hover previews. |
 | [IroView](https://github.com/nellowtcs/Obsidian-IroView) | This plugin has not been manually reviewed by Obsidian staff. A color preview for HEX, HSL, RGB values in your notes, similar to VSCode's color preview. |
 | [Daily Nav](https://github.com/kuboon/daily-nav) | This plugin has not been manually reviewed by Obsidian staff. Open prev/next note based on explorer sorting order |
 | [Pseudonymizer Tool](https://github.com/core-hn/pseudobsidian-ization) | This plugin has not been manually reviewed by Obsidian staff. Pseudonymize and correct interactional transcripts (Jefferson, ICOR, SRT, CHAT/CHA). Designed for qualitative researchers in linguistics and conversation analysis. |
@@ -3837,7 +3835,6 @@
 | [Track Changes](https://github.com/philphilphil/obsidian-track-changes) | This plugin has not been manually reviewed by Obsidian staff. Review CriticMarkup suggestions in a side panel. Accept, reject, or reply. |
 | [Odaily](https://github.com/guchang/Odaily-Plugin) | This plugin has not been manually reviewed by Obsidian staff. A schedule-focused Obsidian plugin for capturing ideas, managing notes and tasks, and boosting personal productivity. |
 | [Review Comments](https://github.com/shotashirai1719/obsidian-review-comments) | This plugin has not been manually reviewed by Obsidian staff. Notion-style review comments stored as CriticMarkup. AI-friendly format for LLM-assisted editing. |
-| [Lumen](https://github.com/chinoryunqin/lumen-ai-assistant) | This plugin has not been manually reviewed by Obsidian staff. 为 Obsidian 笔记点亮 AI 之光。支持 Claude、GPT、MiniMax、Kimi，提供总结、翻译、深度剖析、提取待办、续写、润色等快捷操作，并可直接将结果写回笔记。 |
 | [MermaidMaker](https://github.com/akitaroh/obsidian-mermaid-maker) | This plugin has not been manually reviewed by Obsidian staff. Inline GUI editor for Mermaid diagrams. Wikilinks, tags, math and rich markdown work inside nodes. |
 | [bangumi](https://github.com/kuanphough/obsidian-bangumi) | This plugin has not been manually reviewed by Obsidian staff. Sync Bangumi collection and episode progress into notes. |
 | [Extension Hub](https://github.com/pixerojan/obsidian-extension-hub) | This plugin has not been manually reviewed by Obsidian staff. Browse GitHub and the community forum to install plugins across multiple vaults simultaneously. |
@@ -3879,6 +3876,7 @@
 | [Pi Agent](https://github.com/christianlempa/obsidian-pi) | This plugin has not been manually reviewed by Obsidian staff. Chat with Pi using context from your notes, links, backlinks, tags, and search results. |
 | [Engram Vault Sync](https://github.com/engram-app/Engram-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Sync your vault and search it by meaning with AI. Use the hosted service or self-host for free. Works with Claude, Cursor, and any tool that speaks MCP. |
 | [More Vim](https://github.com/colinlienard/obsidian-more-vim) | This plugin has not been manually reviewed by Obsidian staff. Adds missing Vim features such as surround, multi-cursor, scrolloff, gd, gx, and more. |
+| [StepVox](https://github.com/cheng-zi-qing/stepvox) | This plugin has not been manually reviewed by Obsidian staff. Voice-controlled assistant for your vault. Speak to query, edit, and create notes via StepFun ASR/TTS plus a configurable LLM (StepFun, OpenAI, or Anthropic). Requires API keys. |
 | [Remarkable Synchronizer](https://github.com/dsebastien/obsidian-remarkable-sync) | This plugin has not been manually reviewed by Obsidian staff. Connect to the reMarkable cloud, list, download, and sync notebook pages as images. |
 | [Excerpt-Outline-Mindmap-Editor](https://github.com/kpaede/Excerpt-Outline-Mindmap-Editor) | This plugin has not been manually reviewed by Obsidian staff. A visual drag-n-drop mindmap editor (with markdown outline under the hood). |
 | [Bookshelf Base](https://github.com/dsebastien/obsidian-bookshelf) | This plugin has not been manually reviewed by Obsidian staff. Display your notes as a visual bookshelf via a custom Bases view. |
@@ -3918,6 +3916,7 @@
 | [Canvas HTML Exporter](https://github.com/hkohlhoff/canvas-html-exporter) | This plugin has not been manually reviewed by Obsidian staff. Export canvas files as portable interactive HTML package or standalone page. |
 | [Archive Redirect](https://github.com/semsevens/obsidian-archive-redirect) | This plugin has not been manually reviewed by Obsidian staff. Archive remote URLs from markdown locally and serve from local cache on render. |
 | [Researcher](https://github.com/slaymish/async-researcher) | This plugin has not been manually reviewed by Obsidian staff. Async research workflow for Obsidian notes. |
+| [magneto](https://github.com/vishal-go/magneto) | This plugin has not been manually reviewed by Obsidian staff. MAGNETO — Markdown And Git Notes Export, Track Origin. Sync your vault to GitHub (mobile + desktop, no Git required). |
 | [Mindo](https://github.com/therofli/Mindo) | This plugin has not been manually reviewed by Obsidian staff. Talk to your vault with local voice, RAG, Wiki memory, safe edits, and Mindo Code. |
 | [MarkPage Sync](https://github.com/timikays/markpage-obsidian-plugin) | This plugin has not been manually reviewed by Obsidian staff. Sync notes with images to MarkPage editor. One click to send your note to MarkPage for beautiful visual editing. |
 | [Local Dictation](https://github.com/brittain9/local-dictation-obsidian-plugin) | This plugin has not been manually reviewed by Obsidian staff. Dictate notes with Whisper or Cohere Transcribe; clean up with a local Ollama model. Private, on-device speech-to-text for Obsidian. |
@@ -3929,6 +3928,7 @@
 | [Codex EchoInk](https://github.com/akin-lvyifang/codex-echoink) | This plugin has not been manually reviewed by Obsidian staff. Use Codex CLI or OpenCode in Obsidian to manage knowledge, ask vault questions, and review local agent work. |
 | [KAI Command Center](https://github.com/jayp89/kai-command-center) | This plugin has not been manually reviewed by Obsidian staff. A locally-run dashboard plugin for the KAI Obsidian OS. |
 | [Simple Flashcards](https://github.com/clancyj11/simple-flashcards) | This plugin has not been manually reviewed by Obsidian staff. RemNote-style inline flashcard syntax with optional spaced repetition. |
+| [MailDump](https://github.com/akudlay-ru/MailDump) | This plugin has not been manually reviewed by Obsidian staff. Export IMAP mail into analysis-ready Markdown digests and optional mail notes with adjacent attachments. |
 | [Chinese Novel Assistant](https://github.com/pingo8888/chinese-novel-assistant) | This plugin has not been manually reviewed by Obsidian staff. A set of small features designed to make writing Chinese novels more convenient. |
 | [Audio Transcript](https://github.com/jaliriogbarrios19/Audio_Transcript) | This plugin has not been manually reviewed by Obsidian staff. Transcribí audios con identificación de hablantes usando Gladia, Deepgram o AssemblyAI |
 | [Three D Graph View](https://github.com/roasted-nz/obsidian-three-d-graph-view) | This plugin has not been manually reviewed by Obsidian staff. A graph-style view that can be rotated in 3D space. |
@@ -3978,6 +3978,7 @@
 | [Scholar Quest](https://github.com/zhao-jun-yong/scholar-quest) | This plugin has not been manually reviewed by Obsidian staff. Gamify your academic workflow with XP and levels. |
 | [Leaflet bases](https://github.com/requiae/obsidian-leaflet-bases-plugin) | This plugin has not been manually reviewed by Obsidian staff. Interactive fantasy map view inside your bases. |
 | [Biji Tongbu](https://github.com/notesynchelper/obsidian-bijitongbu) | This plugin has not been manually reviewed by Obsidian staff. Capture content from WeChat Official Accounts, Xiaohongshu, Dedao, Yuanbao, and Zhihu. Save chat records, images, and files with ease. |
+| [JotDrop](https://github.com/diexar-labs/jotdrop) | This plugin has not been manually reviewed by Obsidian staff. Fast offline quick-capture plugin for Markdown notes with Android sync, Chrome web clipping, voice memos and card-based organization. |
 | [Markdoist](https://github.com/0ximst1ll/markdoist) | This plugin has not been manually reviewed by Obsidian staff. Task management with Todoist bidirectional sync. |
 | [LRU Tab Limiter](https://github.com/fireshort/obsidian-tab-limit) | This plugin has not been manually reviewed by Obsidian staff. Keeps Markdown tabs under a limit by replacing the least recently used tab. |
 | [Ghosty Posty](https://github.com/mattbirchler/ghosty-posty-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Post your notes to your Ghost blog. |
@@ -3991,6 +3992,7 @@
 | [Cook Mode (Screen WakeLock)](https://github.com/blotspot/obsidian-wake-lock) | This plugin has not been manually reviewed by Obsidian staff. Keeps the display awake while the app is in the foreground, so you can keep cooking in your notes. |
 | [Easy Git](https://github.com/saiki77/Easy-Git) | This plugin has not been manually reviewed by Obsidian staff. A secure, plug-and-play way to sync individual vault folders or sections with GitHub. Private repos supported, multiple folder mappings, bidirectional sync, and conflict resolution. |
 | [Smart Tabs](https://github.com/ksawl/obsidian-smart-tabs) | This plugin has not been manually reviewed by Obsidian staff. Open files in new tabs by default, with smart tab deduplication. |
+| [Search Movies and TV Shows TMDB](https://github.com/bernardonogueira8/search-movies-tv-tmdb) | This plugin has not been manually reviewed by Obsidian staff. Search for movies and TV shows on TMDB and automatically create notes with ratings. |
 | [Translucent BG](https://github.com/mellowmarsh-git/Obsidian-Translucent-BG) | This plugin has not been manually reviewed by Obsidian staff. Translucent window backgrounds on Windows — acrylic blur, mica, and theme-aware tint overlays. |
 | [4D Eisenhower Matrix](https://github.com/krcaljaroslav/4D-eisenhower-matrix) | This plugin has not been manually reviewed by Obsidian staff. Visualize tasks across your vault in a 5-quadrant Eisenhower matrix (DO / DECIDE / DELEGATE / DELETE / OPEN). Reads and writes standard task syntax — tags, due/start/done dates, and priority emoji. |
 | [Link Extractor](https://github.com/andym-dc/obsidian-link-extractor) | This plugin has not been manually reviewed by Obsidian staff. Scan the current note for all external links and copy them as a list. |
@@ -4022,6 +4024,7 @@
 | [SuperMind](https://github.com/springrain1/obsidian-xmind-plugin) | This plugin has not been manually reviewed by Obsidian staff. 在Obsidian中查看XMind文件，支持Markdown和XMind格式转换、提供增强的思维导图编辑功能，支持AI智能扩展和多种导出格式 \| View XMind files in Obsidian, convert between Markdown and XMind formats, with enhanced mind map editing, AI-powered expansion, and multiple export formats. |
 | [pdf-to-md](https://github.com/kkbin505/pdf-to-md) | This plugin has not been manually reviewed by Obsidian staff. Convert handwritten PDFs to Markdown with LaTeX formulas using AI (OpenAI GPT or Alibaba Qwen). |
 | [Iconik](https://github.com/creagleone/obsidian-iconik) | This plugin has not been manually reviewed by Obsidian staff. Customize icons and text colors |
+| [Weave EPUB Reader](https://github.com/zhuzhige123/obsidian-weave-reader) | This plugin has not been manually reviewed by Obsidian staff. Standalone EPUB reader with bookshelf, deep links, and reading state persistence. |
 | [HEIC Viewer](https://github.com/kiaraorq/heic-viewer) | This plugin has not been manually reviewed by Obsidian staff. Allows viewing of .heic and .heif images in Obsidian by converting them on the fly. |
 | [Minder Nexus](https://github.com/ksawl/obsidian-minder-nexus) | This plugin has not been manually reviewed by Obsidian staff. Build a semantic knowledge graph with bidirectional links and custom ontologies. |
 | [Bases Chart Layouts](https://github.com/zobweyt/obsidian-bases-chart-layouts) | This plugin has not been manually reviewed by Obsidian staff. Adds new layouts to bases: Bar Chart, Line Chart, and Pie Chart. |
@@ -4054,6 +4057,8 @@
 | [Valeon](https://github.com/valeon-org/obsidian-plugin) | This plugin has not been manually reviewed by Obsidian staff. Publish, edit, and sync posts with the Valeon author dashboard. Lints frontmatter against the live schema, handles inline images and assets, and reconciles the vault with remote state. |
 | [Semoi — Proof of Writing](https://github.com/gjtorikian/semoi-obsidian) | This plugin has not been manually reviewed by Obsidian staff. Capture keystroke evidence as you write and mint cryptographic proof-of-writing certificates via semoi.net. |
 | [Editor.js Rich Text Editor](https://github.com/springrain1/obsidian-editorjs-plugin) | This plugin has not been manually reviewed by Obsidian staff. A block-based rich text editor powered by Editor.js |
+| [Daily Weight Prompt](https://github.com/lightvolk/daily-weight-prompt) | This plugin has not been manually reviewed by Obsidian staff. Prompts for current body weight and saves it into today's daily note frontmatter. |
+| [Poneglyph](https://github.com/kausthub-kannan/poneglyph) | This plugin has not been manually reviewed by Obsidian staff. AI-powered research tool that turns your notes into a living knowledge graph. |
 | [Todoist Bridge](https://github.com/rodrigolourencofarinha/obsidian-todoist-bridge) | This plugin has not been manually reviewed by Obsidian staff. Sync Todoist tasks with Obsidian Markdown tasks marked with #todoist. |
 | [Beancount Ledger](https://github.com/mkshp-dev/obsidian-finance-plugin) | This plugin has not been manually reviewed by Obsidian staff. Comprehensive financial dashboard with Beancount integration. Features unified entry management, live BQL queries, connection validation, auto-starting backend, and streamlined settings. |
 | [Butter Editor](https://github.com/spreadwell/butter-editor) | This plugin has not been manually reviewed by Obsidian staff. WYSIWYG editing mode. Focus on writing, not syntax. |
@@ -4061,4 +4066,26 @@
 | [Photo Album](https://github.com/solargate/obsidian-photo-album) | This plugin has not been manually reviewed by Obsidian staff. Organize photo albums in your vault. |
 | [Reading Highlighter](https://github.com/keithwithai/reading-highlighter) | This plugin has not been manually reviewed by Obsidian staff. Highlight selected text in reading mode using markdown highlight syntax. |
 | [Note Copilot](https://github.com/lebenswille/note-copilot) | This plugin has not been manually reviewed by Obsidian staff. AI copilot in the right side panel |
+| [Kindle Local Sync](https://github.com/mykyquan/kindle-local-sync) | This plugin has not been manually reviewed by Obsidian staff. Import Kindle highlights and notes from a local My Clippings.txt file into Markdown notes. |
+| [Simple Pinned Files](https://github.com/mattmaiorana/simple-pinned-files) | This plugin has not been manually reviewed by Obsidian staff. A simple, standalone pinned files view for Obsidian. |
 | [Bible Verse](https://github.com/kilrkrow/obsidian-bible-verse) | This plugin has not been manually reviewed by Obsidian staff. Look up and display Bible verses directly in your notes using the HelloAO Bible API. Supports inline references, code blocks, comparison views, and multiple Bible websites. No API key required. |
+| [Daily Checklist](https://github.com/mattmaiorana/daily-checklist) | This plugin has not been manually reviewed by Obsidian staff. A minimal sidebar checklist for daily routines, with optional sync to your daily note. |
+| [Git Sync](https://github.com/livan116/github-valut-sync) | This plugin has not been manually reviewed by Obsidian staff. Sync your vault across all devices using your own GitHub account. Free forever. |
+| [Etymology Multilingual](https://github.com/ducktapekiller/etymology-multilingual) | This plugin has not been manually reviewed by Obsidian staff. Get the etymology of words in your notes, supporting multiple languages. |
+| [Shouji Diannao](https://github.com/notesynchelper/shoujidiannao) | This plugin has not been manually reviewed by Obsidian staff. Obsidian 手机电脑笔记同步插件：动态码绑定，大陆多机房就近接入，端到端加密。 |
+| [Extensions-Activity](https://github.com/yunz93/obsidian-plugins-activity) | This plugin has not been manually reviewed by Obsidian staff. Extensions-Activity helps you understand how you actually use third-party community extensions. |
+| [Daily Notes Timeline View](https://github.com/masaki39/daily-notes-timeline) | This plugin has not been manually reviewed by Obsidian staff. Timeline view for daily notes. |
+| [Graph Presets](https://github.com/sphinxes0o0/graph-presets) | This plugin has not been manually reviewed by Obsidian staff. Save & switch named Graph View presets — filters, color groups, and node positions. Presets stored in data.json, syncable via git. |
+| [Command Group](https://github.com/masaki39/obsidian-command-group) | This plugin has not been manually reviewed by Obsidian staff. Group commands and select them quickly with custom keyboard shortcuts |
+| [Meetings Plus](https://github.com/jabaho9523/obsidian-meetings-plus) | This plugin has not been manually reviewed by Obsidian staff. Subscribe to calendars and create pre-filled meeting notes in one click. No drag-and-drop, no Outlook required. ICS-based, privacy-first. |
+| [AI Browser Chat](https://github.com/thansheer/AI-Chat) | This plugin has not been manually reviewed by Obsidian staff. Embed ChatGPT, Claude, Gemini, Grok, DeepSeek and Perplexity in a sidebar. Send vault notes and selected text directly into AI chat. |
+| [Confluence Weaver](https://github.com/gs-ax/confluence-weaver) | This plugin has not been manually reviewed by Obsidian staff. Sync Confluence pages to your Vault |
+| [Side Comments](https://github.com/guoxueziliao/side-comments) | This plugin has not been manually reviewed by Obsidian staff. Non-invasive side comments and reading annotations for Obsidian Markdown notes. |
+| [Trans Vault](https://github.com/fnsign/transvault) | This plugin has not been manually reviewed by Obsidian staff. Copy or move notes, folders, attachments, and reviewed direct note dependencies between local desktop vaults. |
+| [Token Count](https://github.com/lemondepat/token-count) | This plugin has not been manually reviewed by Obsidian staff. Count tokens for the active note in the status bar (GPT, Claude, Gemini). |
+| [Artifact Embed](https://github.com/leonyew-ley/obsidian-artifact-embed) | This plugin has not been manually reviewed by Obsidian staff. Embed interactive HTML files, URLs, or inline HTML as Claude-style sandboxed artifact cards inside notes. |
+| [Beauty Diagram](https://github.com/beauty-diagram/obsidian-beauty-diagram) | This plugin has not been manually reviewed by Obsidian staff. Beautify Mermaid and PlantUML diagrams with 9 polished themes. Dark-mode friendly, per-block theme override, portable image output. No setup. |
+| [Tag and Tally](https://github.com/matalina/obsidian-tag-and-tally) | This plugin has not been manually reviewed by Obsidian staff. Run Tag and Tally tabletop RPG sessions in your vault — dice resolution, an in-vault rulebook, NPC generator, random tables, and decks. |
+| [Definitions detector](https://github.com/rapphcd/definitions-detector) | This plugin has not been manually reviewed by Obsidian staff. Auto-detects all definitions of your texts and creates links. |
+| [Brunet](https://github.com/msyaifullah/brunet) | This plugin has not been manually reviewed by Obsidian staff. Bruno API format support — view, edit, and run .bru HTTP requests in your vault. |
+| [Mermaid Next](https://github.com/dacrystal/obsidian-mermaid-next-plugin) | This plugin has not been manually reviewed by Obsidian staff. Renders Mermaid diagrams using the latest version, independent of the built-in bundled version. |
