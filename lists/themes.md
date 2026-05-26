@@ -525,3 +525,6 @@
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
 | [jalad25/Okudagram](https://github.com/jalad25/Okudagram) | ![Okudagram](https://raw.githubusercontent.com/jalad25/Okudagram/master/assets/screenshot.png) |
 | [theviviana/Obsidian-Theme-Framer](https://github.com/theviviana/Obsidian-Theme-Framer) | ![Framer](https://raw.githubusercontent.com/theviviana/Obsidian-Theme-Framer/master/screenshot.png) |
+| [rohith-am/Obsidian-Vellum](https://github.com/rohith-am/Obsidian-Vellum) | ![Vellum](https://raw.githubusercontent.com/rohith-am/Obsidian-Vellum/master/Vellum_Screenshot.jpg) |
+| [michael-andreuzza/serendipity-obsidian](https://github.com/michael-andreuzza/serendipity-obsidian) | ![Serendipity](https://raw.githubusercontent.com/michael-andreuzza/serendipity-obsidian/master/screenshot.png) |
+| [michael-andreuzza/sequoia-obsidian](https://github.com/michael-andreuzza/sequoia-obsidian) | ![Sequoia](https://raw.githubusercontent.com/michael-andreuzza/sequoia-obsidian/master/screenshot.png) |
