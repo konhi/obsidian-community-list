@@ -522,9 +522,9 @@
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
 | [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
-| [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
 | [jalad25/Okudagram](https://github.com/jalad25/Okudagram) | ![Okudagram](https://raw.githubusercontent.com/jalad25/Okudagram/master/assets/screenshot.png) |
 | [theviviana/Obsidian-Theme-Framer](https://github.com/theviviana/Obsidian-Theme-Framer) | ![Framer](https://raw.githubusercontent.com/theviviana/Obsidian-Theme-Framer/master/screenshot.png) |
 | [rohith-am/Obsidian-Vellum](https://github.com/rohith-am/Obsidian-Vellum) | ![Vellum](https://raw.githubusercontent.com/rohith-am/Obsidian-Vellum/master/Vellum_Screenshot.jpg) |
 | [michael-andreuzza/serendipity-obsidian](https://github.com/michael-andreuzza/serendipity-obsidian) | ![Serendipity](https://raw.githubusercontent.com/michael-andreuzza/serendipity-obsidian/master/screenshot.png) |
 | [michael-andreuzza/sequoia-obsidian](https://github.com/michael-andreuzza/sequoia-obsidian) | ![Sequoia](https://raw.githubusercontent.com/michael-andreuzza/sequoia-obsidian/master/screenshot.png) |
+| [stefan-imbesi/obsidian-macos-theme](https://github.com/stefan-imbesi/obsidian-macos-theme) | ![macOS](https://raw.githubusercontent.com/stefan-imbesi/obsidian-macos-theme/master/screenshot.png) |
