@@ -528,3 +528,5 @@
 | [michael-andreuzza/serendipity-obsidian](https://github.com/michael-andreuzza/serendipity-obsidian) | ![Serendipity](https://raw.githubusercontent.com/michael-andreuzza/serendipity-obsidian/master/screenshot.png) |
 | [michael-andreuzza/sequoia-obsidian](https://github.com/michael-andreuzza/sequoia-obsidian) | ![Sequoia](https://raw.githubusercontent.com/michael-andreuzza/sequoia-obsidian/master/screenshot.png) |
 | [stefan-imbesi/obsidian-macos-theme](https://github.com/stefan-imbesi/obsidian-macos-theme) | ![macOS](https://raw.githubusercontent.com/stefan-imbesi/obsidian-macos-theme/master/screenshot.png) |
+| [admiral9k/emrald-obsidian-theme](https://github.com/admiral9k/emrald-obsidian-theme) | ![EMRALD](https://raw.githubusercontent.com/admiral9k/emrald-obsidian-theme/master/screenshot.png) |
+| [jabaho9523/DarkKnightTheme](https://github.com/jabaho9523/DarkKnightTheme) | ![Dark Knight](https://raw.githubusercontent.com/jabaho9523/DarkKnightTheme/master/screenshot.png) |
