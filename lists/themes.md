@@ -537,3 +537,4 @@
 | [sonophage/Bureau](https://github.com/sonophage/Bureau) | ![Bureau](https://raw.githubusercontent.com/sonophage/Bureau/master/screenshot.png) |
 | [rgormley/obsidian-github-dark-dimmed](https://github.com/rgormley/obsidian-github-dark-dimmed) | ![GitHub Dark Dimmed](https://raw.githubusercontent.com/rgormley/obsidian-github-dark-dimmed/master/imgs/promo.png) |
 | [jabaho9523/AlienTheme](https://github.com/jabaho9523/AlienTheme) | ![Alien](https://raw.githubusercontent.com/jabaho9523/AlienTheme/master/screenshot.png) |
+| [matheuszarkov/slytherin](https://github.com/matheuszarkov/slytherin) | ![Slytherin](https://raw.githubusercontent.com/matheuszarkov/slytherin/master/Slytherin.png) |
