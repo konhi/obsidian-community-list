@@ -496,7 +496,6 @@
 | [oneprogramador/ObsidianCodingTheme](https://github.com/oneprogramador/ObsidianCodingTheme) | ![Happy Coding](https://raw.githubusercontent.com/oneprogramador/ObsidianCodingTheme/master/Screenshot%20Dark_small.png) |
 | [noi8282/obsidian-Pastel-Yumekawa-Theme](https://github.com/noi8282/obsidian-Pastel-Yumekawa-Theme) | ![Pastel-Yumekawa](https://raw.githubusercontent.com/noi8282/obsidian-Pastel-Yumekawa-Theme/master/image.png) |
 | [yejun-exe/calm-nights](https://github.com/yejun-exe/calm-nights) | ![calm nights](https://raw.githubusercontent.com/yejun-exe/calm-nights/master/theme-sample-ss.png) |
-| [matothetomato/Elysian](https://github.com/matothetomato/Elysian) | ![Elysian](https://raw.githubusercontent.com/matothetomato/Elysian/master/cover.png) |
 | [sikoso774/Nebulux](https://github.com/sikoso774/Nebulux) | ![Nebulux](https://raw.githubusercontent.com/sikoso774/Nebulux/master/screenshot.png) |
 | [nnniv/palenight.obsidian](https://github.com/nnniv/palenight.obsidian) | ![Palenight](https://raw.githubusercontent.com/nnniv/palenight.obsidian/master/assets/screenshot.png) |
 | [darkings/Obsidian-MonokaiSyntax](https://github.com/darkings/Obsidian-MonokaiSyntax) | ![Monokai Syntax](https://raw.githubusercontent.com/darkings/Obsidian-MonokaiSyntax/master/screenshot.png) |
@@ -538,3 +537,5 @@
 | [rgormley/obsidian-github-dark-dimmed](https://github.com/rgormley/obsidian-github-dark-dimmed) | ![GitHub Dark Dimmed](https://raw.githubusercontent.com/rgormley/obsidian-github-dark-dimmed/master/imgs/promo.png) |
 | [jabaho9523/AlienTheme](https://github.com/jabaho9523/AlienTheme) | ![Alien](https://raw.githubusercontent.com/jabaho9523/AlienTheme/master/screenshot.png) |
 | [matheuszarkov/slytherin](https://github.com/matheuszarkov/slytherin) | ![Slytherin](https://raw.githubusercontent.com/matheuszarkov/slytherin/master/Slytherin.png) |
+| [carnalmatrix/obsidian-mantle-zenith](https://github.com/carnalmatrix/obsidian-mantle-zenith) | ![Zenith](https://raw.githubusercontent.com/carnalmatrix/obsidian-mantle-zenith/master/screenshot.png) |
+| [niedzielawieczur/Anarchy](https://github.com/niedzielawieczur/Anarchy) | ![Anarchy](https://raw.githubusercontent.com/niedzielawieczur/Anarchy/master/Screenshot.png) |
