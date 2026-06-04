@@ -496,6 +496,7 @@
 | [oneprogramador/ObsidianCodingTheme](https://github.com/oneprogramador/ObsidianCodingTheme) | ![Happy Coding](https://raw.githubusercontent.com/oneprogramador/ObsidianCodingTheme/master/Screenshot%20Dark_small.png) |
 | [noi8282/obsidian-Pastel-Yumekawa-Theme](https://github.com/noi8282/obsidian-Pastel-Yumekawa-Theme) | ![Pastel-Yumekawa](https://raw.githubusercontent.com/noi8282/obsidian-Pastel-Yumekawa-Theme/master/image.png) |
 | [yejun-exe/calm-nights](https://github.com/yejun-exe/calm-nights) | ![calm nights](https://raw.githubusercontent.com/yejun-exe/calm-nights/master/theme-sample-ss.png) |
+| [matothetomato/Elysian](https://github.com/matothetomato/Elysian) | ![Elysian](https://raw.githubusercontent.com/matothetomato/Elysian/master/cover.png) |
 | [sikoso774/Nebulux](https://github.com/sikoso774/Nebulux) | ![Nebulux](https://raw.githubusercontent.com/sikoso774/Nebulux/master/screenshot.png) |
 | [nnniv/palenight.obsidian](https://github.com/nnniv/palenight.obsidian) | ![Palenight](https://raw.githubusercontent.com/nnniv/palenight.obsidian/master/assets/screenshot.png) |
 | [darkings/Obsidian-MonokaiSyntax](https://github.com/darkings/Obsidian-MonokaiSyntax) | ![Monokai Syntax](https://raw.githubusercontent.com/darkings/Obsidian-MonokaiSyntax/master/screenshot.png) |
@@ -506,6 +507,7 @@
 | [livastar/sacred-geometry-obsidian-theme](https://github.com/livastar/sacred-geometry-obsidian-theme) | ![Sacred Geometry Systems](https://raw.githubusercontent.com/livastar/sacred-geometry-obsidian-theme/master/assets/screenshot-catalog.png) |
 | [asgardehs/nott-dagr-obsidian](https://github.com/asgardehs/nott-dagr-obsidian) | ![Nott Dagr](https://raw.githubusercontent.com/asgardehs/nott-dagr-obsidian/master/Nott.png) |
 | [mukhil-g/obsidian-vision](https://github.com/mukhil-g/obsidian-vision) | ![Vision](https://raw.githubusercontent.com/mukhil-g/obsidian-vision/master/screenshot.png) |
+| [towishy/Owen-Graphite](https://github.com/towishy/Owen-Graphite) | ![Owen Graphite](https://raw.githubusercontent.com/towishy/Owen-Graphite/master/screenshots/light.png) |
 | [amm10090/claude-warm-obsidian-theme](https://github.com/amm10090/claude-warm-obsidian-theme) | ![Claude Warm](https://raw.githubusercontent.com/amm10090/claude-warm-obsidian-theme/master/screenshot.png) |
 | [jaminbrazil2/phosphor-crt](https://github.com/jaminbrazil2/phosphor-crt) | ![Phosphor CRT](https://raw.githubusercontent.com/jaminbrazil2/phosphor-crt/master/screenshot.png) |
 | [jkvetina/obsidian-one-oracle-developer](https://github.com/jkvetina/obsidian-one-oracle-developer) | ![One Oracle Developer](https://raw.githubusercontent.com/jkvetina/obsidian-one-oracle-developer/master/screenshot.png) |
@@ -532,8 +534,10 @@
 | [stefan-imbesi/obsidian-macos-theme](https://github.com/stefan-imbesi/obsidian-macos-theme) | ![macOS](https://raw.githubusercontent.com/stefan-imbesi/obsidian-macos-theme/master/screenshot.png) |
 | [admiral9k/emrald-obsidian-theme](https://github.com/admiral9k/emrald-obsidian-theme) | ![EMRALD](https://raw.githubusercontent.com/admiral9k/emrald-obsidian-theme/master/screenshot.png) |
 | [jabaho9523/DarkKnightTheme](https://github.com/jabaho9523/DarkKnightTheme) | ![Dark Knight](https://raw.githubusercontent.com/jabaho9523/DarkKnightTheme/master/screenshot.png) |
+| [sonophage/Bureau](https://github.com/sonophage/Bureau) | ![Bureau](https://raw.githubusercontent.com/sonophage/Bureau/master/screenshot.png) |
 | [rgormley/obsidian-github-dark-dimmed](https://github.com/rgormley/obsidian-github-dark-dimmed) | ![GitHub Dark Dimmed](https://raw.githubusercontent.com/rgormley/obsidian-github-dark-dimmed/master/imgs/promo.png) |
 | [jabaho9523/AlienTheme](https://github.com/jabaho9523/AlienTheme) | ![Alien](https://raw.githubusercontent.com/jabaho9523/AlienTheme/master/screenshot.png) |
 | [matheuszarkov/slytherin](https://github.com/matheuszarkov/slytherin) | ![Slytherin](https://raw.githubusercontent.com/matheuszarkov/slytherin/master/Slytherin.png) |
 | [carnalmatrix/obsidian-mantle-zenith](https://github.com/carnalmatrix/obsidian-mantle-zenith) | ![Zenith](https://raw.githubusercontent.com/carnalmatrix/obsidian-mantle-zenith/master/screenshot.png) |
 | [niedzielawieczur/Anarchy](https://github.com/niedzielawieczur/Anarchy) | ![Anarchy](https://raw.githubusercontent.com/niedzielawieczur/Anarchy/master/Screenshot.png) |
+| [perinchiang/obsidian-misty-theme](https://github.com/perinchiang/obsidian-misty-theme) | ![Misty](https://raw.githubusercontent.com/perinchiang/obsidian-misty-theme/master/screenshot.png) |
