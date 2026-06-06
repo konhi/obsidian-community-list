@@ -541,3 +541,7 @@
 | [carnalmatrix/obsidian-mantle-zenith](https://github.com/carnalmatrix/obsidian-mantle-zenith) | ![Zenith](https://raw.githubusercontent.com/carnalmatrix/obsidian-mantle-zenith/master/screenshot.png) |
 | [niedzielawieczur/Anarchy](https://github.com/niedzielawieczur/Anarchy) | ![Anarchy](https://raw.githubusercontent.com/niedzielawieczur/Anarchy/master/Screenshot.png) |
 | [perinchiang/obsidian-misty-theme](https://github.com/perinchiang/obsidian-misty-theme) | ![Misty](https://raw.githubusercontent.com/perinchiang/obsidian-misty-theme/master/screenshot.png) |
+| [bsbbera/atelier-obsidian](https://github.com/bsbbera/atelier-obsidian) | ![Atelier](https://raw.githubusercontent.com/bsbbera/atelier-obsidian/master/screenshot.png) |
+| [bsbbera/lucid-obsidian](https://github.com/bsbbera/lucid-obsidian) | ![Lucid](https://raw.githubusercontent.com/bsbbera/lucid-obsidian/master/screenshot.png) |
+| [maniarasan-zuper/obsidian-zocean](https://github.com/maniarasan-zuper/obsidian-zocean) | ![Zocean](https://raw.githubusercontent.com/maniarasan-zuper/obsidian-zocean/master/preview.png) |
+| [voi-tech/obsidian-praxis](https://github.com/voi-tech/obsidian-praxis) | ![Praxis](https://raw.githubusercontent.com/voi-tech/obsidian-praxis/master/screenshot.png) |
