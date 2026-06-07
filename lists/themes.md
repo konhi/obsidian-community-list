@@ -479,7 +479,6 @@
 | [baileylu121/obsidian-compline](https://github.com/baileylu121/obsidian-compline) | ![Compline](https://raw.githubusercontent.com/baileylu121/obsidian-compline/master/screenshot.png) |
 | [adamkdean/standard-plus-obsidian-theme](https://github.com/adamkdean/standard-plus-obsidian-theme) | ![Standard Plus](https://raw.githubusercontent.com/adamkdean/standard-plus-obsidian-theme/master/preview.png) |
 | [willn-dev/Phosphor-Mono](https://github.com/willn-dev/Phosphor-Mono) | ![Phosphor-Mono](https://raw.githubusercontent.com/willn-dev/Phosphor-Mono/master/phosphor-mono-example.png) |
-| [antonabbac/obsidian-purple-haze](https://github.com/antonabbac/obsidian-purple-haze) | ![Purple Haze](https://raw.githubusercontent.com/antonabbac/obsidian-purple-haze/master/Screenshots/Overview.png) |
 | [aterrylu/obsidian-pitch-black](https://github.com/aterrylu/obsidian-pitch-black) | ![Pitch Black](https://raw.githubusercontent.com/aterrylu/obsidian-pitch-black/master/screenshot.png) |
 | [incantatem2/Obsidian-jolly-holly](https://github.com/incantatem2/Obsidian-jolly-holly) | ![Jolly Holly](https://raw.githubusercontent.com/incantatem2/Obsidian-jolly-holly/master/images/thumbnail-holly.jpg) |
 | [davidszp/obsidian-rationale](https://github.com/davidszp/obsidian-rationale) | ![Rationale](https://raw.githubusercontent.com/davidszp/obsidian-rationale/master/assets/rationale-light-thumb.png) |
@@ -545,3 +544,6 @@
 | [bsbbera/lucid-obsidian](https://github.com/bsbbera/lucid-obsidian) | ![Lucid](https://raw.githubusercontent.com/bsbbera/lucid-obsidian/master/screenshot.png) |
 | [maniarasan-zuper/obsidian-zocean](https://github.com/maniarasan-zuper/obsidian-zocean) | ![Zocean](https://raw.githubusercontent.com/maniarasan-zuper/obsidian-zocean/master/preview.png) |
 | [voi-tech/obsidian-praxis](https://github.com/voi-tech/obsidian-praxis) | ![Praxis](https://raw.githubusercontent.com/voi-tech/obsidian-praxis/master/screenshot.png) |
+| [kulysocc/obsidian-bumblebee](https://github.com/kulysocc/obsidian-bumblebee) | ![Bumblebee](https://raw.githubusercontent.com/kulysocc/obsidian-bumblebee/master/screenshot.png) |
+| [w4t4r/obsidian-one-dark-pro](https://github.com/w4t4r/obsidian-one-dark-pro) | ![One Dark Pro](https://raw.githubusercontent.com/w4t4r/obsidian-one-dark-pro/master/screenshot.png) |
+| [sajalverma17/flexoki-warmer](https://github.com/sajalverma17/flexoki-warmer) | ![Flexoki Warmer](https://raw.githubusercontent.com/sajalverma17/flexoki-warmer/master/cover-small.png) |
