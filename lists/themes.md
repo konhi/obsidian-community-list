@@ -547,3 +547,4 @@
 | [kulysocc/obsidian-bumblebee](https://github.com/kulysocc/obsidian-bumblebee) | ![Bumblebee](https://raw.githubusercontent.com/kulysocc/obsidian-bumblebee/master/screenshot.png) |
 | [w4t4r/obsidian-one-dark-pro](https://github.com/w4t4r/obsidian-one-dark-pro) | ![One Dark Pro](https://raw.githubusercontent.com/w4t4r/obsidian-one-dark-pro/master/screenshot.png) |
 | [sajalverma17/flexoki-warmer](https://github.com/sajalverma17/flexoki-warmer) | ![Flexoki Warmer](https://raw.githubusercontent.com/sajalverma17/flexoki-warmer/master/cover-small.png) |
+| [nbost130/deepfield](https://github.com/nbost130/deepfield) | ![Deepfield](https://raw.githubusercontent.com/nbost130/deepfield/master/cover.png) |
