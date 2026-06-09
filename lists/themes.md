@@ -448,6 +448,7 @@
 | [infosecwarrior/Infosecwarrior-UI](https://github.com/infosecwarrior/Infosecwarrior-UI) | ![Infosecwarrior UI](https://raw.githubusercontent.com/infosecwarrior/Infosecwarrior-UI/master/Infosecwarrior-UI-Preview.png) |
 | [ethanthatonekid/obsidian-nerv](https://github.com/ethanthatonekid/obsidian-nerv) | ![nerv](https://raw.githubusercontent.com/ethanthatonekid/obsidian-nerv/master/screenshot.png) |
 | [erulmu/freecolors](https://github.com/erulmu/freecolors) | ![FreeColors](https://raw.githubusercontent.com/erulmu/freecolors/master/screenshot.png) |
+| [saint0721/saint-red-paper](https://github.com/saint0721/saint-red-paper) | ![Saint Red Paper](https://raw.githubusercontent.com/saint0721/saint-red-paper/master/assets/saint-red-paper-community.png) |
 | [incantatem2/Obsidian-cranky-goblin](https://github.com/incantatem2/Obsidian-cranky-goblin) | ![cranky goblin](https://raw.githubusercontent.com/incantatem2/Obsidian-cranky-goblin/master/IMAGES/thumbnail.jpg) |
 | [chonnz/obsidian-notion-style](https://github.com/chonnz/obsidian-notion-style) | ![Notion Style](https://raw.githubusercontent.com/chonnz/obsidian-notion-style/master/light.png) |
 | [alokinkal/AK-Sky-Breeze](https://github.com/alokinkal/AK-Sky-Breeze) | ![AK Sky Breeze](https://raw.githubusercontent.com/alokinkal/AK-Sky-Breeze/master/screenshot.png) |
@@ -548,3 +549,4 @@
 | [w4t4r/obsidian-one-dark-pro](https://github.com/w4t4r/obsidian-one-dark-pro) | ![One Dark Pro](https://raw.githubusercontent.com/w4t4r/obsidian-one-dark-pro/master/screenshot.png) |
 | [sajalverma17/flexoki-warmer](https://github.com/sajalverma17/flexoki-warmer) | ![Flexoki Warmer](https://raw.githubusercontent.com/sajalverma17/flexoki-warmer/master/cover-small.png) |
 | [nbost130/deepfield](https://github.com/nbost130/deepfield) | ![Deepfield](https://raw.githubusercontent.com/nbost130/deepfield/master/cover.png) |
+| [kaymade/alice-velvet](https://github.com/kaymade/alice-velvet) | ![Alice Velvet](https://raw.githubusercontent.com/kaymade/alice-velvet/master/alice-velvet-screenshot.png) |
