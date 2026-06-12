@@ -550,3 +550,6 @@
 | [sajalverma17/flexoki-warmer](https://github.com/sajalverma17/flexoki-warmer) | ![Flexoki Warmer](https://raw.githubusercontent.com/sajalverma17/flexoki-warmer/master/cover-small.png) |
 | [nbost130/deepfield](https://github.com/nbost130/deepfield) | ![Deepfield](https://raw.githubusercontent.com/nbost130/deepfield/master/cover.png) |
 | [kaymade/alice-velvet](https://github.com/kaymade/alice-velvet) | ![Alice Velvet](https://raw.githubusercontent.com/kaymade/alice-velvet/master/alice-velvet-screenshot.png) |
+| [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
+| [kodamachameleon/Ecdysis](https://github.com/kodamachameleon/Ecdysis) | ![Ecdysis](https://raw.githubusercontent.com/kodamachameleon/Ecdysis/master/screenshot.png) |
+| [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
