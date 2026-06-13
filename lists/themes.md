@@ -489,7 +489,6 @@
 | [jackers228/quest-journal-theme](https://github.com/jackers228/quest-journal-theme) | ![Quest Journal](https://raw.githubusercontent.com/jackers228/quest-journal-theme/master/questjournal.png) |
 | [kazi-aidah/blobob](https://github.com/kazi-aidah/blobob) | ![blobob](https://raw.githubusercontent.com/kazi-aidah/blobob/master/assets/screenshot.png) |
 | [catthode/obsidian](https://github.com/catthode/obsidian) | ![Catthode](https://raw.githubusercontent.com/catthode/obsidian/master/screenshot.png) |
-| [robertttbs/obsidian-rain-washed-sky](https://github.com/robertttbs/obsidian-rain-washed-sky) | ![Rain-Washed Sky](https://raw.githubusercontent.com/robertttbs/obsidian-rain-washed-sky/master/rain-washed_sky.png) |
 | [jzcurious/obsidian-theme-exotic-original](https://github.com/jzcurious/obsidian-theme-exotic-original) | ![Exotic](https://raw.githubusercontent.com/jzcurious/obsidian-theme-exotic-original/master/promo_screenshot.png) |
 | [jpcranford/obsidian-theme-StarlitAbyss](https://github.com/jpcranford/obsidian-theme-StarlitAbyss) | ![Starlit Abyss](https://raw.githubusercontent.com/jpcranford/obsidian-theme-StarlitAbyss/master/img/theme_picker.png) |
 | [hanakin/miami-wind-obsidian-theme](https://github.com/hanakin/miami-wind-obsidian-theme) | ![Miami Wind](https://raw.githubusercontent.com/hanakin/miami-wind-obsidian-theme/master/screenshot.png) |
@@ -553,3 +552,6 @@
 | [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
 | [kodamachameleon/Ecdysis](https://github.com/kodamachameleon/Ecdysis) | ![Ecdysis](https://raw.githubusercontent.com/kodamachameleon/Ecdysis/master/screenshot.png) |
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
+| [brightwav3/obsidian-paper-source-theme](https://github.com/brightwav3/obsidian-paper-source-theme) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/obsidian-paper-source-theme/master/screenshot.png) |
+| [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
+| [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
