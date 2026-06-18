@@ -559,4 +559,5 @@
 | [hearth-code/hearthcode-obsidian](https://github.com/hearth-code/hearthcode-obsidian) | ![HearthCode](https://raw.githubusercontent.com/hearth-code/hearthcode-obsidian/master/screenshot.png) |
 | [martinlockett/obsidian_theme](https://github.com/martinlockett/obsidian_theme) | ![Lockett](https://raw.githubusercontent.com/martinlockett/obsidian_theme/master/Light.png) |
 | [usero2/obsidian-themes-LikeXP](https://github.com/usero2/obsidian-themes-LikeXP) | ![LikeXP](https://raw.githubusercontent.com/usero2/obsidian-themes-LikeXP/master/images/dark_mode.png) |
-| [fovlin/acovia-obsidian-theme](https://github.com/fovlin/acovia-obsidian-theme) | ![Acovia-Beta](https://raw.githubusercontent.com/fovlin/acovia-obsidian-theme/master/exp-light.png) |
+| [fovlin/obsidian-acovia-theme](https://github.com/fovlin/obsidian-acovia-theme) | ![Acovia](https://raw.githubusercontent.com/fovlin/obsidian-acovia-theme/master/exp-dark.png) |
+| [tttnny/obsidian-claude-cream](https://github.com/tttnny/obsidian-claude-cream) | ![Claude Cream](https://raw.githubusercontent.com/tttnny/obsidian-claude-cream/master/screenshot.png) |
