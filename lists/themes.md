@@ -459,6 +459,7 @@
 | [arun-gajaraj/claude-theme-for-obsidian](https://github.com/arun-gajaraj/claude-theme-for-obsidian) | ![Claude](https://raw.githubusercontent.com/arun-gajaraj/claude-theme-for-obsidian/master/claude-obsidian-thumbnail.png) |
 | [hatemecha/retro-larper](https://github.com/hatemecha/retro-larper) | ![retro-larper](https://raw.githubusercontent.com/hatemecha/retro-larper/master/screenshot.png) |
 | [seyhunak/CraftedObsidianTheme](https://github.com/seyhunak/CraftedObsidianTheme) | ![Crafted](https://raw.githubusercontent.com/seyhunak/CraftedObsidianTheme/master/screenshot.png) |
+| [soykindabored/srcery-obsidian](https://github.com/soykindabored/srcery-obsidian) | ![Srcery](https://raw.githubusercontent.com/soykindabored/srcery-obsidian/master/screenshot.png) |
 | [eugenesvk/Obsidian-Densy](https://github.com/eugenesvk/Obsidian-Densy) | ![Densy](https://raw.githubusercontent.com/eugenesvk/Obsidian-Densy/master/img/screenshot.png) |
 | [futurecreator/obsidian-dolch-theme](https://github.com/futurecreator/obsidian-dolch-theme) | ![Dolch](https://raw.githubusercontent.com/futurecreator/obsidian-dolch-theme/master/screenshot.png) |
 | [iodic/obsidian-ayu-theme](https://github.com/iodic/obsidian-ayu-theme) | ![Ayu Palette](https://raw.githubusercontent.com/iodic/obsidian-ayu-theme/master/theme-screenshot.png) |
@@ -552,7 +553,6 @@
 | [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
 | [kodamachameleon/Ecdysis](https://github.com/kodamachameleon/Ecdysis) | ![Ecdysis](https://raw.githubusercontent.com/kodamachameleon/Ecdysis/master/screenshot.png) |
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
-| [brightwav3/obsidian-paper-source-theme](https://github.com/brightwav3/obsidian-paper-source-theme) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/obsidian-paper-source-theme/master/screenshot.png) |
 | [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
 | [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
 | [brightwav3/Coding-Agent-Theme](https://github.com/brightwav3/Coding-Agent-Theme) | ![Coding Agent](https://raw.githubusercontent.com/brightwav3/Coding-Agent-Theme/master/screenshot.png) |
@@ -561,3 +561,5 @@
 | [usero2/obsidian-themes-LikeXP](https://github.com/usero2/obsidian-themes-LikeXP) | ![LikeXP](https://raw.githubusercontent.com/usero2/obsidian-themes-LikeXP/master/images/dark_mode.png) |
 | [fovlin/obsidian-acovia-theme](https://github.com/fovlin/obsidian-acovia-theme) | ![Acovia](https://raw.githubusercontent.com/fovlin/obsidian-acovia-theme/master/exp-dark.png) |
 | [tttnny/obsidian-claude-cream](https://github.com/tttnny/obsidian-claude-cream) | ![Claude Cream](https://raw.githubusercontent.com/tttnny/obsidian-claude-cream/master/screenshot.png) |
+| [highway-wu/obsidian-gothic](https://github.com/highway-wu/obsidian-gothic) | ![Gothic](https://raw.githubusercontent.com/highway-wu/obsidian-gothic/master/screenshot-light.png) |
+| [joshua-walls/trailmark-theme](https://github.com/joshua-walls/trailmark-theme) | ![Trailmark](https://raw.githubusercontent.com/joshua-walls/trailmark-theme/master/screenshot.png) |
