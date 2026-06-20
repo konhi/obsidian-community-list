@@ -563,3 +563,7 @@
 | [tttnny/obsidian-claude-cream](https://github.com/tttnny/obsidian-claude-cream) | ![Claude Cream](https://raw.githubusercontent.com/tttnny/obsidian-claude-cream/master/screenshot.png) |
 | [highway-wu/obsidian-gothic](https://github.com/highway-wu/obsidian-gothic) | ![Gothic](https://raw.githubusercontent.com/highway-wu/obsidian-gothic/master/screenshot-light.png) |
 | [joshua-walls/trailmark-theme](https://github.com/joshua-walls/trailmark-theme) | ![Trailmark](https://raw.githubusercontent.com/joshua-walls/trailmark-theme/master/screenshot.png) |
+| [hobbysoftwaredeveloper/Zen-Forest](https://github.com/hobbysoftwaredeveloper/Zen-Forest) | ![Zen Forest](https://raw.githubusercontent.com/hobbysoftwaredeveloper/Zen-Forest/master/preview/1.png) |
+| [yangsonhung/obsidian-vscode-light-modern](https://github.com/yangsonhung/obsidian-vscode-light-modern) | ![VSCode Light Modern](https://raw.githubusercontent.com/yangsonhung/obsidian-vscode-light-modern/master/screenshot.png) |
+| [yangsonhung/obsidian-vscode-2026](https://github.com/yangsonhung/obsidian-vscode-2026) | ![VSCode 2026](https://raw.githubusercontent.com/yangsonhung/obsidian-vscode-2026/master/screenshot.png) |
+| [bulat-beltone/obsidian-islands-theme](https://github.com/bulat-beltone/obsidian-islands-theme) | ![Islands](https://raw.githubusercontent.com/bulat-beltone/obsidian-islands-theme/master/images/cover.png) |
