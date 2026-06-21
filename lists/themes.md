@@ -306,7 +306,7 @@
 | [daiki48/sakurajima.obsidian](https://github.com/daiki48/sakurajima.obsidian) | ![Sakurajima](https://raw.githubusercontent.com/daiki48/sakurajima.obsidian/master/screenshots/cover.png) |
 | [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) | ![Cupertino](https://raw.githubusercontent.com/aaaaalexis/obsidian-cupertino/master/cupertino.png) |
 | [malcolmmielle/Emerald-Echo](https://github.com/malcolmmielle/Emerald-Echo) | ![Emerald Echo](https://raw.githubusercontent.com/malcolmmielle/Emerald-Echo/master/screenshot.png) |
-| [benjaminezequiel/playground-theme](https://github.com/benjaminezequiel/playground-theme) | ![Playground](https://raw.githubusercontent.com/benjaminezequiel/playground-theme/master/theme_preview.png) |
+| [benjaminezequiel/playground-theme](https://github.com/benjaminezequiel/playground-theme) | ![Playground](https://raw.githubusercontent.com/benjaminezequiel/playground-theme/master/docs/screenshot01.png) |
 | [druxorey/minimal-dracula-for-obsidian](https://github.com/druxorey/minimal-dracula-for-obsidian) | ![Minimal Dracula](https://raw.githubusercontent.com/druxorey/minimal-dracula-for-obsidian/master/resources/cover.png) |
 | [inc44/OLED.Black](https://github.com/inc44/OLED.Black) | ![OLED.Black](https://raw.githubusercontent.com/inc44/OLED.Black/master/screenshot.png) |
 | [laughmaker/Zen](https://github.com/laughmaker/Zen) | ![Zen](https://raw.githubusercontent.com/laughmaker/Zen/master/cover.png) |
@@ -428,6 +428,7 @@
 | [zerokei/Litos](https://github.com/zerokei/Litos) | ![Litos](https://raw.githubusercontent.com/zerokei/Litos/master/screenshot.png) |
 | [cybrcore/cybr-obsidian](https://github.com/cybrcore/cybr-obsidian) | ![cybrcore](https://raw.githubusercontent.com/cybrcore/cybr-obsidian/master/cybr-obsidian.png) |
 | [brtmax/obsidian-warm-springs](https://github.com/brtmax/obsidian-warm-springs) | ![Warm Springs](https://raw.githubusercontent.com/brtmax/obsidian-warm-springs/master/warm-springs-preview.png) |
+| [mrparalloid/nu-ayu](https://github.com/mrparalloid/nu-ayu) | ![Nu Ayu](https://raw.githubusercontent.com/mrparalloid/nu-ayu/master/ayu-screenshot.jpg) |
 | [petercartersr/Obsidian-Theme](https://github.com/petercartersr/Obsidian-Theme) | ![Arcadia](https://raw.githubusercontent.com/petercartersr/Obsidian-Theme/master/screenshots/hero-dark.png) |
 | [czxtm/apathy-obsidian](https://github.com/czxtm/apathy-obsidian) | ![Apathy](https://raw.githubusercontent.com/czxtm/apathy-obsidian/master/screenshot.png) |
 | [sir-marc-the-scribe/Obsidian-theme---word-office-2019](https://github.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019) | ![word_2019](https://raw.githubusercontent.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019/master/screenshot.png) |
@@ -553,6 +554,7 @@
 | [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
 | [kodamachameleon/Ecdysis](https://github.com/kodamachameleon/Ecdysis) | ![Ecdysis](https://raw.githubusercontent.com/kodamachameleon/Ecdysis/master/screenshot.png) |
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
+| [brightwav3/obsidian-paper-source-theme](https://github.com/brightwav3/obsidian-paper-source-theme) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/obsidian-paper-source-theme/master/screenshot.png) |
 | [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
 | [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
 | [brightwav3/Coding-Agent-Theme](https://github.com/brightwav3/Coding-Agent-Theme) | ![Coding Agent](https://raw.githubusercontent.com/brightwav3/Coding-Agent-Theme/master/screenshot.png) |
@@ -567,3 +569,5 @@
 | [yangsonhung/obsidian-vscode-light-modern](https://github.com/yangsonhung/obsidian-vscode-light-modern) | ![VSCode Light Modern](https://raw.githubusercontent.com/yangsonhung/obsidian-vscode-light-modern/master/screenshot.png) |
 | [yangsonhung/obsidian-vscode-2026](https://github.com/yangsonhung/obsidian-vscode-2026) | ![VSCode 2026](https://raw.githubusercontent.com/yangsonhung/obsidian-vscode-2026/master/screenshot.png) |
 | [bulat-beltone/obsidian-islands-theme](https://github.com/bulat-beltone/obsidian-islands-theme) | ![Islands](https://raw.githubusercontent.com/bulat-beltone/obsidian-islands-theme/master/images/cover.png) |
+| [kkenny0/obsidian-kami](https://github.com/kkenny0/obsidian-kami) | ![Kami Reader](https://raw.githubusercontent.com/kkenny0/obsidian-kami/master/screenshots/light-reading.png) |
+| [enchantedcoloring/obsidian](https://github.com/enchantedcoloring/obsidian) | ![Enchanted](https://raw.githubusercontent.com/enchantedcoloring/obsidian/master/community-obsidian-screenshot.jpg) |
