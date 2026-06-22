@@ -556,7 +556,6 @@
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
 | [brightwav3/obsidian-paper-source-theme](https://github.com/brightwav3/obsidian-paper-source-theme) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/obsidian-paper-source-theme/master/screenshot.png) |
 | [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
-| [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
 | [brightwav3/Coding-Agent-Theme](https://github.com/brightwav3/Coding-Agent-Theme) | ![Coding Agent](https://raw.githubusercontent.com/brightwav3/Coding-Agent-Theme/master/screenshot.png) |
 | [hearth-code/hearthcode-obsidian](https://github.com/hearth-code/hearthcode-obsidian) | ![HearthCode](https://raw.githubusercontent.com/hearth-code/hearthcode-obsidian/master/screenshot.png) |
 | [martinlockett/obsidian_theme](https://github.com/martinlockett/obsidian_theme) | ![Lockett](https://raw.githubusercontent.com/martinlockett/obsidian_theme/master/Light.png) |
@@ -571,3 +570,5 @@
 | [bulat-beltone/obsidian-islands-theme](https://github.com/bulat-beltone/obsidian-islands-theme) | ![Islands](https://raw.githubusercontent.com/bulat-beltone/obsidian-islands-theme/master/images/cover.png) |
 | [kkenny0/obsidian-kami](https://github.com/kkenny0/obsidian-kami) | ![Kami Reader](https://raw.githubusercontent.com/kkenny0/obsidian-kami/master/screenshots/light-reading.png) |
 | [enchantedcoloring/obsidian](https://github.com/enchantedcoloring/obsidian) | ![Enchanted](https://raw.githubusercontent.com/enchantedcoloring/obsidian/master/community-obsidian-screenshot.jpg) |
+| [jimcsuen/Enhanced-Canvas-Theme-for-Obsidian](https://github.com/jimcsuen/Enhanced-Canvas-Theme-for-Obsidian) | ![Enhanced Canvas](https://raw.githubusercontent.com/jimcsuen/Enhanced-Canvas-Theme-for-Obsidian/master/theme_preview.png) |
+| [playerofgames/obsidian-mia-theme](https://github.com/playerofgames/obsidian-mia-theme) | ![Mia](https://raw.githubusercontent.com/playerofgames/obsidian-mia-theme/master/preview.png) |
