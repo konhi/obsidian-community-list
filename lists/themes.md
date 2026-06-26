@@ -474,6 +474,7 @@
 | [code-alchemist-dev/obsidian-crestfall](https://github.com/code-alchemist-dev/obsidian-crestfall) | ![Crestfall](https://raw.githubusercontent.com/code-alchemist-dev/obsidian-crestfall/master/screenshot.png) |
 | [soldni/monokai-filtersun-spectrum](https://github.com/soldni/monokai-filtersun-spectrum) | ![monokai-filtersun-spectrum](https://raw.githubusercontent.com/soldni/monokai-filtersun-spectrum/master/screenshot.png) |
 | [nickmilo/soft-paper](https://github.com/nickmilo/soft-paper) | ![Soft Paper](https://raw.githubusercontent.com/nickmilo/soft-paper/master/screenshot.png) |
+| [kinn00kinn/LatteLogic](https://github.com/kinn00kinn/LatteLogic) | ![LatteLogic](https://raw.githubusercontent.com/kinn00kinn/LatteLogic/master/cover.png) |
 | [alexh/umi-obsidian-theme](https://github.com/alexh/umi-obsidian-theme) | ![Utility Materials](https://raw.githubusercontent.com/alexh/umi-obsidian-theme/master/screenshot.png) |
 | [hanabi-works/hanabi-theme](https://github.com/hanabi-works/hanabi-theme) | ![Hanabi](https://raw.githubusercontent.com/hanabi-works/hanabi-theme/master/images/obsidian-preview.png) |
 | [mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme](https://github.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme) | ![Vaporwave Void](https://raw.githubusercontent.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme/master/Screenshot512final.png) |
