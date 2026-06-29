@@ -428,7 +428,6 @@
 | [zerokei/Litos](https://github.com/zerokei/Litos) | ![Litos](https://raw.githubusercontent.com/zerokei/Litos/master/screenshot.png) |
 | [cybrcore/cybr-obsidian](https://github.com/cybrcore/cybr-obsidian) | ![cybrcore](https://raw.githubusercontent.com/cybrcore/cybr-obsidian/master/cybr-obsidian.png) |
 | [brtmax/obsidian-warm-springs](https://github.com/brtmax/obsidian-warm-springs) | ![Warm Springs](https://raw.githubusercontent.com/brtmax/obsidian-warm-springs/master/warm-springs-preview.png) |
-| [mrparalloid/nu-ayu](https://github.com/mrparalloid/nu-ayu) | ![Nu Ayu](https://raw.githubusercontent.com/mrparalloid/nu-ayu/master/ayu-screenshot.jpg) |
 | [petercartersr/Obsidian-Theme](https://github.com/petercartersr/Obsidian-Theme) | ![Arcadia](https://raw.githubusercontent.com/petercartersr/Obsidian-Theme/master/screenshots/hero-dark.png) |
 | [czxtm/apathy-obsidian](https://github.com/czxtm/apathy-obsidian) | ![Apathy](https://raw.githubusercontent.com/czxtm/apathy-obsidian/master/screenshot.png) |
 | [sir-marc-the-scribe/Obsidian-theme---word-office-2019](https://github.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019) | ![word_2019](https://raw.githubusercontent.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019/master/screenshot.png) |
@@ -549,7 +548,6 @@
 | [voi-tech/obsidian-praxis](https://github.com/voi-tech/obsidian-praxis) | ![Praxis](https://raw.githubusercontent.com/voi-tech/obsidian-praxis/master/screenshot.png) |
 | [kulysocc/obsidian-bumblebee](https://github.com/kulysocc/obsidian-bumblebee) | ![Bumblebee](https://raw.githubusercontent.com/kulysocc/obsidian-bumblebee/master/screenshot.png) |
 | [w4t4r/obsidian-one-dark-pro](https://github.com/w4t4r/obsidian-one-dark-pro) | ![One Dark Pro](https://raw.githubusercontent.com/w4t4r/obsidian-one-dark-pro/master/screenshot.png) |
-| [sajalverma17/flexoki-warmer](https://github.com/sajalverma17/flexoki-warmer) | ![Flexoki Warmer](https://raw.githubusercontent.com/sajalverma17/flexoki-warmer/master/cover-small.png) |
 | [nbost130/deepfield](https://github.com/nbost130/deepfield) | ![Deepfield](https://raw.githubusercontent.com/nbost130/deepfield/master/cover.png) |
 | [kaymade/alice-velvet](https://github.com/kaymade/alice-velvet) | ![Alice Velvet](https://raw.githubusercontent.com/kaymade/alice-velvet/master/alice-velvet-screenshot.png) |
 | [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
@@ -587,3 +585,5 @@
 | [wulflo/obsidian-Amor](https://github.com/wulflo/obsidian-Amor) | ![Love](https://raw.githubusercontent.com/wulflo/obsidian-Amor/master/cover.png) |
 | [hpdipto/obsidian-ember](https://github.com/hpdipto/obsidian-ember) | ![Ember Graphite](https://raw.githubusercontent.com/hpdipto/obsidian-ember/master/assets/light-1.png) |
 | [wulflo/obsidian-BlackAndWhite](https://github.com/wulflo/obsidian-BlackAndWhite) | ![Black and White](https://raw.githubusercontent.com/wulflo/obsidian-BlackAndWhite/master/cover.png) |
+| [guilhermetagliati/neon-dreams-obsidian-theme](https://github.com/guilhermetagliati/neon-dreams-obsidian-theme) | ![Neon Dreams](https://raw.githubusercontent.com/guilhermetagliati/neon-dreams-obsidian-theme/master/assets/dark-editor.png) |
+| [abdulkader-safi/obsidian-safi-theme](https://github.com/abdulkader-safi/obsidian-safi-theme) | ![Safi](https://raw.githubusercontent.com/abdulkader-safi/obsidian-safi-theme/master/screenshot.png) |
