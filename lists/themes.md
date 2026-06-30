@@ -428,6 +428,7 @@
 | [zerokei/Litos](https://github.com/zerokei/Litos) | ![Litos](https://raw.githubusercontent.com/zerokei/Litos/master/screenshot.png) |
 | [cybrcore/cybr-obsidian](https://github.com/cybrcore/cybr-obsidian) | ![cybrcore](https://raw.githubusercontent.com/cybrcore/cybr-obsidian/master/cybr-obsidian.png) |
 | [brtmax/obsidian-warm-springs](https://github.com/brtmax/obsidian-warm-springs) | ![Warm Springs](https://raw.githubusercontent.com/brtmax/obsidian-warm-springs/master/warm-springs-preview.png) |
+| [mrparalloid/nu-ayu](https://github.com/mrparalloid/nu-ayu) | ![Nu Ayu](https://raw.githubusercontent.com/mrparalloid/nu-ayu/master/ayu-screenshot.jpg) |
 | [petercartersr/Obsidian-Theme](https://github.com/petercartersr/Obsidian-Theme) | ![Arcadia](https://raw.githubusercontent.com/petercartersr/Obsidian-Theme/master/screenshots/hero-dark.png) |
 | [czxtm/apathy-obsidian](https://github.com/czxtm/apathy-obsidian) | ![Apathy](https://raw.githubusercontent.com/czxtm/apathy-obsidian/master/screenshot.png) |
 | [sir-marc-the-scribe/Obsidian-theme---word-office-2019](https://github.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019) | ![word_2019](https://raw.githubusercontent.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019/master/screenshot.png) |
@@ -579,6 +580,7 @@
 | [theshield2594/clawdia-obsidian-theme](https://github.com/theshield2594/clawdia-obsidian-theme) | ![Clawdia](https://raw.githubusercontent.com/theshield2594/clawdia-obsidian-theme/master/screenshot.png) |
 | [johncattrall/obsidian-lapfly](https://github.com/johncattrall/obsidian-lapfly) | ![Lapfly](https://raw.githubusercontent.com/johncattrall/obsidian-lapfly/master/screenshot/lapfly-screenshot-dark.png) |
 | [johncattrall/obsidian-awareai-theme](https://github.com/johncattrall/obsidian-awareai-theme) | ![AwareAI](https://raw.githubusercontent.com/johncattrall/obsidian-awareai-theme/master/screenshot.png) |
+| [sunxuecong/Sunflex](https://github.com/sunxuecong/Sunflex) | ![Sunflex](https://raw.githubusercontent.com/sunxuecong/Sunflex/master/screenshot.png) |
 | [jkraccoon/obsidian-wide-view](https://github.com/jkraccoon/obsidian-wide-view) | ![Wide View](https://raw.githubusercontent.com/jkraccoon/obsidian-wide-view/master/screen.png) |
 | [everydayapps/vesper-golden](https://github.com/everydayapps/vesper-golden) | ![Vesper Golden](https://raw.githubusercontent.com/everydayapps/vesper-golden/master/images/obsidian/dark_one.png) |
 | [elijahchan2019/obsidian-opendian-theme](https://github.com/elijahchan2019/obsidian-opendian-theme) | ![Opendian](https://raw.githubusercontent.com/elijahchan2019/obsidian-opendian-theme/master/screenshot.png) |
@@ -587,3 +589,8 @@
 | [wulflo/obsidian-BlackAndWhite](https://github.com/wulflo/obsidian-BlackAndWhite) | ![Black and White](https://raw.githubusercontent.com/wulflo/obsidian-BlackAndWhite/master/cover.png) |
 | [guilhermetagliati/neon-dreams-obsidian-theme](https://github.com/guilhermetagliati/neon-dreams-obsidian-theme) | ![Neon Dreams](https://raw.githubusercontent.com/guilhermetagliati/neon-dreams-obsidian-theme/master/assets/dark-editor.png) |
 | [abdulkader-safi/obsidian-safi-theme](https://github.com/abdulkader-safi/obsidian-safi-theme) | ![Safi](https://raw.githubusercontent.com/abdulkader-safi/obsidian-safi-theme/master/screenshot.png) |
+| [flynt-theme/flynt-obsidian](https://github.com/flynt-theme/flynt-obsidian) | ![Flynt](https://raw.githubusercontent.com/flynt-theme/flynt-obsidian/master/screenshot.png) |
+| [robisonweb/phantom-flow](https://github.com/robisonweb/phantom-flow) | ![Phantom Flow](https://raw.githubusercontent.com/robisonweb/phantom-flow/master/Screenshot.png) |
+| [packetsherpa/obsidian-tomorrow-night-blue](https://github.com/packetsherpa/obsidian-tomorrow-night-blue) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/packetsherpa/obsidian-tomorrow-night-blue/master/screenshot.png) |
+| [juancodelabs/DarkCatto](https://github.com/juancodelabs/DarkCatto) | ![DarkCatto](https://raw.githubusercontent.com/juancodelabs/DarkCatto/master/screenshot.png) |
+| [voi-tech/obsidian-primary-simplified](https://github.com/voi-tech/obsidian-primary-simplified) | ![Primary Simplified](https://raw.githubusercontent.com/voi-tech/obsidian-primary-simplified/master/screenshot.png) |
