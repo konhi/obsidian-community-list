@@ -589,8 +589,10 @@
 | [wulflo/obsidian-BlackAndWhite](https://github.com/wulflo/obsidian-BlackAndWhite) | ![Black and White](https://raw.githubusercontent.com/wulflo/obsidian-BlackAndWhite/master/cover.png) |
 | [guilhermetagliati/neon-dreams-obsidian-theme](https://github.com/guilhermetagliati/neon-dreams-obsidian-theme) | ![Neon Dreams](https://raw.githubusercontent.com/guilhermetagliati/neon-dreams-obsidian-theme/master/assets/dark-editor.png) |
 | [abdulkader-safi/obsidian-safi-theme](https://github.com/abdulkader-safi/obsidian-safi-theme) | ![Safi](https://raw.githubusercontent.com/abdulkader-safi/obsidian-safi-theme/master/screenshot.png) |
+| [k3-2o/kanagawa-hokusai](https://github.com/k3-2o/kanagawa-hokusai) | ![Kanagawa Hokusai](https://raw.githubusercontent.com/k3-2o/kanagawa-hokusai/master/assets/wave.png) |
 | [flynt-theme/flynt-obsidian](https://github.com/flynt-theme/flynt-obsidian) | ![Flynt](https://raw.githubusercontent.com/flynt-theme/flynt-obsidian/master/screenshot.png) |
 | [robisonweb/phantom-flow](https://github.com/robisonweb/phantom-flow) | ![Phantom Flow](https://raw.githubusercontent.com/robisonweb/phantom-flow/master/Screenshot.png) |
 | [packetsherpa/obsidian-tomorrow-night-blue](https://github.com/packetsherpa/obsidian-tomorrow-night-blue) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/packetsherpa/obsidian-tomorrow-night-blue/master/screenshot.png) |
 | [juancodelabs/DarkCatto](https://github.com/juancodelabs/DarkCatto) | ![DarkCatto](https://raw.githubusercontent.com/juancodelabs/DarkCatto/master/screenshot.png) |
 | [voi-tech/obsidian-primary-simplified](https://github.com/voi-tech/obsidian-primary-simplified) | ![Primary Simplified](https://raw.githubusercontent.com/voi-tech/obsidian-primary-simplified/master/screenshot.png) |
+| [kaymade/blue-ribbon](https://github.com/kaymade/blue-ribbon) | ![Blue Ribbon](https://raw.githubusercontent.com/kaymade/blue-ribbon/master/blue-ribbon-preview.png) |
