@@ -524,6 +524,7 @@
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
 | [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
+| [elijahchan2019/obsidian-folio-theme](https://github.com/elijahchan2019/obsidian-folio-theme) | ![Folio](https://raw.githubusercontent.com/elijahchan2019/obsidian-folio-theme/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
 | [jalad25/Okudagram](https://github.com/jalad25/Okudagram) | ![Okudagram](https://raw.githubusercontent.com/jalad25/Okudagram/master/assets/screenshot.png) |
@@ -597,3 +598,5 @@
 | [kaymade/blue-ribbon](https://github.com/kaymade/blue-ribbon) | ![Blue Ribbon](https://raw.githubusercontent.com/kaymade/blue-ribbon/master/blue-ribbon-preview.png) |
 | [chooliu/obsidian-sugar-theme](https://github.com/chooliu/obsidian-sugar-theme) | ![Sugar](https://raw.githubusercontent.com/chooliu/obsidian-sugar-theme/master/docs/screenshot.png) |
 | [timagestuff/Claude-Notes](https://github.com/timagestuff/Claude-Notes) | ![Claude Notes](https://raw.githubusercontent.com/timagestuff/Claude-Notes/master/screenshot.png) |
+| [joshua-walls/night-ridge-theme](https://github.com/joshua-walls/night-ridge-theme) | ![Night Ridge](https://raw.githubusercontent.com/joshua-walls/night-ridge-theme/master/screenshot.png) |
+| [doritosuai/darkrune](https://github.com/doritosuai/darkrune) | ![Darkrune](https://raw.githubusercontent.com/doritosuai/darkrune/master/screenshot.png) |
