@@ -600,3 +600,4 @@
 | [timagestuff/Claude-Notes](https://github.com/timagestuff/Claude-Notes) | ![Claude Notes](https://raw.githubusercontent.com/timagestuff/Claude-Notes/master/screenshot.png) |
 | [joshua-walls/night-ridge-theme](https://github.com/joshua-walls/night-ridge-theme) | ![Night Ridge](https://raw.githubusercontent.com/joshua-walls/night-ridge-theme/master/screenshot.png) |
 | [doritosuai/darkrune](https://github.com/doritosuai/darkrune) | ![Darkrune](https://raw.githubusercontent.com/doritosuai/darkrune/master/screenshot.png) |
+| [fyaic/DIDADI-obsidian-theme](https://github.com/fyaic/DIDADI-obsidian-theme) | ![DIDADI](https://raw.githubusercontent.com/fyaic/DIDADI-obsidian-theme/master/screenshot.png) |
