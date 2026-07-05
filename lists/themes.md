@@ -550,7 +550,6 @@
 | [w4t4r/obsidian-one-dark-pro](https://github.com/w4t4r/obsidian-one-dark-pro) | ![One Dark Pro](https://raw.githubusercontent.com/w4t4r/obsidian-one-dark-pro/master/screenshot.png) |
 | [nbost130/deepfield](https://github.com/nbost130/deepfield) | ![Deepfield](https://raw.githubusercontent.com/nbost130/deepfield/master/cover.png) |
 | [kaymade/alice-velvet](https://github.com/kaymade/alice-velvet) | ![Alice Velvet](https://raw.githubusercontent.com/kaymade/alice-velvet/master/alice-velvet-screenshot.png) |
-| [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
 | [kodamachameleon/Ecdysis](https://github.com/kodamachameleon/Ecdysis) | ![Ecdysis](https://raw.githubusercontent.com/kodamachameleon/Ecdysis/master/screenshot.png) |
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
 | [brightwav3/obsidian-paper-source-theme](https://github.com/brightwav3/obsidian-paper-source-theme) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/obsidian-paper-source-theme/master/screenshot.png) |
@@ -601,3 +600,4 @@
 | [joshua-walls/night-ridge-theme](https://github.com/joshua-walls/night-ridge-theme) | ![Night Ridge](https://raw.githubusercontent.com/joshua-walls/night-ridge-theme/master/screenshot.png) |
 | [doritosuai/darkrune](https://github.com/doritosuai/darkrune) | ![Darkrune](https://raw.githubusercontent.com/doritosuai/darkrune/master/screenshot.png) |
 | [fyaic/DIDADI-obsidian-theme](https://github.com/fyaic/DIDADI-obsidian-theme) | ![DIDADI](https://raw.githubusercontent.com/fyaic/DIDADI-obsidian-theme/master/screenshot.png) |
+| [xevrion/obsidian-termina](https://github.com/xevrion/obsidian-termina) | ![termina](https://raw.githubusercontent.com/xevrion/obsidian-termina/master/screenshot.png) |
