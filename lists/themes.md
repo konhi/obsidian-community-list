@@ -600,4 +600,6 @@
 | [joshua-walls/night-ridge-theme](https://github.com/joshua-walls/night-ridge-theme) | ![Night Ridge](https://raw.githubusercontent.com/joshua-walls/night-ridge-theme/master/screenshot.png) |
 | [doritosuai/darkrune](https://github.com/doritosuai/darkrune) | ![Darkrune](https://raw.githubusercontent.com/doritosuai/darkrune/master/screenshot.png) |
 | [fyaic/DIDADI-obsidian-theme](https://github.com/fyaic/DIDADI-obsidian-theme) | ![DIDADI](https://raw.githubusercontent.com/fyaic/DIDADI-obsidian-theme/master/screenshot.png) |
+| [frank-pw/cordyceps](https://github.com/frank-pw/cordyceps) | ![Cordyceps](https://raw.githubusercontent.com/frank-pw/cordyceps/master/preview.png) |
 | [xevrion/obsidian-termina](https://github.com/xevrion/obsidian-termina) | ![termina](https://raw.githubusercontent.com/xevrion/obsidian-termina/master/screenshot.png) |
+| [real-fruit-snacks/terminal-workbench](https://github.com/real-fruit-snacks/terminal-workbench) | ![Terminal Workbench](https://raw.githubusercontent.com/real-fruit-snacks/terminal-workbench/master/screenshot.png) |
