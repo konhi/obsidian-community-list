@@ -555,6 +555,7 @@
 | [brightwav3/obsidian-paper-source-theme](https://github.com/brightwav3/obsidian-paper-source-theme) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/obsidian-paper-source-theme/master/screenshot.png) |
 | [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
 | [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
+| [vforge/obsidian-scanline](https://github.com/vforge/obsidian-scanline) | ![Scanline](https://raw.githubusercontent.com/vforge/obsidian-scanline/master/screenshot.png) |
 | [brightwav3/Coding-Agent-Theme](https://github.com/brightwav3/Coding-Agent-Theme) | ![Coding Agent](https://raw.githubusercontent.com/brightwav3/Coding-Agent-Theme/master/screenshot.png) |
 | [hearth-code/hearthcode-obsidian](https://github.com/hearth-code/hearthcode-obsidian) | ![HearthCode](https://raw.githubusercontent.com/hearth-code/hearthcode-obsidian/master/screenshot.png) |
 | [martinlockett/obsidian_theme](https://github.com/martinlockett/obsidian_theme) | ![Lockett](https://raw.githubusercontent.com/martinlockett/obsidian_theme/master/Light.png) |
