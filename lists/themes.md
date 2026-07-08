@@ -562,6 +562,7 @@
 | [usero2/obsidian-themes-LikeXP](https://github.com/usero2/obsidian-themes-LikeXP) | ![LikeXP](https://raw.githubusercontent.com/usero2/obsidian-themes-LikeXP/master/images/dark_mode.png) |
 | [fovlin/obsidian-acovia-theme](https://github.com/fovlin/obsidian-acovia-theme) | ![Acovia](https://raw.githubusercontent.com/fovlin/obsidian-acovia-theme/master/exp-dark.png) |
 | [tttnny/obsidian-claude-cream](https://github.com/tttnny/obsidian-claude-cream) | ![Claude Cream](https://raw.githubusercontent.com/tttnny/obsidian-claude-cream/master/screenshot.png) |
+| [kleokl7/Claude-Code-Obsidian-Theme](https://github.com/kleokl7/Claude-Code-Obsidian-Theme) | ![Claude Code Orange](https://raw.githubusercontent.com/kleokl7/Claude-Code-Obsidian-Theme/master/theme-preview.png) |
 | [highway-wu/obsidian-gothic](https://github.com/highway-wu/obsidian-gothic) | ![Gothic](https://raw.githubusercontent.com/highway-wu/obsidian-gothic/master/screenshot-light.png) |
 | [joshua-walls/trailmark-theme](https://github.com/joshua-walls/trailmark-theme) | ![Trailmark](https://raw.githubusercontent.com/joshua-walls/trailmark-theme/master/screenshot.png) |
 | [hobbysoftwaredeveloper/Zen-Forest](https://github.com/hobbysoftwaredeveloper/Zen-Forest) | ![Zen Forest](https://raw.githubusercontent.com/hobbysoftwaredeveloper/Zen-Forest/master/preview/1.png) |
@@ -604,3 +605,6 @@
 | [frank-pw/cordyceps](https://github.com/frank-pw/cordyceps) | ![Cordyceps](https://raw.githubusercontent.com/frank-pw/cordyceps/master/preview.png) |
 | [xevrion/obsidian-termina](https://github.com/xevrion/obsidian-termina) | ![termina](https://raw.githubusercontent.com/xevrion/obsidian-termina/master/screenshot.png) |
 | [real-fruit-snacks/terminal-workbench](https://github.com/real-fruit-snacks/terminal-workbench) | ![Terminal Workbench](https://raw.githubusercontent.com/real-fruit-snacks/terminal-workbench/master/screenshot.png) |
+| [alexxozo/apple-notes-obsidian](https://github.com/alexxozo/apple-notes-obsidian) | ![Apple Notes](https://raw.githubusercontent.com/alexxozo/apple-notes-obsidian/master/screenshot.png) |
+| [cmdurham/wake_up_samurai](https://github.com/cmdurham/wake_up_samurai) | ![Wake Up Samurai](https://raw.githubusercontent.com/cmdurham/wake_up_samurai/master/wake-up-samurai.png) |
+| [papaya2k/obsidian-lectern-theme](https://github.com/papaya2k/obsidian-lectern-theme) | ![Lectern](https://raw.githubusercontent.com/papaya2k/obsidian-lectern-theme/master/screenshot.png) |
