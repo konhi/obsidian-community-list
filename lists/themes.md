@@ -607,4 +607,8 @@
 | [real-fruit-snacks/terminal-workbench](https://github.com/real-fruit-snacks/terminal-workbench) | ![Terminal Workbench](https://raw.githubusercontent.com/real-fruit-snacks/terminal-workbench/master/screenshot.png) |
 | [alexxozo/apple-notes-obsidian](https://github.com/alexxozo/apple-notes-obsidian) | ![Apple Notes](https://raw.githubusercontent.com/alexxozo/apple-notes-obsidian/master/screenshot.png) |
 | [cmdurham/wake_up_samurai](https://github.com/cmdurham/wake_up_samurai) | ![Wake Up Samurai](https://raw.githubusercontent.com/cmdurham/wake_up_samurai/master/wake-up-samurai.png) |
+| [fyaic/Football-Obsidian-Theme](https://github.com/fyaic/Football-Obsidian-Theme) | ![Football Notes](https://raw.githubusercontent.com/fyaic/Football-Obsidian-Theme/master/screenshot.png) |
 | [papaya2k/obsidian-lectern-theme](https://github.com/papaya2k/obsidian-lectern-theme) | ![Lectern](https://raw.githubusercontent.com/papaya2k/obsidian-lectern-theme/master/screenshot.png) |
+| [satosprod/programming-mono](https://github.com/satosprod/programming-mono) | ![Programming Mono](https://raw.githubusercontent.com/satosprod/programming-mono/master/cover.png) |
+| [iammaxim/obsidian-docgen-theme](https://github.com/iammaxim/obsidian-docgen-theme) | ![Docgen](https://raw.githubusercontent.com/iammaxim/obsidian-docgen-theme/master/screenshot.png) |
+| [kebl3541/Obsidian-Umbra](https://github.com/kebl3541/Obsidian-Umbra) | ![Umbra](https://raw.githubusercontent.com/kebl3541/Obsidian-Umbra/master/screenshot.png) |
