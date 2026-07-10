@@ -612,3 +612,5 @@
 | [satosprod/programming-mono](https://github.com/satosprod/programming-mono) | ![Programming Mono](https://raw.githubusercontent.com/satosprod/programming-mono/master/cover.png) |
 | [iammaxim/obsidian-docgen-theme](https://github.com/iammaxim/obsidian-docgen-theme) | ![Docgen](https://raw.githubusercontent.com/iammaxim/obsidian-docgen-theme/master/screenshot.png) |
 | [kebl3541/Obsidian-Umbra](https://github.com/kebl3541/Obsidian-Umbra) | ![Umbra](https://raw.githubusercontent.com/kebl3541/Obsidian-Umbra/master/screenshot.png) |
+| [punkyard/obsidian-theme-air](https://github.com/punkyard/obsidian-theme-air) | ![Air](https://raw.githubusercontent.com/punkyard/obsidian-theme-air/master/assets/hero.png) |
+| [b1rdmania/obsidian-geocities-98](https://github.com/b1rdmania/obsidian-geocities-98) | ![GeoCities 98](https://raw.githubusercontent.com/b1rdmania/obsidian-geocities-98/master/screenshot.png) |
