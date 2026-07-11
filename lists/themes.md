@@ -550,6 +550,7 @@
 | [w4t4r/obsidian-one-dark-pro](https://github.com/w4t4r/obsidian-one-dark-pro) | ![One Dark Pro](https://raw.githubusercontent.com/w4t4r/obsidian-one-dark-pro/master/screenshot.png) |
 | [nbost130/deepfield](https://github.com/nbost130/deepfield) | ![Deepfield](https://raw.githubusercontent.com/nbost130/deepfield/master/cover.png) |
 | [kaymade/alice-velvet](https://github.com/kaymade/alice-velvet) | ![Alice Velvet](https://raw.githubusercontent.com/kaymade/alice-velvet/master/alice-velvet-screenshot.png) |
+| [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
 | [kodamachameleon/Ecdysis](https://github.com/kodamachameleon/Ecdysis) | ![Ecdysis](https://raw.githubusercontent.com/kodamachameleon/Ecdysis/master/screenshot.png) |
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
 | [brightwav3/obsidian-paper-source-theme](https://github.com/brightwav3/obsidian-paper-source-theme) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/obsidian-paper-source-theme/master/screenshot.png) |
