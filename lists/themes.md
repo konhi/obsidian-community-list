@@ -549,7 +549,6 @@
 | [kulysocc/obsidian-bumblebee](https://github.com/kulysocc/obsidian-bumblebee) | ![Bumblebee](https://raw.githubusercontent.com/kulysocc/obsidian-bumblebee/master/screenshot.png) |
 | [w4t4r/obsidian-one-dark-pro](https://github.com/w4t4r/obsidian-one-dark-pro) | ![One Dark Pro](https://raw.githubusercontent.com/w4t4r/obsidian-one-dark-pro/master/screenshot.png) |
 | [nbost130/deepfield](https://github.com/nbost130/deepfield) | ![Deepfield](https://raw.githubusercontent.com/nbost130/deepfield/master/cover.png) |
-| [kaymade/alice-velvet](https://github.com/kaymade/alice-velvet) | ![Alice Velvet](https://raw.githubusercontent.com/kaymade/alice-velvet/master/alice-velvet-screenshot.png) |
 | [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
 | [kodamachameleon/Ecdysis](https://github.com/kodamachameleon/Ecdysis) | ![Ecdysis](https://raw.githubusercontent.com/kodamachameleon/Ecdysis/master/screenshot.png) |
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
@@ -597,7 +596,6 @@
 | [packetsherpa/obsidian-tomorrow-night-blue](https://github.com/packetsherpa/obsidian-tomorrow-night-blue) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/packetsherpa/obsidian-tomorrow-night-blue/master/screenshot.png) |
 | [juancodelabs/DarkCatto](https://github.com/juancodelabs/DarkCatto) | ![DarkCatto](https://raw.githubusercontent.com/juancodelabs/DarkCatto/master/screenshot.png) |
 | [voi-tech/obsidian-primary-simplified](https://github.com/voi-tech/obsidian-primary-simplified) | ![Primary Simplified](https://raw.githubusercontent.com/voi-tech/obsidian-primary-simplified/master/screenshot.png) |
-| [kaymade/blue-ribbon](https://github.com/kaymade/blue-ribbon) | ![Blue Ribbon](https://raw.githubusercontent.com/kaymade/blue-ribbon/master/blue-ribbon-preview.png) |
 | [chooliu/obsidian-sugar-theme](https://github.com/chooliu/obsidian-sugar-theme) | ![Sugar](https://raw.githubusercontent.com/chooliu/obsidian-sugar-theme/master/docs/screenshot.png) |
 | [timagestuff/Claude-Notes](https://github.com/timagestuff/Claude-Notes) | ![Claude Notes](https://raw.githubusercontent.com/timagestuff/Claude-Notes/master/screenshot.png) |
 | [joshua-walls/night-ridge-theme](https://github.com/joshua-walls/night-ridge-theme) | ![Night Ridge](https://raw.githubusercontent.com/joshua-walls/night-ridge-theme/master/screenshot.png) |
@@ -615,3 +613,4 @@
 | [kebl3541/Obsidian-Umbra](https://github.com/kebl3541/Obsidian-Umbra) | ![Umbra](https://raw.githubusercontent.com/kebl3541/Obsidian-Umbra/master/screenshot.png) |
 | [punkyard/obsidian-theme-air](https://github.com/punkyard/obsidian-theme-air) | ![Air](https://raw.githubusercontent.com/punkyard/obsidian-theme-air/master/assets/hero.png) |
 | [b1rdmania/obsidian-geocities-98](https://github.com/b1rdmania/obsidian-geocities-98) | ![GeoCities 98](https://raw.githubusercontent.com/b1rdmania/obsidian-geocities-98/master/screenshot.png) |
+| [alanfgn/obsidian-more-mono-color](https://github.com/alanfgn/obsidian-more-mono-color) | ![MoreMonoColor](https://raw.githubusercontent.com/alanfgn/obsidian-more-mono-color/master/more_mono_color.png) |
