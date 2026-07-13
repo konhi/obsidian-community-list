@@ -614,3 +614,7 @@
 | [punkyard/obsidian-theme-air](https://github.com/punkyard/obsidian-theme-air) | ![Air](https://raw.githubusercontent.com/punkyard/obsidian-theme-air/master/assets/hero.png) |
 | [b1rdmania/obsidian-geocities-98](https://github.com/b1rdmania/obsidian-geocities-98) | ![GeoCities 98](https://raw.githubusercontent.com/b1rdmania/obsidian-geocities-98/master/screenshot.png) |
 | [alanfgn/obsidian-more-mono-color](https://github.com/alanfgn/obsidian-more-mono-color) | ![MoreMonoColor](https://raw.githubusercontent.com/alanfgn/obsidian-more-mono-color/master/more_mono_color.png) |
+| [monapdx/Neon-Acid](https://github.com/monapdx/Neon-Acid) | ![Neon Acid](https://raw.githubusercontent.com/monapdx/Neon-Acid/master/screenshot.png) |
+| [elijahchan2019/obsidian-h2os-theme](https://github.com/elijahchan2019/obsidian-h2os-theme) | ![H2 OS](https://raw.githubusercontent.com/elijahchan2019/obsidian-h2os-theme/master/screenshot.png) |
+| [zjie-wang/obsidian-composed](https://github.com/zjie-wang/obsidian-composed) | ![Composed](https://raw.githubusercontent.com/zjie-wang/obsidian-composed/master/screenshot.png) |
+| [7eahaus/dissociated-identitea](https://github.com/7eahaus/dissociated-identitea) | ![Dissociated IdentiTea](https://raw.githubusercontent.com/7eahaus/dissociated-identitea/master/screenshots/darkmode-overview.png) |
