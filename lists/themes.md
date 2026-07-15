@@ -6,7 +6,6 @@
 | [bcdavasconcelos/Obsidian-Ayu](https://github.com/bcdavasconcelos/Obsidian-Ayu) | ![Ayu](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Ayu/master/ayu2.png) |
 | [bcdavasconcelos/Obsidian-Ayu_Mirage](https://github.com/bcdavasconcelos/Obsidian-Ayu_Mirage) | ![Ayu Mirage](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Ayu_Mirage/master/ayu1.png) |
 | [deathau/Base2Tone-For-Obsidian.md](https://github.com/deathau/Base2Tone-For-Obsidian.md) | ![Base2Tone](https://raw.githubusercontent.com/deathau/Base2Tone-For-Obsidian.md/master/colours.gif) |
-| [pkm-er/Blue-Topaz_Obsidian-css](https://github.com/pkm-er/Blue-Topaz_Obsidian-css) | ![Blue Topaz](https://raw.githubusercontent.com/pkm-er/Blue-Topaz_Obsidian-css/master/preview_Blue%20Topaz.png) |
 | [bcdavasconcelos/Obsidian-Charcoal](https://github.com/bcdavasconcelos/Obsidian-Charcoal) | ![Charcoal](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Charcoal/master/charcoal.png) |
 | [obsidian-ezs/obsidian-comfort-color-dark](https://github.com/obsidian-ezs/obsidian-comfort-color-dark) | ![Comfort color dark](https://raw.githubusercontent.com/obsidian-ezs/obsidian-comfort-color-dark/master/screencap.png) |
 | [nickmilo/Cybertron](https://github.com/nickmilo/Cybertron) | ![Cybertron](https://raw.githubusercontent.com/nickmilo/Cybertron/master/Cybertron.png) |
