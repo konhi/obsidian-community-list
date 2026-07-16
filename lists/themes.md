@@ -6,6 +6,7 @@
 | [bcdavasconcelos/Obsidian-Ayu](https://github.com/bcdavasconcelos/Obsidian-Ayu) | ![Ayu](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Ayu/master/ayu2.png) |
 | [bcdavasconcelos/Obsidian-Ayu_Mirage](https://github.com/bcdavasconcelos/Obsidian-Ayu_Mirage) | ![Ayu Mirage](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Ayu_Mirage/master/ayu1.png) |
 | [deathau/Base2Tone-For-Obsidian.md](https://github.com/deathau/Base2Tone-For-Obsidian.md) | ![Base2Tone](https://raw.githubusercontent.com/deathau/Base2Tone-For-Obsidian.md/master/colours.gif) |
+| [pkm-er/Blue-Topaz_Obsidian-css](https://github.com/pkm-er/Blue-Topaz_Obsidian-css) | ![Blue Topaz](https://raw.githubusercontent.com/pkm-er/Blue-Topaz_Obsidian-css/master/preview_Blue%20Topaz.png) |
 | [bcdavasconcelos/Obsidian-Charcoal](https://github.com/bcdavasconcelos/Obsidian-Charcoal) | ![Charcoal](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Charcoal/master/charcoal.png) |
 | [obsidian-ezs/obsidian-comfort-color-dark](https://github.com/obsidian-ezs/obsidian-comfort-color-dark) | ![Comfort color dark](https://raw.githubusercontent.com/obsidian-ezs/obsidian-comfort-color-dark/master/screencap.png) |
 | [nickmilo/Cybertron](https://github.com/nickmilo/Cybertron) | ![Cybertron](https://raw.githubusercontent.com/nickmilo/Cybertron/master/Cybertron.png) |
@@ -622,3 +623,7 @@
 | [sasecurityn/SAzure-Glass](https://github.com/sasecurityn/SAzure-Glass) | ![SAzure Glass](https://raw.githubusercontent.com/sasecurityn/SAzure-Glass/master/screenshot.png) |
 | [qanszer/another-obsidian-nord-theme](https://github.com/qanszer/another-obsidian-nord-theme) | ![Another Nord](https://raw.githubusercontent.com/qanszer/another-obsidian-nord-theme/master/dark.png) |
 | [giselle-tr/Oat-Latte-Theme-Obsidian](https://github.com/giselle-tr/Oat-Latte-Theme-Obsidian) | ![Oat Latte](https://raw.githubusercontent.com/giselle-tr/Oat-Latte-Theme-Obsidian/master/screenshot.png) |
+| [lisitan/esther-obsidian-typora-themes](https://github.com/lisitan/esther-obsidian-typora-themes) | ![Esther Inspired](https://raw.githubusercontent.com/lisitan/esther-obsidian-typora-themes/master/screenshot.png) |
+| [law-of-cycles/claude-paper-obsidian](https://github.com/law-of-cycles/claude-paper-obsidian) | ![Claude Paper](https://raw.githubusercontent.com/law-of-cycles/claude-paper-obsidian/master/screenshot.png) |
+| [cyriusweng/opal-theme](https://github.com/cyriusweng/opal-theme) | ![Opal](https://raw.githubusercontent.com/cyriusweng/opal-theme/master/screenshot.png) |
+| [monapdx/Electrocution](https://github.com/monapdx/Electrocution) | ![Electrocution](https://raw.githubusercontent.com/monapdx/Electrocution/master/screenshot.png) |
