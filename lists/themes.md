@@ -523,6 +523,7 @@
 | [linyanna/panda-syntax-obsidian](https://github.com/linyanna/panda-syntax-obsidian) | ![Panda Syntax](https://raw.githubusercontent.com/linyanna/panda-syntax-obsidian/master/panda-syntax-dark.png) |
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
+| [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
 | [elijahchan2019/obsidian-folio-theme](https://github.com/elijahchan2019/obsidian-folio-theme) | ![Folio](https://raw.githubusercontent.com/elijahchan2019/obsidian-folio-theme/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
@@ -627,3 +628,6 @@
 | [law-of-cycles/claude-paper-obsidian](https://github.com/law-of-cycles/claude-paper-obsidian) | ![Claude Paper](https://raw.githubusercontent.com/law-of-cycles/claude-paper-obsidian/master/screenshot.png) |
 | [cyriusweng/opal-theme](https://github.com/cyriusweng/opal-theme) | ![Opal](https://raw.githubusercontent.com/cyriusweng/opal-theme/master/screenshot.png) |
 | [monapdx/Electrocution](https://github.com/monapdx/Electrocution) | ![Electrocution](https://raw.githubusercontent.com/monapdx/Electrocution/master/screenshot.png) |
+| [artin0r/steam-theme-obsidian](https://github.com/artin0r/steam-theme-obsidian) | ![steam](https://raw.githubusercontent.com/artin0r/steam-theme-obsidian/master/Showcase.png) |
+| [weiya9511/weiya-obsidian-theme](https://github.com/weiya9511/weiya-obsidian-theme) | ![WeiYa](https://raw.githubusercontent.com/weiya9511/weiya-obsidian-theme/master/screenshot.png) |
+| [bhavya-dang/solace-obsidian](https://github.com/bhavya-dang/solace-obsidian) | ![Solace](https://raw.githubusercontent.com/bhavya-dang/solace-obsidian/master/./preview/demo.png) |
