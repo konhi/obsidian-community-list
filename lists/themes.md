@@ -630,4 +630,6 @@
 | [monapdx/Electrocution](https://github.com/monapdx/Electrocution) | ![Electrocution](https://raw.githubusercontent.com/monapdx/Electrocution/master/screenshot.png) |
 | [artin0r/steam-theme-obsidian](https://github.com/artin0r/steam-theme-obsidian) | ![steam](https://raw.githubusercontent.com/artin0r/steam-theme-obsidian/master/Showcase.png) |
 | [weiya9511/weiya-obsidian-theme](https://github.com/weiya9511/weiya-obsidian-theme) | ![WeiYa](https://raw.githubusercontent.com/weiya9511/weiya-obsidian-theme/master/screenshot.png) |
-| [bhavya-dang/solace-obsidian](https://github.com/bhavya-dang/solace-obsidian) | ![Solace](https://raw.githubusercontent.com/bhavya-dang/solace-obsidian/master/./preview/demo.png) |
+| [bhavya-dang/solace-obsidian](https://github.com/bhavya-dang/solace-obsidian) | ![Solace](https://raw.githubusercontent.com/bhavya-dang/solace-obsidian/master/preview/demo-2.png) |
+| [evielync/hyo-theme](https://github.com/evielync/hyo-theme) | ![Hyo](https://raw.githubusercontent.com/evielync/hyo-theme/master/screenshot.png) |
+| [def-peter/obsidian-aera-theme](https://github.com/def-peter/obsidian-aera-theme) | ![Aera](https://raw.githubusercontent.com/def-peter/obsidian-aera-theme/master/screenshot.png) |
