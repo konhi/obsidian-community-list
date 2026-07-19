@@ -578,7 +578,6 @@
 | [surprisedduck/obsidian-orange-book-cloth](https://github.com/surprisedduck/obsidian-orange-book-cloth) | ![Orange Book Cloth](https://raw.githubusercontent.com/surprisedduck/obsidian-orange-book-cloth/master/screenshot.png) |
 | [adriusops/buisson-obsidian](https://github.com/adriusops/buisson-obsidian) | ![Buisson](https://raw.githubusercontent.com/adriusops/buisson-obsidian/master/screenshot.png) |
 | [huydnd/night-owl-obsidian-theme](https://github.com/huydnd/night-owl-obsidian-theme) | ![Night Owl Native](https://raw.githubusercontent.com/huydnd/night-owl-obsidian-theme/master/images/screenshot.png) |
-| [theshield2594/clawdia-obsidian-theme](https://github.com/theshield2594/clawdia-obsidian-theme) | ![Clawdia](https://raw.githubusercontent.com/theshield2594/clawdia-obsidian-theme/master/screenshot.png) |
 | [johncattrall/obsidian-lapfly](https://github.com/johncattrall/obsidian-lapfly) | ![Lapfly](https://raw.githubusercontent.com/johncattrall/obsidian-lapfly/master/screenshot/lapfly-screenshot-dark.png) |
 | [johncattrall/obsidian-awareai-theme](https://github.com/johncattrall/obsidian-awareai-theme) | ![AwareAI](https://raw.githubusercontent.com/johncattrall/obsidian-awareai-theme/master/screenshot.png) |
 | [sunxuecong/Sunflex](https://github.com/sunxuecong/Sunflex) | ![Sunflex](https://raw.githubusercontent.com/sunxuecong/Sunflex/master/screenshot.png) |
