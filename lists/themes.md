@@ -635,3 +635,7 @@
 | [def-peter/obsidian-aera-theme](https://github.com/def-peter/obsidian-aera-theme) | ![Aera](https://raw.githubusercontent.com/def-peter/obsidian-aera-theme/master/screenshot.png) |
 | [sidny1988/Glass-Scholar](https://github.com/sidny1988/Glass-Scholar) | ![Glass Scholar](https://raw.githubusercontent.com/sidny1988/Glass-Scholar/master/screenshot.png) |
 | [techr10n/stratus-obsidian-theme](https://github.com/techr10n/stratus-obsidian-theme) | ![Stratus](https://raw.githubusercontent.com/techr10n/stratus-obsidian-theme/master/screenshot.png) |
+| [chrisairbrown-del/TTRPG-Rathgar-Gold-Theme](https://github.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme) | ![TTRPG - Rathgar Gold](https://raw.githubusercontent.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme/master/screenshot.jpg) |
+| [cogito-ergo-video/lcars-inspired-obsidian-theme](https://github.com/cogito-ergo-video/lcars-inspired-obsidian-theme) | ![LCARS](https://raw.githubusercontent.com/cogito-ergo-video/lcars-inspired-obsidian-theme/master/screenshot.png) |
+| [jiongn/haze-note-obsidian-theme](https://github.com/jiongn/haze-note-obsidian-theme) | ![Haze Note](https://raw.githubusercontent.com/jiongn/haze-note-obsidian-theme/master/screenshots/screenshot.png) |
+| [dsvictor/Ink-Paper](https://github.com/dsvictor/Ink-Paper) | ![Ink Paper](https://raw.githubusercontent.com/dsvictor/Ink-Paper/master/assets/01.png) |
