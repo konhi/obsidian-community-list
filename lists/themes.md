@@ -538,6 +538,7 @@
 | [jabaho9523/DarkKnightTheme](https://github.com/jabaho9523/DarkKnightTheme) | ![Dark Knight](https://raw.githubusercontent.com/jabaho9523/DarkKnightTheme/master/screenshot.png) |
 | [sonophage/Bureau](https://github.com/sonophage/Bureau) | ![Bureau](https://raw.githubusercontent.com/sonophage/Bureau/master/screenshots/bureau-wallpaper.webp) |
 | [rgormley/obsidian-github-dark-dimmed](https://github.com/rgormley/obsidian-github-dark-dimmed) | ![GitHub Dark Dimmed](https://raw.githubusercontent.com/rgormley/obsidian-github-dark-dimmed/master/imgs/promo.png) |
+| [gabrielbacha/Obsidian-Lucy](https://github.com/gabrielbacha/Obsidian-Lucy) | ![Lucy](https://raw.githubusercontent.com/gabrielbacha/Obsidian-Lucy/master/Screenshot-1.png) |
 | [jabaho9523/AlienTheme](https://github.com/jabaho9523/AlienTheme) | ![Alien](https://raw.githubusercontent.com/jabaho9523/AlienTheme/master/screenshot.png) |
 | [matheuszarkov/slytherin](https://github.com/matheuszarkov/slytherin) | ![Slytherin](https://raw.githubusercontent.com/matheuszarkov/slytherin/master/Slytherin.png) |
 | [carnalmatrix/obsidian-mantle-zenith](https://github.com/carnalmatrix/obsidian-mantle-zenith) | ![Zenith](https://raw.githubusercontent.com/carnalmatrix/obsidian-mantle-zenith/master/screenshot.png) |
@@ -579,6 +580,7 @@
 | [surprisedduck/obsidian-orange-book-cloth](https://github.com/surprisedduck/obsidian-orange-book-cloth) | ![Orange Book Cloth](https://raw.githubusercontent.com/surprisedduck/obsidian-orange-book-cloth/master/screenshot.png) |
 | [adriusops/buisson-obsidian](https://github.com/adriusops/buisson-obsidian) | ![Buisson](https://raw.githubusercontent.com/adriusops/buisson-obsidian/master/screenshot.png) |
 | [huydnd/night-owl-obsidian-theme](https://github.com/huydnd/night-owl-obsidian-theme) | ![Night Owl Native](https://raw.githubusercontent.com/huydnd/night-owl-obsidian-theme/master/images/screenshot.png) |
+| [theshield2594/clawdia-obsidian-theme](https://github.com/theshield2594/clawdia-obsidian-theme) | ![Clawdia](https://raw.githubusercontent.com/theshield2594/clawdia-obsidian-theme/master/screenshot.png) |
 | [johncattrall/obsidian-lapfly](https://github.com/johncattrall/obsidian-lapfly) | ![Lapfly](https://raw.githubusercontent.com/johncattrall/obsidian-lapfly/master/screenshot/lapfly-screenshot-dark.png) |
 | [johncattrall/obsidian-awareai-theme](https://github.com/johncattrall/obsidian-awareai-theme) | ![AwareAI](https://raw.githubusercontent.com/johncattrall/obsidian-awareai-theme/master/screenshot.png) |
 | [sunxuecong/Sunflex](https://github.com/sunxuecong/Sunflex) | ![Sunflex](https://raw.githubusercontent.com/sunxuecong/Sunflex/master/screenshot.png) |
