@@ -639,5 +639,6 @@
 | [techr10n/stratus-obsidian-theme](https://github.com/techr10n/stratus-obsidian-theme) | ![Stratus](https://raw.githubusercontent.com/techr10n/stratus-obsidian-theme/master/screenshot.png) |
 | [chrisairbrown-del/TTRPG-Rathgar-Gold-Theme](https://github.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme) | ![TTRPG - Rathgar Gold](https://raw.githubusercontent.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme/master/screenshot.jpg) |
 | [cogito-ergo-video/lcars-inspired-obsidian-theme](https://github.com/cogito-ergo-video/lcars-inspired-obsidian-theme) | ![LCARS](https://raw.githubusercontent.com/cogito-ergo-video/lcars-inspired-obsidian-theme/master/screenshot.png) |
-| [jiongn/haze-note-obsidian-theme](https://github.com/jiongn/haze-note-obsidian-theme) | ![Haze Note](https://raw.githubusercontent.com/jiongn/haze-note-obsidian-theme/master/screenshots/screenshot.png) |
 | [dsvictor/Ink-Paper](https://github.com/dsvictor/Ink-Paper) | ![Ink Paper](https://raw.githubusercontent.com/dsvictor/Ink-Paper/master/assets/01.png) |
+| [antonabbac/unsent-letters](https://github.com/antonabbac/unsent-letters) | ![unsent-letters](https://raw.githubusercontent.com/antonabbac/unsent-letters/master/Screenshots/main.png) |
+| [smoosex/ob-everforest](https://github.com/smoosex/ob-everforest) | ![OB Everforest](https://raw.githubusercontent.com/smoosex/ob-everforest/master/obsidian-everforest.png) |
