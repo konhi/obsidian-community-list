@@ -643,3 +643,8 @@
 | [antonabbac/unsent-letters](https://github.com/antonabbac/unsent-letters) | ![unsent-letters](https://raw.githubusercontent.com/antonabbac/unsent-letters/master/Screenshots/main.png) |
 | [smoosex/ob-everforest](https://github.com/smoosex/ob-everforest) | ![OB Everforest](https://raw.githubusercontent.com/smoosex/ob-everforest/master/obsidian-everforest.png) |
 | [bewater8066/obsidian-theme-perch](https://github.com/bewater8066/obsidian-theme-perch) | ![Perch](https://raw.githubusercontent.com/bewater8066/obsidian-theme-perch/master/composite.png) |
+| [jmj-eo/obsidian-warmrice](https://github.com/jmj-eo/obsidian-warmrice) | ![WarmRice](https://raw.githubusercontent.com/jmj-eo/obsidian-warmrice/master/screenshot.png) |
+| [nicolascereijo/obsidian-vitela](https://github.com/nicolascereijo/obsidian-vitela) | ![Vitela](https://raw.githubusercontent.com/nicolascereijo/obsidian-vitela/master/screenshots/hero.png) |
+| [jmj-eo/obsidian-monogray](https://github.com/jmj-eo/obsidian-monogray) | ![MonoGray](https://raw.githubusercontent.com/jmj-eo/obsidian-monogray/master/screenshot.png) |
+| [hat-im/obsidian-red-theme](https://github.com/hat-im/obsidian-red-theme) | ![Red](https://raw.githubusercontent.com/hat-im/obsidian-red-theme/master/screenshot.png) |
+| [henriquemanduca/atom-darker-theme](https://github.com/henriquemanduca/atom-darker-theme) | ![Atom-Darker](https://raw.githubusercontent.com/henriquemanduca/atom-darker-theme/master/Screenshot_dark.png) |
