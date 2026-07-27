@@ -640,11 +640,11 @@
 | [chrisairbrown-del/TTRPG-Rathgar-Gold-Theme](https://github.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme) | ![TTRPG - Rathgar Gold](https://raw.githubusercontent.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme/master/screenshot.jpg) |
 | [cogito-ergo-video/lcars-inspired-obsidian-theme](https://github.com/cogito-ergo-video/lcars-inspired-obsidian-theme) | ![LCARS](https://raw.githubusercontent.com/cogito-ergo-video/lcars-inspired-obsidian-theme/master/screenshot.png) |
 | [dsvictor/Ink-Paper](https://github.com/dsvictor/Ink-Paper) | ![Ink Paper](https://raw.githubusercontent.com/dsvictor/Ink-Paper/master/assets/01.png) |
-| [antonabbac/unsent-letters](https://github.com/antonabbac/unsent-letters) | ![unsent-letters](https://raw.githubusercontent.com/antonabbac/unsent-letters/master/Screenshots/main.png) |
+| [antonabbac/unsent-letters](https://github.com/antonabbac/unsent-letters) | ![unsent-letters](https://raw.githubusercontent.com/antonabbac/unsent-letters/master/Screenshots/Main.png) |
 | [smoosex/ob-everforest](https://github.com/smoosex/ob-everforest) | ![OB Everforest](https://raw.githubusercontent.com/smoosex/ob-everforest/master/obsidian-everforest.png) |
 | [bewater8066/obsidian-theme-perch](https://github.com/bewater8066/obsidian-theme-perch) | ![Perch](https://raw.githubusercontent.com/bewater8066/obsidian-theme-perch/master/composite.png) |
 | [jmj-eo/obsidian-warmrice](https://github.com/jmj-eo/obsidian-warmrice) | ![WarmRice](https://raw.githubusercontent.com/jmj-eo/obsidian-warmrice/master/screenshot.png) |
 | [nicolascereijo/obsidian-vitela](https://github.com/nicolascereijo/obsidian-vitela) | ![Vitela](https://raw.githubusercontent.com/nicolascereijo/obsidian-vitela/master/screenshots/hero.png) |
 | [jmj-eo/obsidian-monogray](https://github.com/jmj-eo/obsidian-monogray) | ![MonoGray](https://raw.githubusercontent.com/jmj-eo/obsidian-monogray/master/screenshot.png) |
 | [hat-im/obsidian-red-theme](https://github.com/hat-im/obsidian-red-theme) | ![Red](https://raw.githubusercontent.com/hat-im/obsidian-red-theme/master/screenshot.png) |
-| [henriquemanduca/atom-darker-theme](https://github.com/henriquemanduca/atom-darker-theme) | ![Atom-Darker](https://raw.githubusercontent.com/henriquemanduca/atom-darker-theme/master/Screenshot_dark.png) |
+| [miaoziguan/obsidian-bamboo-china](https://github.com/miaoziguan/obsidian-bamboo-china) | ![Bamboo China](https://raw.githubusercontent.com/miaoziguan/obsidian-bamboo-china/master/image-1.png) |
