@@ -590,7 +590,6 @@
 | [sto3iv/obsidian-fancy-a-story-frozen](https://github.com/sto3iv/obsidian-fancy-a-story-frozen) | ![Frozen Kingdom](https://raw.githubusercontent.com/sto3iv/obsidian-fancy-a-story-frozen/master/screenshot.png) |
 | [wulflo/obsidian-Amor](https://github.com/wulflo/obsidian-Amor) | ![Love](https://raw.githubusercontent.com/wulflo/obsidian-Amor/master/cover.png) |
 | [hpdipto/obsidian-ember](https://github.com/hpdipto/obsidian-ember) | ![Ember Graphite](https://raw.githubusercontent.com/hpdipto/obsidian-ember/master/assets/light-1.png) |
-| [wulflo/obsidian-BlackAndWhite](https://github.com/wulflo/obsidian-BlackAndWhite) | ![Black and White](https://raw.githubusercontent.com/wulflo/obsidian-BlackAndWhite/master/cover.png) |
 | [guilhermetagliati/neon-dreams-obsidian-theme](https://github.com/guilhermetagliati/neon-dreams-obsidian-theme) | ![Neon Dreams](https://raw.githubusercontent.com/guilhermetagliati/neon-dreams-obsidian-theme/master/assets/dark-editor.png) |
 | [abdulkader-safi/obsidian-safi-theme](https://github.com/abdulkader-safi/obsidian-safi-theme) | ![Safi](https://raw.githubusercontent.com/abdulkader-safi/obsidian-safi-theme/master/screenshot.png) |
 | [k3-2o/kanagawa-hokusai](https://github.com/k3-2o/kanagawa-hokusai) | ![Kanagawa Hokusai](https://raw.githubusercontent.com/k3-2o/kanagawa-hokusai/master/assets/wave.png) |
