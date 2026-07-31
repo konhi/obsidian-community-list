@@ -501,6 +501,7 @@
 | [matothetomato/Elysian](https://github.com/matothetomato/Elysian) | ![Elysian](https://raw.githubusercontent.com/matothetomato/Elysian/master/cover.png) |
 | [sikoso774/Nebulux](https://github.com/sikoso774/Nebulux) | ![Nebulux](https://raw.githubusercontent.com/sikoso774/Nebulux/master/screenshot.png) |
 | [nnniv/palenight.obsidian](https://github.com/nnniv/palenight.obsidian) | ![Palenight](https://raw.githubusercontent.com/nnniv/palenight.obsidian/master/assets/screenshot.png) |
+| [darkings/Obsidian-MonokaiSyntax](https://github.com/darkings/Obsidian-MonokaiSyntax) | ![Monokai Syntax](https://raw.githubusercontent.com/darkings/Obsidian-MonokaiSyntax/master/screenshot.png) |
 | [amdhj22/rbr.obsidian](https://github.com/amdhj22/rbr.obsidian) | ![RBR](https://raw.githubusercontent.com/amdhj22/rbr.obsidian/master/screenshot.png) |
 | [makindajack/makinda-obsidian](https://github.com/makindajack/makinda-obsidian) | ![Makinda](https://raw.githubusercontent.com/makindajack/makinda-obsidian/master/screenshot.png) |
 | [randomusername21349/cognia-noir](https://github.com/randomusername21349/cognia-noir) | ![Cognia Noir](https://raw.githubusercontent.com/randomusername21349/cognia-noir/master/screenshot.png) |
