@@ -648,3 +648,6 @@
 | [wesellis/vignelli-obsidian-theme](https://github.com/wesellis/vignelli-obsidian-theme) | ![Vignelli](https://raw.githubusercontent.com/wesellis/vignelli-obsidian-theme/master/assets/vignelli-hero.png) |
 | [drbap/magicuser-theme-for-obsidian](https://github.com/drbap/magicuser-theme-for-obsidian) | ![MagicUser](https://raw.githubusercontent.com/drbap/magicuser-theme-for-obsidian/master/screenshot.png) |
 | [rinrinsu/pixel-blue-theme](https://github.com/rinrinsu/pixel-blue-theme) | ![pixel-blue](https://raw.githubusercontent.com/rinrinsu/pixel-blue-theme/master/screenshot-512x288.jpg) |
+| [ameyxd/obsidian-isinglass](https://github.com/ameyxd/obsidian-isinglass) | ![Isinglass](https://raw.githubusercontent.com/ameyxd/obsidian-isinglass/master/screenshots/screenshot_1.png) |
+| [fengmz/ForestRest](https://github.com/fengmz/ForestRest) | ![ForestRest](https://raw.githubusercontent.com/fengmz/ForestRest/master/images/preview-light-16x9.png) |
+| [aejkatappaja/cendre-obsidian](https://github.com/aejkatappaja/cendre-obsidian) | ![cendre](https://raw.githubusercontent.com/aejkatappaja/cendre-obsidian/master/screenshot.jpg) |
