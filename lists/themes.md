@@ -644,10 +644,11 @@
 | [jmj-eo/obsidian-monogray](https://github.com/jmj-eo/obsidian-monogray) | ![MonoGray](https://raw.githubusercontent.com/jmj-eo/obsidian-monogray/master/screenshot.png) |
 | [hat-im/obsidian-red-theme](https://github.com/hat-im/obsidian-red-theme) | ![Red](https://raw.githubusercontent.com/hat-im/obsidian-red-theme/master/screenshot.png) |
 | [miaoziguan/obsidian-bamboo-china](https://github.com/miaoziguan/obsidian-bamboo-china) | ![Bamboo China](https://raw.githubusercontent.com/miaoziguan/obsidian-bamboo-china/master/image-1.png) |
-| [demian0311/obsidian-slate](https://github.com/demian0311/obsidian-slate) | ![Diagrammo Slate](https://raw.githubusercontent.com/demian0311/obsidian-slate/master/screenshot.png) |
 | [wesellis/vignelli-obsidian-theme](https://github.com/wesellis/vignelli-obsidian-theme) | ![Vignelli](https://raw.githubusercontent.com/wesellis/vignelli-obsidian-theme/master/assets/vignelli-hero.png) |
 | [drbap/magicuser-theme-for-obsidian](https://github.com/drbap/magicuser-theme-for-obsidian) | ![MagicUser](https://raw.githubusercontent.com/drbap/magicuser-theme-for-obsidian/master/screenshot.png) |
 | [rinrinsu/pixel-blue-theme](https://github.com/rinrinsu/pixel-blue-theme) | ![pixel-blue](https://raw.githubusercontent.com/rinrinsu/pixel-blue-theme/master/screenshot-512x288.jpg) |
 | [ameyxd/obsidian-isinglass](https://github.com/ameyxd/obsidian-isinglass) | ![Isinglass](https://raw.githubusercontent.com/ameyxd/obsidian-isinglass/master/screenshots/screenshot_1.png) |
 | [fengmz/ForestRest](https://github.com/fengmz/ForestRest) | ![ForestRest](https://raw.githubusercontent.com/fengmz/ForestRest/master/images/preview-light-16x9.png) |
 | [aejkatappaja/cendre-obsidian](https://github.com/aejkatappaja/cendre-obsidian) | ![cendre](https://raw.githubusercontent.com/aejkatappaja/cendre-obsidian/master/screenshot.jpg) |
+| [otmivi/aurora_glass](https://github.com/otmivi/aurora_glass) | ![Aurora Glass](https://raw.githubusercontent.com/otmivi/aurora_glass/master/screenshot.png) |
+| [eonewg/paper-ember](https://github.com/eonewg/paper-ember) | ![Paper Ember](https://raw.githubusercontent.com/eonewg/paper-ember/master/screenshot.png) |
