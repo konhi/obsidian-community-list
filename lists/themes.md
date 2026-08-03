@@ -586,9 +586,7 @@
 | [everydayapps/vesper-golden](https://github.com/everydayapps/vesper-golden) | ![Vesper Golden](https://raw.githubusercontent.com/everydayapps/vesper-golden/master/images/obsidian/dark_one.png) |
 | [elijahchan2019/obsidian-opendian-theme](https://github.com/elijahchan2019/obsidian-opendian-theme) | ![Opendian](https://raw.githubusercontent.com/elijahchan2019/obsidian-opendian-theme/master/screenshot.png) |
 | [sto3iv/obsidian-fancy-a-story-frozen](https://github.com/sto3iv/obsidian-fancy-a-story-frozen) | ![Frozen Kingdom](https://raw.githubusercontent.com/sto3iv/obsidian-fancy-a-story-frozen/master/screenshot.png) |
-| [wulflo/obsidian-Amor](https://github.com/wulflo/obsidian-Amor) | ![Love](https://raw.githubusercontent.com/wulflo/obsidian-Amor/master/cover.png) |
 | [hpdipto/obsidian-ember](https://github.com/hpdipto/obsidian-ember) | ![Ember Graphite](https://raw.githubusercontent.com/hpdipto/obsidian-ember/master/assets/light-1.png) |
-| [wulflo/obsidian-BlackAndWhite](https://github.com/wulflo/obsidian-BlackAndWhite) | ![Black and White](https://raw.githubusercontent.com/wulflo/obsidian-BlackAndWhite/master/cover.png) |
 | [guilhermetagliati/neon-dreams-obsidian-theme](https://github.com/guilhermetagliati/neon-dreams-obsidian-theme) | ![Neon Dreams](https://raw.githubusercontent.com/guilhermetagliati/neon-dreams-obsidian-theme/master/assets/dark-editor.png) |
 | [abdulkader-safi/obsidian-safi-theme](https://github.com/abdulkader-safi/obsidian-safi-theme) | ![Safi](https://raw.githubusercontent.com/abdulkader-safi/obsidian-safi-theme/master/screenshot.png) |
 | [k3-2o/kanagawa-hokusai](https://github.com/k3-2o/kanagawa-hokusai) | ![Kanagawa Hokusai](https://raw.githubusercontent.com/k3-2o/kanagawa-hokusai/master/assets/wave.png) |
@@ -644,6 +642,7 @@
 | [jmj-eo/obsidian-monogray](https://github.com/jmj-eo/obsidian-monogray) | ![MonoGray](https://raw.githubusercontent.com/jmj-eo/obsidian-monogray/master/screenshot.png) |
 | [hat-im/obsidian-red-theme](https://github.com/hat-im/obsidian-red-theme) | ![Red](https://raw.githubusercontent.com/hat-im/obsidian-red-theme/master/screenshot.png) |
 | [miaoziguan/obsidian-bamboo-china](https://github.com/miaoziguan/obsidian-bamboo-china) | ![Bamboo China](https://raw.githubusercontent.com/miaoziguan/obsidian-bamboo-china/master/image-1.png) |
+| [demian0311/obsidian-slate](https://github.com/demian0311/obsidian-slate) | ![Diagrammo Slate](https://raw.githubusercontent.com/demian0311/obsidian-slate/master/screenshot.png) |
 | [wesellis/vignelli-obsidian-theme](https://github.com/wesellis/vignelli-obsidian-theme) | ![Vignelli](https://raw.githubusercontent.com/wesellis/vignelli-obsidian-theme/master/assets/vignelli-hero.png) |
 | [drbap/magicuser-theme-for-obsidian](https://github.com/drbap/magicuser-theme-for-obsidian) | ![MagicUser](https://raw.githubusercontent.com/drbap/magicuser-theme-for-obsidian/master/screenshot.png) |
 | [rinrinsu/pixel-blue-theme](https://github.com/rinrinsu/pixel-blue-theme) | ![pixel-blue](https://raw.githubusercontent.com/rinrinsu/pixel-blue-theme/master/screenshot-512x288.jpg) |
@@ -652,3 +651,9 @@
 | [aejkatappaja/cendre-obsidian](https://github.com/aejkatappaja/cendre-obsidian) | ![cendre](https://raw.githubusercontent.com/aejkatappaja/cendre-obsidian/master/screenshot.jpg) |
 | [otmivi/aurora_glass](https://github.com/otmivi/aurora_glass) | ![Aurora Glass](https://raw.githubusercontent.com/otmivi/aurora_glass/master/screenshot.png) |
 | [eonewg/paper-ember](https://github.com/eonewg/paper-ember) | ![Paper Ember](https://raw.githubusercontent.com/eonewg/paper-ember/master/screenshot.png) |
+| [pleiadesm/TufteObsidian](https://github.com/pleiadesm/TufteObsidian) | ![Tufte](https://raw.githubusercontent.com/pleiadesm/TufteObsidian/master/screenshot.png) |
+| [alex-yelisieiev/cyber-obsidian](https://github.com/alex-yelisieiev/cyber-obsidian) | ![Cyber](https://raw.githubusercontent.com/alex-yelisieiev/cyber-obsidian/master/screenshot.png) |
+| [sakurastral/obsidian-march-theme](https://github.com/sakurastral/obsidian-march-theme) | ![March](https://raw.githubusercontent.com/sakurastral/obsidian-march-theme/master/image/cover.png) |
+| [devmandalia/Nebula](https://github.com/devmandalia/Nebula) | ![Nebula](https://raw.githubusercontent.com/devmandalia/Nebula/master/screenshots/dark-kanban.png) |
+| [rahelaq/retro-relay](https://github.com/rahelaq/retro-relay) | ![Retro Relay](https://raw.githubusercontent.com/rahelaq/retro-relay/master/screenshots/screenshot.png) |
+| [alex-yelisieiev/macos-tahoe-obsidian](https://github.com/alex-yelisieiev/macos-tahoe-obsidian) | ![macOS Tahoe](https://raw.githubusercontent.com/alex-yelisieiev/macos-tahoe-obsidian/master/screenshot.png) |
