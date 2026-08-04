@@ -478,7 +478,6 @@
 | [hanabi-works/hanabi-theme](https://github.com/hanabi-works/hanabi-theme) | ![Hanabi](https://raw.githubusercontent.com/hanabi-works/hanabi-theme/master/images/obsidian-preview.png) |
 | [mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme](https://github.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme) | ![Vaporwave Void](https://raw.githubusercontent.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme/master/Screenshot512final.png) |
 | [austinsuun/obsidian-AAAA](https://github.com/austinsuun/obsidian-AAAA) | ![AAAA](https://raw.githubusercontent.com/austinsuun/obsidian-AAAA/master/screenshots/light.png) |
-| [ducktapekiller/obsidian-aubade](https://github.com/ducktapekiller/obsidian-aubade) | ![Aubade](https://raw.githubusercontent.com/ducktapekiller/obsidian-aubade/master/screenshot.png) |
 | [scbrown/neon-dracula-obsidian](https://github.com/scbrown/neon-dracula-obsidian) | ![Neon Dracula](https://raw.githubusercontent.com/scbrown/neon-dracula-obsidian/master/screenshot.png) |
 | [baileylu121/obsidian-compline](https://github.com/baileylu121/obsidian-compline) | ![Compline](https://raw.githubusercontent.com/baileylu121/obsidian-compline/master/screenshot.png) |
 | [adamkdean/standard-plus-obsidian-theme](https://github.com/adamkdean/standard-plus-obsidian-theme) | ![Standard Plus](https://raw.githubusercontent.com/adamkdean/standard-plus-obsidian-theme/master/preview.png) |
@@ -586,7 +585,9 @@
 | [everydayapps/vesper-golden](https://github.com/everydayapps/vesper-golden) | ![Vesper Golden](https://raw.githubusercontent.com/everydayapps/vesper-golden/master/images/obsidian/dark_one.png) |
 | [elijahchan2019/obsidian-opendian-theme](https://github.com/elijahchan2019/obsidian-opendian-theme) | ![Opendian](https://raw.githubusercontent.com/elijahchan2019/obsidian-opendian-theme/master/screenshot.png) |
 | [sto3iv/obsidian-fancy-a-story-frozen](https://github.com/sto3iv/obsidian-fancy-a-story-frozen) | ![Frozen Kingdom](https://raw.githubusercontent.com/sto3iv/obsidian-fancy-a-story-frozen/master/screenshot.png) |
+| [wulflo/obsidian-Amor](https://github.com/wulflo/obsidian-Amor) | ![Love](https://raw.githubusercontent.com/wulflo/obsidian-Amor/master/cover.png) |
 | [hpdipto/obsidian-ember](https://github.com/hpdipto/obsidian-ember) | ![Ember Graphite](https://raw.githubusercontent.com/hpdipto/obsidian-ember/master/assets/light-1.png) |
+| [wulflo/obsidian-BlackAndWhite](https://github.com/wulflo/obsidian-BlackAndWhite) | ![Black and White](https://raw.githubusercontent.com/wulflo/obsidian-BlackAndWhite/master/cover.png) |
 | [guilhermetagliati/neon-dreams-obsidian-theme](https://github.com/guilhermetagliati/neon-dreams-obsidian-theme) | ![Neon Dreams](https://raw.githubusercontent.com/guilhermetagliati/neon-dreams-obsidian-theme/master/assets/dark-editor.png) |
 | [abdulkader-safi/obsidian-safi-theme](https://github.com/abdulkader-safi/obsidian-safi-theme) | ![Safi](https://raw.githubusercontent.com/abdulkader-safi/obsidian-safi-theme/master/screenshot.png) |
 | [k3-2o/kanagawa-hokusai](https://github.com/k3-2o/kanagawa-hokusai) | ![Kanagawa Hokusai](https://raw.githubusercontent.com/k3-2o/kanagawa-hokusai/master/assets/wave.png) |
