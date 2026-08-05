@@ -658,3 +658,5 @@
 | [devmandalia/Nebula](https://github.com/devmandalia/Nebula) | ![Nebula](https://raw.githubusercontent.com/devmandalia/Nebula/master/screenshots/dark-kanban.png) |
 | [rahelaq/retro-relay](https://github.com/rahelaq/retro-relay) | ![Retro Relay](https://raw.githubusercontent.com/rahelaq/retro-relay/master/screenshots/screenshot.png) |
 | [alex-yelisieiev/macos-tahoe-obsidian](https://github.com/alex-yelisieiev/macos-tahoe-obsidian) | ![macOS Tahoe](https://raw.githubusercontent.com/alex-yelisieiev/macos-tahoe-obsidian/master/screenshot.png) |
+| [rustam-aka-rust/obsidian-brutalgarden](https://github.com/rustam-aka-rust/obsidian-brutalgarden) | ![BrutalGarden](https://raw.githubusercontent.com/rustam-aka-rust/obsidian-brutalgarden/master/screenshot.png%20) |
+| [cosmicseafox/Forgotten-Golden-Sanctuary](https://github.com/cosmicseafox/Forgotten-Golden-Sanctuary) | ![Forgotten Golden Sanctuary](https://raw.githubusercontent.com/cosmicseafox/Forgotten-Golden-Sanctuary/master/screenshot.png) |
