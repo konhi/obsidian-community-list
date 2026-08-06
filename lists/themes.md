@@ -660,3 +660,6 @@
 | [alex-yelisieiev/macos-tahoe-obsidian](https://github.com/alex-yelisieiev/macos-tahoe-obsidian) | ![macOS Tahoe](https://raw.githubusercontent.com/alex-yelisieiev/macos-tahoe-obsidian/master/screenshot.png) |
 | [rustam-aka-rust/obsidian-brutalgarden](https://github.com/rustam-aka-rust/obsidian-brutalgarden) | ![BrutalGarden](https://raw.githubusercontent.com/rustam-aka-rust/obsidian-brutalgarden/master/screenshot.png%20) |
 | [cosmicseafox/Forgotten-Golden-Sanctuary](https://github.com/cosmicseafox/Forgotten-Golden-Sanctuary) | ![Forgotten Golden Sanctuary](https://raw.githubusercontent.com/cosmicseafox/Forgotten-Golden-Sanctuary/master/screenshot.png) |
+| [cosmicseafox/Geode-Black-Opal](https://github.com/cosmicseafox/Geode-Black-Opal) | ![Geode Black Opal](https://raw.githubusercontent.com/cosmicseafox/Geode-Black-Opal/master/screenshot.png) |
+| [jdjshhc/cheers](https://github.com/jdjshhc/cheers) | ![cheers](https://raw.githubusercontent.com/jdjshhc/cheers/master/screenshot.png) |
+| [lclaboissiere-oss/deep-space-glass](https://github.com/lclaboissiere-oss/deep-space-glass) | ![Deep Space Glass](https://raw.githubusercontent.com/lclaboissiere-oss/deep-space-glass/master/screenshot.png) |
