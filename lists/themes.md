@@ -633,7 +633,6 @@
 | [evielync/hyo-theme](https://github.com/evielync/hyo-theme) | ![Hyo](https://raw.githubusercontent.com/evielync/hyo-theme/master/screenshot.png) |
 | [sidny1988/Glass-Scholar](https://github.com/sidny1988/Glass-Scholar) | ![Glass Scholar](https://raw.githubusercontent.com/sidny1988/Glass-Scholar/master/screenshot.png) |
 | [techr10n/stratus-obsidian-theme](https://github.com/techr10n/stratus-obsidian-theme) | ![Stratus](https://raw.githubusercontent.com/techr10n/stratus-obsidian-theme/master/screenshot.png) |
-| [chrisairbrown-del/TTRPG-Rathgar-Gold-Theme](https://github.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme) | ![TTRPG - Rathgar Gold](https://raw.githubusercontent.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme/master/screenshot.jpg) |
 | [cogito-ergo-video/lcars-inspired-obsidian-theme](https://github.com/cogito-ergo-video/lcars-inspired-obsidian-theme) | ![LCARS](https://raw.githubusercontent.com/cogito-ergo-video/lcars-inspired-obsidian-theme/master/screenshot.png) |
 | [dsvictor/Ink-Paper](https://github.com/dsvictor/Ink-Paper) | ![Ink Paper](https://raw.githubusercontent.com/dsvictor/Ink-Paper/master/assets/01.png) |
 | [smoosex/ob-everforest](https://github.com/smoosex/ob-everforest) | ![OB Everforest](https://raw.githubusercontent.com/smoosex/ob-everforest/master/obsidian-everforest.png) |
@@ -663,3 +662,6 @@
 | [cosmicseafox/Geode-Black-Opal](https://github.com/cosmicseafox/Geode-Black-Opal) | ![Geode Black Opal](https://raw.githubusercontent.com/cosmicseafox/Geode-Black-Opal/master/screenshot.png) |
 | [jdjshhc/cheers](https://github.com/jdjshhc/cheers) | ![cheers](https://raw.githubusercontent.com/jdjshhc/cheers/master/screenshot.png) |
 | [lclaboissiere-oss/deep-space-glass](https://github.com/lclaboissiere-oss/deep-space-glass) | ![Deep Space Glass](https://raw.githubusercontent.com/lclaboissiere-oss/deep-space-glass/master/screenshot.png) |
+| [egellman89/Amber-Glass-Phosphor](https://github.com/egellman89/Amber-Glass-Phosphor) | ![Amber Glass Phosphor](https://raw.githubusercontent.com/egellman89/Amber-Glass-Phosphor/master/screenshot.png) |
+| [cosmicseafox/Volcanic-Vein-Lava](https://github.com/cosmicseafox/Volcanic-Vein-Lava) | ![Volcanic Vein Lava](https://raw.githubusercontent.com/cosmicseafox/Volcanic-Vein-Lava/master/screenshot.png) |
+| [ledokter/obsidian-tbdl-theme](https://github.com/ledokter/obsidian-tbdl-theme) | ![tbdl](https://raw.githubusercontent.com/ledokter/obsidian-tbdl-theme/master/screenshot.png) |
