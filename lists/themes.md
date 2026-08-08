@@ -665,3 +665,5 @@
 | [egellman89/Amber-Glass-Phosphor](https://github.com/egellman89/Amber-Glass-Phosphor) | ![Amber Glass Phosphor](https://raw.githubusercontent.com/egellman89/Amber-Glass-Phosphor/master/screenshot.png) |
 | [cosmicseafox/Volcanic-Vein-Lava](https://github.com/cosmicseafox/Volcanic-Vein-Lava) | ![Volcanic Vein Lava](https://raw.githubusercontent.com/cosmicseafox/Volcanic-Vein-Lava/master/screenshot.png) |
 | [ledokter/obsidian-tbdl-theme](https://github.com/ledokter/obsidian-tbdl-theme) | ![tbdl](https://raw.githubusercontent.com/ledokter/obsidian-tbdl-theme/master/screenshot.png) |
+| [cosmicseafox/Celestial-Abyss](https://github.com/cosmicseafox/Celestial-Abyss) | ![Celestial Abyss](https://raw.githubusercontent.com/cosmicseafox/Celestial-Abyss/master/screenshot.png) |
+| [adoveil/obsidian-silence-theme](https://github.com/adoveil/obsidian-silence-theme) | ![Silence](https://raw.githubusercontent.com/adoveil/obsidian-silence-theme/master/silence-cover.png) |
