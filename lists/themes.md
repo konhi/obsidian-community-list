@@ -672,3 +672,5 @@
 | [workingyuanyuan/obsidian-kage-theme](https://github.com/workingyuanyuan/obsidian-kage-theme) | ![Kage](https://raw.githubusercontent.com/workingyuanyuan/obsidian-kage-theme/master/screenshot/dark.png) |
 | [k2ak3n/noesis](https://github.com/k2ak3n/noesis) | ![noesis](https://raw.githubusercontent.com/k2ak3n/noesis/master/screenshot.png) |
 | [preval85/obsidian-retro-os](https://github.com/preval85/obsidian-retro-os) | ![Retro OS](https://raw.githubusercontent.com/preval85/obsidian-retro-os/master/screenshot.png) |
+| [cosmicseafox/noir-void](https://github.com/cosmicseafox/noir-void) | ![Noir Void](https://raw.githubusercontent.com/cosmicseafox/noir-void/master/screenshot.png) |
+| [preval85/obsidian-daily-press](https://github.com/preval85/obsidian-daily-press) | ![Daily Press](https://raw.githubusercontent.com/preval85/obsidian-daily-press/master/screenshots/light.png) |
