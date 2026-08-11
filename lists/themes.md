@@ -674,3 +674,6 @@
 | [preval85/obsidian-retro-os](https://github.com/preval85/obsidian-retro-os) | ![Retro OS](https://raw.githubusercontent.com/preval85/obsidian-retro-os/master/screenshot.png) |
 | [cosmicseafox/noir-void](https://github.com/cosmicseafox/noir-void) | ![Noir Void](https://raw.githubusercontent.com/cosmicseafox/noir-void/master/screenshot.png) |
 | [preval85/obsidian-daily-press](https://github.com/preval85/obsidian-daily-press) | ![Daily Press](https://raw.githubusercontent.com/preval85/obsidian-daily-press/master/screenshots/light.png) |
+| [sto3iv/Neon-Night](https://github.com/sto3iv/Neon-Night) | ![Neon Night](https://raw.githubusercontent.com/sto3iv/Neon-Night/master/screenshot.png) |
+| [cosmicseafox/Circuit](https://github.com/cosmicseafox/Circuit) | ![Circuit](https://raw.githubusercontent.com/cosmicseafox/Circuit/master/screenshot.png) |
+| [shaktoth/LancerOS-Obsidian-Theme](https://github.com/shaktoth/LancerOS-Obsidian-Theme) | ![Lancer-OS](https://raw.githubusercontent.com/shaktoth/LancerOS-Obsidian-Theme/master/assets/screenshot.png) |
