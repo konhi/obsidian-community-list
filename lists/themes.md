@@ -677,3 +677,4 @@
 | [sto3iv/Neon-Night](https://github.com/sto3iv/Neon-Night) | ![Neon Night](https://raw.githubusercontent.com/sto3iv/Neon-Night/master/screenshot.png) |
 | [cosmicseafox/Circuit](https://github.com/cosmicseafox/Circuit) | ![Circuit](https://raw.githubusercontent.com/cosmicseafox/Circuit/master/screenshot.png) |
 | [shaktoth/LancerOS-Obsidian-Theme](https://github.com/shaktoth/LancerOS-Obsidian-Theme) | ![Lancer-OS](https://raw.githubusercontent.com/shaktoth/LancerOS-Obsidian-Theme/master/assets/screenshot.png) |
+| [cosmicseafox/foundation](https://github.com/cosmicseafox/foundation) | ![Foundation](https://raw.githubusercontent.com/cosmicseafox/foundation/master/screenshot.png) |
