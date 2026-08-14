@@ -631,6 +631,7 @@
 | [weiya9511/weiya-obsidian-theme](https://github.com/weiya9511/weiya-obsidian-theme) | ![WeiYa](https://raw.githubusercontent.com/weiya9511/weiya-obsidian-theme/master/screenshot.png) |
 | [bhavya-dang/solace-obsidian](https://github.com/bhavya-dang/solace-obsidian) | ![Solace](https://raw.githubusercontent.com/bhavya-dang/solace-obsidian/master/screenshot.png) |
 | [evielync/hyo-theme](https://github.com/evielync/hyo-theme) | ![Hyo](https://raw.githubusercontent.com/evielync/hyo-theme/master/screenshot.png) |
+| [def-peter/obsidian-aera-theme](https://github.com/def-peter/obsidian-aera-theme) | ![Aera](https://raw.githubusercontent.com/def-peter/obsidian-aera-theme/master/screenshot.png) |
 | [sidny1988/Glass-Scholar](https://github.com/sidny1988/Glass-Scholar) | ![Glass Scholar](https://raw.githubusercontent.com/sidny1988/Glass-Scholar/master/screenshot.png) |
 | [techr10n/stratus-obsidian-theme](https://github.com/techr10n/stratus-obsidian-theme) | ![Stratus](https://raw.githubusercontent.com/techr10n/stratus-obsidian-theme/master/screenshot.png) |
 | [chrisairbrown-del/TTRPG-Rathgar-Gold-Theme](https://github.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme) | ![TTRPG - Rathgar Gold](https://raw.githubusercontent.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme/master/screenshot.jpg) |
@@ -674,6 +675,7 @@
 | [preval85/obsidian-retro-os](https://github.com/preval85/obsidian-retro-os) | ![Retro OS](https://raw.githubusercontent.com/preval85/obsidian-retro-os/master/screenshot.png) |
 | [cosmicseafox/noir-void](https://github.com/cosmicseafox/noir-void) | ![Noir Void](https://raw.githubusercontent.com/cosmicseafox/noir-void/master/screenshot.png) |
 | [preval85/obsidian-daily-press](https://github.com/preval85/obsidian-daily-press) | ![Daily Press](https://raw.githubusercontent.com/preval85/obsidian-daily-press/master/screenshots/light.png) |
+| [relks-00/Canvas-And-Cargo](https://github.com/relks-00/Canvas-And-Cargo) | ![Canvas And Cargo](https://raw.githubusercontent.com/relks-00/Canvas-And-Cargo/master/screenshot.png) |
 | [sto3iv/Neon-Night](https://github.com/sto3iv/Neon-Night) | ![Neon Night](https://raw.githubusercontent.com/sto3iv/Neon-Night/master/screenshot.png) |
 | [cosmicseafox/Circuit](https://github.com/cosmicseafox/Circuit) | ![Circuit](https://raw.githubusercontent.com/cosmicseafox/Circuit/master/screenshot.png) |
 | [shaktoth/LancerOS-Obsidian-Theme](https://github.com/shaktoth/LancerOS-Obsidian-Theme) | ![Lancer-OS](https://raw.githubusercontent.com/shaktoth/LancerOS-Obsidian-Theme/master/assets/screenshot.png) |
@@ -682,3 +684,7 @@
 | [kaymade/cosmic](https://github.com/kaymade/cosmic) | ![Cosmic](https://raw.githubusercontent.com/kaymade/cosmic/master/cosmic-screenshot.png) |
 | [narcosia/third-brain-neon](https://github.com/narcosia/third-brain-neon) | ![Third Brain Neon](https://raw.githubusercontent.com/narcosia/third-brain-neon/master/screenshot.png) |
 | [coffeecheese/obsidian-pixel-theme](https://github.com/coffeecheese/obsidian-pixel-theme) | ![Pixel](https://raw.githubusercontent.com/coffeecheese/obsidian-pixel-theme/master/screenshot.png) |
+| [kkdove2011/ObOrange](https://github.com/kkdove2011/ObOrange) | ![ObOrange](https://raw.githubusercontent.com/kkdove2011/ObOrange/master/screenshot.png) |
+| [cosmicseafox/Engineering](https://github.com/cosmicseafox/Engineering) | ![Engineering](https://raw.githubusercontent.com/cosmicseafox/Engineering/master/screenshot.png) |
+| [chuhc/obisidian_qinglv_theme](https://github.com/chuhc/obisidian_qinglv_theme) | ![Shiqing Guanlan](https://raw.githubusercontent.com/chuhc/obisidian_qinglv_theme/master/screenshot.png) |
+| [laddtnov/Neonflux](https://github.com/laddtnov/Neonflux) | ![Neonflux](https://raw.githubusercontent.com/laddtnov/Neonflux/master/docs/screenshots/dark.png) |
