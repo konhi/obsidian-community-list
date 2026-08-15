@@ -688,3 +688,4 @@
 | [cosmicseafox/Engineering](https://github.com/cosmicseafox/Engineering) | ![Engineering](https://raw.githubusercontent.com/cosmicseafox/Engineering/master/screenshot.png) |
 | [chuhc/obisidian_qinglv_theme](https://github.com/chuhc/obisidian_qinglv_theme) | ![Shiqing Guanlan](https://raw.githubusercontent.com/chuhc/obisidian_qinglv_theme/master/screenshot.png) |
 | [laddtnov/Neonflux](https://github.com/laddtnov/Neonflux) | ![Neonflux](https://raw.githubusercontent.com/laddtnov/Neonflux/master/docs/screenshots/dark.png) |
+| [areajoerda/CAJAFUERTE](https://github.com/areajoerda/CAJAFUERTE) | ![Cajafuerte](https://raw.githubusercontent.com/areajoerda/CAJAFUERTE/master/screenshot.png) |
