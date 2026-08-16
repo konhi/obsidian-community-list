@@ -637,6 +637,7 @@
 | [chrisairbrown-del/TTRPG-Rathgar-Gold-Theme](https://github.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme) | ![TTRPG - Rathgar Gold](https://raw.githubusercontent.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme/master/screenshot.jpg) |
 | [cogito-ergo-video/lcars-inspired-obsidian-theme](https://github.com/cogito-ergo-video/lcars-inspired-obsidian-theme) | ![LCARS](https://raw.githubusercontent.com/cogito-ergo-video/lcars-inspired-obsidian-theme/master/screenshot.png) |
 | [dsvictor/Ink-Paper](https://github.com/dsvictor/Ink-Paper) | ![Ink Paper](https://raw.githubusercontent.com/dsvictor/Ink-Paper/master/assets/01.png) |
+| [antonabbac/unsent-letters](https://github.com/antonabbac/unsent-letters) | ![unsent-letters](https://raw.githubusercontent.com/antonabbac/unsent-letters/master/Screenshots/Main.png) |
 | [smoosex/ob-everforest](https://github.com/smoosex/ob-everforest) | ![OB Everforest](https://raw.githubusercontent.com/smoosex/ob-everforest/master/obsidian-everforest.png) |
 | [bewater8066/obsidian-theme-perch](https://github.com/bewater8066/obsidian-theme-perch) | ![Perch](https://raw.githubusercontent.com/bewater8066/obsidian-theme-perch/master/composite.png) |
 | [jmj-eo/obsidian-warmrice](https://github.com/jmj-eo/obsidian-warmrice) | ![WarmRice](https://raw.githubusercontent.com/jmj-eo/obsidian-warmrice/master/screenshot.png) |
@@ -689,3 +690,6 @@
 | [chuhc/obisidian_qinglv_theme](https://github.com/chuhc/obisidian_qinglv_theme) | ![Shiqing Guanlan](https://raw.githubusercontent.com/chuhc/obisidian_qinglv_theme/master/screenshot.png) |
 | [laddtnov/Neonflux](https://github.com/laddtnov/Neonflux) | ![Neonflux](https://raw.githubusercontent.com/laddtnov/Neonflux/master/docs/screenshots/dark.png) |
 | [areajoerda/CAJAFUERTE](https://github.com/areajoerda/CAJAFUERTE) | ![Cajafuerte](https://raw.githubusercontent.com/areajoerda/CAJAFUERTE/master/screenshot.png) |
+| [otaviocc/default-plus-obsidian](https://github.com/otaviocc/default-plus-obsidian) | ![Default+](https://raw.githubusercontent.com/otaviocc/default-plus-obsidian/master/screenshot.png) |
+| [cosmicseafox/anatomy-nocturne](https://github.com/cosmicseafox/anatomy-nocturne) | ![Anatomy Nocturne](https://raw.githubusercontent.com/cosmicseafox/anatomy-nocturne/master/screenshot.png) |
+| [katsuricata/Obsidian-Digital-Rust](https://github.com/katsuricata/Obsidian-Digital-Rust) | ![Digital Rust](https://raw.githubusercontent.com/katsuricata/Obsidian-Digital-Rust/master/screenshots/screenshot.png) |
