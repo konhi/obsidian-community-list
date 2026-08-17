@@ -693,3 +693,4 @@
 | [otaviocc/default-plus-obsidian](https://github.com/otaviocc/default-plus-obsidian) | ![Default+](https://raw.githubusercontent.com/otaviocc/default-plus-obsidian/master/screenshot.png) |
 | [cosmicseafox/anatomy-nocturne](https://github.com/cosmicseafox/anatomy-nocturne) | ![Anatomy Nocturne](https://raw.githubusercontent.com/cosmicseafox/anatomy-nocturne/master/screenshot.png) |
 | [katsuricata/Obsidian-Digital-Rust](https://github.com/katsuricata/Obsidian-Digital-Rust) | ![Digital Rust](https://raw.githubusercontent.com/katsuricata/Obsidian-Digital-Rust/master/screenshots/screenshot.png) |
+| [tanmaymanojgandhi/yuki-night-theme-obsidian](https://github.com/tanmaymanojgandhi/yuki-night-theme-obsidian) | ![Yuki Night](https://raw.githubusercontent.com/tanmaymanojgandhi/yuki-night-theme-obsidian/master/screenshot.png) |
