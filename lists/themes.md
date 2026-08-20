@@ -688,10 +688,11 @@
 | [otaviocc/default-plus-obsidian](https://github.com/otaviocc/default-plus-obsidian) | ![Default+](https://raw.githubusercontent.com/otaviocc/default-plus-obsidian/master/screenshot.png) |
 | [cosmicseafox/anatomy-nocturne](https://github.com/cosmicseafox/anatomy-nocturne) | ![Anatomy Nocturne](https://raw.githubusercontent.com/cosmicseafox/anatomy-nocturne/master/screenshot.png) |
 | [katsuricata/Obsidian-Digital-Rust](https://github.com/katsuricata/Obsidian-Digital-Rust) | ![Digital Rust](https://raw.githubusercontent.com/katsuricata/Obsidian-Digital-Rust/master/screenshots/screenshot.png) |
-| [tanmaymanojgandhi/yuki-night-theme-obsidian](https://github.com/tanmaymanojgandhi/yuki-night-theme-obsidian) | ![Yuki Night](https://raw.githubusercontent.com/tanmaymanojgandhi/yuki-night-theme-obsidian/master/screenshot.png) |
 | [nilederg/Obsidian-Nous-Research-Theme](https://github.com/nilederg/Obsidian-Nous-Research-Theme) | ![Nous Research](https://raw.githubusercontent.com/nilederg/Obsidian-Nous-Research-Theme/master/images/screenshot.jpg) |
 | [tea0s/MultiMuse-Theme](https://github.com/tea0s/MultiMuse-Theme) | ![MultiMuse](https://raw.githubusercontent.com/tea0s/MultiMuse-Theme/master/screenshot.png) |
 | [cosmicseafox/Elementra](https://github.com/cosmicseafox/Elementra) | ![Elementra](https://raw.githubusercontent.com/cosmicseafox/Elementra/master/screenshot.png) |
 | [andymdh/warm-paper](https://github.com/andymdh/warm-paper) | ![Warm Paper](https://raw.githubusercontent.com/andymdh/warm-paper/master/screenshot.png) |
 | [haopenglau/obsidian-danxia-theme](https://github.com/haopenglau/obsidian-danxia-theme) | ![Danxia](https://raw.githubusercontent.com/haopenglau/obsidian-danxia-theme/master/screenshot.png) |
 | [diogobsfsilva-glitch/obsidian-evernote-like-theme](https://github.com/diogobsfsilva-glitch/obsidian-evernote-like-theme) | ![Evernote-Like](https://raw.githubusercontent.com/diogobsfsilva-glitch/obsidian-evernote-like-theme/master/screenshot.png) |
+| [saykig/cephi](https://github.com/saykig/cephi) | ![Cephi](https://raw.githubusercontent.com/saykig/cephi/master/screenshot.png) |
+| [sasecurityn/Ember-Glazz](https://github.com/sasecurityn/Ember-Glazz) | ![Ember Glazz](https://raw.githubusercontent.com/sasecurityn/Ember-Glazz/master/showcase-reading-mode.png) |
