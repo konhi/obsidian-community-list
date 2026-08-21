@@ -380,7 +380,7 @@
 | [norderan/RedShift-obsidian-theme](https://github.com/norderan/RedShift-obsidian-theme) | ![RedShift - OLED Blue Light Filter](https://raw.githubusercontent.com/norderan/RedShift-obsidian-theme/master/screenshot.png) |
 | [darioarzaba/Obsidian-Theme-Arzaba](https://github.com/darioarzaba/Obsidian-Theme-Arzaba) | ![Arzaba](https://raw.githubusercontent.com/darioarzaba/Obsidian-Theme-Arzaba/master/screenshot.png) |
 | [tyronejosee/tyrone-neon](https://github.com/tyronejosee/tyrone-neon) | ![Tyrone Neon](https://raw.githubusercontent.com/tyronejosee/tyrone-neon/master/screenshots/main.png) |
-| [bastiangx/poimandres.obsidian](https://github.com/bastiangx/poimandres.obsidian) | ![Poimandres Extended](https://raw.githubusercontent.com/bastiangx/poimandres.obsidian/master/sc.png) |
+| [bastiangx/poimandres.obsidian](https://github.com/bastiangx/poimandres.obsidian) | ![Poimandres Extended](https://raw.githubusercontent.com/bastiangx/poimandres.obsidian/master/sc.webp) |
 | [bluemoondragon07/obsidian-future](https://github.com/bluemoondragon07/obsidian-future) | ![Future](https://raw.githubusercontent.com/bluemoondragon07/obsidian-future/master/cover.jpg) |
 | [ichirofukuda/spy-terminal-theme](https://github.com/ichirofukuda/spy-terminal-theme) | ![Spy Terminal](https://raw.githubusercontent.com/ichirofukuda/spy-terminal-theme/master/screenshots/spy-terminal-atmosphere.png) |
 | [xscriptor/obsidian](https://github.com/xscriptor/obsidian) | ![Xscriptor](https://raw.githubusercontent.com/xscriptor/obsidian/master/screenshot.png) |
@@ -696,3 +696,5 @@
 | [diogobsfsilva-glitch/obsidian-evernote-like-theme](https://github.com/diogobsfsilva-glitch/obsidian-evernote-like-theme) | ![Evernote-Like](https://raw.githubusercontent.com/diogobsfsilva-glitch/obsidian-evernote-like-theme/master/screenshot.png) |
 | [saykig/cephi](https://github.com/saykig/cephi) | ![Cephi](https://raw.githubusercontent.com/saykig/cephi/master/screenshot.png) |
 | [sasecurityn/Ember-Glazz](https://github.com/sasecurityn/Ember-Glazz) | ![Ember Glazz](https://raw.githubusercontent.com/sasecurityn/Ember-Glazz/master/showcase-reading-mode.png) |
+| [paddychenc75/obsidian-lumen](https://github.com/paddychenc75/obsidian-lumen) | ![Lumen Glass](https://raw.githubusercontent.com/paddychenc75/obsidian-lumen/master/assets/screenshot.png) |
+| [shivu516/Primidian](https://github.com/shivu516/Primidian) | ![Primidian](https://raw.githubusercontent.com/shivu516/Primidian/master/assets/images/Primidian_Banner_smol.png) |
