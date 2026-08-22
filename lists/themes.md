@@ -93,7 +93,6 @@
 | [tingmelvin/willemstad-x](https://github.com/tingmelvin/willemstad-x) | ![Willemstad](https://raw.githubusercontent.com/tingmelvin/willemstad-x/master/img/Willemstad-X.png) |
 | [caro401/royal-velvet](https://github.com/caro401/royal-velvet) | ![Royal Velvet](https://raw.githubusercontent.com/caro401/royal-velvet/master/royal-velvet.png) |
 | [xryul/ObsidianMD_Dracula_x_LYT](https://github.com/xryul/ObsidianMD_Dracula_x_LYT) | ![Dracula + LYT](https://raw.githubusercontent.com/xryul/ObsidianMD_Dracula_x_LYT/master/Overview.jpg) |
-| [hydescarf/Obsidian-Theme-Mado-11](https://github.com/hydescarf/Obsidian-Theme-Mado-11) | ![Mado 11](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-11/master/img/store-cover.png) |
 | [everblush/Obsidian](https://github.com/everblush/Obsidian) | ![Everblush](https://raw.githubusercontent.com/everblush/Obsidian/master/preview.png) |
 | [kkyrusobad/AbsoluteGruv](https://github.com/kkyrusobad/AbsoluteGruv) | ![AbsoluteGruv](https://raw.githubusercontent.com/kkyrusobad/AbsoluteGruv/master/obsidian.png) |
 | [aitadev/Violet-Evening-for-Obsidian](https://github.com/aitadev/Violet-Evening-for-Obsidian) | ![Violet Evening](https://raw.githubusercontent.com/aitadev/Violet-Evening-for-Obsidian/master/screenshot.png) |
@@ -103,7 +102,6 @@
 | [sspaeti/obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) | ![Kanagawa](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa/master/dark.png) |
 | [carbonateb/obsidian-encore-theme](https://github.com/carbonateb/obsidian-encore-theme) | ![Encore](https://raw.githubusercontent.com/carbonateb/obsidian-encore-theme/master/images/promo-image.png) |
 | [technerium/obsidian-ukiyo](https://github.com/technerium/obsidian-ukiyo) | ![Ukiyo](https://raw.githubusercontent.com/technerium/obsidian-ukiyo/master/screenshot.png) |
-| [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) | ![Mado Miniflow](https://raw.githubusercontent.com/hydescarf/Obsidian-Theme-Mado-Miniflow/master/img/store-cover.png) |
 | [erykwalder/dayspring-theme](https://github.com/erykwalder/dayspring-theme) | ![Dayspring](https://raw.githubusercontent.com/erykwalder/dayspring-theme/master/screenshots/thumbnail.png) |
 | [anubisnekhet/AnuPpuccin](https://github.com/anubisnekhet/AnuPpuccin) | ![AnuPpuccin](https://raw.githubusercontent.com/anubisnekhet/AnuPpuccin/master/preview.png) |
 | [zamsyt/obsidian-fusion](https://github.com/zamsyt/obsidian-fusion) | ![Fusion](https://raw.githubusercontent.com/zamsyt/obsidian-fusion/master/thumbnail.png) |
@@ -698,3 +696,4 @@
 | [sasecurityn/Ember-Glazz](https://github.com/sasecurityn/Ember-Glazz) | ![Ember Glazz](https://raw.githubusercontent.com/sasecurityn/Ember-Glazz/master/showcase-reading-mode.png) |
 | [paddychenc75/obsidian-lumen](https://github.com/paddychenc75/obsidian-lumen) | ![Lumen Glass](https://raw.githubusercontent.com/paddychenc75/obsidian-lumen/master/assets/screenshot.png) |
 | [shivu516/Primidian](https://github.com/shivu516/Primidian) | ![Primidian](https://raw.githubusercontent.com/shivu516/Primidian/master/assets/images/Primidian_Banner_smol.png) |
+| [rifts-obsidian-laboratory/theme-elegance-froide](https://github.com/rifts-obsidian-laboratory/theme-elegance-froide) | ![Elegance froide](https://raw.githubusercontent.com/rifts-obsidian-laboratory/theme-elegance-froide/master/assets/screenshot.png) |
