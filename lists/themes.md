@@ -697,3 +697,4 @@
 | [paddychenc75/obsidian-lumen](https://github.com/paddychenc75/obsidian-lumen) | ![Lumen Glass](https://raw.githubusercontent.com/paddychenc75/obsidian-lumen/master/assets/screenshot.png) |
 | [shivu516/Primidian](https://github.com/shivu516/Primidian) | ![Primidian](https://raw.githubusercontent.com/shivu516/Primidian/master/assets/images/Primidian_Banner_smol.png) |
 | [rifts-obsidian-laboratory/theme-elegance-froide](https://github.com/rifts-obsidian-laboratory/theme-elegance-froide) | ![Elegance froide](https://raw.githubusercontent.com/rifts-obsidian-laboratory/theme-elegance-froide/master/assets/screenshot.png) |
+| [linuz90/obsidian-verso](https://github.com/linuz90/obsidian-verso) | ![Verso](https://raw.githubusercontent.com/linuz90/obsidian-verso/master/screenshots/verso.png) |
