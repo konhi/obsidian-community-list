@@ -577,7 +577,6 @@
 | [sunxuecong/Sunflex](https://github.com/sunxuecong/Sunflex) | ![Sunflex](https://raw.githubusercontent.com/sunxuecong/Sunflex/master/screenshot.png) |
 | [jkraccoon/obsidian-wide-view](https://github.com/jkraccoon/obsidian-wide-view) | ![Wide View](https://raw.githubusercontent.com/jkraccoon/obsidian-wide-view/master/screen.png) |
 | [everydayapps/vesper-golden](https://github.com/everydayapps/vesper-golden) | ![Vesper Golden](https://raw.githubusercontent.com/everydayapps/vesper-golden/master/images/obsidian/dark_one.png) |
-| [elijahchan2019/obsidian-opendian-theme](https://github.com/elijahchan2019/obsidian-opendian-theme) | ![Opendian](https://raw.githubusercontent.com/elijahchan2019/obsidian-opendian-theme/master/screenshot.png) |
 | [sto3iv/obsidian-fancy-a-story-frozen](https://github.com/sto3iv/obsidian-fancy-a-story-frozen) | ![Frozen Kingdom](https://raw.githubusercontent.com/sto3iv/obsidian-fancy-a-story-frozen/master/screenshot.png) |
 | [wulflo/obsidian-Amor](https://github.com/wulflo/obsidian-Amor) | ![Love](https://raw.githubusercontent.com/wulflo/obsidian-Amor/master/cover.png) |
 | [hpdipto/obsidian-ember](https://github.com/hpdipto/obsidian-ember) | ![Ember Graphite](https://raw.githubusercontent.com/hpdipto/obsidian-ember/master/assets/light-1.png) |
@@ -610,7 +609,6 @@
 | [b1rdmania/obsidian-geocities-98](https://github.com/b1rdmania/obsidian-geocities-98) | ![GeoCities 98](https://raw.githubusercontent.com/b1rdmania/obsidian-geocities-98/master/screenshot.png) |
 | [alanfgn/obsidian-more-mono-color](https://github.com/alanfgn/obsidian-more-mono-color) | ![MoreMonoColor](https://raw.githubusercontent.com/alanfgn/obsidian-more-mono-color/master/more_mono_color.png) |
 | [monapdx/Neon-Acid](https://github.com/monapdx/Neon-Acid) | ![Neon Acid](https://raw.githubusercontent.com/monapdx/Neon-Acid/master/screenshot.png) |
-| [elijahchan2019/obsidian-h2os-theme](https://github.com/elijahchan2019/obsidian-h2os-theme) | ![H2 OS](https://raw.githubusercontent.com/elijahchan2019/obsidian-h2os-theme/master/screenshot.png) |
 | [zjie-wang/obsidian-composed](https://github.com/zjie-wang/obsidian-composed) | ![Composed](https://raw.githubusercontent.com/zjie-wang/obsidian-composed/master/screenshot.png) |
 | [opus-oss/obsidian-opus](https://github.com/opus-oss/obsidian-opus) | ![Opus](https://raw.githubusercontent.com/opus-oss/obsidian-opus/master/screenshot.png) |
 | [7eahaus/dissociated-identitea](https://github.com/7eahaus/dissociated-identitea) | ![Dissociated IdentiTea](https://raw.githubusercontent.com/7eahaus/dissociated-identitea/master/screenshots/darkmode-overview.png) |
@@ -635,6 +633,7 @@
 | [smoosex/ob-everforest](https://github.com/smoosex/ob-everforest) | ![OB Everforest](https://raw.githubusercontent.com/smoosex/ob-everforest/master/obsidian-everforest.png) |
 | [bewater8066/obsidian-theme-perch](https://github.com/bewater8066/obsidian-theme-perch) | ![Perch](https://raw.githubusercontent.com/bewater8066/obsidian-theme-perch/master/composite.png) |
 | [jmj-eo/obsidian-warmrice](https://github.com/jmj-eo/obsidian-warmrice) | ![WarmRice](https://raw.githubusercontent.com/jmj-eo/obsidian-warmrice/master/screenshot.png) |
+| [nicolascereijo/obsidian-vitela](https://github.com/nicolascereijo/obsidian-vitela) | ![Vitela](https://raw.githubusercontent.com/nicolascereijo/obsidian-vitela/master/screenshots/hero.png) |
 | [jmj-eo/obsidian-monogray](https://github.com/jmj-eo/obsidian-monogray) | ![MonoGray](https://raw.githubusercontent.com/jmj-eo/obsidian-monogray/master/screenshot.png) |
 | [hat-im/obsidian-red-theme](https://github.com/hat-im/obsidian-red-theme) | ![Red](https://raw.githubusercontent.com/hat-im/obsidian-red-theme/master/screenshot.png) |
 | [miaoziguan/obsidian-bamboo-china](https://github.com/miaoziguan/obsidian-bamboo-china) | ![Bamboo China](https://raw.githubusercontent.com/miaoziguan/obsidian-bamboo-china/master/image-1.png) |
@@ -698,3 +697,4 @@
 | [shivu516/Primidian](https://github.com/shivu516/Primidian) | ![Primidian](https://raw.githubusercontent.com/shivu516/Primidian/master/assets/images/Primidian_Banner_smol.png) |
 | [rifts-obsidian-laboratory/theme-elegance-froide](https://github.com/rifts-obsidian-laboratory/theme-elegance-froide) | ![Elegance froide](https://raw.githubusercontent.com/rifts-obsidian-laboratory/theme-elegance-froide/master/assets/screenshot.png) |
 | [linuz90/obsidian-verso](https://github.com/linuz90/obsidian-verso) | ![Verso](https://raw.githubusercontent.com/linuz90/obsidian-verso/master/screenshots/verso.png) |
+| [czunique/obsidian-molan](https://github.com/czunique/obsidian-molan) | ![MoLan](https://raw.githubusercontent.com/czunique/obsidian-molan/master/screenshots/molan-theme-preview.png) |
