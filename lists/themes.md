@@ -698,3 +698,4 @@
 | [rifts-obsidian-laboratory/theme-elegance-froide](https://github.com/rifts-obsidian-laboratory/theme-elegance-froide) | ![Elegance froide](https://raw.githubusercontent.com/rifts-obsidian-laboratory/theme-elegance-froide/master/assets/screenshot.png) |
 | [linuz90/obsidian-verso](https://github.com/linuz90/obsidian-verso) | ![Verso](https://raw.githubusercontent.com/linuz90/obsidian-verso/master/screenshots/verso.png) |
 | [czunique/obsidian-molan](https://github.com/czunique/obsidian-molan) | ![MoLan](https://raw.githubusercontent.com/czunique/obsidian-molan/master/screenshots/molan-theme-preview.png) |
+| [markusjohansen/warmpress](https://github.com/markusjohansen/warmpress) | ![Warm Press](https://raw.githubusercontent.com/markusjohansen/warmpress/master/screenshot.png) |
