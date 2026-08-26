@@ -472,6 +472,7 @@
 | [hanabi-works/hanabi-theme](https://github.com/hanabi-works/hanabi-theme) | ![Hanabi](https://raw.githubusercontent.com/hanabi-works/hanabi-theme/master/images/obsidian-preview.png) |
 | [mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme](https://github.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme) | ![Vaporwave Void](https://raw.githubusercontent.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme/master/Screenshot512final.png) |
 | [austinsuun/obsidian-AAAA](https://github.com/austinsuun/obsidian-AAAA) | ![AAAA](https://raw.githubusercontent.com/austinsuun/obsidian-AAAA/master/screenshots/light.png) |
+| [ducktapekiller/obsidian-aubade](https://github.com/ducktapekiller/obsidian-aubade) | ![Aubade](https://raw.githubusercontent.com/ducktapekiller/obsidian-aubade/master/screenshot.png) |
 | [scbrown/neon-dracula-obsidian](https://github.com/scbrown/neon-dracula-obsidian) | ![Neon Dracula](https://raw.githubusercontent.com/scbrown/neon-dracula-obsidian/master/screenshot.png) |
 | [baileylu121/obsidian-compline](https://github.com/baileylu121/obsidian-compline) | ![Compline](https://raw.githubusercontent.com/baileylu121/obsidian-compline/master/screenshot.png) |
 | [adamkdean/standard-plus-obsidian-theme](https://github.com/adamkdean/standard-plus-obsidian-theme) | ![Standard Plus](https://raw.githubusercontent.com/adamkdean/standard-plus-obsidian-theme/master/preview.png) |
@@ -524,7 +525,6 @@
 | [rohith-am/Obsidian-Vellum](https://github.com/rohith-am/Obsidian-Vellum) | ![Vellum](https://raw.githubusercontent.com/rohith-am/Obsidian-Vellum/master/Vellum_Screenshot.jpg) |
 | [michael-andreuzza/serendipity-obsidian](https://github.com/michael-andreuzza/serendipity-obsidian) | ![Serendipity](https://raw.githubusercontent.com/michael-andreuzza/serendipity-obsidian/master/screenshot.png) |
 | [michael-andreuzza/sequoia-obsidian](https://github.com/michael-andreuzza/sequoia-obsidian) | ![Sequoia](https://raw.githubusercontent.com/michael-andreuzza/sequoia-obsidian/master/screenshot.png) |
-| [tofrankie/obsidian-gfm-theme](https://github.com/tofrankie/obsidian-gfm-theme) | ![GitHub Flavored Markdown](https://raw.githubusercontent.com/tofrankie/obsidian-gfm-theme/master/images/banner.png) |
 | [stefan-imbesi/obsidian-macos-theme](https://github.com/stefan-imbesi/obsidian-macos-theme) | ![macOS](https://raw.githubusercontent.com/stefan-imbesi/obsidian-macos-theme/master/screenshot.png) |
 | [admiral9k/emrald-obsidian-theme](https://github.com/admiral9k/emrald-obsidian-theme) | ![EMRALD](https://raw.githubusercontent.com/admiral9k/emrald-obsidian-theme/master/screenshot.png) |
 | [jabaho9523/DarkKnightTheme](https://github.com/jabaho9523/DarkKnightTheme) | ![Dark Knight](https://raw.githubusercontent.com/jabaho9523/DarkKnightTheme/master/screenshot.png) |
@@ -699,3 +699,5 @@
 | [linuz90/obsidian-verso](https://github.com/linuz90/obsidian-verso) | ![Verso](https://raw.githubusercontent.com/linuz90/obsidian-verso/master/screenshots/verso.png) |
 | [czunique/obsidian-molan](https://github.com/czunique/obsidian-molan) | ![MoLan](https://raw.githubusercontent.com/czunique/obsidian-molan/master/screenshots/molan-theme-preview.png) |
 | [markusjohansen/warmpress](https://github.com/markusjohansen/warmpress) | ![Warm Press](https://raw.githubusercontent.com/markusjohansen/warmpress/master/screenshot.png) |
+| [omshirse/obsidian_cozy_journal](https://github.com/omshirse/obsidian_cozy_journal) | ![Cozy Journal](https://raw.githubusercontent.com/omshirse/obsidian_cozy_journal/master/Obsidian_theme.png) |
+| [inovector/obsidian-kanagawa-tide](https://github.com/inovector/obsidian-kanagawa-tide) | ![Kanagawa Tide](https://raw.githubusercontent.com/inovector/obsidian-kanagawa-tide/master/images/cover.webp) |
