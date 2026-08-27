@@ -577,6 +577,7 @@
 | [sunxuecong/Sunflex](https://github.com/sunxuecong/Sunflex) | ![Sunflex](https://raw.githubusercontent.com/sunxuecong/Sunflex/master/screenshot.png) |
 | [jkraccoon/obsidian-wide-view](https://github.com/jkraccoon/obsidian-wide-view) | ![Wide View](https://raw.githubusercontent.com/jkraccoon/obsidian-wide-view/master/screen.png) |
 | [everydayapps/vesper-golden](https://github.com/everydayapps/vesper-golden) | ![Vesper Golden](https://raw.githubusercontent.com/everydayapps/vesper-golden/master/images/obsidian/dark_one.png) |
+| [elijah7x/theme-opendian](https://github.com/elijah7x/theme-opendian) | ![Opendian](https://raw.githubusercontent.com/elijah7x/theme-opendian/master/screenshot.png) |
 | [sto3iv/obsidian-fancy-a-story-frozen](https://github.com/sto3iv/obsidian-fancy-a-story-frozen) | ![Frozen Kingdom](https://raw.githubusercontent.com/sto3iv/obsidian-fancy-a-story-frozen/master/screenshot.png) |
 | [wulflo/obsidian-Amor](https://github.com/wulflo/obsidian-Amor) | ![Love](https://raw.githubusercontent.com/wulflo/obsidian-Amor/master/cover.png) |
 | [hpdipto/obsidian-ember](https://github.com/hpdipto/obsidian-ember) | ![Ember Graphite](https://raw.githubusercontent.com/hpdipto/obsidian-ember/master/assets/light-1.png) |
@@ -609,6 +610,7 @@
 | [b1rdmania/obsidian-geocities-98](https://github.com/b1rdmania/obsidian-geocities-98) | ![GeoCities 98](https://raw.githubusercontent.com/b1rdmania/obsidian-geocities-98/master/screenshot.png) |
 | [alanfgn/obsidian-more-mono-color](https://github.com/alanfgn/obsidian-more-mono-color) | ![MoreMonoColor](https://raw.githubusercontent.com/alanfgn/obsidian-more-mono-color/master/more_mono_color.png) |
 | [monapdx/Neon-Acid](https://github.com/monapdx/Neon-Acid) | ![Neon Acid](https://raw.githubusercontent.com/monapdx/Neon-Acid/master/screenshot.png) |
+| [elijah7x/theme-h2os](https://github.com/elijah7x/theme-h2os) | ![H2 OS](https://raw.githubusercontent.com/elijah7x/theme-h2os/master/screenshot.png) |
 | [zjie-wang/obsidian-composed](https://github.com/zjie-wang/obsidian-composed) | ![Composed](https://raw.githubusercontent.com/zjie-wang/obsidian-composed/master/screenshot.png) |
 | [opus-oss/obsidian-opus](https://github.com/opus-oss/obsidian-opus) | ![Opus](https://raw.githubusercontent.com/opus-oss/obsidian-opus/master/screenshot.png) |
 | [7eahaus/dissociated-identitea](https://github.com/7eahaus/dissociated-identitea) | ![Dissociated IdentiTea](https://raw.githubusercontent.com/7eahaus/dissociated-identitea/master/screenshots/darkmode-overview.png) |
@@ -701,3 +703,8 @@
 | [markusjohansen/warmpress](https://github.com/markusjohansen/warmpress) | ![Warm Press](https://raw.githubusercontent.com/markusjohansen/warmpress/master/screenshot.png) |
 | [omshirse/obsidian_cozy_journal](https://github.com/omshirse/obsidian_cozy_journal) | ![Cozy Journal](https://raw.githubusercontent.com/omshirse/obsidian_cozy_journal/master/Obsidian_theme.png) |
 | [inovector/obsidian-kanagawa-tide](https://github.com/inovector/obsidian-kanagawa-tide) | ![Kanagawa Tide](https://raw.githubusercontent.com/inovector/obsidian-kanagawa-tide/master/images/cover.webp) |
+| [dammitqueen/Pink-Violet-Dream](https://github.com/dammitqueen/Pink-Violet-Dream) | ![Pink Violet Dream](https://raw.githubusercontent.com/dammitqueen/Pink-Violet-Dream/master/preview.png) |
+| [pgyogesh/obsidian-plainpage-theme](https://github.com/pgyogesh/obsidian-plainpage-theme) | ![Plainpage](https://raw.githubusercontent.com/pgyogesh/obsidian-plainpage-theme/master/docs/screenshots/hero.png) |
+| [zhuzhige123/obsidian-weave-surface](https://github.com/zhuzhige123/obsidian-weave-surface) | ![Weave Surface](https://raw.githubusercontent.com/zhuzhige123/obsidian-weave-surface/master/dark%20theme.png) |
+| [jmshinhwa/readystack-obsidian-warm-dark](https://github.com/jmshinhwa/readystack-obsidian-warm-dark) | ![ReadyStack Warm Dark](https://raw.githubusercontent.com/jmshinhwa/readystack-obsidian-warm-dark/master/screenshot.png) |
+| [pearcepunisher/monospace-obsidian](https://github.com/pearcepunisher/monospace-obsidian) | ![Monospace Dark](https://raw.githubusercontent.com/pearcepunisher/monospace-obsidian/master/screenshot.png) |
