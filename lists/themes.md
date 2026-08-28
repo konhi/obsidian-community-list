@@ -708,3 +708,6 @@
 | [zhuzhige123/obsidian-weave-surface](https://github.com/zhuzhige123/obsidian-weave-surface) | ![Weave Surface](https://raw.githubusercontent.com/zhuzhige123/obsidian-weave-surface/master/dark%20theme.png) |
 | [jmshinhwa/readystack-obsidian-warm-dark](https://github.com/jmshinhwa/readystack-obsidian-warm-dark) | ![ReadyStack Warm Dark](https://raw.githubusercontent.com/jmshinhwa/readystack-obsidian-warm-dark/master/screenshot.png) |
 | [pearcepunisher/monospace-obsidian](https://github.com/pearcepunisher/monospace-obsidian) | ![Monospace Dark](https://raw.githubusercontent.com/pearcepunisher/monospace-obsidian/master/screenshot.png) |
+| [surviverice/nytharael-theme](https://github.com/surviverice/nytharael-theme) | ![Nytharael](https://raw.githubusercontent.com/surviverice/nytharael-theme/master/screenshot.png) |
+| [squitoey/obsidian-desert](https://github.com/squitoey/obsidian-desert) | ![Desert](https://raw.githubusercontent.com/squitoey/obsidian-desert/master/screenshots/dark.png) |
+| [rikilamadrid/obsidian-afterglow](https://github.com/rikilamadrid/obsidian-afterglow) | ![Afterglow](https://raw.githubusercontent.com/rikilamadrid/obsidian-afterglow/master/screenshot.png) |
