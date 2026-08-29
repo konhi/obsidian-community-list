@@ -711,3 +711,5 @@
 | [surviverice/nytharael-theme](https://github.com/surviverice/nytharael-theme) | ![Nytharael](https://raw.githubusercontent.com/surviverice/nytharael-theme/master/screenshot.png) |
 | [squitoey/obsidian-desert](https://github.com/squitoey/obsidian-desert) | ![Desert](https://raw.githubusercontent.com/squitoey/obsidian-desert/master/screenshots/dark.png) |
 | [rikilamadrid/obsidian-afterglow](https://github.com/rikilamadrid/obsidian-afterglow) | ![Afterglow](https://raw.githubusercontent.com/rikilamadrid/obsidian-afterglow/master/screenshot.png) |
+| [jasonqg26/NuxPrism-Midnight](https://github.com/jasonqg26/NuxPrism-Midnight) | ![NuxPrism Midnight](https://raw.githubusercontent.com/jasonqg26/NuxPrism-Midnight/master/./screenshots/midnight-prism.png) |
+| [myicor/inkline-obsidian](https://github.com/myicor/inkline-obsidian) | ![myICOR INKLINE](https://raw.githubusercontent.com/myicor/inkline-obsidian/master/screenshot.png) |
