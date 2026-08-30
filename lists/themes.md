@@ -713,3 +713,5 @@
 | [rikilamadrid/obsidian-afterglow](https://github.com/rikilamadrid/obsidian-afterglow) | ![Afterglow](https://raw.githubusercontent.com/rikilamadrid/obsidian-afterglow/master/screenshot.png) |
 | [jasonqg26/NuxPrism-Midnight](https://github.com/jasonqg26/NuxPrism-Midnight) | ![NuxPrism Midnight](https://raw.githubusercontent.com/jasonqg26/NuxPrism-Midnight/master/./screenshots/midnight-prism.png) |
 | [myicor/inkline-obsidian](https://github.com/myicor/inkline-obsidian) | ![myICOR INKLINE](https://raw.githubusercontent.com/myicor/inkline-obsidian/master/screenshot.png) |
+| [yixuan-space/obsidian-lumin](https://github.com/yixuan-space/obsidian-lumin) | ![Lumin](https://raw.githubusercontent.com/yixuan-space/obsidian-lumin/master/img/hero.png) |
+| [gstoneflip722/obsidian-theme-flipart86](https://github.com/gstoneflip722/obsidian-theme-flipart86) | ![FlipArt86](https://raw.githubusercontent.com/gstoneflip722/obsidian-theme-flipart86/master/screenshot.png) |
