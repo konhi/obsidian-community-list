@@ -516,7 +516,6 @@
 | [linyanna/panda-syntax-obsidian](https://github.com/linyanna/panda-syntax-obsidian) | ![Panda Syntax](https://raw.githubusercontent.com/linyanna/panda-syntax-obsidian/master/panda-syntax-dark.png) |
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
-| [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
 | [elijahchan2019/obsidian-folio-theme](https://github.com/elijahchan2019/obsidian-folio-theme) | ![Folio](https://raw.githubusercontent.com/elijahchan2019/obsidian-folio-theme/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
@@ -712,6 +711,6 @@
 | [squitoey/obsidian-desert](https://github.com/squitoey/obsidian-desert) | ![Desert](https://raw.githubusercontent.com/squitoey/obsidian-desert/master/screenshots/dark.png) |
 | [rikilamadrid/obsidian-afterglow](https://github.com/rikilamadrid/obsidian-afterglow) | ![Afterglow](https://raw.githubusercontent.com/rikilamadrid/obsidian-afterglow/master/screenshot.png) |
 | [jasonqg26/NuxPrism-Midnight](https://github.com/jasonqg26/NuxPrism-Midnight) | ![NuxPrism Midnight](https://raw.githubusercontent.com/jasonqg26/NuxPrism-Midnight/master/./screenshots/midnight-prism.png) |
-| [myicor/inkline-obsidian](https://github.com/myicor/inkline-obsidian) | ![myICOR INKLINE](https://raw.githubusercontent.com/myicor/inkline-obsidian/master/screenshot.png) |
 | [yixuan-space/obsidian-lumin](https://github.com/yixuan-space/obsidian-lumin) | ![Lumin](https://raw.githubusercontent.com/yixuan-space/obsidian-lumin/master/img/hero.png) |
 | [gstoneflip722/obsidian-theme-flipart86](https://github.com/gstoneflip722/obsidian-theme-flipart86) | ![FlipArt86](https://raw.githubusercontent.com/gstoneflip722/obsidian-theme-flipart86/master/screenshot.png) |
+| [myicor/icor-for-life-inkline](https://github.com/myicor/icor-for-life-inkline) | ![ICOR for Life - INKLINE](https://raw.githubusercontent.com/myicor/icor-for-life-inkline/master/screenshot.png) |
