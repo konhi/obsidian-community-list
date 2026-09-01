@@ -441,7 +441,7 @@
 | [meimakes/obsidian-retro-terminal-theme](https://github.com/meimakes/obsidian-retro-terminal-theme) | ![Retro Terminal](https://raw.githubusercontent.com/meimakes/obsidian-retro-terminal-theme/master/screenshot.png) |
 | [lukokaravan-cloud/karadigm](https://github.com/lukokaravan-cloud/karadigm) | ![Karadigm](https://raw.githubusercontent.com/lukokaravan-cloud/karadigm/master/screenshot.png) |
 | [lemon695/obsidian-theme-ouroboros](https://github.com/lemon695/obsidian-theme-ouroboros) | ![Ouroboros](https://raw.githubusercontent.com/lemon695/obsidian-theme-ouroboros/master/screenshot.png) |
-| [adnan0-im/Obisidian_Cinderpaper](https://github.com/adnan0-im/Obisidian_Cinderpaper) | ![Cinderpaper](https://raw.githubusercontent.com/adnan0-im/Obisidian_Cinderpaper/master/screenshot.png) |
+| [adnan0-im/Cinderpaper](https://github.com/adnan0-im/Cinderpaper) | ![Cinderpaper](https://raw.githubusercontent.com/adnan0-im/Cinderpaper/master/screenshot.png) |
 | [zojer-studio/prose-obsidian](https://github.com/zojer-studio/prose-obsidian) | ![Prose](https://raw.githubusercontent.com/zojer-studio/prose-obsidian/master/screenshot.png) |
 | [infosecwarrior/Infosecwarrior-UI](https://github.com/infosecwarrior/Infosecwarrior-UI) | ![Infosecwarrior UI](https://raw.githubusercontent.com/infosecwarrior/Infosecwarrior-UI/master/Infosecwarrior-UI-Preview.png) |
 | [ethanthatonekid/obsidian-nerv](https://github.com/ethanthatonekid/obsidian-nerv) | ![nerv](https://raw.githubusercontent.com/ethanthatonekid/obsidian-nerv/master/screenshot.png) |
@@ -455,7 +455,6 @@
 | [adnan-malik-26/obsidian-ayu-dark](https://github.com/adnan-malik-26/obsidian-ayu-dark) | ![Ayu Dark](https://raw.githubusercontent.com/adnan-malik-26/obsidian-ayu-dark/master/docs/images/screenshot.png) |
 | [kubixservice/obsidian-nyan-theme](https://github.com/kubixservice/obsidian-nyan-theme) | ![Nyan](https://raw.githubusercontent.com/kubixservice/obsidian-nyan-theme/master/screenshot-dark.png) |
 | [arun-gajaraj/claude-theme-for-obsidian](https://github.com/arun-gajaraj/claude-theme-for-obsidian) | ![Claude](https://raw.githubusercontent.com/arun-gajaraj/claude-theme-for-obsidian/master/claude-obsidian-thumbnail.png) |
-| [seyhunak/CraftedObsidianTheme](https://github.com/seyhunak/CraftedObsidianTheme) | ![Crafted](https://raw.githubusercontent.com/seyhunak/CraftedObsidianTheme/master/screenshot.png) |
 | [soykindabored/srcery-obsidian](https://github.com/soykindabored/srcery-obsidian) | ![Srcery](https://raw.githubusercontent.com/soykindabored/srcery-obsidian/master/screenshot.png) |
 | [eugenesvk/Obsidian-Densy](https://github.com/eugenesvk/Obsidian-Densy) | ![Densy](https://raw.githubusercontent.com/eugenesvk/Obsidian-Densy/master/img/screenshot.png) |
 | [iodic/obsidian-ayu-theme](https://github.com/iodic/obsidian-ayu-theme) | ![Ayu Palette](https://raw.githubusercontent.com/iodic/obsidian-ayu-theme/master/theme-screenshot.png) |
@@ -545,7 +544,7 @@
 | [rhydlewis/obsidian-ember](https://github.com/rhydlewis/obsidian-ember) | ![Ember](https://raw.githubusercontent.com/rhydlewis/obsidian-ember/master/screenshot.png) |
 | [kodamachameleon/Ecdysis](https://github.com/kodamachameleon/Ecdysis) | ![Ecdysis](https://raw.githubusercontent.com/kodamachameleon/Ecdysis/master/screenshot.png) |
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
-| [brightwav3/obsidian-paper-source-theme](https://github.com/brightwav3/obsidian-paper-source-theme) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/obsidian-paper-source-theme/master/screenshot.png) |
+| [brightwav3/Paper-Source](https://github.com/brightwav3/Paper-Source) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/Paper-Source/master/screenshot.png) |
 | [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
 | [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
 | [vforge/obsidian-scanline](https://github.com/vforge/obsidian-scanline) | ![Scanline](https://raw.githubusercontent.com/vforge/obsidian-scanline/master/screenshot.png) |
@@ -615,7 +614,7 @@
 | [7eahaus/dissociated-identitea](https://github.com/7eahaus/dissociated-identitea) | ![Dissociated IdentiTea](https://raw.githubusercontent.com/7eahaus/dissociated-identitea/master/screenshots/darkmode-overview.png) |
 | [sasecurityn/SAzure-Glass](https://github.com/sasecurityn/SAzure-Glass) | ![SAzure Glass](https://raw.githubusercontent.com/sasecurityn/SAzure-Glass/master/screenshot.png) |
 | [qanszer/another-obsidian-nord-theme](https://github.com/qanszer/another-obsidian-nord-theme) | ![Another Nord](https://raw.githubusercontent.com/qanszer/another-obsidian-nord-theme/master/dark.png) |
-| [giselle-tr/Oat-Latte-Theme-Obsidian](https://github.com/giselle-tr/Oat-Latte-Theme-Obsidian) | ![Oat Latte](https://raw.githubusercontent.com/giselle-tr/Oat-Latte-Theme-Obsidian/master/screenshot.png) |
+| [giselle-tr/Oat-Latte](https://github.com/giselle-tr/Oat-Latte) | ![Oat Latte](https://raw.githubusercontent.com/giselle-tr/Oat-Latte/master/screenshot.png) |
 | [lisitan/esther-obsidian-typora-themes](https://github.com/lisitan/esther-obsidian-typora-themes) | ![Esther Inspired](https://raw.githubusercontent.com/lisitan/esther-obsidian-typora-themes/master/screenshot.png) |
 | [law-of-cycles/claude-paper-obsidian](https://github.com/law-of-cycles/claude-paper-obsidian) | ![Claude Paper](https://raw.githubusercontent.com/law-of-cycles/claude-paper-obsidian/master/screenshot.png) |
 | [cyriusweng/opal-theme](https://github.com/cyriusweng/opal-theme) | ![Opal](https://raw.githubusercontent.com/cyriusweng/opal-theme/master/screenshot.png) |
@@ -714,3 +713,7 @@
 | [yixuan-space/obsidian-lumin](https://github.com/yixuan-space/obsidian-lumin) | ![Lumin](https://raw.githubusercontent.com/yixuan-space/obsidian-lumin/master/img/hero.png) |
 | [gstoneflip722/obsidian-theme-flipart86](https://github.com/gstoneflip722/obsidian-theme-flipart86) | ![FlipArt86](https://raw.githubusercontent.com/gstoneflip722/obsidian-theme-flipart86/master/screenshot.png) |
 | [myicor/icor-for-life-inkline](https://github.com/myicor/icor-for-life-inkline) | ![ICOR for Life - INKLINE](https://raw.githubusercontent.com/myicor/icor-for-life-inkline/master/screenshot.png) |
+| [sagewood-theme/obsidian](https://github.com/sagewood-theme/obsidian) | ![Sagewood](https://raw.githubusercontent.com/sagewood-theme/obsidian/master/obsidianscreenshot.png) |
+| [ivaneye/OnePage](https://github.com/ivaneye/OnePage) | ![OnePage](https://raw.githubusercontent.com/ivaneye/OnePage/master/preview.png) |
+| [mogpduck/obsidian-SpeedPpuccin](https://github.com/mogpduck/obsidian-SpeedPpuccin) | ![SpeedPpuccin](https://raw.githubusercontent.com/mogpduck/obsidian-SpeedPpuccin/master/theme_image.png) |
+| [dyse-sofqi/Ethereal](https://github.com/dyse-sofqi/Ethereal) | ![Ethereal](https://raw.githubusercontent.com/dyse-sofqi/Ethereal/master/screenshot.png) |
