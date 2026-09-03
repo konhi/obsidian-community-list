@@ -723,3 +723,6 @@
 | [anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-2.04](https://github.com/anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-2.04) | ![Modern Amiga Workbench 2.04 inspired](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-2.04/master/screenshot.png) |
 | [anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-3.1](https://github.com/anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-3.1) | ![Modern Amiga Workbench 3.1 inspired](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-3.1/master/screenshot.png) |
 | [sleepyzip/qudian-obsidian](https://github.com/sleepyzip/qudian-obsidian) | ![Qudian](https://raw.githubusercontent.com/sleepyzip/qudian-obsidian/master/screenshot.png) |
+| [quanru/aino-obsidian-theme](https://github.com/quanru/aino-obsidian-theme) | ![Aino](https://raw.githubusercontent.com/quanru/aino-obsidian-theme/master/screenshots/aino-cover-1.0.2.png) |
+| [mz-wang/wikidian](https://github.com/mz-wang/wikidian) | ![Wikidian](https://raw.githubusercontent.com/mz-wang/wikidian/master/screenshots/store.png) |
+| [crluehmann/report-writer](https://github.com/crluehmann/report-writer) | ![Report Writer](https://raw.githubusercontent.com/crluehmann/report-writer/master/screenshot.png) |
