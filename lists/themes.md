@@ -728,3 +728,5 @@
 | [mz-wang/wikidian](https://github.com/mz-wang/wikidian) | ![Wikidian](https://raw.githubusercontent.com/mz-wang/wikidian/master/screenshots/store.png) |
 | [crluehmann/report-writer](https://github.com/crluehmann/report-writer) | ![Report Writer](https://raw.githubusercontent.com/crluehmann/report-writer/master/screenshot.png) |
 | [devabdallahabdelrahim/atom-one-pro](https://github.com/devabdallahabdelrahim/atom-one-pro) | ![Atom One Pro](https://raw.githubusercontent.com/devabdallahabdelrahim/atom-one-pro/master/assets/dark%20theme%20main%20preview%20screenshot.png) |
+| [mariohaya/lesswrong-obsidian-theme](https://github.com/mariohaya/lesswrong-obsidian-theme) | ![LessWrong Inspired](https://raw.githubusercontent.com/mariohaya/lesswrong-obsidian-theme/master/screenshot.png) |
+| [w-o-debian/ivory-garden](https://github.com/w-o-debian/ivory-garden) | ![Ivory Garden](https://raw.githubusercontent.com/w-o-debian/ivory-garden/master/screenshots/social-preview.png) |
