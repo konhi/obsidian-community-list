@@ -219,7 +219,7 @@
 | [isax785/obsidian-soloing](https://github.com/isax785/obsidian-soloing) | ![Soloing](https://raw.githubusercontent.com/isax785/obsidian-soloing/master/img/soloing_small.png) |
 | [contrapasso3/Reshi](https://github.com/contrapasso3/Reshi) | ![Reshi](https://raw.githubusercontent.com/contrapasso3/Reshi/master/Reshi%20Preview.png) |
 | [mprojectscode/obsidian-focus-theme](https://github.com/mprojectscode/obsidian-focus-theme) | ![Focus](https://raw.githubusercontent.com/mprojectscode/obsidian-focus-theme/master/FocusThemeImage.png) |
-| [natowb/obsidian-nordic](https://github.com/natowb/obsidian-nordic) | ![Nordic](https://raw.githubusercontent.com/natowb/obsidian-nordic/master/obsidian-nordic.png) |
+| [natowb/obsidian-nordic](https://github.com/natowb/obsidian-nordic) | ![Nordic](https://raw.githubusercontent.com/natowb/obsidian-nordic/master/assets/obsidian-nordic-full.png) |
 | [vladstudio/tiniri-obsidian](https://github.com/vladstudio/tiniri-obsidian) | ![Tiniri](https://raw.githubusercontent.com/vladstudio/tiniri-obsidian/master/screenshot.png) |
 | [indyandie/kurokula-obsidian-theme](https://github.com/indyandie/kurokula-obsidian-theme) | ![Kurokula](https://raw.githubusercontent.com/indyandie/kurokula-obsidian-theme/master/dark.png) |
 | [eldritch-theme/obsidian](https://github.com/eldritch-theme/obsidian) | ![Eldritch](https://raw.githubusercontent.com/eldritch-theme/obsidian/master/eldritch.png) |
@@ -727,6 +727,5 @@
 | [quanru/aino-obsidian-theme](https://github.com/quanru/aino-obsidian-theme) | ![Aino](https://raw.githubusercontent.com/quanru/aino-obsidian-theme/master/screenshots/aino-cover-1.0.2.png) |
 | [mz-wang/wikidian](https://github.com/mz-wang/wikidian) | ![Wikidian](https://raw.githubusercontent.com/mz-wang/wikidian/master/screenshots/store.png) |
 | [crluehmann/report-writer](https://github.com/crluehmann/report-writer) | ![Report Writer](https://raw.githubusercontent.com/crluehmann/report-writer/master/screenshot.png) |
-| [devabdallahabdelrahim/atom-one-pro](https://github.com/devabdallahabdelrahim/atom-one-pro) | ![Atom One Pro](https://raw.githubusercontent.com/devabdallahabdelrahim/atom-one-pro/master/assets/dark%20theme%20main%20preview%20screenshot.png) |
-| [mariohaya/lesswrong-obsidian-theme](https://github.com/mariohaya/lesswrong-obsidian-theme) | ![LessWrong Inspired](https://raw.githubusercontent.com/mariohaya/lesswrong-obsidian-theme/master/screenshot.png) |
 | [w-o-debian/ivory-garden](https://github.com/w-o-debian/ivory-garden) | ![Ivory Garden](https://raw.githubusercontent.com/w-o-debian/ivory-garden/master/screenshots/social-preview.png) |
+| [w-o-debian/glacial-bloom](https://github.com/w-o-debian/glacial-bloom) | ![Glacial Bloom](https://raw.githubusercontent.com/w-o-debian/glacial-bloom/master/screenshots/social-preview.png) |
