@@ -461,6 +461,7 @@
 | [leapsurge/Monkey-King](https://github.com/leapsurge/Monkey-King) | ![Monkey King](https://raw.githubusercontent.com/leapsurge/Monkey-King/master/cover-optimized.jpg) |
 | [kylesnav/obsidian-delightful](https://github.com/kylesnav/obsidian-delightful) | ![Delightful](https://raw.githubusercontent.com/kylesnav/obsidian-delightful/master/screenshot.png) |
 | [johanviberg/obsidian-phosphor](https://github.com/johanviberg/obsidian-phosphor) | ![Phosphor](https://raw.githubusercontent.com/johanviberg/obsidian-phosphor/master/screenshot.png) |
+| [magmabits/Panorama-Theme](https://github.com/magmabits/Panorama-Theme) | ![Panorama](https://raw.githubusercontent.com/magmabits/Panorama-Theme/master/panorama-screen.png) |
 | [leonjacobs-collab/obsidian-terminal-theme](https://github.com/leonjacobs-collab/obsidian-terminal-theme) | ![Obsiddy-In Terminal](https://raw.githubusercontent.com/leonjacobs-collab/obsidian-terminal-theme/master/screenshot.png) |
 | [howardzhangdqs/Latsidian](https://github.com/howardzhangdqs/Latsidian) | ![Latsidian](https://raw.githubusercontent.com/howardzhangdqs/Latsidian/master/light-simple-small.png) |
 | [code-alchemist-dev/obsidian-crestfall](https://github.com/code-alchemist-dev/obsidian-crestfall) | ![Crestfall](https://raw.githubusercontent.com/code-alchemist-dev/obsidian-crestfall/master/screenshot.png) |
@@ -727,5 +728,9 @@
 | [quanru/aino-obsidian-theme](https://github.com/quanru/aino-obsidian-theme) | ![Aino](https://raw.githubusercontent.com/quanru/aino-obsidian-theme/master/screenshots/aino-cover-1.0.2.png) |
 | [mz-wang/wikidian](https://github.com/mz-wang/wikidian) | ![Wikidian](https://raw.githubusercontent.com/mz-wang/wikidian/master/screenshots/store.png) |
 | [crluehmann/report-writer](https://github.com/crluehmann/report-writer) | ![Report Writer](https://raw.githubusercontent.com/crluehmann/report-writer/master/screenshot.png) |
+| [elegra1965-source/obsidian-nms-atlas](https://github.com/elegra1965-source/obsidian-nms-atlas) | ![No Mans Sky - Atlas](https://raw.githubusercontent.com/elegra1965-source/obsidian-nms-atlas/master/Screenshot.png) |
+| [devabdallahabdelrahim/atom-one-pro-obsidian](https://github.com/devabdallahabdelrahim/atom-one-pro-obsidian) | ![Atom One Pro](https://raw.githubusercontent.com/devabdallahabdelrahim/atom-one-pro-obsidian/master/docs/assets/dark%20theme%20setting%20preview%20screenshot.png) |
 | [w-o-debian/ivory-garden](https://github.com/w-o-debian/ivory-garden) | ![Ivory Garden](https://raw.githubusercontent.com/w-o-debian/ivory-garden/master/screenshots/social-preview.png) |
 | [w-o-debian/glacial-bloom](https://github.com/w-o-debian/glacial-bloom) | ![Glacial Bloom](https://raw.githubusercontent.com/w-o-debian/glacial-bloom/master/screenshots/social-preview.png) |
+| [serena-sheng/obsidian-astrum](https://github.com/serena-sheng/obsidian-astrum) | ![Astrum](https://raw.githubusercontent.com/serena-sheng/obsidian-astrum/master/screenshot.png) |
+| [beingbrendan/Lick](https://github.com/beingbrendan/Lick) | ![Lick](https://raw.githubusercontent.com/beingbrendan/Lick/master/preview.png) |
