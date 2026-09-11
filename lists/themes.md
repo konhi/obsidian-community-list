@@ -426,6 +426,7 @@
 | [zerokei/Litos](https://github.com/zerokei/Litos) | ![Litos](https://raw.githubusercontent.com/zerokei/Litos/master/screenshot.png) |
 | [cybrcore/cybr-obsidian](https://github.com/cybrcore/cybr-obsidian) | ![cybrcore](https://raw.githubusercontent.com/cybrcore/cybr-obsidian/master/cybr-obsidian.png) |
 | [brtmax/obsidian-warm-springs](https://github.com/brtmax/obsidian-warm-springs) | ![Warm Springs](https://raw.githubusercontent.com/brtmax/obsidian-warm-springs/master/warm-springs-preview.png) |
+| [mrparalloid/nu-ayu](https://github.com/mrparalloid/nu-ayu) | ![Nu Ayu](https://raw.githubusercontent.com/mrparalloid/nu-ayu/master/ayu-screenshot.jpg) |
 | [petercartersr/Obsidian-Theme](https://github.com/petercartersr/Obsidian-Theme) | ![Arcadia](https://raw.githubusercontent.com/petercartersr/Obsidian-Theme/master/screenshots/hero-dark.png) |
 | [czxtm/apathy-obsidian](https://github.com/czxtm/apathy-obsidian) | ![Apathy](https://raw.githubusercontent.com/czxtm/apathy-obsidian/master/screenshot.png) |
 | [sir-marc-the-scribe/Obsidian-theme---word-office-2019](https://github.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019) | ![word_2019](https://raw.githubusercontent.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019/master/screenshot.png) |
@@ -547,7 +548,6 @@
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
 | [brightwav3/Paper-Source](https://github.com/brightwav3/Paper-Source) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/Paper-Source/master/screenshot.png) |
 | [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
-| [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
 | [vforge/obsidian-scanline](https://github.com/vforge/obsidian-scanline) | ![Scanline](https://raw.githubusercontent.com/vforge/obsidian-scanline/master/screenshot.png) |
 | [brightwav3/Coding-Agent-Theme](https://github.com/brightwav3/Coding-Agent-Theme) | ![Coding Agent](https://raw.githubusercontent.com/brightwav3/Coding-Agent-Theme/master/screenshot.png) |
 | [hearth-code/hearthcode-obsidian](https://github.com/hearth-code/hearthcode-obsidian) | ![HearthCode](https://raw.githubusercontent.com/hearth-code/hearthcode-obsidian/master/screenshot.png) |
@@ -728,3 +728,5 @@
 | [beingbrendan/Lick](https://github.com/beingbrendan/Lick) | ![Lick](https://raw.githubusercontent.com/beingbrendan/Lick/master/preview.png) |
 | [mspirek/night-owl-classic](https://github.com/mspirek/night-owl-classic) | ![Night Owl Classic](https://raw.githubusercontent.com/mspirek/night-owl-classic/master/screenshot.png) |
 | [ramenofficialgovpatsy/Cooper-Rose](https://github.com/ramenofficialgovpatsy/Cooper-Rose) | ![Copper Rose](https://raw.githubusercontent.com/ramenofficialgovpatsy/Cooper-Rose/master/screenshot.png) |
+| [number-zero/obsidian-htb-hud](https://github.com/number-zero/obsidian-htb-hud) | ![HTB HUD](https://raw.githubusercontent.com/number-zero/obsidian-htb-hud/master/screenshot.png) |
+| [yosukedesign/yosuke-glass](https://github.com/yosukedesign/yosuke-glass) | ![Yosuke Glass](https://raw.githubusercontent.com/yosukedesign/yosuke-glass/master/screenshot.png) |
