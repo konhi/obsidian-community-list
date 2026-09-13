@@ -696,9 +696,11 @@
 | [paddychenc75/obsidian-lumen](https://github.com/paddychenc75/obsidian-lumen) | ![Lumen Glass](https://raw.githubusercontent.com/paddychenc75/obsidian-lumen/master/assets/screenshot.png) |
 | [shivu516/Primidian](https://github.com/shivu516/Primidian) | ![Primidian](https://raw.githubusercontent.com/shivu516/Primidian/master/assets/images/Primidian_Banner_smol.png) |
 | [rifts-obsidian-laboratory/theme-elegance-froide](https://github.com/rifts-obsidian-laboratory/theme-elegance-froide) | ![Elegance froide](https://raw.githubusercontent.com/rifts-obsidian-laboratory/theme-elegance-froide/master/assets/screenshot.png) |
+| [zeraphim/obsidian-theme](https://github.com/zeraphim/obsidian-theme) | ![Zeraphim](https://raw.githubusercontent.com/zeraphim/obsidian-theme/master/assets/screenshot.png) |
 | [linuz90/obsidian-verso](https://github.com/linuz90/obsidian-verso) | ![Verso](https://raw.githubusercontent.com/linuz90/obsidian-verso/master/screenshots/verso.png) |
 | [czunique/obsidian-molan](https://github.com/czunique/obsidian-molan) | ![MoLan](https://raw.githubusercontent.com/czunique/obsidian-molan/master/screenshots/molan-theme-preview.png) |
 | [markusjohansen/warmpress](https://github.com/markusjohansen/warmpress) | ![Warm Press](https://raw.githubusercontent.com/markusjohansen/warmpress/master/screenshot.png) |
+| [omshirse/obsidian_cozy_journal](https://github.com/omshirse/obsidian_cozy_journal) | ![Cozy Journal](https://raw.githubusercontent.com/omshirse/obsidian_cozy_journal/master/Obsidian_theme.png) |
 | [inovector/obsidian-kanagawa-tide](https://github.com/inovector/obsidian-kanagawa-tide) | ![Kanagawa Tide](https://raw.githubusercontent.com/inovector/obsidian-kanagawa-tide/master/images/cover.webp) |
 | [dammitqueen/Pink-Violet-Dream](https://github.com/dammitqueen/Pink-Violet-Dream) | ![Pink Violet Dream](https://raw.githubusercontent.com/dammitqueen/Pink-Violet-Dream/master/preview.png) |
 | [pgyogesh/obsidian-plainpage-theme](https://github.com/pgyogesh/obsidian-plainpage-theme) | ![Plainpage](https://raw.githubusercontent.com/pgyogesh/obsidian-plainpage-theme/master/docs/screenshots/hero.png) |
@@ -725,6 +727,7 @@
 | [mz-wang/wikidian](https://github.com/mz-wang/wikidian) | ![Wikidian](https://raw.githubusercontent.com/mz-wang/wikidian/master/screenshots/store.png) |
 | [crluehmann/report-writer](https://github.com/crluehmann/report-writer) | ![Report Writer](https://raw.githubusercontent.com/crluehmann/report-writer/master/screenshot.png) |
 | [devabdallahabdelrahim/atom-one-pro-obsidian](https://github.com/devabdallahabdelrahim/atom-one-pro-obsidian) | ![Atom One Pro](https://raw.githubusercontent.com/devabdallahabdelrahim/atom-one-pro-obsidian/master/docs/assets/dark%20theme%20setting%20preview%20screenshot.png) |
+| [w-o-debian/ivory-garden](https://github.com/w-o-debian/ivory-garden) | ![Ivory Garden](https://raw.githubusercontent.com/w-o-debian/ivory-garden/master/screenshots/social-preview.png) |
 | [w-o-debian/glacial-bloom](https://github.com/w-o-debian/glacial-bloom) | ![Glacial Bloom](https://raw.githubusercontent.com/w-o-debian/glacial-bloom/master/screenshots/social-preview.png) |
 | [serena-sheng/obsidian-astrum](https://github.com/serena-sheng/obsidian-astrum) | ![Astrum](https://raw.githubusercontent.com/serena-sheng/obsidian-astrum/master/screenshot.png) |
 | [beingbrendan/Lick](https://github.com/beingbrendan/Lick) | ![Lick](https://raw.githubusercontent.com/beingbrendan/Lick/master/preview.png) |
@@ -735,3 +738,9 @@
 | [creativemindrito/bordeaux-theme-obsidian](https://github.com/creativemindrito/bordeaux-theme-obsidian) | ![Bordeaux](https://raw.githubusercontent.com/creativemindrito/bordeaux-theme-obsidian/master/banner.png) |
 | [ahmadalkfri/netrunner-obsidian](https://github.com/ahmadalkfri/netrunner-obsidian) | ![Netrunner](https://raw.githubusercontent.com/ahmadalkfri/netrunner-obsidian/master/screenshots/testScreenshot.png) |
 | [real-fruit-snacks/obsidian-glow](https://github.com/real-fruit-snacks/obsidian-glow) | ![Glow](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-glow/master/screenshot.png) |
+| [real-fruit-snacks/obsidian-outrun](https://github.com/real-fruit-snacks/obsidian-outrun) | ![Outrun](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-outrun/master/screenshot.png) |
+| [real-fruit-snacks/obsidian-dossier](https://github.com/real-fruit-snacks/obsidian-dossier) | ![Dossier](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-dossier/master/screenshot.png) |
+| [cxw91/obsidian-vscode-theme](https://github.com/cxw91/obsidian-vscode-theme) | ![VS Code](https://raw.githubusercontent.com/cxw91/obsidian-vscode-theme/master/screenshot.png) |
+| [real-fruit-snacks/obsidian-comic](https://github.com/real-fruit-snacks/obsidian-comic) | ![Comic](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-comic/master/screenshot.png) |
+| [real-fruit-snacks/obsidian-grimoire](https://github.com/real-fruit-snacks/obsidian-grimoire) | ![Grimoire](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-grimoire/master/screenshot.png) |
+| [beppepic/obsidian-writing-room](https://github.com/beppepic/obsidian-writing-room) | ![Writing Room](https://raw.githubusercontent.com/beppepic/obsidian-writing-room/master/assets/preview.png) |
