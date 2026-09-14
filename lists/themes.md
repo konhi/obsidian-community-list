@@ -636,7 +636,6 @@
 | [nicolascereijo/obsidian-vitela](https://github.com/nicolascereijo/obsidian-vitela) | ![Vitela](https://raw.githubusercontent.com/nicolascereijo/obsidian-vitela/master/screenshots/hero.png) |
 | [jmj-eo/obsidian-monogray](https://github.com/jmj-eo/obsidian-monogray) | ![MonoGray](https://raw.githubusercontent.com/jmj-eo/obsidian-monogray/master/screenshot.png) |
 | [hat-im/obsidian-red-theme](https://github.com/hat-im/obsidian-red-theme) | ![Red](https://raw.githubusercontent.com/hat-im/obsidian-red-theme/master/screenshot.png) |
-| [miaoziguan/obsidian-bamboo-china](https://github.com/miaoziguan/obsidian-bamboo-china) | ![Bamboo China](https://raw.githubusercontent.com/miaoziguan/obsidian-bamboo-china/master/image-1.png) |
 | [demian0311/obsidian-slate](https://github.com/demian0311/obsidian-slate) | ![Diagrammo Slate](https://raw.githubusercontent.com/demian0311/obsidian-slate/master/screenshot.png) |
 | [wesellis/vignelli-obsidian-theme](https://github.com/wesellis/vignelli-obsidian-theme) | ![Vignelli](https://raw.githubusercontent.com/wesellis/vignelli-obsidian-theme/master/assets/vignelli-hero.png) |
 | [drbap/magicuser-theme-for-obsidian](https://github.com/drbap/magicuser-theme-for-obsidian) | ![MagicUser](https://raw.githubusercontent.com/drbap/magicuser-theme-for-obsidian/master/screenshot.png) |
@@ -744,3 +743,10 @@
 | [real-fruit-snacks/obsidian-comic](https://github.com/real-fruit-snacks/obsidian-comic) | ![Comic](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-comic/master/screenshot.png) |
 | [real-fruit-snacks/obsidian-grimoire](https://github.com/real-fruit-snacks/obsidian-grimoire) | ![Grimoire](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-grimoire/master/screenshot.png) |
 | [beppepic/obsidian-writing-room](https://github.com/beppepic/obsidian-writing-room) | ![Writing Room](https://raw.githubusercontent.com/beppepic/obsidian-writing-room/master/assets/preview.png) |
+| [foreglow/obsidian](https://github.com/foreglow/obsidian) | ![Foreglow](https://raw.githubusercontent.com/foreglow/obsidian/master/foreglow-pack-obsidian-alt.png) |
+| [fourth-form/focal](https://github.com/fourth-form/focal) | ![Focal](https://raw.githubusercontent.com/fourth-form/focal/master/screenshot.png) |
+| [candrapradipa/obsidian-paperline](https://github.com/candrapradipa/obsidian-paperline) | ![Paperline](https://raw.githubusercontent.com/candrapradipa/obsidian-paperline/master/screenshot.png) |
+| [julez122/IA-Writer-Mint-Noir-Mobile](https://github.com/julez122/IA-Writer-Mint-Noir-Mobile) | ![IA Writer Mint Noir Mobile](https://raw.githubusercontent.com/julez122/IA-Writer-Mint-Noir-Mobile/master/screenshot_desktop.png) |
+| [peter-squentz/obsidian-countryside-dark-grok](https://github.com/peter-squentz/obsidian-countryside-dark-grok) | ![Countryside-Dark-Grok](https://raw.githubusercontent.com/peter-squentz/obsidian-countryside-dark-grok/master/obsidian-countryside-dark-grok.png) |
+| [peter-squentz/obsidian-countryside-dark-claude](https://github.com/peter-squentz/obsidian-countryside-dark-claude) | ![Countryside-Dark-Claude](https://raw.githubusercontent.com/peter-squentz/obsidian-countryside-dark-claude/master/obsidian-countryside-dark-claude.png) |
+| [andymdh/shrek-is-love](https://github.com/andymdh/shrek-is-love) | ![Shrek is Love](https://raw.githubusercontent.com/andymdh/shrek-is-love/master/screenshot.png) |
