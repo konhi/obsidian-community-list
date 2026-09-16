@@ -731,11 +731,11 @@
 | [serena-sheng/obsidian-astrum](https://github.com/serena-sheng/obsidian-astrum) | ![Astrum](https://raw.githubusercontent.com/serena-sheng/obsidian-astrum/master/screenshot.png) |
 | [beingbrendan/Lick](https://github.com/beingbrendan/Lick) | ![Lick](https://raw.githubusercontent.com/beingbrendan/Lick/master/preview.png) |
 | [mspirek/night-owl-classic](https://github.com/mspirek/night-owl-classic) | ![Night Owl Classic](https://raw.githubusercontent.com/mspirek/night-owl-classic/master/screenshot.png) |
-| [ramenofficialgovpatsy/Cooper-Rose](https://github.com/ramenofficialgovpatsy/Cooper-Rose) | ![Copper Rose](https://raw.githubusercontent.com/ramenofficialgovpatsy/Cooper-Rose/master/screenshot.png) |
+| [ramenofficialgovpatsy/Copper-Rose](https://github.com/ramenofficialgovpatsy/Copper-Rose) | ![Copper Rose](https://raw.githubusercontent.com/ramenofficialgovpatsy/Copper-Rose/master/screenshot.png) |
 | [number-zero/obsidian-htb-hud](https://github.com/number-zero/obsidian-htb-hud) | ![HTB HUD](https://raw.githubusercontent.com/number-zero/obsidian-htb-hud/master/screenshot.png) |
 | [yosukedesign/yosuke-glass](https://github.com/yosukedesign/yosuke-glass) | ![Yosuke Glass](https://raw.githubusercontent.com/yosukedesign/yosuke-glass/master/screenshot.png) |
 | [creativemindrito/bordeaux-theme-obsidian](https://github.com/creativemindrito/bordeaux-theme-obsidian) | ![Bordeaux](https://raw.githubusercontent.com/creativemindrito/bordeaux-theme-obsidian/master/banner.png) |
-| [ahmadalkfri/netrunner-obsidian](https://github.com/ahmadalkfri/netrunner-obsidian) | ![Netrunner](https://raw.githubusercontent.com/ahmadalkfri/netrunner-obsidian/master/screenshots/testScreenshot.png) |
+| [ahmadalkfri/netrunner-obsidian](https://github.com/ahmadalkfri/netrunner-obsidian) | ![Netrunner](https://raw.githubusercontent.com/ahmadalkfri/netrunner-obsidian/master/screenshots/netrunnerPreview.png) |
 | [real-fruit-snacks/obsidian-glow](https://github.com/real-fruit-snacks/obsidian-glow) | ![Glow](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-glow/master/screenshot.png) |
 | [real-fruit-snacks/obsidian-outrun](https://github.com/real-fruit-snacks/obsidian-outrun) | ![Outrun](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-outrun/master/screenshot.png) |
 | [real-fruit-snacks/obsidian-dossier](https://github.com/real-fruit-snacks/obsidian-dossier) | ![Dossier](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-dossier/master/screenshot.png) |
@@ -753,3 +753,5 @@
 | [richardqnguyen/obsidian-tea-and-coffee](https://github.com/richardqnguyen/obsidian-tea-and-coffee) | ![Tea and Coffee](https://raw.githubusercontent.com/richardqnguyen/obsidian-tea-and-coffee/master/cover.png) |
 | [ridusaini/obsidian-firelight](https://github.com/ridusaini/obsidian-firelight) | ![Firelight](https://raw.githubusercontent.com/ridusaini/obsidian-firelight/master/screenshot.png) |
 | [mit-bach/mit-dark](https://github.com/mit-bach/mit-dark) | ![MIT Dark](https://raw.githubusercontent.com/mit-bach/mit-dark/master/screenshot.png) |
+| [mattbirchler/bircharoo](https://github.com/mattbirchler/bircharoo) | ![Bircharoo](https://raw.githubusercontent.com/mattbirchler/bircharoo/master/screenshot.png) |
+| [arden-kfc/obsidian-theme-animal-island](https://github.com/arden-kfc/obsidian-theme-animal-island) | ![Animal Island](https://raw.githubusercontent.com/arden-kfc/obsidian-theme-animal-island/master/screenshots/screenshot.png) |
