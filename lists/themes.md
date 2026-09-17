@@ -530,7 +530,6 @@
 | [admiral9k/emrald-obsidian-theme](https://github.com/admiral9k/emrald-obsidian-theme) | ![EMRALD](https://raw.githubusercontent.com/admiral9k/emrald-obsidian-theme/master/screenshot.png) |
 | [jabaho9523/DarkKnightTheme](https://github.com/jabaho9523/DarkKnightTheme) | ![Dark Knight](https://raw.githubusercontent.com/jabaho9523/DarkKnightTheme/master/screenshot.png) |
 | [sonophage/Bureau](https://github.com/sonophage/Bureau) | ![Bureau](https://raw.githubusercontent.com/sonophage/Bureau/master/screenshots/bureau-wallpaper.webp) |
-| [rgormley/obsidian-github-dark-dimmed](https://github.com/rgormley/obsidian-github-dark-dimmed) | ![GitHub Dark Dimmed](https://raw.githubusercontent.com/rgormley/obsidian-github-dark-dimmed/master/imgs/promo.png) |
 | [gabrielbacha/Obsidian-Lucy](https://github.com/gabrielbacha/Obsidian-Lucy) | ![Lucy](https://raw.githubusercontent.com/gabrielbacha/Obsidian-Lucy/master/Screenshot-1.png) |
 | [matheuszarkov/slytherin](https://github.com/matheuszarkov/slytherin) | ![Slytherin](https://raw.githubusercontent.com/matheuszarkov/slytherin/master/Slytherin.png) |
 | [carnalmatrix/obsidian-mantle-zenith](https://github.com/carnalmatrix/obsidian-mantle-zenith) | ![Zenith](https://raw.githubusercontent.com/carnalmatrix/obsidian-mantle-zenith/master/screenshot.png) |
@@ -754,4 +753,7 @@
 | [ridusaini/obsidian-firelight](https://github.com/ridusaini/obsidian-firelight) | ![Firelight](https://raw.githubusercontent.com/ridusaini/obsidian-firelight/master/screenshot.png) |
 | [mit-bach/mit-dark](https://github.com/mit-bach/mit-dark) | ![MIT Dark](https://raw.githubusercontent.com/mit-bach/mit-dark/master/screenshot.png) |
 | [mattbirchler/bircharoo](https://github.com/mattbirchler/bircharoo) | ![Bircharoo](https://raw.githubusercontent.com/mattbirchler/bircharoo/master/screenshot.png) |
-| [arden-kfc/obsidian-theme-animal-island](https://github.com/arden-kfc/obsidian-theme-animal-island) | ![Animal Island](https://raw.githubusercontent.com/arden-kfc/obsidian-theme-animal-island/master/screenshots/screenshot.png) |
+| [yayii/obsidian-moyun-theme](https://github.com/yayii/obsidian-moyun-theme) | ![MoYun](https://raw.githubusercontent.com/yayii/obsidian-moyun-theme/master/screenshot.png) |
+| [kuguya-ai-app-develop/tsukuyomi-Obsidian-theme](https://github.com/kuguya-ai-app-develop/tsukuyomi-Obsidian-theme) | ![Tsukuyomi](https://raw.githubusercontent.com/kuguya-ai-app-develop/tsukuyomi-Obsidian-theme/master/screenshot.jpg) |
+| [tawandajosephmutsena/synkk-sketch-book](https://github.com/tawandajosephmutsena/synkk-sketch-book) | ![Synkk Sketch Book](https://raw.githubusercontent.com/tawandajosephmutsena/synkk-sketch-book/master/screenshot.png) |
+| [2chevskii/obsidian-theme-claudemd](https://github.com/2chevskii/obsidian-theme-claudemd) | ![Claude.md](https://raw.githubusercontent.com/2chevskii/obsidian-theme-claudemd/master/assets/screenshots/overview-warm.png) |
