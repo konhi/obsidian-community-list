@@ -177,7 +177,7 @@
 | [davidjroos/obsidian-notswift](https://github.com/davidjroos/obsidian-notswift) | ![NotSwift](https://raw.githubusercontent.com/davidjroos/obsidian-notswift/master/screenie.png) |
 | [x0aa7i/obsidian-neo](https://github.com/x0aa7i/obsidian-neo) | ![Neo](https://raw.githubusercontent.com/x0aa7i/obsidian-neo/master/cover.png) |
 | [sakuraisayeki/vanilla-amoled-theme](https://github.com/sakuraisayeki/vanilla-amoled-theme) | ![Vanilla AMOLED](https://raw.githubusercontent.com/sakuraisayeki/vanilla-amoled-theme/master/sample-screenshot-sm.png) |
-| [froq0/Qlean](https://github.com/froq0/Qlean) | ![Qlean](https://raw.githubusercontent.com/froq0/Qlean/master/assets/Qlean.png) |
+| [0froq/Qlean](https://github.com/0froq/Qlean) | ![Qlean](https://raw.githubusercontent.com/0froq/Qlean/master/assets/Qlean.png) |
 | [possibly-not/obsidian-aura-theme](https://github.com/possibly-not/obsidian-aura-theme) | ![Aura Dark](https://raw.githubusercontent.com/possibly-not/obsidian-aura-theme/master/img/aura_dark_diagonal.png) |
 | [warrobot10/Serika-for-obsidian](https://github.com/warrobot10/Serika-for-obsidian) | ![Serika](https://raw.githubusercontent.com/warrobot10/Serika-for-obsidian/master/Serika.png) |
 | [1612elphi/autotape-theme](https://github.com/1612elphi/autotape-theme) | ![Autotape](https://raw.githubusercontent.com/1612elphi/autotape-theme/master/Screen.png) |
@@ -530,11 +530,13 @@
 | [admiral9k/emrald-obsidian-theme](https://github.com/admiral9k/emrald-obsidian-theme) | ![EMRALD](https://raw.githubusercontent.com/admiral9k/emrald-obsidian-theme/master/screenshot.png) |
 | [jabaho9523/DarkKnightTheme](https://github.com/jabaho9523/DarkKnightTheme) | ![Dark Knight](https://raw.githubusercontent.com/jabaho9523/DarkKnightTheme/master/screenshot.png) |
 | [sonophage/Bureau](https://github.com/sonophage/Bureau) | ![Bureau](https://raw.githubusercontent.com/sonophage/Bureau/master/screenshots/bureau-wallpaper.webp) |
+| [rgormley/obsidian-github-dark-dimmed](https://github.com/rgormley/obsidian-github-dark-dimmed) | ![GitHub Dark Dimmed](https://raw.githubusercontent.com/rgormley/obsidian-github-dark-dimmed/master/imgs/promo.png) |
 | [gabrielbacha/Obsidian-Lucy](https://github.com/gabrielbacha/Obsidian-Lucy) | ![Lucy](https://raw.githubusercontent.com/gabrielbacha/Obsidian-Lucy/master/Screenshot-1.png) |
 | [matheuszarkov/slytherin](https://github.com/matheuszarkov/slytherin) | ![Slytherin](https://raw.githubusercontent.com/matheuszarkov/slytherin/master/Slytherin.png) |
 | [carnalmatrix/obsidian-mantle-zenith](https://github.com/carnalmatrix/obsidian-mantle-zenith) | ![Zenith](https://raw.githubusercontent.com/carnalmatrix/obsidian-mantle-zenith/master/screenshot.png) |
 | [niedzielawieczur/Anarchy](https://github.com/niedzielawieczur/Anarchy) | ![Anarchy](https://raw.githubusercontent.com/niedzielawieczur/Anarchy/master/Screenshot.png) |
 | [perinchiang/obsidian-misty-theme](https://github.com/perinchiang/obsidian-misty-theme) | ![Misty](https://raw.githubusercontent.com/perinchiang/obsidian-misty-theme/master/screenshot.png) |
+| [banastas/an-old-hope-obsidian-theme](https://github.com/banastas/an-old-hope-obsidian-theme) | ![An Old Hope](https://raw.githubusercontent.com/banastas/an-old-hope-obsidian-theme/master/screenshot.png) |
 | [bsbbera/atelier-obsidian](https://github.com/bsbbera/atelier-obsidian) | ![Atelier](https://raw.githubusercontent.com/bsbbera/atelier-obsidian/master/screenshot.png) |
 | [maniarasan-zuper/obsidian-zocean](https://github.com/maniarasan-zuper/obsidian-zocean) | ![Zocean](https://raw.githubusercontent.com/maniarasan-zuper/obsidian-zocean/master/preview.png) |
 | [voi-tech/obsidian-praxis](https://github.com/voi-tech/obsidian-praxis) | ![Praxis](https://raw.githubusercontent.com/voi-tech/obsidian-praxis/master/screenshot.png) |
@@ -753,7 +755,12 @@
 | [ridusaini/obsidian-firelight](https://github.com/ridusaini/obsidian-firelight) | ![Firelight](https://raw.githubusercontent.com/ridusaini/obsidian-firelight/master/screenshot.png) |
 | [mit-bach/mit-dark](https://github.com/mit-bach/mit-dark) | ![MIT Dark](https://raw.githubusercontent.com/mit-bach/mit-dark/master/screenshot.png) |
 | [mattbirchler/bircharoo](https://github.com/mattbirchler/bircharoo) | ![Bircharoo](https://raw.githubusercontent.com/mattbirchler/bircharoo/master/screenshot.png) |
+| [arden-kfc/obsidian-theme-animal-island](https://github.com/arden-kfc/obsidian-theme-animal-island) | ![Animal Island](https://raw.githubusercontent.com/arden-kfc/obsidian-theme-animal-island/master/screenshots/screenshot.png) |
 | [yayii/obsidian-moyun-theme](https://github.com/yayii/obsidian-moyun-theme) | ![MoYun](https://raw.githubusercontent.com/yayii/obsidian-moyun-theme/master/screenshot.png) |
 | [kuguya-ai-app-develop/tsukuyomi-Obsidian-theme](https://github.com/kuguya-ai-app-develop/tsukuyomi-Obsidian-theme) | ![Tsukuyomi](https://raw.githubusercontent.com/kuguya-ai-app-develop/tsukuyomi-Obsidian-theme/master/screenshot.jpg) |
 | [tawandajosephmutsena/synkk-sketch-book](https://github.com/tawandajosephmutsena/synkk-sketch-book) | ![Synkk Sketch Book](https://raw.githubusercontent.com/tawandajosephmutsena/synkk-sketch-book/master/screenshot.png) |
 | [2chevskii/obsidian-theme-claudemd](https://github.com/2chevskii/obsidian-theme-claudemd) | ![Claude.md](https://raw.githubusercontent.com/2chevskii/obsidian-theme-claudemd/master/assets/screenshots/overview-warm.png) |
+| [mattbirchler/tangerine-neue-obsidian](https://github.com/mattbirchler/tangerine-neue-obsidian) | ![Tangerine Neue](https://raw.githubusercontent.com/mattbirchler/tangerine-neue-obsidian/master/screenshot.png) |
+| [aurenyx-lab/aurenyx-obsidian](https://github.com/aurenyx-lab/aurenyx-obsidian) | ![AURENYX](https://raw.githubusercontent.com/aurenyx-lab/aurenyx-obsidian/master/screenshots/screenshot.png) |
+| [guruvlk/totonio-obsidian-theme](https://github.com/guruvlk/totonio-obsidian-theme) | ![Totonio](https://raw.githubusercontent.com/guruvlk/totonio-obsidian-theme/master/screenshots/light-desktop-content.png) |
+| [tommyhedgerow/obsidian-mimir-theme](https://github.com/tommyhedgerow/obsidian-mimir-theme) | ![Mimir](https://raw.githubusercontent.com/tommyhedgerow/obsidian-mimir-theme/master/screenshot.png) |
