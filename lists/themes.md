@@ -549,6 +549,7 @@
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
 | [brightwav3/Paper-Source](https://github.com/brightwav3/Paper-Source) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/Paper-Source/master/screenshot.png) |
 | [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
+| [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
 | [vforge/obsidian-scanline](https://github.com/vforge/obsidian-scanline) | ![Scanline](https://raw.githubusercontent.com/vforge/obsidian-scanline/master/screenshot.png) |
 | [brightwav3/Coding-Agent-Theme](https://github.com/brightwav3/Coding-Agent-Theme) | ![Coding Agent](https://raw.githubusercontent.com/brightwav3/Coding-Agent-Theme/master/screenshot.png) |
 | [hearth-code/hearthcode-obsidian](https://github.com/hearth-code/hearthcode-obsidian) | ![HearthCode](https://raw.githubusercontent.com/hearth-code/hearthcode-obsidian/master/screenshot.png) |
@@ -630,6 +631,7 @@
 | [techr10n/stratus-obsidian-theme](https://github.com/techr10n/stratus-obsidian-theme) | ![Stratus](https://raw.githubusercontent.com/techr10n/stratus-obsidian-theme/master/screenshot.png) |
 | [chrisairbrown-del/TTRPG-Rathgar-Gold-Theme](https://github.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme) | ![TTRPG - Rathgar Gold](https://raw.githubusercontent.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme/master/screenshot.jpg) |
 | [cogito-ergo-video/lcars-inspired-obsidian-theme](https://github.com/cogito-ergo-video/lcars-inspired-obsidian-theme) | ![LCARS](https://raw.githubusercontent.com/cogito-ergo-video/lcars-inspired-obsidian-theme/master/screenshot.png) |
+| [dsvictor/Ink-Paper](https://github.com/dsvictor/Ink-Paper) | ![Ink Paper](https://raw.githubusercontent.com/dsvictor/Ink-Paper/master/assets/01.png) |
 | [antonabbac/unsent-letters](https://github.com/antonabbac/unsent-letters) | ![unsent-letters](https://raw.githubusercontent.com/antonabbac/unsent-letters/master/Screenshots/Main.png) |
 | [smoosex/ob-everforest](https://github.com/smoosex/ob-everforest) | ![OB Everforest](https://raw.githubusercontent.com/smoosex/ob-everforest/master/obsidian-everforest.png) |
 | [bewater8066/obsidian-theme-perch](https://github.com/bewater8066/obsidian-theme-perch) | ![Perch](https://raw.githubusercontent.com/bewater8066/obsidian-theme-perch/master/composite.png) |
@@ -764,3 +766,7 @@
 | [aurenyx-lab/aurenyx-obsidian](https://github.com/aurenyx-lab/aurenyx-obsidian) | ![AURENYX](https://raw.githubusercontent.com/aurenyx-lab/aurenyx-obsidian/master/screenshots/screenshot.png) |
 | [guruvlk/totonio-obsidian-theme](https://github.com/guruvlk/totonio-obsidian-theme) | ![Totonio](https://raw.githubusercontent.com/guruvlk/totonio-obsidian-theme/master/screenshots/light-desktop-content.png) |
 | [tommyhedgerow/obsidian-mimir-theme](https://github.com/tommyhedgerow/obsidian-mimir-theme) | ![Mimir](https://raw.githubusercontent.com/tommyhedgerow/obsidian-mimir-theme/master/screenshot.png) |
+| [n2osync/n2o-paper](https://github.com/n2osync/n2o-paper) | ![N2O Paper](https://raw.githubusercontent.com/n2osync/n2o-paper/master/thumbnail.png) |
+| [ramenofficialgovpatsy/Solar-Gradient](https://github.com/ramenofficialgovpatsy/Solar-Gradient) | ![Solar Gradient](https://raw.githubusercontent.com/ramenofficialgovpatsy/Solar-Gradient/master/img/light.png) |
+| [ramenofficialgovpatsy/Spring-Blossom](https://github.com/ramenofficialgovpatsy/Spring-Blossom) | ![Spring Blossom](https://raw.githubusercontent.com/ramenofficialgovpatsy/Spring-Blossom/master/img/light.png) |
+| [cyriusweng/cyriform-theme](https://github.com/cyriusweng/cyriform-theme) | ![Cyriform](https://raw.githubusercontent.com/cyriusweng/cyriform-theme/master/screenshot.png) |
