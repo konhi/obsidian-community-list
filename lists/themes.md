@@ -752,6 +752,7 @@
 | [peter-squentz/obsidian-countryside-dark-grok](https://github.com/peter-squentz/obsidian-countryside-dark-grok) | ![Countryside-Dark-Grok](https://raw.githubusercontent.com/peter-squentz/obsidian-countryside-dark-grok/master/obsidian-countryside-dark-grok.png) |
 | [peter-squentz/obsidian-countryside-dark-claude](https://github.com/peter-squentz/obsidian-countryside-dark-claude) | ![Countryside-Dark-Claude](https://raw.githubusercontent.com/peter-squentz/obsidian-countryside-dark-claude/master/obsidian-countryside-dark-claude.png) |
 | [andymdh/shrek-is-love](https://github.com/andymdh/shrek-is-love) | ![Shrek is Love](https://raw.githubusercontent.com/andymdh/shrek-is-love/master/screenshot.png) |
+| [richardqnguyen/obsidian-tea-and-coffee](https://github.com/richardqnguyen/obsidian-tea-and-coffee) | ![Tea and Coffee](https://raw.githubusercontent.com/richardqnguyen/obsidian-tea-and-coffee/master/cover.png) |
 | [ridusaini/obsidian-firelight](https://github.com/ridusaini/obsidian-firelight) | ![Firelight](https://raw.githubusercontent.com/ridusaini/obsidian-firelight/master/screenshot.png) |
 | [mit-bach/mit-dark](https://github.com/mit-bach/mit-dark) | ![MIT Dark](https://raw.githubusercontent.com/mit-bach/mit-dark/master/screenshot.png) |
 | [mattbirchler/bircharoo](https://github.com/mattbirchler/bircharoo) | ![Bircharoo](https://raw.githubusercontent.com/mattbirchler/bircharoo/master/screenshot.png) |
@@ -773,3 +774,5 @@
 | [shayher5525/obsidian-porcelain](https://github.com/shayher5525/obsidian-porcelain) | ![Porcelain](https://raw.githubusercontent.com/shayher5525/obsidian-porcelain/master/screenshot.png) |
 | [cherishh/obsidian-bear-style](https://github.com/cherishh/obsidian-bear-style) | ![Bear Style](https://raw.githubusercontent.com/cherishh/obsidian-bear-style/master/cover.png) |
 | [davidhurtadoai/silverglass](https://github.com/davidhurtadoai/silverglass) | ![Silverglass](https://raw.githubusercontent.com/davidhurtadoai/silverglass/master/screenshots/light-dark-comparison.png) |
+| [martinopiaggi/raggioproietto](https://github.com/martinopiaggi/raggioproietto) | ![RaggioProietto](https://raw.githubusercontent.com/martinopiaggi/raggioproietto/master/screenshots/screenshot.png) |
+| [davidhurtadoai/lanternwood](https://github.com/davidhurtadoai/lanternwood) | ![Lanternwood](https://raw.githubusercontent.com/davidhurtadoai/lanternwood/master/screenshots/plain-comparison.png) |
