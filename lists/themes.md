@@ -549,7 +549,7 @@
 | [liicos/obsidian-wolai-theme](https://github.com/liicos/obsidian-wolai-theme) | ![Wolai](https://raw.githubusercontent.com/liicos/obsidian-wolai-theme/master/screenshot.png%20) |
 | [brightwav3/Paper-Source](https://github.com/brightwav3/Paper-Source) | ![Paper Source](https://raw.githubusercontent.com/brightwav3/Paper-Source/master/screenshot.png) |
 | [0crazy-0/obsidian-void](https://github.com/0crazy-0/obsidian-void) | ![Void](https://raw.githubusercontent.com/0crazy-0/obsidian-void/master/img/screenshot.png) |
-| [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/screenshot1.png) |
+| [tslst/tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | ![tokyo-terminal-obsd](https://raw.githubusercontent.com/tslst/tokyo-terminal-obsd/master/images/tokyo-terminal-jack.png) |
 | [vforge/obsidian-scanline](https://github.com/vforge/obsidian-scanline) | ![Scanline](https://raw.githubusercontent.com/vforge/obsidian-scanline/master/screenshot.png) |
 | [brightwav3/Coding-Agent-Theme](https://github.com/brightwav3/Coding-Agent-Theme) | ![Coding Agent](https://raw.githubusercontent.com/brightwav3/Coding-Agent-Theme/master/screenshot.png) |
 | [hearth-code/hearthcode-obsidian](https://github.com/hearth-code/hearthcode-obsidian) | ![HearthCode](https://raw.githubusercontent.com/hearth-code/hearthcode-obsidian/master/screenshot.png) |
@@ -760,6 +760,7 @@
 | [yayii/obsidian-moyun-theme](https://github.com/yayii/obsidian-moyun-theme) | ![MoYun](https://raw.githubusercontent.com/yayii/obsidian-moyun-theme/master/screenshot.png) |
 | [kuguya-ai-app-develop/tsukuyomi-Obsidian-theme](https://github.com/kuguya-ai-app-develop/tsukuyomi-Obsidian-theme) | ![Tsukuyomi](https://raw.githubusercontent.com/kuguya-ai-app-develop/tsukuyomi-Obsidian-theme/master/screenshot.jpg) |
 | [tawandajosephmutsena/synkk-sketch-book](https://github.com/tawandajosephmutsena/synkk-sketch-book) | ![Synkk Sketch Book](https://raw.githubusercontent.com/tawandajosephmutsena/synkk-sketch-book/master/screenshot.png) |
+| [ramenofficialgovpatsy/Winter-Cafe](https://github.com/ramenofficialgovpatsy/Winter-Cafe) | ![Winter Cafe](https://raw.githubusercontent.com/ramenofficialgovpatsy/Winter-Cafe/master/img/dark.png) |
 | [2chevskii/obsidian-theme-claudemd](https://github.com/2chevskii/obsidian-theme-claudemd) | ![Claude.md](https://raw.githubusercontent.com/2chevskii/obsidian-theme-claudemd/master/assets/screenshots/overview-warm.png) |
 | [mattbirchler/tangerine-neue-obsidian](https://github.com/mattbirchler/tangerine-neue-obsidian) | ![Tangerine Neue](https://raw.githubusercontent.com/mattbirchler/tangerine-neue-obsidian/master/screenshot.png) |
 | [aurenyx-lab/aurenyx-obsidian](https://github.com/aurenyx-lab/aurenyx-obsidian) | ![AURENYX](https://raw.githubusercontent.com/aurenyx-lab/aurenyx-obsidian/master/screenshots/screenshot.png) |
@@ -776,3 +777,9 @@
 | [davidhurtadoai/silverglass](https://github.com/davidhurtadoai/silverglass) | ![Silverglass](https://raw.githubusercontent.com/davidhurtadoai/silverglass/master/screenshots/light-dark-comparison.png) |
 | [martinopiaggi/raggioproietto](https://github.com/martinopiaggi/raggioproietto) | ![RaggioProietto](https://raw.githubusercontent.com/martinopiaggi/raggioproietto/master/screenshots/screenshot.png) |
 | [davidhurtadoai/lanternwood](https://github.com/davidhurtadoai/lanternwood) | ![Lanternwood](https://raw.githubusercontent.com/davidhurtadoai/lanternwood/master/screenshots/plain-comparison.png) |
+| [misoren/whim](https://github.com/misoren/whim) | ![Whim](https://raw.githubusercontent.com/misoren/whim/master/screenshots/card.png) |
+| [ramenofficialgovpatsy/Majesty](https://github.com/ramenofficialgovpatsy/Majesty) | ![Majesty](https://raw.githubusercontent.com/ramenofficialgovpatsy/Majesty/master/img/dark.png) |
+| [borozdov/obsidian-borozdov](https://github.com/borozdov/obsidian-borozdov) | ![Borozdov](https://raw.githubusercontent.com/borozdov/obsidian-borozdov/master/screenshots/screenshot.png) |
+| [ramenofficialgovpatsy/Energetic-Matcha](https://github.com/ramenofficialgovpatsy/Energetic-Matcha) | ![Energetic Matcha](https://raw.githubusercontent.com/ramenofficialgovpatsy/Energetic-Matcha/master/img/dark.png) |
+| [dingye0604/AbsolutelyGlass](https://github.com/dingye0604/AbsolutelyGlass) | ![AbsolutelyGlass](https://raw.githubusercontent.com/dingye0604/AbsolutelyGlass/master/Fig1.jpg) |
+| [dingye0604/AbsolutelyBaseline](https://github.com/dingye0604/AbsolutelyBaseline) | ![AbsolutelyBaseline](https://raw.githubusercontent.com/dingye0604/AbsolutelyBaseline/master/Fig1.jpg) |
