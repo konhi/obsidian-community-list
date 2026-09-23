@@ -783,3 +783,8 @@
 | [ramenofficialgovpatsy/Energetic-Matcha](https://github.com/ramenofficialgovpatsy/Energetic-Matcha) | ![Energetic Matcha](https://raw.githubusercontent.com/ramenofficialgovpatsy/Energetic-Matcha/master/img/dark.png) |
 | [dingye0604/AbsolutelyGlass](https://github.com/dingye0604/AbsolutelyGlass) | ![AbsolutelyGlass](https://raw.githubusercontent.com/dingye0604/AbsolutelyGlass/master/Fig1.jpg) |
 | [dingye0604/AbsolutelyBaseline](https://github.com/dingye0604/AbsolutelyBaseline) | ![AbsolutelyBaseline](https://raw.githubusercontent.com/dingye0604/AbsolutelyBaseline/master/Fig1.jpg) |
+| [spwx/obsidian-ef-maris-dark](https://github.com/spwx/obsidian-ef-maris-dark) | ![Ef Maris Dark](https://raw.githubusercontent.com/spwx/obsidian-ef-maris-dark/master/screenshot.png) |
+| [nachiket273/obsidian-event-horizon](https://github.com/nachiket273/obsidian-event-horizon) | ![Event Horizon](https://raw.githubusercontent.com/nachiket273/obsidian-event-horizon/master/callout.png) |
+| [sageveil/obsidian](https://github.com/sageveil/obsidian) | ![Sageveil](https://raw.githubusercontent.com/sageveil/obsidian/master/screenshot.png) |
+| [ramenofficialgovpatsy/All-Hallows-Eve](https://github.com/ramenofficialgovpatsy/All-Hallows-Eve) | ![All Hallows Eve](https://raw.githubusercontent.com/ramenofficialgovpatsy/All-Hallows-Eve/master/img/dark.png) |
+| [driftcowl/midnight-fjord-black](https://github.com/driftcowl/midnight-fjord-black) | ![Midnight Fjord Black](https://raw.githubusercontent.com/driftcowl/midnight-fjord-black/master/screenshot.png) |
