@@ -790,3 +790,5 @@
 | [driftcowl/midnight-fjord-black](https://github.com/driftcowl/midnight-fjord-black) | ![Midnight Fjord Black](https://raw.githubusercontent.com/driftcowl/midnight-fjord-black/master/screenshot.png) |
 | [eliascotto/shades-of-purple-obsidian](https://github.com/eliascotto/shades-of-purple-obsidian) | ![Shades of Purple](https://raw.githubusercontent.com/eliascotto/shades-of-purple-obsidian/master/screenshot.png) |
 | [sltsh/aion](https://github.com/sltsh/aion) | ![Aion](https://raw.githubusercontent.com/sltsh/aion/master/screenshot.png) |
+| [mergen-12/hyperspace-obsidian](https://github.com/mergen-12/hyperspace-obsidian) | ![Hyperspace](https://raw.githubusercontent.com/mergen-12/hyperspace-obsidian/master/screenshot.png) |
+| [jysume/obsidian-typora-spring-theme](https://github.com/jysume/obsidian-typora-spring-theme) | ![Typora-Spring](https://raw.githubusercontent.com/jysume/obsidian-typora-spring-theme/master/typora-spring-preview.png) |
