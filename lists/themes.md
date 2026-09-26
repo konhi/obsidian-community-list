@@ -791,4 +791,12 @@
 | [eliascotto/shades-of-purple-obsidian](https://github.com/eliascotto/shades-of-purple-obsidian) | ![Shades of Purple](https://raw.githubusercontent.com/eliascotto/shades-of-purple-obsidian/master/screenshot.png) |
 | [sltsh/aion](https://github.com/sltsh/aion) | ![Aion](https://raw.githubusercontent.com/sltsh/aion/master/screenshot.png) |
 | [mergen-12/hyperspace-obsidian](https://github.com/mergen-12/hyperspace-obsidian) | ![Hyperspace](https://raw.githubusercontent.com/mergen-12/hyperspace-obsidian/master/screenshot.png) |
+| [mariomile/obsidian-cosmos-theme](https://github.com/mariomile/obsidian-cosmos-theme) | ![Cosmos](https://raw.githubusercontent.com/mariomile/obsidian-cosmos-theme/master/image.png) |
 | [jysume/obsidian-typora-spring-theme](https://github.com/jysume/obsidian-typora-spring-theme) | ![Typora-Spring](https://raw.githubusercontent.com/jysume/obsidian-typora-spring-theme/master/typora-spring-preview.png) |
+| [borozdov-obsidian-themes/gallery](https://github.com/borozdov-obsidian-themes/gallery) | ![Borozdov Gallery](https://raw.githubusercontent.com/borozdov-obsidian-themes/gallery/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/sprout](https://github.com/borozdov-obsidian-themes/sprout) | ![Borozdov Sprout](https://raw.githubusercontent.com/borozdov-obsidian-themes/sprout/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/ember](https://github.com/borozdov-obsidian-themes/ember) | ![Borozdov Ember](https://raw.githubusercontent.com/borozdov-obsidian-themes/ember/master/screenshots/screenshot.png) |
+| [the-time-forever/rainveil](https://github.com/the-time-forever/rainveil) | ![Rainveil](https://raw.githubusercontent.com/the-time-forever/rainveil/master/screenshot.jpg) |
+| [borozdov-obsidian-themes/signal](https://github.com/borozdov-obsidian-themes/signal) | ![Borozdov Signal](https://raw.githubusercontent.com/borozdov-obsidian-themes/signal/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/ledger](https://github.com/borozdov-obsidian-themes/ledger) | ![Borozdov Ledger](https://raw.githubusercontent.com/borozdov-obsidian-themes/ledger/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/folio](https://github.com/borozdov-obsidian-themes/folio) | ![Borozdov Folio](https://raw.githubusercontent.com/borozdov-obsidian-themes/folio/master/screenshots/screenshot.png) |
