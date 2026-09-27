@@ -800,3 +800,7 @@
 | [borozdov-obsidian-themes/signal](https://github.com/borozdov-obsidian-themes/signal) | ![Borozdov Signal](https://raw.githubusercontent.com/borozdov-obsidian-themes/signal/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/ledger](https://github.com/borozdov-obsidian-themes/ledger) | ![Borozdov Ledger](https://raw.githubusercontent.com/borozdov-obsidian-themes/ledger/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/folio](https://github.com/borozdov-obsidian-themes/folio) | ![Borozdov Folio](https://raw.githubusercontent.com/borozdov-obsidian-themes/folio/master/screenshots/screenshot.png) |
+| [iblinkq/cairn-theme](https://github.com/iblinkq/cairn-theme) | ![Cairn](https://raw.githubusercontent.com/iblinkq/cairn-theme/master/media/hero.png) |
+| [quanru/obsidian-omarchy-tokyo-night](https://github.com/quanru/obsidian-omarchy-tokyo-night) | ![Omarchy Tokyo Night](https://raw.githubusercontent.com/quanru/obsidian-omarchy-tokyo-night/master/images/dark.png) |
+| [garrettfynn/obsidian-muyun](https://github.com/garrettfynn/obsidian-muyun) | ![MuYun](https://raw.githubusercontent.com/garrettfynn/obsidian-muyun/master/screenshot.png) |
+| [dariuszgal/clear-contrast-hc](https://github.com/dariuszgal/clear-contrast-hc) | ![Clear Contrast HC](https://raw.githubusercontent.com/dariuszgal/clear-contrast-hc/master/images/classic-editor.png) |
