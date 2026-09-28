@@ -800,7 +800,10 @@
 | [borozdov-obsidian-themes/signal](https://github.com/borozdov-obsidian-themes/signal) | ![Borozdov Signal](https://raw.githubusercontent.com/borozdov-obsidian-themes/signal/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/ledger](https://github.com/borozdov-obsidian-themes/ledger) | ![Borozdov Ledger](https://raw.githubusercontent.com/borozdov-obsidian-themes/ledger/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/folio](https://github.com/borozdov-obsidian-themes/folio) | ![Borozdov Folio](https://raw.githubusercontent.com/borozdov-obsidian-themes/folio/master/screenshots/screenshot.png) |
+| [nunomotaricardo/obsidian-claude-synapse-theme](https://github.com/nunomotaricardo/obsidian-claude-synapse-theme) | ![Claude Synapse](https://raw.githubusercontent.com/nunomotaricardo/obsidian-claude-synapse-theme/master/screenshot.png) |
 | [iblinkq/cairn-theme](https://github.com/iblinkq/cairn-theme) | ![Cairn](https://raw.githubusercontent.com/iblinkq/cairn-theme/master/media/hero.png) |
 | [quanru/obsidian-omarchy-tokyo-night](https://github.com/quanru/obsidian-omarchy-tokyo-night) | ![Omarchy Tokyo Night](https://raw.githubusercontent.com/quanru/obsidian-omarchy-tokyo-night/master/images/dark.png) |
 | [garrettfynn/obsidian-muyun](https://github.com/garrettfynn/obsidian-muyun) | ![MuYun](https://raw.githubusercontent.com/garrettfynn/obsidian-muyun/master/screenshot.png) |
 | [dariuszgal/clear-contrast-hc](https://github.com/dariuszgal/clear-contrast-hc) | ![Clear Contrast HC](https://raw.githubusercontent.com/dariuszgal/clear-contrast-hc/master/images/classic-editor.png) |
+| [overjoyde/obsidian-one-half-dark](https://github.com/overjoyde/obsidian-one-half-dark) | ![One Half Dark](https://raw.githubusercontent.com/overjoyde/obsidian-one-half-dark/master/images/screenshot.png) |
+| [overjoyde/obsidian-apple-system-colors](https://github.com/overjoyde/obsidian-apple-system-colors) | ![Apple System Colors](https://raw.githubusercontent.com/overjoyde/obsidian-apple-system-colors/master/images/screenshot.png) |
