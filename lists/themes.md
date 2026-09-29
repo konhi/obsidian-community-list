@@ -516,7 +516,6 @@
 | [linyanna/panda-syntax-obsidian](https://github.com/linyanna/panda-syntax-obsidian) | ![Panda Syntax](https://raw.githubusercontent.com/linyanna/panda-syntax-obsidian/master/panda-syntax-dark.png) |
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
-| [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
 | [elijahchan2019/obsidian-folio-theme](https://github.com/elijahchan2019/obsidian-folio-theme) | ![Folio](https://raw.githubusercontent.com/elijahchan2019/obsidian-folio-theme/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
@@ -807,3 +806,14 @@
 | [dariuszgal/clear-contrast-hc](https://github.com/dariuszgal/clear-contrast-hc) | ![Clear Contrast HC](https://raw.githubusercontent.com/dariuszgal/clear-contrast-hc/master/images/classic-editor.png) |
 | [overjoyde/obsidian-one-half-dark](https://github.com/overjoyde/obsidian-one-half-dark) | ![One Half Dark](https://raw.githubusercontent.com/overjoyde/obsidian-one-half-dark/master/images/screenshot.png) |
 | [overjoyde/obsidian-apple-system-colors](https://github.com/overjoyde/obsidian-apple-system-colors) | ![Apple System Colors](https://raw.githubusercontent.com/overjoyde/obsidian-apple-system-colors/master/images/screenshot.png) |
+| [borozdov-obsidian-themes/agenda](https://github.com/borozdov-obsidian-themes/agenda) | ![Borozdov Agenda](https://raw.githubusercontent.com/borozdov-obsidian-themes/agenda/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/almanac](https://github.com/borozdov-obsidian-themes/almanac) | ![Borozdov Almanac](https://raw.githubusercontent.com/borozdov-obsidian-themes/almanac/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/atelier](https://github.com/borozdov-obsidian-themes/atelier) | ![Borozdov Atelier](https://raw.githubusercontent.com/borozdov-obsidian-themes/atelier/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/alpine](https://github.com/borozdov-obsidian-themes/alpine) | ![Borozdov Alpine](https://raw.githubusercontent.com/borozdov-obsidian-themes/alpine/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/beacon](https://github.com/borozdov-obsidian-themes/beacon) | ![Borozdov Beacon](https://raw.githubusercontent.com/borozdov-obsidian-themes/beacon/master/screenshots/screenshot.png) |
+| [ike-v/obsidian-fokus](https://github.com/ike-v/obsidian-fokus) | ![Fokus](https://raw.githubusercontent.com/ike-v/obsidian-fokus/master/cover.png) |
+| [borozdov-obsidian-themes/cathode](https://github.com/borozdov-obsidian-themes/cathode) | ![Borozdov Cathode](https://raw.githubusercontent.com/borozdov-obsidian-themes/cathode/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/cirrus](https://github.com/borozdov-obsidian-themes/cirrus) | ![Borozdov Cirrus](https://raw.githubusercontent.com/borozdov-obsidian-themes/cirrus/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/claret](https://github.com/borozdov-obsidian-themes/claret) | ![Borozdov Claret](https://raw.githubusercontent.com/borozdov-obsidian-themes/claret/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/clay](https://github.com/borozdov-obsidian-themes/clay) | ![Borozdov Clay](https://raw.githubusercontent.com/borozdov-obsidian-themes/clay/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/clinic](https://github.com/borozdov-obsidian-themes/clinic) | ![Borozdov Clinic](https://raw.githubusercontent.com/borozdov-obsidian-themes/clinic/master/screenshots/screenshot.png) |
