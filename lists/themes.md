@@ -789,7 +789,7 @@
 | [driftcowl/midnight-fjord-black](https://github.com/driftcowl/midnight-fjord-black) | ![Midnight Fjord Black](https://raw.githubusercontent.com/driftcowl/midnight-fjord-black/master/screenshot.png) |
 | [eliascotto/shades-of-purple-obsidian](https://github.com/eliascotto/shades-of-purple-obsidian) | ![Shades of Purple](https://raw.githubusercontent.com/eliascotto/shades-of-purple-obsidian/master/screenshot.png) |
 | [sltsh/aion](https://github.com/sltsh/aion) | ![Aion](https://raw.githubusercontent.com/sltsh/aion/master/screenshot.png) |
-| [mergen-12/hyperspace-obsidian](https://github.com/mergen-12/hyperspace-obsidian) | ![Hyperspace](https://raw.githubusercontent.com/mergen-12/hyperspace-obsidian/master/screenshot.png) |
+| [apokalypsis89/hyperspace-obsidian](https://github.com/apokalypsis89/hyperspace-obsidian) | ![Hyperspace](https://raw.githubusercontent.com/apokalypsis89/hyperspace-obsidian/master/screenshot.png) |
 | [mariomile/obsidian-cosmos-theme](https://github.com/mariomile/obsidian-cosmos-theme) | ![Cosmos](https://raw.githubusercontent.com/mariomile/obsidian-cosmos-theme/master/image.png) |
 | [jysume/obsidian-typora-spring-theme](https://github.com/jysume/obsidian-typora-spring-theme) | ![Typora-Spring](https://raw.githubusercontent.com/jysume/obsidian-typora-spring-theme/master/typora-spring-preview.png) |
 | [borozdov-obsidian-themes/gallery](https://github.com/borozdov-obsidian-themes/gallery) | ![Borozdov Gallery](https://raw.githubusercontent.com/borozdov-obsidian-themes/gallery/master/screenshots/screenshot.png) |
@@ -804,6 +804,7 @@
 | [quanru/obsidian-omarchy-tokyo-night](https://github.com/quanru/obsidian-omarchy-tokyo-night) | ![Omarchy Tokyo Night](https://raw.githubusercontent.com/quanru/obsidian-omarchy-tokyo-night/master/images/dark.png) |
 | [garrettfynn/obsidian-muyun](https://github.com/garrettfynn/obsidian-muyun) | ![MuYun](https://raw.githubusercontent.com/garrettfynn/obsidian-muyun/master/screenshot.png) |
 | [dariuszgal/clear-contrast-hc](https://github.com/dariuszgal/clear-contrast-hc) | ![Clear Contrast HC](https://raw.githubusercontent.com/dariuszgal/clear-contrast-hc/master/images/classic-editor.png) |
+| [tom2021-vice/obsidian-theme-quiet-paper](https://github.com/tom2021-vice/obsidian-theme-quiet-paper) | ![Quiet Paper](https://raw.githubusercontent.com/tom2021-vice/obsidian-theme-quiet-paper/master/docs/assets/preview-light.png) |
 | [overjoyde/obsidian-one-half-dark](https://github.com/overjoyde/obsidian-one-half-dark) | ![One Half Dark](https://raw.githubusercontent.com/overjoyde/obsidian-one-half-dark/master/images/screenshot.png) |
 | [overjoyde/obsidian-apple-system-colors](https://github.com/overjoyde/obsidian-apple-system-colors) | ![Apple System Colors](https://raw.githubusercontent.com/overjoyde/obsidian-apple-system-colors/master/images/screenshot.png) |
 | [borozdov-obsidian-themes/agenda](https://github.com/borozdov-obsidian-themes/agenda) | ![Borozdov Agenda](https://raw.githubusercontent.com/borozdov-obsidian-themes/agenda/master/screenshots/screenshot.png) |
@@ -812,11 +813,16 @@
 | [borozdov-obsidian-themes/alpine](https://github.com/borozdov-obsidian-themes/alpine) | ![Borozdov Alpine](https://raw.githubusercontent.com/borozdov-obsidian-themes/alpine/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/beacon](https://github.com/borozdov-obsidian-themes/beacon) | ![Borozdov Beacon](https://raw.githubusercontent.com/borozdov-obsidian-themes/beacon/master/screenshots/screenshot.png) |
 | [ike-v/obsidian-fokus](https://github.com/ike-v/obsidian-fokus) | ![Fokus](https://raw.githubusercontent.com/ike-v/obsidian-fokus/master/cover.png) |
+| [borozdov-obsidian-themes/brief](https://github.com/borozdov-obsidian-themes/brief) | ![Borozdov Brief](https://raw.githubusercontent.com/borozdov-obsidian-themes/brief/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/broadside](https://github.com/borozdov-obsidian-themes/broadside) | ![Borozdov Broadside](https://raw.githubusercontent.com/borozdov-obsidian-themes/broadside/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/cabin](https://github.com/borozdov-obsidian-themes/cabin) | ![Borozdov Cabin](https://raw.githubusercontent.com/borozdov-obsidian-themes/cabin/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/canopy](https://github.com/borozdov-obsidian-themes/canopy) | ![Borozdov Canopy](https://raw.githubusercontent.com/borozdov-obsidian-themes/canopy/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/cathode](https://github.com/borozdov-obsidian-themes/cathode) | ![Borozdov Cathode](https://raw.githubusercontent.com/borozdov-obsidian-themes/cathode/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/cirrus](https://github.com/borozdov-obsidian-themes/cirrus) | ![Borozdov Cirrus](https://raw.githubusercontent.com/borozdov-obsidian-themes/cirrus/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/claret](https://github.com/borozdov-obsidian-themes/claret) | ![Borozdov Claret](https://raw.githubusercontent.com/borozdov-obsidian-themes/claret/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/clay](https://github.com/borozdov-obsidian-themes/clay) | ![Borozdov Clay](https://raw.githubusercontent.com/borozdov-obsidian-themes/clay/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/clinic](https://github.com/borozdov-obsidian-themes/clinic) | ![Borozdov Clinic](https://raw.githubusercontent.com/borozdov-obsidian-themes/clinic/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/clipboard](https://github.com/borozdov-obsidian-themes/clipboard) | ![Borozdov Clipboard](https://raw.githubusercontent.com/borozdov-obsidian-themes/clipboard/master/screenshots/screenshot.png) |
 | [t-if/sea-slug](https://github.com/t-if/sea-slug) | ![Sea Slug](https://raw.githubusercontent.com/t-if/sea-slug/master/thumbnail.jpg) |
 | [mogpduck/obsidian-Adwaita](https://github.com/mogpduck/obsidian-Adwaita) | ![Adwaita Modern](https://raw.githubusercontent.com/mogpduck/obsidian-Adwaita/master/theme_image.png) |
 | [borozdov-obsidian-themes/cobalt](https://github.com/borozdov-obsidian-themes/cobalt) | ![Borozdov Cobalt](https://raw.githubusercontent.com/borozdov-obsidian-themes/cobalt/master/screenshots/screenshot.png) |
@@ -830,3 +836,13 @@
 | [borozdov-obsidian-themes/flint](https://github.com/borozdov-obsidian-themes/flint) | ![Borozdov Flint](https://raw.githubusercontent.com/borozdov-obsidian-themes/flint/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/forge](https://github.com/borozdov-obsidian-themes/forge) | ![Borozdov Forge](https://raw.githubusercontent.com/borozdov-obsidian-themes/forge/master/screenshots/screenshot.png) |
 | [abdulkader-safi/obsidian-safi-theme-v2](https://github.com/abdulkader-safi/obsidian-safi-theme-v2) | ![Safi-V2](https://raw.githubusercontent.com/abdulkader-safi/obsidian-safi-theme-v2/master/screenshot.png) |
+| [borozdov-obsidian-themes/gazette](https://github.com/borozdov-obsidian-themes/gazette) | ![Borozdov Gazette](https://raw.githubusercontent.com/borozdov-obsidian-themes/gazette/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/glacier](https://github.com/borozdov-obsidian-themes/glacier) | ![Borozdov Glacier](https://raw.githubusercontent.com/borozdov-obsidian-themes/glacier/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/herbarium](https://github.com/borozdov-obsidian-themes/herbarium) | ![Borozdov Herbarium](https://raw.githubusercontent.com/borozdov-obsidian-themes/herbarium/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/hive](https://github.com/borozdov-obsidian-themes/hive) | ![Borozdov Hive](https://raw.githubusercontent.com/borozdov-obsidian-themes/hive/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/hush](https://github.com/borozdov-obsidian-themes/hush) | ![Borozdov Hush](https://raw.githubusercontent.com/borozdov-obsidian-themes/hush/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/eggshell](https://github.com/borozdov-obsidian-themes/eggshell) | ![Borozdov Eggshell](https://raw.githubusercontent.com/borozdov-obsidian-themes/eggshell/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/whisper](https://github.com/borozdov-obsidian-themes/whisper) | ![Borozdov Whisper](https://raw.githubusercontent.com/borozdov-obsidian-themes/whisper/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/ash](https://github.com/borozdov-obsidian-themes/ash) | ![Borozdov Ash](https://raw.githubusercontent.com/borozdov-obsidian-themes/ash/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/bulletin](https://github.com/borozdov-obsidian-themes/bulletin) | ![Borozdov Bulletin](https://raw.githubusercontent.com/borozdov-obsidian-themes/bulletin/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/quarto](https://github.com/borozdov-obsidian-themes/quarto) | ![Borozdov Quarto](https://raw.githubusercontent.com/borozdov-obsidian-themes/quarto/master/screenshots/screenshot.png) |
