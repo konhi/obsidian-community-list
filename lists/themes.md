@@ -846,3 +846,12 @@
 | [borozdov-obsidian-themes/ash](https://github.com/borozdov-obsidian-themes/ash) | ![Borozdov Ash](https://raw.githubusercontent.com/borozdov-obsidian-themes/ash/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/bulletin](https://github.com/borozdov-obsidian-themes/bulletin) | ![Borozdov Bulletin](https://raw.githubusercontent.com/borozdov-obsidian-themes/bulletin/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/quarto](https://github.com/borozdov-obsidian-themes/quarto) | ![Borozdov Quarto](https://raw.githubusercontent.com/borozdov-obsidian-themes/quarto/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/terracotta](https://github.com/borozdov-obsidian-themes/terracotta) | ![Borozdov Terracotta](https://raw.githubusercontent.com/borozdov-obsidian-themes/terracotta/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/manuscript](https://github.com/borozdov-obsidian-themes/manuscript) | ![Borozdov Manuscript](https://raw.githubusercontent.com/borozdov-obsidian-themes/manuscript/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/ribbon](https://github.com/borozdov-obsidian-themes/ribbon) | ![Borozdov Ribbon](https://raw.githubusercontent.com/borozdov-obsidian-themes/ribbon/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/monograph](https://github.com/borozdov-obsidian-themes/monograph) | ![Borozdov Monograph](https://raw.githubusercontent.com/borozdov-obsidian-themes/monograph/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/copybook](https://github.com/borozdov-obsidian-themes/copybook) | ![Borozdov Copybook](https://raw.githubusercontent.com/borozdov-obsidian-themes/copybook/master/screenshots/screenshot.png) |
+| [arhamakhtaralam/obsidian-void-teal](https://github.com/arhamakhtaralam/obsidian-void-teal) | ![Void Teal](https://raw.githubusercontent.com/arhamakhtaralam/obsidian-void-teal/master/screenshot.png) |
+| [kuberrr0/obsidian-et-cetera](https://github.com/kuberrr0/obsidian-et-cetera) | ![Et Cetera](https://raw.githubusercontent.com/kuberrr0/obsidian-et-cetera/master/screenshot.png) |
+| [mdoroszewski/obsidian-hanko](https://github.com/mdoroszewski/obsidian-hanko) | ![Hanko](https://raw.githubusercontent.com/mdoroszewski/obsidian-hanko/master/screenshot.png) |
+| [bytemirror/atlas-vtt-theme](https://github.com/bytemirror/atlas-vtt-theme) | ![Atlas VTT](https://raw.githubusercontent.com/bytemirror/atlas-vtt-theme/master/screenshots/screenshot.png) |
