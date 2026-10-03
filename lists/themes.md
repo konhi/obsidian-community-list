@@ -516,6 +516,7 @@
 | [linyanna/panda-syntax-obsidian](https://github.com/linyanna/panda-syntax-obsidian) | ![Panda Syntax](https://raw.githubusercontent.com/linyanna/panda-syntax-obsidian/master/panda-syntax-dark.png) |
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
+| [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
 | [elijahchan2019/obsidian-folio-theme](https://github.com/elijahchan2019/obsidian-folio-theme) | ![Folio](https://raw.githubusercontent.com/elijahchan2019/obsidian-folio-theme/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
@@ -855,3 +856,15 @@
 | [kuberrr0/obsidian-et-cetera](https://github.com/kuberrr0/obsidian-et-cetera) | ![Et Cetera](https://raw.githubusercontent.com/kuberrr0/obsidian-et-cetera/master/screenshot.png) |
 | [mdoroszewski/obsidian-hanko](https://github.com/mdoroszewski/obsidian-hanko) | ![Hanko](https://raw.githubusercontent.com/mdoroszewski/obsidian-hanko/master/screenshot.png) |
 | [bytemirror/atlas-vtt-theme](https://github.com/bytemirror/atlas-vtt-theme) | ![Atlas VTT](https://raw.githubusercontent.com/bytemirror/atlas-vtt-theme/master/screenshots/screenshot.png) |
+| [bojordan/obsidian-fox-suite](https://github.com/bojordan/obsidian-fox-suite) | ![Fox Suite](https://raw.githubusercontent.com/bojordan/obsidian-fox-suite/master/screenshot.png) |
+| [numbpill3d/xeno-clinic](https://github.com/numbpill3d/xeno-clinic) | ![Xeno Clinic](https://raw.githubusercontent.com/numbpill3d/xeno-clinic/master/screenshot.png) |
+| [borozdov-obsidian-themes/palette](https://github.com/borozdov-obsidian-themes/palette) | ![Borozdov Palette](https://raw.githubusercontent.com/borozdov-obsidian-themes/palette/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/terrarium](https://github.com/borozdov-obsidian-themes/terrarium) | ![Borozdov Terrarium](https://raw.githubusercontent.com/borozdov-obsidian-themes/terrarium/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/trellis](https://github.com/borozdov-obsidian-themes/trellis) | ![Borozdov Trellis](https://raw.githubusercontent.com/borozdov-obsidian-themes/trellis/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/understory](https://github.com/borozdov-obsidian-themes/understory) | ![Borozdov Understory](https://raw.githubusercontent.com/borozdov-obsidian-themes/understory/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/spruce](https://github.com/borozdov-obsidian-themes/spruce) | ![Borozdov Spruce](https://raw.githubusercontent.com/borozdov-obsidian-themes/spruce/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/apothecary](https://github.com/borozdov-obsidian-themes/apothecary) | ![Borozdov Apothecary](https://raw.githubusercontent.com/borozdov-obsidian-themes/apothecary/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/cultivar](https://github.com/borozdov-obsidian-themes/cultivar) | ![Borozdov Cultivar](https://raw.githubusercontent.com/borozdov-obsidian-themes/cultivar/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/riverstone](https://github.com/borozdov-obsidian-themes/riverstone) | ![Borozdov Riverstone](https://raw.githubusercontent.com/borozdov-obsidian-themes/riverstone/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/compositor](https://github.com/borozdov-obsidian-themes/compositor) | ![Borozdov Compositor](https://raw.githubusercontent.com/borozdov-obsidian-themes/compositor/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/beaker](https://github.com/borozdov-obsidian-themes/beaker) | ![Borozdov Beaker](https://raw.githubusercontent.com/borozdov-obsidian-themes/beaker/master/screenshots/screenshot.png) |
