@@ -853,7 +853,6 @@
 | [borozdov-obsidian-themes/monograph](https://github.com/borozdov-obsidian-themes/monograph) | ![Borozdov Monograph](https://raw.githubusercontent.com/borozdov-obsidian-themes/monograph/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/copybook](https://github.com/borozdov-obsidian-themes/copybook) | ![Borozdov Copybook](https://raw.githubusercontent.com/borozdov-obsidian-themes/copybook/master/screenshots/screenshot.png) |
 | [arhamakhtaralam/obsidian-void-teal](https://github.com/arhamakhtaralam/obsidian-void-teal) | ![Void Teal](https://raw.githubusercontent.com/arhamakhtaralam/obsidian-void-teal/master/screenshot.png) |
-| [kuberrr0/obsidian-et-cetera](https://github.com/kuberrr0/obsidian-et-cetera) | ![Et Cetera](https://raw.githubusercontent.com/kuberrr0/obsidian-et-cetera/master/screenshot.png) |
 | [mdoroszewski/obsidian-hanko](https://github.com/mdoroszewski/obsidian-hanko) | ![Hanko](https://raw.githubusercontent.com/mdoroszewski/obsidian-hanko/master/screenshot.png) |
 | [bytemirror/atlas-vtt-theme](https://github.com/bytemirror/atlas-vtt-theme) | ![Atlas VTT](https://raw.githubusercontent.com/bytemirror/atlas-vtt-theme/master/screenshots/screenshot.png) |
 | [bojordan/obsidian-fox-suite](https://github.com/bojordan/obsidian-fox-suite) | ![Fox Suite](https://raw.githubusercontent.com/bojordan/obsidian-fox-suite/master/screenshot.png) |
@@ -868,3 +867,14 @@
 | [borozdov-obsidian-themes/riverstone](https://github.com/borozdov-obsidian-themes/riverstone) | ![Borozdov Riverstone](https://raw.githubusercontent.com/borozdov-obsidian-themes/riverstone/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/compositor](https://github.com/borozdov-obsidian-themes/compositor) | ![Borozdov Compositor](https://raw.githubusercontent.com/borozdov-obsidian-themes/compositor/master/screenshots/screenshot.png) |
 | [borozdov-obsidian-themes/beaker](https://github.com/borozdov-obsidian-themes/beaker) | ![Borozdov Beaker](https://raw.githubusercontent.com/borozdov-obsidian-themes/beaker/master/screenshots/screenshot.png) |
+| [dlsdgj/obsidian-Memphis-theme](https://github.com/dlsdgj/obsidian-Memphis-theme) | ![Memphis](https://raw.githubusercontent.com/dlsdgj/obsidian-Memphis-theme/master/screenshot.png) |
+| [liyaomingme/obsidian-settled-ink](https://github.com/liyaomingme/obsidian-settled-ink) | ![Settled Ink](https://raw.githubusercontent.com/liyaomingme/obsidian-settled-ink/master/screenshot.png) |
+| [borozdov-obsidian-themes/tracing](https://github.com/borozdov-obsidian-themes/tracing) | ![Borozdov Tracing](https://raw.githubusercontent.com/borozdov-obsidian-themes/tracing/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/easel](https://github.com/borozdov-obsidian-themes/easel) | ![Borozdov Easel](https://raw.githubusercontent.com/borozdov-obsidian-themes/easel/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/marble](https://github.com/borozdov-obsidian-themes/marble) | ![Borozdov Marble](https://raw.githubusercontent.com/borozdov-obsidian-themes/marble/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/keynote](https://github.com/borozdov-obsidian-themes/keynote) | ![Borozdov Keynote](https://raw.githubusercontent.com/borozdov-obsidian-themes/keynote/master/screenshots/screenshot.png) |
+| [borozdov-obsidian-themes/archive](https://github.com/borozdov-obsidian-themes/archive) | ![Borozdov Archive](https://raw.githubusercontent.com/borozdov-obsidian-themes/archive/master/screenshots/screenshot.png) |
+| [yishentu/claudian-theme](https://github.com/yishentu/claudian-theme) | ![Claudian](https://raw.githubusercontent.com/yishentu/claudian-theme/master/screenshot.png) |
+| [varunsai85/Typewriter-Vin](https://github.com/varunsai85/Typewriter-Vin) | ![Typewriter-Vin](https://raw.githubusercontent.com/varunsai85/Typewriter-Vin/master/./images/screenshot.png) |
+| [verticalheretic/azulejo-brutalism-obsidian](https://github.com/verticalheretic/azulejo-brutalism-obsidian) | ![Azulejo Brutalism](https://raw.githubusercontent.com/verticalheretic/azulejo-brutalism-obsidian/master/screenshot.png) |
+| [anthonyfitzpatrick/obsidian-theme-lcars](https://github.com/anthonyfitzpatrick/obsidian-theme-lcars) | ![Starship Helm Console](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-theme-lcars/master/screenshot.png) |
