@@ -565,7 +565,6 @@
 | [yangsonhung/obsidian-vscode-2026](https://github.com/yangsonhung/obsidian-vscode-2026) | ![VSCode 2026](https://raw.githubusercontent.com/yangsonhung/obsidian-vscode-2026/master/screenshot.png) |
 | [bulat-beltone/obsidian-islands-theme](https://github.com/bulat-beltone/obsidian-islands-theme) | ![Islands](https://raw.githubusercontent.com/bulat-beltone/obsidian-islands-theme/master/images/cover.png) |
 | [kkenny0/obsidian-kami](https://github.com/kkenny0/obsidian-kami) | ![Kami Reader](https://raw.githubusercontent.com/kkenny0/obsidian-kami/master/screenshots/light-reading.png) |
-| [enchantedcoloring/obsidian](https://github.com/enchantedcoloring/obsidian) | ![Enchanted](https://raw.githubusercontent.com/enchantedcoloring/obsidian/master/community-obsidian-screenshot.jpg) |
 | [jimcsuen/Enhanced-Canvas-Theme-for-Obsidian](https://github.com/jimcsuen/Enhanced-Canvas-Theme-for-Obsidian) | ![Enhanced Canvas](https://raw.githubusercontent.com/jimcsuen/Enhanced-Canvas-Theme-for-Obsidian/master/theme_preview.png) |
 | [playerofgames/obsidian-mia-theme](https://github.com/playerofgames/obsidian-mia-theme) | ![Mia](https://raw.githubusercontent.com/playerofgames/obsidian-mia-theme/master/preview.png) |
 | [surprisedduck/obsidian-pastel-dusk](https://github.com/surprisedduck/obsidian-pastel-dusk) | ![Pastel Dusk](https://raw.githubusercontent.com/surprisedduck/obsidian-pastel-dusk/master/screenshot.png) |
@@ -835,3 +834,7 @@
 | [asterism0s/calliope](https://github.com/asterism0s/calliope) | ![Calliope](https://raw.githubusercontent.com/asterism0s/calliope/master/screenshot.png) |
 | [andrwj/obsidian-theme-saffron-ink](https://github.com/andrwj/obsidian-theme-saffron-ink) | ![Saffron Ink](https://raw.githubusercontent.com/andrwj/obsidian-theme-saffron-ink/master/screenshots/font-awesome.png) |
 | [ducktapekiller/halftone](https://github.com/ducktapekiller/halftone) | ![Halftone](https://raw.githubusercontent.com/ducktapekiller/halftone/master/screenshot.png) |
+| [itsjusthaif/obsidian-bliss](https://github.com/itsjusthaif/obsidian-bliss) | ![Bliss](https://raw.githubusercontent.com/itsjusthaif/obsidian-bliss/master/screenshot.png) |
+| [orpheus-21/lexmechanic-theme](https://github.com/orpheus-21/lexmechanic-theme) | ![Lexmechanic](https://raw.githubusercontent.com/orpheus-21/lexmechanic-theme/master/screenshot.png) |
+| [brightwav3/obsidian-inlay](https://github.com/brightwav3/obsidian-inlay) | ![Inlay](https://raw.githubusercontent.com/brightwav3/obsidian-inlay/master/screenshots/screenshot.png) |
+| [raccoon-overlord-dev/obsidian-harvest-theme](https://github.com/raccoon-overlord-dev/obsidian-harvest-theme) | ![Harvest](https://raw.githubusercontent.com/raccoon-overlord-dev/obsidian-harvest-theme/master/screenshots/leaves-dark.png) |
