@@ -481,6 +481,7 @@
 | [davidszp/obsidian-rationale](https://github.com/davidszp/obsidian-rationale) | ![Rationale](https://raw.githubusercontent.com/davidszp/obsidian-rationale/master/assets/rationale-light-thumb.png) |
 | [orvpagadua/Code-Azur](https://github.com/orvpagadua/Code-Azur) | ![CodeAzur](https://raw.githubusercontent.com/orvpagadua/Code-Azur/master/cover.png) |
 | [moyf/obsidian-gumroad-theme](https://github.com/moyf/obsidian-gumroad-theme) | ![Brutal Gum](https://raw.githubusercontent.com/moyf/obsidian-gumroad-theme/master/screenshot.png) |
+| [sumruler/obsidian-theme-phycat](https://github.com/sumruler/obsidian-theme-phycat) | ![Phycat](https://raw.githubusercontent.com/sumruler/obsidian-theme-phycat/master/screenshot.png) |
 | [saucy/obsidian-half-life-theme](https://github.com/saucy/obsidian-half-life-theme) | ![Half-Life](https://raw.githubusercontent.com/saucy/obsidian-half-life-theme/master/images/thumbnail.png) |
 | [jackers228/quest-journal-theme](https://github.com/jackers228/quest-journal-theme) | ![Quest Journal](https://raw.githubusercontent.com/jackers228/quest-journal-theme/master/questjournal.png) |
 | [kazi-aidah/blobob](https://github.com/kazi-aidah/blobob) | ![blobob](https://raw.githubusercontent.com/kazi-aidah/blobob/master/assets/screenshot.png) |
@@ -835,6 +836,7 @@
 | [andrwj/obsidian-theme-saffron-ink](https://github.com/andrwj/obsidian-theme-saffron-ink) | ![Saffron Ink](https://raw.githubusercontent.com/andrwj/obsidian-theme-saffron-ink/master/screenshots/font-awesome.png) |
 | [ducktapekiller/halftone](https://github.com/ducktapekiller/halftone) | ![Halftone](https://raw.githubusercontent.com/ducktapekiller/halftone/master/screenshot.png) |
 | [itsjusthaif/obsidian-bliss](https://github.com/itsjusthaif/obsidian-bliss) | ![Bliss](https://raw.githubusercontent.com/itsjusthaif/obsidian-bliss/master/screenshot.png) |
+| [camusz11/obsidian-newsprint](https://github.com/camusz11/obsidian-newsprint) | ![Newsprint by Camus](https://raw.githubusercontent.com/camusz11/obsidian-newsprint/master/screenshots/cover.jpg) |
 | [orpheus-21/lexmechanic-theme](https://github.com/orpheus-21/lexmechanic-theme) | ![Lexmechanic](https://raw.githubusercontent.com/orpheus-21/lexmechanic-theme/master/screenshot.png) |
 | [brightwav3/obsidian-inlay](https://github.com/brightwav3/obsidian-inlay) | ![Inlay](https://raw.githubusercontent.com/brightwav3/obsidian-inlay/master/screenshots/screenshot.png) |
 | [raccoon-overlord-dev/obsidian-harvest-theme](https://github.com/raccoon-overlord-dev/obsidian-harvest-theme) | ![Harvest](https://raw.githubusercontent.com/raccoon-overlord-dev/obsidian-harvest-theme/master/screenshots/leaves-dark.png) |
@@ -843,3 +845,11 @@
 | [rokokol/ddlc-obsidian-theme](https://github.com/rokokol/ddlc-obsidian-theme) | ![DDLC](https://raw.githubusercontent.com/rokokol/ddlc-obsidian-theme/master/docs/cover.png) |
 | [isltanx/obsidian-khazaf](https://github.com/isltanx/obsidian-khazaf) | ![Khazaf](https://raw.githubusercontent.com/isltanx/obsidian-khazaf/master/screenshot.png) |
 | [ummbition/glass-shelf-theme](https://github.com/ummbition/glass-shelf-theme) | ![Glass Shelf](https://raw.githubusercontent.com/ummbition/glass-shelf-theme/master/screenshot.png) |
+| [miqueiasklippel/obsidian-theme-retrotty](https://github.com/miqueiasklippel/obsidian-theme-retrotty) | ![Retro TTY](https://raw.githubusercontent.com/miqueiasklippel/obsidian-theme-retrotty/master/screenshot.png) |
+| [theadamdanielsson/grill-theme](https://github.com/theadamdanielsson/grill-theme) | ![Grill](https://raw.githubusercontent.com/theadamdanielsson/grill-theme/master/docs/cover.png) |
+| [ignorance-shiyao/obsidian-ignorance](https://github.com/ignorance-shiyao/obsidian-ignorance) | ![Ignorance](https://raw.githubusercontent.com/ignorance-shiyao/obsidian-ignorance/master/screenshot.png) |
+| [jaylinwang/paper-blue](https://github.com/jaylinwang/paper-blue) | ![Paper Blue](https://raw.githubusercontent.com/jaylinwang/paper-blue/master/assets/screenshots/obsidian-overview.jpg) |
+| [xumintian/obsidian-liquid-glass](https://github.com/xumintian/obsidian-liquid-glass) | ![Liquid Glass](https://raw.githubusercontent.com/xumintian/obsidian-liquid-glass/master/images/cover.png) |
+| [genskyff/obsidian-arkfield](https://github.com/genskyff/obsidian-arkfield) | ![Arkfield](https://raw.githubusercontent.com/genskyff/obsidian-arkfield/master/assets/screenshots/store.png) |
+| [sentientshawarma/dishonored-dunwall-theme](https://github.com/sentientshawarma/dishonored-dunwall-theme) | ![Dishonored - Dunwall](https://raw.githubusercontent.com/sentientshawarma/dishonored-dunwall-theme/master/preview.png) |
+| [rbartoli/obsidian-tela-theme](https://github.com/rbartoli/obsidian-tela-theme) | ![Tela](https://raw.githubusercontent.com/rbartoli/obsidian-tela-theme/master/assets/screenshot.png) |
