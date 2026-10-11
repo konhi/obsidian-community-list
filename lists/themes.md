@@ -832,6 +832,7 @@
 | [vis-halv/foggy_sage_glass-obsidian](https://github.com/vis-halv/foggy_sage_glass-obsidian) | ![Foggy Sage Glass](https://raw.githubusercontent.com/vis-halv/foggy_sage_glass-obsidian/master/screenshot.png) |
 | [gokayburuc/Hyperion](https://github.com/gokayburuc/Hyperion) | ![Hyperion](https://raw.githubusercontent.com/gokayburuc/Hyperion/master/./screenshots/screenshot_512x288.png) |
 | [raccoon-overlord-dev/obsidian-pastello-theme](https://github.com/raccoon-overlord-dev/obsidian-pastello-theme) | ![Pastello](https://raw.githubusercontent.com/raccoon-overlord-dev/obsidian-pastello-theme/master/screenshot.png) |
+| [oomniss/caffeine-obsidian-theme](https://github.com/oomniss/caffeine-obsidian-theme) | ![caffeine](https://raw.githubusercontent.com/oomniss/caffeine-obsidian-theme/master/Imagens/capa.png) |
 | [asterism0s/calliope](https://github.com/asterism0s/calliope) | ![Calliope](https://raw.githubusercontent.com/asterism0s/calliope/master/screenshot.png) |
 | [andrwj/obsidian-theme-saffron-ink](https://github.com/andrwj/obsidian-theme-saffron-ink) | ![Saffron Ink](https://raw.githubusercontent.com/andrwj/obsidian-theme-saffron-ink/master/screenshots/font-awesome.png) |
 | [ducktapekiller/halftone](https://github.com/ducktapekiller/halftone) | ![Halftone](https://raw.githubusercontent.com/ducktapekiller/halftone/master/screenshot.png) |
@@ -853,3 +854,5 @@
 | [genskyff/obsidian-arkfield](https://github.com/genskyff/obsidian-arkfield) | ![Arkfield](https://raw.githubusercontent.com/genskyff/obsidian-arkfield/master/assets/screenshots/store.png) |
 | [sentientshawarma/dishonored-dunwall-theme](https://github.com/sentientshawarma/dishonored-dunwall-theme) | ![Dishonored - Dunwall](https://raw.githubusercontent.com/sentientshawarma/dishonored-dunwall-theme/master/preview.png) |
 | [rbartoli/obsidian-tela-theme](https://github.com/rbartoli/obsidian-tela-theme) | ![Tela](https://raw.githubusercontent.com/rbartoli/obsidian-tela-theme/master/assets/screenshot.png) |
+| [manueldelgado/calm-matters](https://github.com/manueldelgado/calm-matters) | ![Calm Matters](https://raw.githubusercontent.com/manueldelgado/calm-matters/master/screenshot.png) |
+| [im3sk/stillhaven-obsidian-theme](https://github.com/im3sk/stillhaven-obsidian-theme) | ![Stillhaven](https://raw.githubusercontent.com/im3sk/stillhaven-obsidian-theme/master/screenshot.png) |
