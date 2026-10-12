@@ -856,3 +856,7 @@
 | [rbartoli/obsidian-tela-theme](https://github.com/rbartoli/obsidian-tela-theme) | ![Tela](https://raw.githubusercontent.com/rbartoli/obsidian-tela-theme/master/assets/screenshot.png) |
 | [manueldelgado/calm-matters](https://github.com/manueldelgado/calm-matters) | ![Calm Matters](https://raw.githubusercontent.com/manueldelgado/calm-matters/master/screenshot.png) |
 | [im3sk/stillhaven-obsidian-theme](https://github.com/im3sk/stillhaven-obsidian-theme) | ![Stillhaven](https://raw.githubusercontent.com/im3sk/stillhaven-obsidian-theme/master/screenshot.png) |
+| [miqueiasklippel/obsidian-theme-paperk](https://github.com/miqueiasklippel/obsidian-theme-paperk) | ![PaperK](https://raw.githubusercontent.com/miqueiasklippel/obsidian-theme-paperk/master/screenshot.png) |
+| [josecosta-gh/Black-Amethyst](https://github.com/josecosta-gh/Black-Amethyst) | ![Black Amethyst](https://raw.githubusercontent.com/josecosta-gh/Black-Amethyst/master/screenshots/Screenshot.jpg) |
+| [landscronar/obsidian-cloudy-moon](https://github.com/landscronar/obsidian-cloudy-moon) | ![Cloudy Moon](https://raw.githubusercontent.com/landscronar/obsidian-cloudy-moon/master/screenshot.png) |
+| [lavemile02-afk/Bog-Oak_Theme-for-Obsidian](https://github.com/lavemile02-afk/Bog-Oak_Theme-for-Obsidian) | ![Bog Oak](https://raw.githubusercontent.com/lavemile02-afk/Bog-Oak_Theme-for-Obsidian/master/cover.png) |
