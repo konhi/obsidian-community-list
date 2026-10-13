@@ -842,6 +842,7 @@
 | [brightwav3/obsidian-inlay](https://github.com/brightwav3/obsidian-inlay) | ![Inlay](https://raw.githubusercontent.com/brightwav3/obsidian-inlay/master/screenshots/screenshot.png) |
 | [raccoon-overlord-dev/obsidian-harvest-theme](https://github.com/raccoon-overlord-dev/obsidian-harvest-theme) | ![Harvest](https://raw.githubusercontent.com/raccoon-overlord-dev/obsidian-harvest-theme/master/screenshots/leaves-dark.png) |
 | [dlsdgj/Midnight-Store](https://github.com/dlsdgj/Midnight-Store) | ![Midnight Store](https://raw.githubusercontent.com/dlsdgj/Midnight-Store/master/screenshot.png) |
+| [l0rnwizd7/oink-obsidian](https://github.com/l0rnwizd7/oink-obsidian) | ![OINK Terminal](https://raw.githubusercontent.com/l0rnwizd7/oink-obsidian/master/screenshots/screenshot.png) |
 | [dlsdgj/Memphis-Suite](https://github.com/dlsdgj/Memphis-Suite) | ![Memphis Suite](https://raw.githubusercontent.com/dlsdgj/Memphis-Suite/master/screenshot.png) |
 | [rokokol/ddlc-obsidian-theme](https://github.com/rokokol/ddlc-obsidian-theme) | ![DDLC](https://raw.githubusercontent.com/rokokol/ddlc-obsidian-theme/master/docs/cover.png) |
 | [isltanx/obsidian-khazaf](https://github.com/isltanx/obsidian-khazaf) | ![Khazaf](https://raw.githubusercontent.com/isltanx/obsidian-khazaf/master/screenshot.png) |
@@ -860,3 +861,6 @@
 | [josecosta-gh/Black-Amethyst](https://github.com/josecosta-gh/Black-Amethyst) | ![Black Amethyst](https://raw.githubusercontent.com/josecosta-gh/Black-Amethyst/master/screenshots/Screenshot.jpg) |
 | [landscronar/obsidian-cloudy-moon](https://github.com/landscronar/obsidian-cloudy-moon) | ![Cloudy Moon](https://raw.githubusercontent.com/landscronar/obsidian-cloudy-moon/master/screenshot.png) |
 | [lavemile02-afk/Bog-Oak_Theme-for-Obsidian](https://github.com/lavemile02-afk/Bog-Oak_Theme-for-Obsidian) | ![Bog Oak](https://raw.githubusercontent.com/lavemile02-afk/Bog-Oak_Theme-for-Obsidian/master/cover.png) |
+| [ymolodtsov/obsidian-lathe](https://github.com/ymolodtsov/obsidian-lathe) | ![Lathe](https://raw.githubusercontent.com/ymolodtsov/obsidian-lathe/master/screenshot.jpg) |
+| [pakcli/Vintage-Computer](https://github.com/pakcli/Vintage-Computer) | ![Vintage Computer](https://raw.githubusercontent.com/pakcli/Vintage-Computer/master/assets/screenshots/screenshot.png) |
+| [1amnotmad/obsidian-semiotic](https://github.com/1amnotmad/obsidian-semiotic) | ![Semiotic](https://raw.githubusercontent.com/1amnotmad/obsidian-semiotic/master/screenshot.png) |
