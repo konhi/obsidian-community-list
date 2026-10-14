@@ -16,7 +16,7 @@
 | [dogwaddle/obsidian-gastown-theme.md](https://github.com/dogwaddle/obsidian-gastown-theme.md) | ![Gastown](https://raw.githubusercontent.com/dogwaddle/obsidian-gastown-theme.md/master/ObsidianOne.png) |
 | [bcdavasconcelos/Obsidian-GDCT](https://github.com/bcdavasconcelos/Obsidian-GDCT) | ![GDCT](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-GDCT/master/gdct.png) |
 | [bcdavasconcelos/Obsidian-GDCT_Dark](https://github.com/bcdavasconcelos/Obsidian-GDCT_Dark) | ![GDCT Dark](https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-GDCT_Dark/master/gdct.png) |
-| [ismailgunacar/gitsidian](https://github.com/ismailgunacar/gitsidian) | ![Gitsidian](https://raw.githubusercontent.com/ismailgunacar/gitsidian/master/showcase.png) |
+| [noodleron/gitsidian](https://github.com/noodleron/gitsidian) | ![Gitsidian](https://raw.githubusercontent.com/noodleron/gitsidian/master/showcase.png) |
 | [pgalliford/Obsidian-theme-Incredible-Hulk](https://github.com/pgalliford/Obsidian-theme-Incredible-Hulk) | ![Hulk](https://raw.githubusercontent.com/pgalliford/Obsidian-theme-Incredible-Hulk/master/Screen%20Shot.png) |
 | [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) | ![Minimal](https://raw.githubusercontent.com/kepano/obsidian-minimal/master/dark-simple.png) |
 | [kartik-karz/moonlight-obsidian](https://github.com/kartik-karz/moonlight-obsidian) | ![Moonlight](https://raw.githubusercontent.com/kartik-karz/moonlight-obsidian/master/moonlight-theme.png) |
@@ -864,3 +864,6 @@
 | [ymolodtsov/obsidian-lathe](https://github.com/ymolodtsov/obsidian-lathe) | ![Lathe](https://raw.githubusercontent.com/ymolodtsov/obsidian-lathe/master/screenshot.jpg) |
 | [pakcli/Vintage-Computer](https://github.com/pakcli/Vintage-Computer) | ![Vintage Computer](https://raw.githubusercontent.com/pakcli/Vintage-Computer/master/assets/screenshots/screenshot.png) |
 | [1amnotmad/obsidian-semiotic](https://github.com/1amnotmad/obsidian-semiotic) | ![Semiotic](https://raw.githubusercontent.com/1amnotmad/obsidian-semiotic/master/screenshot.png) |
+| [dlsdgj/citypop](https://github.com/dlsdgj/citypop) | ![City Pop](https://raw.githubusercontent.com/dlsdgj/citypop/master/screenshot.png) |
+| [ibehren1/obsidian-newsprint-theme](https://github.com/ibehren1/obsidian-newsprint-theme) | ![Newsprint](https://raw.githubusercontent.com/ibehren1/obsidian-newsprint-theme/master/screenshots/light.png) |
+| [remriel/acid-xerox-theme](https://github.com/remriel/acid-xerox-theme) | ![Acid Xerox](https://raw.githubusercontent.com/remriel/acid-xerox-theme/master/images/screenshot.png) |
