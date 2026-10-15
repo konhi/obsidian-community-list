@@ -700,7 +700,7 @@
 | [linuz90/obsidian-verso](https://github.com/linuz90/obsidian-verso) | ![Verso](https://raw.githubusercontent.com/linuz90/obsidian-verso/master/screenshots/verso.png) |
 | [czunique/obsidian-molan](https://github.com/czunique/obsidian-molan) | ![MoLan](https://raw.githubusercontent.com/czunique/obsidian-molan/master/screenshots/molan-theme-preview.png) |
 | [markusjohansen/warmpress](https://github.com/markusjohansen/warmpress) | ![Warm Press](https://raw.githubusercontent.com/markusjohansen/warmpress/master/screenshot.png) |
-| [omshirse/obsidian_cozy_journal](https://github.com/omshirse/obsidian_cozy_journal) | ![Cozy Journal](https://raw.githubusercontent.com/omshirse/obsidian_cozy_journal/master/Obsidian_theme.png) |
+| [omkarshirse/obsidian_cozy_journal](https://github.com/omkarshirse/obsidian_cozy_journal) | ![Cozy Journal](https://raw.githubusercontent.com/omkarshirse/obsidian_cozy_journal/master/Obsidian_theme.png) |
 | [inovector/obsidian-kanagawa-tide](https://github.com/inovector/obsidian-kanagawa-tide) | ![Kanagawa Tide](https://raw.githubusercontent.com/inovector/obsidian-kanagawa-tide/master/images/cover.webp) |
 | [dammitqueen/Pink-Violet-Dream](https://github.com/dammitqueen/Pink-Violet-Dream) | ![Pink Violet Dream](https://raw.githubusercontent.com/dammitqueen/Pink-Violet-Dream/master/preview.png) |
 | [pgyogesh/obsidian-plainpage-theme](https://github.com/pgyogesh/obsidian-plainpage-theme) | ![Plainpage](https://raw.githubusercontent.com/pgyogesh/obsidian-plainpage-theme/master/docs/screenshots/hero.png) |
@@ -832,7 +832,6 @@
 | [vis-halv/foggy_sage_glass-obsidian](https://github.com/vis-halv/foggy_sage_glass-obsidian) | ![Foggy Sage Glass](https://raw.githubusercontent.com/vis-halv/foggy_sage_glass-obsidian/master/screenshot.png) |
 | [gokayburuc/Hyperion](https://github.com/gokayburuc/Hyperion) | ![Hyperion](https://raw.githubusercontent.com/gokayburuc/Hyperion/master/./screenshots/screenshot_512x288.png) |
 | [raccoon-overlord-dev/obsidian-pastello-theme](https://github.com/raccoon-overlord-dev/obsidian-pastello-theme) | ![Pastello](https://raw.githubusercontent.com/raccoon-overlord-dev/obsidian-pastello-theme/master/screenshot.png) |
-| [oomniss/caffeine-obsidian-theme](https://github.com/oomniss/caffeine-obsidian-theme) | ![caffeine](https://raw.githubusercontent.com/oomniss/caffeine-obsidian-theme/master/Imagens/capa.png) |
 | [asterism0s/calliope](https://github.com/asterism0s/calliope) | ![Calliope](https://raw.githubusercontent.com/asterism0s/calliope/master/screenshot.png) |
 | [andrwj/obsidian-theme-saffron-ink](https://github.com/andrwj/obsidian-theme-saffron-ink) | ![Saffron Ink](https://raw.githubusercontent.com/andrwj/obsidian-theme-saffron-ink/master/screenshots/font-awesome.png) |
 | [ducktapekiller/halftone](https://github.com/ducktapekiller/halftone) | ![Halftone](https://raw.githubusercontent.com/ducktapekiller/halftone/master/screenshot.png) |
@@ -867,3 +866,15 @@
 | [dlsdgj/citypop](https://github.com/dlsdgj/citypop) | ![City Pop](https://raw.githubusercontent.com/dlsdgj/citypop/master/screenshot.png) |
 | [ibehren1/obsidian-newsprint-theme](https://github.com/ibehren1/obsidian-newsprint-theme) | ![Newsprint](https://raw.githubusercontent.com/ibehren1/obsidian-newsprint-theme/master/screenshots/light.png) |
 | [remriel/acid-xerox-theme](https://github.com/remriel/acid-xerox-theme) | ![Acid Xerox](https://raw.githubusercontent.com/remriel/acid-xerox-theme/master/images/screenshot.png) |
+| [jrayas/minilite](https://github.com/jrayas/minilite) | ![minilite](https://raw.githubusercontent.com/jrayas/minilite/master/screenshot.png) |
+| [zacesshq/obsidian-theme](https://github.com/zacesshq/obsidian-theme) | ![Zacess](https://raw.githubusercontent.com/zacesshq/obsidian-theme/master/screenshot.png) |
+| [seeker24601/obsidian-arasaka](https://github.com/seeker24601/obsidian-arasaka) | ![Arasaka](https://raw.githubusercontent.com/seeker24601/obsidian-arasaka/master/screenshot.png) |
+| [letschips/obsidian-still](https://github.com/letschips/obsidian-still) | ![Still](https://raw.githubusercontent.com/letschips/obsidian-still/master/screenshot.png) |
+| [jackweigogoga/gogoga-theme](https://github.com/jackweigogoga/gogoga-theme) | ![gogoga](https://raw.githubusercontent.com/jackweigogoga/gogoga-theme/master/screenshots/screenshot.png) |
+| [frworks805/obsidian-sumi](https://github.com/frworks805/obsidian-sumi) | ![Sumi](https://raw.githubusercontent.com/frworks805/obsidian-sumi/master/screenshot.png) |
+| [thescholium/istari](https://github.com/thescholium/istari) | ![Istari](https://raw.githubusercontent.com/thescholium/istari/master/screenshot.png) |
+| [raccoon-overlord-dev/obsidian-paper-theme](https://github.com/raccoon-overlord-dev/obsidian-paper-theme) | ![Paper feel](https://raw.githubusercontent.com/raccoon-overlord-dev/obsidian-paper-theme/master/images/cream-light-desktop.png) |
+| [anthonyfitzpatrick/obsidian-theme-aether-works](https://github.com/anthonyfitzpatrick/obsidian-theme-aether-works) | ![Aether Works](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-theme-aether-works/master/screenshot.png) |
+| [sonlndv/obsidian-omarchy-theme](https://github.com/sonlndv/obsidian-omarchy-theme) | ![Omarchy](https://raw.githubusercontent.com/sonlndv/obsidian-omarchy-theme/master/screenshot.png) |
+| [khedrub/neon-amber-glass](https://github.com/khedrub/neon-amber-glass) | ![Neon Amber Glass](https://raw.githubusercontent.com/khedrub/neon-amber-glass/master/preview.svg) |
+| [joostmbakker/obsidian-basalt](https://github.com/joostmbakker/obsidian-basalt) | ![Basalt](https://raw.githubusercontent.com/joostmbakker/obsidian-basalt/master/screenshot.png) |
