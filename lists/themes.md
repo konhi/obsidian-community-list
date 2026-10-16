@@ -713,6 +713,7 @@
 | [jasonqg26/NuxPrism-Midnight](https://github.com/jasonqg26/NuxPrism-Midnight) | ![NuxPrism Midnight](https://raw.githubusercontent.com/jasonqg26/NuxPrism-Midnight/master/./screenshots/midnight-prism.png) |
 | [yixuan-space/obsidian-lumin](https://github.com/yixuan-space/obsidian-lumin) | ![Lumin](https://raw.githubusercontent.com/yixuan-space/obsidian-lumin/master/img/hero.png) |
 | [gstoneflip722/obsidian-theme-flipart86](https://github.com/gstoneflip722/obsidian-theme-flipart86) | ![FlipArt86](https://raw.githubusercontent.com/gstoneflip722/obsidian-theme-flipart86/master/screenshot.png) |
+| [lubriedev/ordo](https://github.com/lubriedev/ordo) | ![Ordo](https://raw.githubusercontent.com/lubriedev/ordo/master/screenshot.png) |
 | [myicor/icor-for-life-inkline](https://github.com/myicor/icor-for-life-inkline) | ![ICOR for Life - INKLINE](https://raw.githubusercontent.com/myicor/icor-for-life-inkline/master/screenshot.png) |
 | [sagewood-theme/obsidian](https://github.com/sagewood-theme/obsidian) | ![Sagewood](https://raw.githubusercontent.com/sagewood-theme/obsidian/master/obsidianscreenshot.png) |
 | [ivaneye/OnePage](https://github.com/ivaneye/OnePage) | ![OnePage](https://raw.githubusercontent.com/ivaneye/OnePage/master/preview.png) |
@@ -877,4 +878,15 @@
 | [anthonyfitzpatrick/obsidian-theme-aether-works](https://github.com/anthonyfitzpatrick/obsidian-theme-aether-works) | ![Aether Works](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-theme-aether-works/master/screenshot.png) |
 | [sonlndv/obsidian-omarchy-theme](https://github.com/sonlndv/obsidian-omarchy-theme) | ![Omarchy](https://raw.githubusercontent.com/sonlndv/obsidian-omarchy-theme/master/screenshot.png) |
 | [khedrub/neon-amber-glass](https://github.com/khedrub/neon-amber-glass) | ![Neon Amber Glass](https://raw.githubusercontent.com/khedrub/neon-amber-glass/master/preview.svg) |
-| [joostmbakker/obsidian-basalt](https://github.com/joostmbakker/obsidian-basalt) | ![Basalt](https://raw.githubusercontent.com/joostmbakker/obsidian-basalt/master/screenshot.png) |
+| [joostmbakker/obsidian-basalt](https://github.com/joostmbakker/obsidian-basalt) | ![Basalt](https://raw.githubusercontent.com/joostmbakker/obsidian-basalt/master/images/listing/00-banner.png) |
+| [na7kaaaa/japanese-autumn-obsidian-theme](https://github.com/na7kaaaa/japanese-autumn-obsidian-theme) | ![Momiji Autumn](https://raw.githubusercontent.com/na7kaaaa/japanese-autumn-obsidian-theme/master/momiji.png) |
+| [draivika/brutato](https://github.com/draivika/brutato) | ![Brutato](https://raw.githubusercontent.com/draivika/brutato/master/screenshot.png) |
+| [ishixi233/shittori-obsidian](https://github.com/ishixi233/shittori-obsidian) | ![Matsuba](https://raw.githubusercontent.com/ishixi233/shittori-obsidian/master/screenshot.png) |
+| [n3xtb1te/Nibble](https://github.com/n3xtb1te/Nibble) | ![Nibble](https://raw.githubusercontent.com/n3xtb1te/Nibble/master/screenshot.png) |
+| [ybraz/lareia-theme](https://github.com/ybraz/lareia-theme) | ![Lareia](https://raw.githubusercontent.com/ybraz/lareia-theme/master/screenshot.png) |
+| [krishnanefx/obsidian-tahoe-theme](https://github.com/krishnanefx/obsidian-tahoe-theme) | ![Tahoe](https://raw.githubusercontent.com/krishnanefx/obsidian-tahoe-theme/master/screenshot.png) |
+| [abdulkader-safi/obsidian-sil-ui-theme](https://github.com/abdulkader-safi/obsidian-sil-ui-theme) | ![SIL-UI](https://raw.githubusercontent.com/abdulkader-safi/obsidian-sil-ui-theme/master/screenshots/command-palette.png) |
+| [draivika/bloc](https://github.com/draivika/bloc) | ![Bloc](https://raw.githubusercontent.com/draivika/bloc/master/screenshot.png) |
+| [codingjinxx/obsidian-slate-theme](https://github.com/codingjinxx/obsidian-slate-theme) | ![Slate](https://raw.githubusercontent.com/codingjinxx/obsidian-slate-theme/master/screenshot.png) |
+| [guguthecoder/obsidian-space-to-think](https://github.com/guguthecoder/obsidian-space-to-think) | ![Space to think](https://raw.githubusercontent.com/guguthecoder/obsidian-space-to-think/master/screenshots/01-overview.png) |
+| [synaptara/obsidian-solarized-osaka](https://github.com/synaptara/obsidian-solarized-osaka) | ![Solarized Osaka](https://raw.githubusercontent.com/synaptara/obsidian-solarized-osaka/master/screenshot.png) |
