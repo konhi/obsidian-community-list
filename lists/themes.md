@@ -515,7 +515,6 @@
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
 | [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
-| [elijahchan2019/obsidian-folio-theme](https://github.com/elijahchan2019/obsidian-folio-theme) | ![Folio](https://raw.githubusercontent.com/elijahchan2019/obsidian-folio-theme/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
 | [jalad25/Okudagram](https://github.com/jalad25/Okudagram) | ![Okudagram](https://raw.githubusercontent.com/jalad25/Okudagram/master/assets/screenshot.png) |
@@ -866,9 +865,11 @@
 | [remriel/acid-xerox-theme](https://github.com/remriel/acid-xerox-theme) | ![Acid Xerox](https://raw.githubusercontent.com/remriel/acid-xerox-theme/master/images/screenshot.png) |
 | [jrayas/minilite](https://github.com/jrayas/minilite) | ![minilite](https://raw.githubusercontent.com/jrayas/minilite/master/screenshot.png) |
 | [zacesshq/obsidian-theme](https://github.com/zacesshq/obsidian-theme) | ![Zacess](https://raw.githubusercontent.com/zacesshq/obsidian-theme/master/screenshot.png) |
+| [letschips/obsidian-still](https://github.com/letschips/obsidian-still) | ![Still](https://raw.githubusercontent.com/letschips/obsidian-still/master/screenshot.png) |
 | [jackweigogoga/gogoga-theme](https://github.com/jackweigogoga/gogoga-theme) | ![gogoga](https://raw.githubusercontent.com/jackweigogoga/gogoga-theme/master/screenshots/screenshot.png) |
 | [frworks805/obsidian-sumi](https://github.com/frworks805/obsidian-sumi) | ![Sumi](https://raw.githubusercontent.com/frworks805/obsidian-sumi/master/screenshot.png) |
 | [thescholium/istari](https://github.com/thescholium/istari) | ![Istari](https://raw.githubusercontent.com/thescholium/istari/master/screenshot.png) |
+| [theluckystrike/notemods-theme-engineering-notebook](https://github.com/theluckystrike/notemods-theme-engineering-notebook) | ![Engineering Notebook](https://raw.githubusercontent.com/theluckystrike/notemods-theme-engineering-notebook/master/images/light.jpg) |
 | [raccoon-overlord-dev/obsidian-paper-theme](https://github.com/raccoon-overlord-dev/obsidian-paper-theme) | ![Paper feel](https://raw.githubusercontent.com/raccoon-overlord-dev/obsidian-paper-theme/master/images/cream-light-desktop.png) |
 | [anthonyfitzpatrick/obsidian-theme-aether-works](https://github.com/anthonyfitzpatrick/obsidian-theme-aether-works) | ![Aether Works](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-theme-aether-works/master/screenshot.png) |
 | [sonlndv/obsidian-omarchy-theme](https://github.com/sonlndv/obsidian-omarchy-theme) | ![Omarchy](https://raw.githubusercontent.com/sonlndv/obsidian-omarchy-theme/master/screenshot.png) |
@@ -876,16 +877,24 @@
 | [joostmbakker/obsidian-basalt](https://github.com/joostmbakker/obsidian-basalt) | ![Basalt](https://raw.githubusercontent.com/joostmbakker/obsidian-basalt/master/images/listing/00-banner.png) |
 | [na7kaaaa/japanese-autumn-obsidian-theme](https://github.com/na7kaaaa/japanese-autumn-obsidian-theme) | ![Momiji Autumn](https://raw.githubusercontent.com/na7kaaaa/japanese-autumn-obsidian-theme/master/momiji.png) |
 | [draivika/brutato](https://github.com/draivika/brutato) | ![Brutato](https://raw.githubusercontent.com/draivika/brutato/master/screenshot.png) |
+| [theluckystrike/notemods-theme-finding-aid](https://github.com/theluckystrike/notemods-theme-finding-aid) | ![Finding Aid](https://raw.githubusercontent.com/theluckystrike/notemods-theme-finding-aid/master/images/light.jpg) |
+| [theluckystrike/notemods-theme-gallery-marginalia](https://github.com/theluckystrike/notemods-theme-gallery-marginalia) | ![Gallery Marginalia](https://raw.githubusercontent.com/theluckystrike/notemods-theme-gallery-marginalia/master/images/light.jpg) |
+| [theluckystrike/notemods-theme-incident-review](https://github.com/theluckystrike/notemods-theme-incident-review) | ![Incident Review](https://raw.githubusercontent.com/theluckystrike/notemods-theme-incident-review/master/images/light.jpg) |
 | [ishixi233/shittori-obsidian](https://github.com/ishixi233/shittori-obsidian) | ![Matsuba](https://raw.githubusercontent.com/ishixi233/shittori-obsidian/master/screenshot.png) |
 | [n3xtb1te/Nibble](https://github.com/n3xtb1te/Nibble) | ![Nibble](https://raw.githubusercontent.com/n3xtb1te/Nibble/master/screenshot.png) |
+| [theluckystrike/notemods-theme-storyboard-frames](https://github.com/theluckystrike/notemods-theme-storyboard-frames) | ![Storyboard Frames](https://raw.githubusercontent.com/theluckystrike/notemods-theme-storyboard-frames/master/images/light.jpg) |
 | [ybraz/lareia-theme](https://github.com/ybraz/lareia-theme) | ![Lareia](https://raw.githubusercontent.com/ybraz/lareia-theme/master/screenshot.png) |
+| [theluckystrike/notemods-theme-terminal-notes](https://github.com/theluckystrike/notemods-theme-terminal-notes) | ![Terminal Notes](https://raw.githubusercontent.com/theluckystrike/notemods-theme-terminal-notes/master/images/light.jpg) |
+| [theluckystrike/notemods-theme-waypoint-atlas](https://github.com/theluckystrike/notemods-theme-waypoint-atlas) | ![Waypoint Atlas](https://raw.githubusercontent.com/theluckystrike/notemods-theme-waypoint-atlas/master/images/light.jpg) |
 | [krishnanefx/obsidian-tahoe-theme](https://github.com/krishnanefx/obsidian-tahoe-theme) | ![Tahoe](https://raw.githubusercontent.com/krishnanefx/obsidian-tahoe-theme/master/screenshot.png) |
 | [abdulkader-safi/obsidian-sil-ui-theme](https://github.com/abdulkader-safi/obsidian-sil-ui-theme) | ![SIL-UI](https://raw.githubusercontent.com/abdulkader-safi/obsidian-sil-ui-theme/master/screenshots/command-palette.png) |
 | [codingjinxx/obsidian-slate-theme](https://github.com/codingjinxx/obsidian-slate-theme) | ![Slate](https://raw.githubusercontent.com/codingjinxx/obsidian-slate-theme/master/screenshot.png) |
 | [guguthecoder/obsidian-space-to-think](https://github.com/guguthecoder/obsidian-space-to-think) | ![Space to think](https://raw.githubusercontent.com/guguthecoder/obsidian-space-to-think/master/screenshots/01-overview.png) |
 | [synaptara/obsidian-solarized-osaka](https://github.com/synaptara/obsidian-solarized-osaka) | ![Solarized Osaka](https://raw.githubusercontent.com/synaptara/obsidian-solarized-osaka/master/screenshot.png) |
 | [florafan-cs/obsidian-honey-sky](https://github.com/florafan-cs/obsidian-honey-sky) | ![Honey Sky](https://raw.githubusercontent.com/florafan-cs/obsidian-honey-sky/master/screenshot.png) |
-| [ashotis/aurora-theme](https://github.com/ashotis/aurora-theme) | ![Static Aurora](https://raw.githubusercontent.com/ashotis/aurora-theme/master/docs/screenshot-stack.png) |
 | [lowki2/obsidian-cortex-theme](https://github.com/lowki2/obsidian-cortex-theme) | ![Cortex](https://raw.githubusercontent.com/lowki2/obsidian-cortex-theme/master/screenshot.png) |
 | [miqueiasklippel/minimalistk](https://github.com/miqueiasklippel/minimalistk) | ![MinimalistK](https://raw.githubusercontent.com/miqueiasklippel/minimalistk/master/screenshot.png) |
 | [ashotis/konban](https://github.com/ashotis/konban) | ![Konban](https://raw.githubusercontent.com/ashotis/konban/master/screenshot.png) |
+| [qays3/TheWonderSpace](https://github.com/qays3/TheWonderSpace) | ![TheWonderSpace](https://raw.githubusercontent.com/qays3/TheWonderSpace/master/screenshot.png) |
+| [marcimotoo/midnight-studio-obsidian](https://github.com/marcimotoo/midnight-studio-obsidian) | ![Midnight Studio](https://raw.githubusercontent.com/marcimotoo/midnight-studio-obsidian/master/images/community-screenshot.png) |
+| [badtobad/obsidian-keyline](https://github.com/badtobad/obsidian-keyline) | ![Keyline](https://raw.githubusercontent.com/badtobad/obsidian-keyline/master/assets/keyline-cover-diagonal-v2.png) |
