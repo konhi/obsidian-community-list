@@ -902,3 +902,10 @@
 | [drosmaz/DrosmazTheme](https://github.com/drosmaz/DrosmazTheme) | ![DrosmazTheme](https://raw.githubusercontent.com/drosmaz/DrosmazTheme/master/screenshots/screen.png) |
 | [404mon/Night404](https://github.com/404mon/Night404) | ![Night404](https://raw.githubusercontent.com/404mon/Night404/master/screenshot.png) |
 | [jaskaran-sethy/obsidian-encoreppuccin](https://github.com/jaskaran-sethy/obsidian-encoreppuccin) | ![EncorePpuccin](https://raw.githubusercontent.com/jaskaran-sethy/obsidian-encoreppuccin/master/screenshot.png) |
+| [ashotis/tokyo-rain](https://github.com/ashotis/tokyo-rain) | ![Tokyo Rain](https://raw.githubusercontent.com/ashotis/tokyo-rain/master/screenshot.png) |
+| [jiuxianzai/obsidian-theme-octavo](https://github.com/jiuxianzai/obsidian-theme-octavo) | ![Octavo](https://raw.githubusercontent.com/jiuxianzai/obsidian-theme-octavo/master/screenshot.png) |
+| [friesentius/obsidian-kanso](https://github.com/friesentius/obsidian-kanso) | ![Kanso](https://raw.githubusercontent.com/friesentius/obsidian-kanso/master/screenshot.png) |
+| [slasto/Moonpetal](https://github.com/slasto/Moonpetal) | ![Moonpetal](https://raw.githubusercontent.com/slasto/Moonpetal/master/img/img.webp) |
+| [kuingsmile/horo_ob_theme](https://github.com/kuingsmile/horo_ob_theme) | ![Horo](https://raw.githubusercontent.com/kuingsmile/horo_ob_theme/master/screenshot.png) |
+| [xwtaidev/obsidian-morandi-theme](https://github.com/xwtaidev/obsidian-morandi-theme) | ![Morandi](https://raw.githubusercontent.com/xwtaidev/obsidian-morandi-theme/master/screenshot.png) |
+| [tuliopc23/omnia-ex-machina](https://github.com/tuliopc23/omnia-ex-machina) | ![Omnia Ex Machina](https://raw.githubusercontent.com/tuliopc23/omnia-ex-machina/master/screenshot.png) |
