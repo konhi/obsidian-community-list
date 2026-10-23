@@ -906,7 +906,7 @@
 | [ashotis/tokyo-rain](https://github.com/ashotis/tokyo-rain) | ![Tokyo Rain](https://raw.githubusercontent.com/ashotis/tokyo-rain/master/screenshot.png) |
 | [jiuxianzai/obsidian-theme-octavo](https://github.com/jiuxianzai/obsidian-theme-octavo) | ![Octavo](https://raw.githubusercontent.com/jiuxianzai/obsidian-theme-octavo/master/screenshot.png) |
 | [friesentius/obsidian-kanso](https://github.com/friesentius/obsidian-kanso) | ![Kanso](https://raw.githubusercontent.com/friesentius/obsidian-kanso/master/screenshot.png) |
-| [slasto/Moonpetal](https://github.com/slasto/Moonpetal) | ![Moonpetal](https://raw.githubusercontent.com/slasto/Moonpetal/master/img/img.webp) |
+| [slasto/Moonpetal](https://github.com/slasto/Moonpetal) | ![Moonpetal](https://raw.githubusercontent.com/slasto/Moonpetal/master/img/cover.webp) |
 | [kuingsmile/horo_ob_theme](https://github.com/kuingsmile/horo_ob_theme) | ![Horo](https://raw.githubusercontent.com/kuingsmile/horo_ob_theme/master/screenshot.png) |
 | [xwtaidev/obsidian-morandi-theme](https://github.com/xwtaidev/obsidian-morandi-theme) | ![Morandi](https://raw.githubusercontent.com/xwtaidev/obsidian-morandi-theme/master/screenshot.png) |
 | [tuliopc23/omnia-ex-machina](https://github.com/tuliopc23/omnia-ex-machina) | ![Omnia Ex Machina](https://raw.githubusercontent.com/tuliopc23/omnia-ex-machina/master/screenshot.png) |
@@ -917,4 +917,8 @@
 | [dlsdgj/Techwear](https://github.com/dlsdgj/Techwear) | ![Techwear](https://raw.githubusercontent.com/dlsdgj/Techwear/master/screenshot.png) |
 | [tcrouzet/obsidian-crouzet-theme](https://github.com/tcrouzet/obsidian-crouzet-theme) | ![CrouzetTheme](https://raw.githubusercontent.com/tcrouzet/obsidian-crouzet-theme/master/doc/screenshot.jpg) |
 | [evan-guyot/obsidian-undefined](https://github.com/evan-guyot/obsidian-undefined) | ![Undefined](https://raw.githubusercontent.com/evan-guyot/obsidian-undefined/master/screenshot.png) |
-| [chillbok/obsidian-adwaita-fleoki](https://github.com/chillbok/obsidian-adwaita-fleoki) | ![Adwaita Flexoki](https://raw.githubusercontent.com/chillbok/obsidian-adwaita-fleoki/master/generated/capture-image.png) |
+| [chillbok/obsidian-adwaita-flexoki](https://github.com/chillbok/obsidian-adwaita-flexoki) | ![Adwaita Flexoki](https://raw.githubusercontent.com/chillbok/obsidian-adwaita-flexoki/master/generated/capture-image.png) |
+| [tallvincent/monokai-pro-octagon-obsidian](https://github.com/tallvincent/monokai-pro-octagon-obsidian) | ![Monokai Pro Octagon](https://raw.githubusercontent.com/tallvincent/monokai-pro-octagon-obsidian/master/screenshots/main.png) |
+| [sulistef/obsidian-suliworld](https://github.com/sulistef/obsidian-suliworld) | ![Suliworld](https://raw.githubusercontent.com/sulistef/obsidian-suliworld/master/images/cream.png) |
+| [living-code-theme/obsidian](https://github.com/living-code-theme/obsidian) | ![Living Code](https://raw.githubusercontent.com/living-code-theme/obsidian/master/screenshot.png) |
+| [shaktoth/Ginnungagap-Obsidian-Theme](https://github.com/shaktoth/Ginnungagap-Obsidian-Theme) | ![Ginnungagap](https://raw.githubusercontent.com/shaktoth/Ginnungagap-Obsidian-Theme/master/assets/screenshot.png) |
