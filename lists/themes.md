@@ -906,6 +906,7 @@
 | [ashotis/tokyo-rain](https://github.com/ashotis/tokyo-rain) | ![Tokyo Rain](https://raw.githubusercontent.com/ashotis/tokyo-rain/master/screenshot.png) |
 | [jiuxianzai/obsidian-theme-octavo](https://github.com/jiuxianzai/obsidian-theme-octavo) | ![Octavo](https://raw.githubusercontent.com/jiuxianzai/obsidian-theme-octavo/master/screenshot.png) |
 | [friesentius/obsidian-kanso](https://github.com/friesentius/obsidian-kanso) | ![Kanso](https://raw.githubusercontent.com/friesentius/obsidian-kanso/master/screenshot.png) |
+| [k7aleds8/damask](https://github.com/k7aleds8/damask) | ![Damascene](https://raw.githubusercontent.com/k7aleds8/damask/master/screenshot.png) |
 | [slasto/Moonpetal](https://github.com/slasto/Moonpetal) | ![Moonpetal](https://raw.githubusercontent.com/slasto/Moonpetal/master/img/cover.webp) |
 | [kuingsmile/horo_ob_theme](https://github.com/kuingsmile/horo_ob_theme) | ![Horo](https://raw.githubusercontent.com/kuingsmile/horo_ob_theme/master/screenshot.png) |
 | [xwtaidev/obsidian-morandi-theme](https://github.com/xwtaidev/obsidian-morandi-theme) | ![Morandi](https://raw.githubusercontent.com/xwtaidev/obsidian-morandi-theme/master/screenshot.png) |
@@ -922,3 +923,9 @@
 | [sulistef/obsidian-suliworld](https://github.com/sulistef/obsidian-suliworld) | ![Suliworld](https://raw.githubusercontent.com/sulistef/obsidian-suliworld/master/images/cream.png) |
 | [living-code-theme/obsidian](https://github.com/living-code-theme/obsidian) | ![Living Code](https://raw.githubusercontent.com/living-code-theme/obsidian/master/screenshot.png) |
 | [shaktoth/Ginnungagap-Obsidian-Theme](https://github.com/shaktoth/Ginnungagap-Obsidian-Theme) | ![Ginnungagap](https://raw.githubusercontent.com/shaktoth/Ginnungagap-Obsidian-Theme/master/assets/screenshot.png) |
+| [shaktoth/WoW-Warcraft-UI-Obsidian-Theme](https://github.com/shaktoth/WoW-Warcraft-UI-Obsidian-Theme) | ![Azeroth](https://raw.githubusercontent.com/shaktoth/WoW-Warcraft-UI-Obsidian-Theme/master/assets/comparison-side-by-side.png) |
+| [fleyreal/academic-vibes-theme](https://github.com/fleyreal/academic-vibes-theme) | ![Academic-Vibes](https://raw.githubusercontent.com/fleyreal/academic-vibes-theme/master/images/thumbnail.png) |
+| [jrayas/minilite-flat](https://github.com/jrayas/minilite-flat) | ![minilite-flat](https://raw.githubusercontent.com/jrayas/minilite-flat/master/screenshot.png) |
+| [jrayas/paper-lite](https://github.com/jrayas/paper-lite) | ![paper-lite](https://raw.githubusercontent.com/jrayas/paper-lite/master/screenshot.png) |
+| [white0dry/obsidian-nox-aeterna](https://github.com/white0dry/obsidian-nox-aeterna) | ![Nox Aeterna](https://raw.githubusercontent.com/white0dry/obsidian-nox-aeterna/master/screenshot.png) |
+| [lennzone/Neobrutalism](https://github.com/lennzone/Neobrutalism) | ![Neobrutalism](https://raw.githubusercontent.com/lennzone/Neobrutalism/master/thumbnail.png) |
