@@ -831,6 +831,7 @@
 | [raccoon-overlord-dev/obsidian-pastello-theme](https://github.com/raccoon-overlord-dev/obsidian-pastello-theme) | ![Pastello](https://raw.githubusercontent.com/raccoon-overlord-dev/obsidian-pastello-theme/master/screenshot.png) |
 | [oomniss/caffeine-obsidian-theme](https://github.com/oomniss/caffeine-obsidian-theme) | ![caffeine](https://raw.githubusercontent.com/oomniss/caffeine-obsidian-theme/master/Imagens/capa.png) |
 | [asterism0s/calliope](https://github.com/asterism0s/calliope) | ![Calliope](https://raw.githubusercontent.com/asterism0s/calliope/master/screenshot.png) |
+| [andrwj/obsidian-theme-saffron-ink](https://github.com/andrwj/obsidian-theme-saffron-ink) | ![Saffron Ink](https://raw.githubusercontent.com/andrwj/obsidian-theme-saffron-ink/master/screenshots/font-awesome.png) |
 | [ducktapekiller/halftone](https://github.com/ducktapekiller/halftone) | ![Halftone](https://raw.githubusercontent.com/ducktapekiller/halftone/master/screenshot.png) |
 | [itsjusthaif/obsidian-bliss](https://github.com/itsjusthaif/obsidian-bliss) | ![Bliss](https://raw.githubusercontent.com/itsjusthaif/obsidian-bliss/master/screenshot.png) |
 | [camusz11/obsidian-newsprint](https://github.com/camusz11/obsidian-newsprint) | ![Newsprint by Camus](https://raw.githubusercontent.com/camusz11/obsidian-newsprint/master/screenshots/cover.jpg) |
@@ -929,3 +930,9 @@
 | [jrayas/paper-lite](https://github.com/jrayas/paper-lite) | ![paper-lite](https://raw.githubusercontent.com/jrayas/paper-lite/master/screenshot.png) |
 | [white0dry/obsidian-nox-aeterna](https://github.com/white0dry/obsidian-nox-aeterna) | ![Nox Aeterna](https://raw.githubusercontent.com/white0dry/obsidian-nox-aeterna/master/screenshot.png) |
 | [lennzone/Neobrutalism](https://github.com/lennzone/Neobrutalism) | ![Neobrutalism](https://raw.githubusercontent.com/lennzone/Neobrutalism/master/thumbnail.png) |
+| [igor2c/cybertron-3](https://github.com/igor2c/cybertron-3) | ![Cybertron 3](https://raw.githubusercontent.com/igor2c/cybertron-3/master/screenshot.png) |
+| [tiffanyiong/obsidian-animal-island](https://github.com/tiffanyiong/obsidian-animal-island) | ![Animal Island Cozy](https://raw.githubusercontent.com/tiffanyiong/obsidian-animal-island/master/screenshot.png) |
+| [gabrielfrimodig/obsidian-seashell](https://github.com/gabrielfrimodig/obsidian-seashell) | ![Seashell](https://raw.githubusercontent.com/gabrielfrimodig/obsidian-seashell/master/assets/theme-dark.png) |
+| [ibridd/moonshade](https://github.com/ibridd/moonshade) | ![Moonshade](https://raw.githubusercontent.com/ibridd/moonshade/master/assets/screenshot.png) |
+| [raunak7888/Raunak-Theme](https://github.com/raunak7888/Raunak-Theme) | ![Raunak Noir](https://raw.githubusercontent.com/raunak7888/Raunak-Theme/master/screenshot.png) |
+| [opus721/obsidian-buba-theme](https://github.com/opus721/obsidian-buba-theme) | ![Buba](https://raw.githubusercontent.com/opus721/obsidian-buba-theme/master/screenshot.png) |
