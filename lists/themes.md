@@ -740,7 +740,6 @@
 | [real-fruit-snacks/obsidian-dossier](https://github.com/real-fruit-snacks/obsidian-dossier) | ![Dossier](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-dossier/master/screenshot.png) |
 | [cxw91/obsidian-vscode-theme](https://github.com/cxw91/obsidian-vscode-theme) | ![VS Code](https://raw.githubusercontent.com/cxw91/obsidian-vscode-theme/master/screenshot.png) |
 | [real-fruit-snacks/obsidian-comic](https://github.com/real-fruit-snacks/obsidian-comic) | ![Comic](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-comic/master/screenshot.png) |
-| [real-fruit-snacks/obsidian-grimoire](https://github.com/real-fruit-snacks/obsidian-grimoire) | ![Grimoire](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-grimoire/master/screenshot.png) |
 | [beppepic/obsidian-writing-room](https://github.com/beppepic/obsidian-writing-room) | ![Writing Room](https://raw.githubusercontent.com/beppepic/obsidian-writing-room/master/assets/preview.png) |
 | [foreglow/obsidian](https://github.com/foreglow/obsidian) | ![Foreglow](https://raw.githubusercontent.com/foreglow/obsidian/master/foreglow-pack-obsidian-alt.png) |
 | [candrapradipa/obsidian-paperline](https://github.com/candrapradipa/obsidian-paperline) | ![Paperline](https://raw.githubusercontent.com/candrapradipa/obsidian-paperline/master/screenshot.png) |
@@ -936,3 +935,9 @@
 | [ibridd/moonshade](https://github.com/ibridd/moonshade) | ![Moonshade](https://raw.githubusercontent.com/ibridd/moonshade/master/assets/screenshot.png) |
 | [raunak7888/Raunak-Theme](https://github.com/raunak7888/Raunak-Theme) | ![Raunak Noir](https://raw.githubusercontent.com/raunak7888/Raunak-Theme/master/screenshot.png) |
 | [opus721/obsidian-buba-theme](https://github.com/opus721/obsidian-buba-theme) | ![Buba](https://raw.githubusercontent.com/opus721/obsidian-buba-theme/master/screenshot.png) |
+| [beta-zheng/lumen-docs](https://github.com/beta-zheng/lumen-docs) | ![Lumen Docs](https://raw.githubusercontent.com/beta-zheng/lumen-docs/master/screenshots/screenshot.png) |
+| [byrcen/byrcen-breathe](https://github.com/byrcen/byrcen-breathe) | ![Byrcen Breathe](https://raw.githubusercontent.com/byrcen/byrcen-breathe/master/cover.png) |
+| [yunforge/obsidian-theme-stillmark](https://github.com/yunforge/obsidian-theme-stillmark) | ![Stillmark](https://raw.githubusercontent.com/yunforge/obsidian-theme-stillmark/master/screenshot-light.png) |
+| [jvaclavovic/obsidian-vega-theme](https://github.com/jvaclavovic/obsidian-vega-theme) | ![Vega](https://raw.githubusercontent.com/jvaclavovic/obsidian-vega-theme/master/screenshots/screenshot.png) |
+| [player-muteki/oboro](https://github.com/player-muteki/oboro) | ![Oboro](https://raw.githubusercontent.com/player-muteki/oboro/master/screenshots/screenshot-light.png) |
+| [clowsuzu/rho-zero](https://github.com/clowsuzu/rho-zero) | ![Rho Zero](https://raw.githubusercontent.com/clowsuzu/rho-zero/master/screenshot.png) |
