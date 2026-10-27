@@ -466,7 +466,7 @@
 | [soldni/monokai-filtersun-spectrum](https://github.com/soldni/monokai-filtersun-spectrum) | ![monokai-filtersun-spectrum](https://raw.githubusercontent.com/soldni/monokai-filtersun-spectrum/master/screenshot.png) |
 | [nickmilo/soft-paper](https://github.com/nickmilo/soft-paper) | ![Soft Paper](https://raw.githubusercontent.com/nickmilo/soft-paper/master/screenshot.png) |
 | [kinn00kinn/LatteLogic](https://github.com/kinn00kinn/LatteLogic) | ![LatteLogic](https://raw.githubusercontent.com/kinn00kinn/LatteLogic/master/cover.png) |
-| [alexh/umi-obsidian-theme](https://github.com/alexh/umi-obsidian-theme) | ![Utility Materials](https://raw.githubusercontent.com/alexh/umi-obsidian-theme/master/screenshot.png) |
+| [utility-materials/umi-obsidian-theme](https://github.com/utility-materials/umi-obsidian-theme) | ![Utility Materials](https://raw.githubusercontent.com/utility-materials/umi-obsidian-theme/master/screenshot.png) |
 | [hanabi-works/hanabi-theme](https://github.com/hanabi-works/hanabi-theme) | ![Hanabi](https://raw.githubusercontent.com/hanabi-works/hanabi-theme/master/images/obsidian-preview.png) |
 | [mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme](https://github.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme) | ![Vaporwave Void](https://raw.githubusercontent.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme/master/Screenshot512final.png) |
 | [austinsuun/obsidian-AAAA](https://github.com/austinsuun/obsidian-AAAA) | ![AAAA](https://raw.githubusercontent.com/austinsuun/obsidian-AAAA/master/screenshots/light.png) |
@@ -596,7 +596,6 @@
 | [fyaic/DIDADI-obsidian-theme](https://github.com/fyaic/DIDADI-obsidian-theme) | ![DIDADI](https://raw.githubusercontent.com/fyaic/DIDADI-obsidian-theme/master/screenshot.png) |
 | [frank-pw/cordyceps](https://github.com/frank-pw/cordyceps) | ![Cordyceps](https://raw.githubusercontent.com/frank-pw/cordyceps/master/preview.png) |
 | [xevrion/obsidian-termina](https://github.com/xevrion/obsidian-termina) | ![termina](https://raw.githubusercontent.com/xevrion/obsidian-termina/master/screenshot.png) |
-| [real-fruit-snacks/terminal-workbench](https://github.com/real-fruit-snacks/terminal-workbench) | ![Terminal Workbench](https://raw.githubusercontent.com/real-fruit-snacks/terminal-workbench/master/screenshot.png) |
 | [alexxozo/apple-notes-obsidian](https://github.com/alexxozo/apple-notes-obsidian) | ![Apple Notes](https://raw.githubusercontent.com/alexxozo/apple-notes-obsidian/master/screenshot.png) |
 | [cmdurham/wake_up_samurai](https://github.com/cmdurham/wake_up_samurai) | ![Wake Up Samurai](https://raw.githubusercontent.com/cmdurham/wake_up_samurai/master/wake-up-samurai.png) |
 | [fyaic/Football-Obsidian-Theme](https://github.com/fyaic/Football-Obsidian-Theme) | ![Football Notes](https://raw.githubusercontent.com/fyaic/Football-Obsidian-Theme/master/screenshot.png) |
@@ -735,11 +734,7 @@
 | [yosukedesign/yosuke-glass](https://github.com/yosukedesign/yosuke-glass) | ![Yosuke Glass](https://raw.githubusercontent.com/yosukedesign/yosuke-glass/master/screenshot.png) |
 | [creativemindrito/bordeaux-theme-obsidian](https://github.com/creativemindrito/bordeaux-theme-obsidian) | ![Bordeaux](https://raw.githubusercontent.com/creativemindrito/bordeaux-theme-obsidian/master/banner.png) |
 | [ahmadalkfri/netrunner-obsidian](https://github.com/ahmadalkfri/netrunner-obsidian) | ![Netrunner](https://raw.githubusercontent.com/ahmadalkfri/netrunner-obsidian/master/screenshots/netrunnerPreview.png) |
-| [real-fruit-snacks/obsidian-glow](https://github.com/real-fruit-snacks/obsidian-glow) | ![Glow](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-glow/master/screenshot.png) |
-| [real-fruit-snacks/obsidian-outrun](https://github.com/real-fruit-snacks/obsidian-outrun) | ![Outrun](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-outrun/master/screenshot.png) |
-| [real-fruit-snacks/obsidian-dossier](https://github.com/real-fruit-snacks/obsidian-dossier) | ![Dossier](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-dossier/master/screenshot.png) |
 | [cxw91/obsidian-vscode-theme](https://github.com/cxw91/obsidian-vscode-theme) | ![VS Code](https://raw.githubusercontent.com/cxw91/obsidian-vscode-theme/master/screenshot.png) |
-| [real-fruit-snacks/obsidian-comic](https://github.com/real-fruit-snacks/obsidian-comic) | ![Comic](https://raw.githubusercontent.com/real-fruit-snacks/obsidian-comic/master/screenshot.png) |
 | [beppepic/obsidian-writing-room](https://github.com/beppepic/obsidian-writing-room) | ![Writing Room](https://raw.githubusercontent.com/beppepic/obsidian-writing-room/master/assets/preview.png) |
 | [foreglow/obsidian](https://github.com/foreglow/obsidian) | ![Foreglow](https://raw.githubusercontent.com/foreglow/obsidian/master/foreglow-pack-obsidian-alt.png) |
 | [candrapradipa/obsidian-paperline](https://github.com/candrapradipa/obsidian-paperline) | ![Paperline](https://raw.githubusercontent.com/candrapradipa/obsidian-paperline/master/screenshot.png) |
@@ -939,5 +934,7 @@
 | [byrcen/byrcen-breathe](https://github.com/byrcen/byrcen-breathe) | ![Byrcen Breathe](https://raw.githubusercontent.com/byrcen/byrcen-breathe/master/cover.png) |
 | [yunforge/obsidian-theme-stillmark](https://github.com/yunforge/obsidian-theme-stillmark) | ![Stillmark](https://raw.githubusercontent.com/yunforge/obsidian-theme-stillmark/master/screenshot-light.png) |
 | [jvaclavovic/obsidian-vega-theme](https://github.com/jvaclavovic/obsidian-vega-theme) | ![Vega](https://raw.githubusercontent.com/jvaclavovic/obsidian-vega-theme/master/screenshots/screenshot.png) |
-| [player-muteki/oboro](https://github.com/player-muteki/oboro) | ![Oboro](https://raw.githubusercontent.com/player-muteki/oboro/master/screenshots/screenshot-light.png) |
+| [player-muteki/oboro](https://github.com/player-muteki/oboro) | ![Oboro](https://raw.githubusercontent.com/player-muteki/oboro/master/screenshots/promo.png) |
 | [clowsuzu/rho-zero](https://github.com/clowsuzu/rho-zero) | ![Rho Zero](https://raw.githubusercontent.com/clowsuzu/rho-zero/master/screenshot.png) |
+| [lykantonio/obsidian-deskmate](https://github.com/lykantonio/obsidian-deskmate) | ![Deskmate](https://raw.githubusercontent.com/lykantonio/obsidian-deskmate/master/screenshot.png) |
+| [tmdautov/obsidian-zencode-theme](https://github.com/tmdautov/obsidian-zencode-theme) | ![Zencode](https://raw.githubusercontent.com/tmdautov/obsidian-zencode-theme/master/screenshot.png) |
