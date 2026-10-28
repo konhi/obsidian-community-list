@@ -844,7 +844,7 @@
 | [jaylinwang/paper-blue](https://github.com/jaylinwang/paper-blue) | ![Paper Blue](https://raw.githubusercontent.com/jaylinwang/paper-blue/master/assets/screenshots/obsidian-overview.jpg) |
 | [xumintian/obsidian-liquid-glass](https://github.com/xumintian/obsidian-liquid-glass) | ![Liquid Glass](https://raw.githubusercontent.com/xumintian/obsidian-liquid-glass/master/images/cover.png) |
 | [genskyff/obsidian-arkfield](https://github.com/genskyff/obsidian-arkfield) | ![Arkfield](https://raw.githubusercontent.com/genskyff/obsidian-arkfield/master/assets/screenshots/store.png) |
-| [sentientshawarma/dishonored-dunwall-theme](https://github.com/sentientshawarma/dishonored-dunwall-theme) | ![Dishonored - Dunwall](https://raw.githubusercontent.com/sentientshawarma/dishonored-dunwall-theme/master/preview.png) |
+| [abdullahhasan42/dishonored-dunwall-theme](https://github.com/abdullahhasan42/dishonored-dunwall-theme) | ![Dishonored - Dunwall](https://raw.githubusercontent.com/abdullahhasan42/dishonored-dunwall-theme/master/preview.png) |
 | [rbartoli/obsidian-tela-theme](https://github.com/rbartoli/obsidian-tela-theme) | ![Tela](https://raw.githubusercontent.com/rbartoli/obsidian-tela-theme/master/assets/screenshot.png) |
 | [manueldelgado/calm-matters](https://github.com/manueldelgado/calm-matters) | ![Calm Matters](https://raw.githubusercontent.com/manueldelgado/calm-matters/master/screenshot.png) |
 | [im3sk/stillhaven-obsidian-theme](https://github.com/im3sk/stillhaven-obsidian-theme) | ![Stillhaven](https://raw.githubusercontent.com/im3sk/stillhaven-obsidian-theme/master/screenshot.png) |
@@ -911,7 +911,6 @@
 | [sspaeti/obsidian_fireplace](https://github.com/sspaeti/obsidian_fireplace) | ![Fireplace](https://raw.githubusercontent.com/sspaeti/obsidian_fireplace/master/dark.png) |
 | [sspaeti/obsidian_asia_neon](https://github.com/sspaeti/obsidian_asia_neon) | ![Asia Neon](https://raw.githubusercontent.com/sspaeti/obsidian_asia_neon/master/dark.png) |
 | [dlsdgj/Techwear](https://github.com/dlsdgj/Techwear) | ![Techwear](https://raw.githubusercontent.com/dlsdgj/Techwear/master/screenshot.png) |
-| [tcrouzet/obsidian-crouzet-theme](https://github.com/tcrouzet/obsidian-crouzet-theme) | ![CrouzetTheme](https://raw.githubusercontent.com/tcrouzet/obsidian-crouzet-theme/master/doc/screenshot.jpg) |
 | [evan-guyot/obsidian-undefined](https://github.com/evan-guyot/obsidian-undefined) | ![Undefined](https://raw.githubusercontent.com/evan-guyot/obsidian-undefined/master/screenshot.png) |
 | [chillbok/obsidian-adwaita-flexoki](https://github.com/chillbok/obsidian-adwaita-flexoki) | ![Adwaita Flexoki](https://raw.githubusercontent.com/chillbok/obsidian-adwaita-flexoki/master/generated/capture-image.png) |
 | [tallvincent/monokai-pro-octagon-obsidian](https://github.com/tallvincent/monokai-pro-octagon-obsidian) | ![Monokai Pro Octagon](https://raw.githubusercontent.com/tallvincent/monokai-pro-octagon-obsidian/master/screenshots/main.png) |
@@ -938,3 +937,7 @@
 | [clowsuzu/rho-zero](https://github.com/clowsuzu/rho-zero) | ![Rho Zero](https://raw.githubusercontent.com/clowsuzu/rho-zero/master/screenshot.png) |
 | [lykantonio/obsidian-deskmate](https://github.com/lykantonio/obsidian-deskmate) | ![Deskmate](https://raw.githubusercontent.com/lykantonio/obsidian-deskmate/master/screenshot.png) |
 | [tmdautov/obsidian-zencode-theme](https://github.com/tmdautov/obsidian-zencode-theme) | ![Zencode](https://raw.githubusercontent.com/tmdautov/obsidian-zencode-theme/master/screenshot.png) |
+| [khaister/obsidian-jetbrains-thinkrail](https://github.com/khaister/obsidian-jetbrains-thinkrail) | ![JetBrains ThinkRail](https://raw.githubusercontent.com/khaister/obsidian-jetbrains-thinkrail/master/docs/screenshot-light.png) |
+| [mack-yilman/obsidian-merry-christmas](https://github.com/mack-yilman/obsidian-merry-christmas) | ![Merry Christmas](https://raw.githubusercontent.com/mack-yilman/obsidian-merry-christmas/master/screenshot.png) |
+| [mack-yilman/obsidian-snowy-eve](https://github.com/mack-yilman/obsidian-snowy-eve) | ![Snowy Eve](https://raw.githubusercontent.com/mack-yilman/obsidian-snowy-eve/master/screenshot.png) |
+| [tcrouzet/obsidian-ultra-minimal](https://github.com/tcrouzet/obsidian-ultra-minimal) | ![Ultra Minimal](https://raw.githubusercontent.com/tcrouzet/obsidian-ultra-minimal/master/doc/cover.png) |
