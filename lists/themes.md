@@ -911,7 +911,6 @@
 | [sspaeti/obsidian_fireplace](https://github.com/sspaeti/obsidian_fireplace) | ![Fireplace](https://raw.githubusercontent.com/sspaeti/obsidian_fireplace/master/dark.png) |
 | [sspaeti/obsidian_asia_neon](https://github.com/sspaeti/obsidian_asia_neon) | ![Asia Neon](https://raw.githubusercontent.com/sspaeti/obsidian_asia_neon/master/dark.png) |
 | [dlsdgj/Techwear](https://github.com/dlsdgj/Techwear) | ![Techwear](https://raw.githubusercontent.com/dlsdgj/Techwear/master/screenshot.png) |
-| [evan-guyot/obsidian-undefined](https://github.com/evan-guyot/obsidian-undefined) | ![Undefined](https://raw.githubusercontent.com/evan-guyot/obsidian-undefined/master/screenshot.png) |
 | [chillbok/obsidian-adwaita-flexoki](https://github.com/chillbok/obsidian-adwaita-flexoki) | ![Adwaita Flexoki](https://raw.githubusercontent.com/chillbok/obsidian-adwaita-flexoki/master/generated/capture-image.png) |
 | [tallvincent/monokai-pro-octagon-obsidian](https://github.com/tallvincent/monokai-pro-octagon-obsidian) | ![Monokai Pro Octagon](https://raw.githubusercontent.com/tallvincent/monokai-pro-octagon-obsidian/master/screenshots/main.png) |
 | [sulistef/obsidian-suliworld](https://github.com/sulistef/obsidian-suliworld) | ![Suliworld](https://raw.githubusercontent.com/sulistef/obsidian-suliworld/master/images/cream.png) |
@@ -927,7 +926,6 @@
 | [tiffanyiong/obsidian-animal-island](https://github.com/tiffanyiong/obsidian-animal-island) | ![Animal Island Cozy](https://raw.githubusercontent.com/tiffanyiong/obsidian-animal-island/master/screenshot.png) |
 | [gabrielfrimodig/obsidian-seashell](https://github.com/gabrielfrimodig/obsidian-seashell) | ![Seashell](https://raw.githubusercontent.com/gabrielfrimodig/obsidian-seashell/master/assets/theme-dark.png) |
 | [ibridd/moonshade](https://github.com/ibridd/moonshade) | ![Moonshade](https://raw.githubusercontent.com/ibridd/moonshade/master/assets/screenshot.png) |
-| [raunak7888/Raunak-Theme](https://github.com/raunak7888/Raunak-Theme) | ![Raunak Noir](https://raw.githubusercontent.com/raunak7888/Raunak-Theme/master/screenshot.png) |
 | [opus721/obsidian-buba-theme](https://github.com/opus721/obsidian-buba-theme) | ![Buba](https://raw.githubusercontent.com/opus721/obsidian-buba-theme/master/screenshot.png) |
 | [beta-zheng/lumen-docs](https://github.com/beta-zheng/lumen-docs) | ![Lumen Docs](https://raw.githubusercontent.com/beta-zheng/lumen-docs/master/screenshots/screenshot.png) |
 | [byrcen/byrcen-breathe](https://github.com/byrcen/byrcen-breathe) | ![Byrcen Breathe](https://raw.githubusercontent.com/byrcen/byrcen-breathe/master/cover.png) |
@@ -941,3 +939,7 @@
 | [mack-yilman/obsidian-merry-christmas](https://github.com/mack-yilman/obsidian-merry-christmas) | ![Merry Christmas](https://raw.githubusercontent.com/mack-yilman/obsidian-merry-christmas/master/screenshot.png) |
 | [mack-yilman/obsidian-snowy-eve](https://github.com/mack-yilman/obsidian-snowy-eve) | ![Snowy Eve](https://raw.githubusercontent.com/mack-yilman/obsidian-snowy-eve/master/screenshot.png) |
 | [tcrouzet/obsidian-ultra-minimal](https://github.com/tcrouzet/obsidian-ultra-minimal) | ![Ultra Minimal](https://raw.githubusercontent.com/tcrouzet/obsidian-ultra-minimal/master/doc/cover.png) |
+| [especialkim/obsidian-theme-fantasy](https://github.com/especialkim/obsidian-theme-fantasy) | ![Fantasy](https://raw.githubusercontent.com/especialkim/obsidian-theme-fantasy/master/cover.png) |
+| [abdallahaladl/obsidian-woodtype](https://github.com/abdallahaladl/obsidian-woodtype) | ![Woodtype](https://raw.githubusercontent.com/abdallahaladl/obsidian-woodtype/master/screenshots/listing.png) |
+| [jasonpersinger/obsidian-salamander](https://github.com/jasonpersinger/obsidian-salamander) | ![Salamander](https://raw.githubusercontent.com/jasonpersinger/obsidian-salamander/master/screenshot.png) |
+| [trainvent/arcubic](https://github.com/trainvent/arcubic) | ![Arcubic](https://raw.githubusercontent.com/trainvent/arcubic/master/public/screenshot.png) |
