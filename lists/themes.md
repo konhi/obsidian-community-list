@@ -926,6 +926,7 @@
 | [tiffanyiong/obsidian-animal-island](https://github.com/tiffanyiong/obsidian-animal-island) | ![Animal Island Cozy](https://raw.githubusercontent.com/tiffanyiong/obsidian-animal-island/master/screenshot.png) |
 | [gabrielfrimodig/obsidian-seashell](https://github.com/gabrielfrimodig/obsidian-seashell) | ![Seashell](https://raw.githubusercontent.com/gabrielfrimodig/obsidian-seashell/master/assets/theme-dark.png) |
 | [ibridd/moonshade](https://github.com/ibridd/moonshade) | ![Moonshade](https://raw.githubusercontent.com/ibridd/moonshade/master/assets/screenshot.png) |
+| [raunak7888/Raunak-Theme](https://github.com/raunak7888/Raunak-Theme) | ![Raunak Noir](https://raw.githubusercontent.com/raunak7888/Raunak-Theme/master/screenshot.png) |
 | [opus721/obsidian-buba-theme](https://github.com/opus721/obsidian-buba-theme) | ![Buba](https://raw.githubusercontent.com/opus721/obsidian-buba-theme/master/screenshot.png) |
 | [beta-zheng/lumen-docs](https://github.com/beta-zheng/lumen-docs) | ![Lumen Docs](https://raw.githubusercontent.com/beta-zheng/lumen-docs/master/screenshots/screenshot.png) |
 | [byrcen/byrcen-breathe](https://github.com/byrcen/byrcen-breathe) | ![Byrcen Breathe](https://raw.githubusercontent.com/byrcen/byrcen-breathe/master/cover.png) |
@@ -943,3 +944,8 @@
 | [abdallahaladl/obsidian-woodtype](https://github.com/abdallahaladl/obsidian-woodtype) | ![Woodtype](https://raw.githubusercontent.com/abdallahaladl/obsidian-woodtype/master/screenshots/listing.png) |
 | [jasonpersinger/obsidian-salamander](https://github.com/jasonpersinger/obsidian-salamander) | ![Salamander](https://raw.githubusercontent.com/jasonpersinger/obsidian-salamander/master/screenshot.png) |
 | [trainvent/arcubic](https://github.com/trainvent/arcubic) | ![Arcubic](https://raw.githubusercontent.com/trainvent/arcubic/master/public/screenshot.png) |
+| [davindakhrisna/terminal-theme](https://github.com/davindakhrisna/terminal-theme) | ![Monolith Terminal](https://raw.githubusercontent.com/davindakhrisna/terminal-theme/master/screenshot.png) |
+| [ptxmac/Hive-Obsidian-Theme](https://github.com/ptxmac/Hive-Obsidian-Theme) | ![Hive](https://raw.githubusercontent.com/ptxmac/Hive-Obsidian-Theme/master/img/hive-thumbnail.png) |
+| [michaldulski/oeconomicus-obsidian](https://github.com/michaldulski/oeconomicus-obsidian) | ![Oeconomicus](https://raw.githubusercontent.com/michaldulski/oeconomicus-obsidian/master/screenshots/oeconomicus.png) |
+| [javierolmedo/obsidian-hackpuntes-theme](https://github.com/javierolmedo/obsidian-hackpuntes-theme) | ![Hackpuntes](https://raw.githubusercontent.com/javierolmedo/obsidian-hackpuntes-theme/master/screenshot.png) |
+| [swak-inc/obsidian-theme-swak](https://github.com/swak-inc/obsidian-theme-swak) | ![Swak](https://raw.githubusercontent.com/swak-inc/obsidian-theme-swak/master/screenshot.png) |
