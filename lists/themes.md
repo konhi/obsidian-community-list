@@ -755,7 +755,7 @@
 | [mattbirchler/tangerine-neue-obsidian](https://github.com/mattbirchler/tangerine-neue-obsidian) | ![Tangerine Neue](https://raw.githubusercontent.com/mattbirchler/tangerine-neue-obsidian/master/screenshot.png) |
 | [aurenyx-lab/aurenyx-obsidian](https://github.com/aurenyx-lab/aurenyx-obsidian) | ![AURENYX](https://raw.githubusercontent.com/aurenyx-lab/aurenyx-obsidian/master/screenshots/screenshot.png) |
 | [guruvlk/totonio-obsidian-theme](https://github.com/guruvlk/totonio-obsidian-theme) | ![Totonio](https://raw.githubusercontent.com/guruvlk/totonio-obsidian-theme/master/screenshots/light-desktop-content.png) |
-| [tommyhedgerow/obsidian-mimir-theme](https://github.com/tommyhedgerow/obsidian-mimir-theme) | ![Mimir](https://raw.githubusercontent.com/tommyhedgerow/obsidian-mimir-theme/master/screenshot.png) |
+| [bittanaycha/obsidian-mimir-theme](https://github.com/bittanaycha/obsidian-mimir-theme) | ![Mimir](https://raw.githubusercontent.com/bittanaycha/obsidian-mimir-theme/master/screenshot.png) |
 | [ducktapekiller/blade-runner](https://github.com/ducktapekiller/blade-runner) | ![Blade Runner](https://raw.githubusercontent.com/ducktapekiller/blade-runner/master/screenshot.png) |
 | [n2osync/n2o-paper](https://github.com/n2osync/n2o-paper) | ![N2O Paper](https://raw.githubusercontent.com/n2osync/n2o-paper/master/thumbnail.png) |
 | [ramenofficialgovpatsy/Solar-Gradient](https://github.com/ramenofficialgovpatsy/Solar-Gradient) | ![Solar Gradient](https://raw.githubusercontent.com/ramenofficialgovpatsy/Solar-Gradient/master/img/light.png) |
@@ -946,6 +946,10 @@
 | [trainvent/arcubic](https://github.com/trainvent/arcubic) | ![Arcubic](https://raw.githubusercontent.com/trainvent/arcubic/master/public/screenshot.png) |
 | [davindakhrisna/terminal-theme](https://github.com/davindakhrisna/terminal-theme) | ![Monolith Terminal](https://raw.githubusercontent.com/davindakhrisna/terminal-theme/master/screenshot.png) |
 | [ptxmac/Hive-Obsidian-Theme](https://github.com/ptxmac/Hive-Obsidian-Theme) | ![Hive](https://raw.githubusercontent.com/ptxmac/Hive-Obsidian-Theme/master/img/hive-thumbnail.png) |
-| [michaldulski/oeconomicus-obsidian](https://github.com/michaldulski/oeconomicus-obsidian) | ![Oeconomicus](https://raw.githubusercontent.com/michaldulski/oeconomicus-obsidian/master/screenshots/oeconomicus.png) |
 | [javierolmedo/obsidian-hackpuntes-theme](https://github.com/javierolmedo/obsidian-hackpuntes-theme) | ![Hackpuntes](https://raw.githubusercontent.com/javierolmedo/obsidian-hackpuntes-theme/master/screenshot.png) |
 | [swak-inc/obsidian-theme-swak](https://github.com/swak-inc/obsidian-theme-swak) | ![Swak](https://raw.githubusercontent.com/swak-inc/obsidian-theme-swak/master/screenshot.png) |
+| [kluesn/obsidian-mokume](https://github.com/kluesn/obsidian-mokume) | ![Mokume](https://raw.githubusercontent.com/kluesn/obsidian-mokume/master/screenshot.png) |
+| [hidontknow/obsidian-theme-hidontknow](https://github.com/hidontknow/obsidian-theme-hidontknow) | ![Hidontknow](https://raw.githubusercontent.com/hidontknow/obsidian-theme-hidontknow/master/screenshots/screenshot.png) |
+| [gelogonza/frutiger-obsidian-theme](https://github.com/gelogonza/frutiger-obsidian-theme) | ![Frutiger](https://raw.githubusercontent.com/gelogonza/frutiger-obsidian-theme/master/screenshots/theme-only.jpg) |
+| [matteoandradeboschi/e-ink](https://github.com/matteoandradeboschi/e-ink) | ![E-ink](https://raw.githubusercontent.com/matteoandradeboschi/e-ink/master/screenshot.png) |
+| [jenlybein/obsidian-graphite-island-spectrum](https://github.com/jenlybein/obsidian-graphite-island-spectrum) | ![Graphite Island Spectrum](https://raw.githubusercontent.com/jenlybein/obsidian-graphite-island-spectrum/master/screenshot.png) |
