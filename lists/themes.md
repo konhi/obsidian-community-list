@@ -193,7 +193,6 @@
 | [nazarioricardo/zario-obsidian](https://github.com/nazarioricardo/zario-obsidian) | ![Zario](https://raw.githubusercontent.com/nazarioricardo/zario-obsidian/master/screenshot.png) |
 | [behrouze/obsidian-theme](https://github.com/behrouze/obsidian-theme) | ![Perso](https://raw.githubusercontent.com/behrouze/obsidian-theme/master/screenshots/theme-perso-obsidian.png) |
 | [nhrrs/heboric-obsidian](https://github.com/nhrrs/heboric-obsidian) | ![Heboric](https://raw.githubusercontent.com/nhrrs/heboric-obsidian/master/screenshots/Heboric-screenshot-sm2.png) |
-| [zaheralmajed/vicious-theme-obsidian](https://github.com/zaheralmajed/vicious-theme-obsidian) | ![Vicious](https://raw.githubusercontent.com/zaheralmajed/vicious-theme-obsidian/master/screenshot.png) |
 | [mateushenriquegringo/spring-theme-obsidian](https://github.com/mateushenriquegringo/spring-theme-obsidian) | ![Spring](https://raw.githubusercontent.com/mateushenriquegringo/spring-theme-obsidian/master/SPRING.png) |
 | [sspaeti/obsidian_kanagawa_paper](https://github.com/sspaeti/obsidian_kanagawa_paper) | ![Kanagawa Paper](https://raw.githubusercontent.com/sspaeti/obsidian_kanagawa_paper/master/dark.jpg) |
 | [bluemoondragon07/Obsidian-Celestial-Night-Theme](https://github.com/bluemoondragon07/Obsidian-Celestial-Night-Theme) | ![Celestial Night](https://raw.githubusercontent.com/bluemoondragon07/Obsidian-Celestial-Night-Theme/master/assets/low-res.png) |
@@ -911,6 +910,7 @@
 | [sspaeti/obsidian_fireplace](https://github.com/sspaeti/obsidian_fireplace) | ![Fireplace](https://raw.githubusercontent.com/sspaeti/obsidian_fireplace/master/dark.png) |
 | [sspaeti/obsidian_asia_neon](https://github.com/sspaeti/obsidian_asia_neon) | ![Asia Neon](https://raw.githubusercontent.com/sspaeti/obsidian_asia_neon/master/dark.png) |
 | [dlsdgj/Techwear](https://github.com/dlsdgj/Techwear) | ![Techwear](https://raw.githubusercontent.com/dlsdgj/Techwear/master/screenshot.png) |
+| [evan-guyot/obsidian-undefined](https://github.com/evan-guyot/obsidian-undefined) | ![Undefined](https://raw.githubusercontent.com/evan-guyot/obsidian-undefined/master/screenshot.png) |
 | [chillbok/obsidian-adwaita-flexoki](https://github.com/chillbok/obsidian-adwaita-flexoki) | ![Adwaita Flexoki](https://raw.githubusercontent.com/chillbok/obsidian-adwaita-flexoki/master/generated/capture-image.png) |
 | [tallvincent/monokai-pro-octagon-obsidian](https://github.com/tallvincent/monokai-pro-octagon-obsidian) | ![Monokai Pro Octagon](https://raw.githubusercontent.com/tallvincent/monokai-pro-octagon-obsidian/master/screenshots/main.png) |
 | [sulistef/obsidian-suliworld](https://github.com/sulistef/obsidian-suliworld) | ![Suliworld](https://raw.githubusercontent.com/sulistef/obsidian-suliworld/master/images/cream.png) |
@@ -953,3 +953,7 @@
 | [gelogonza/frutiger-obsidian-theme](https://github.com/gelogonza/frutiger-obsidian-theme) | ![Frutiger](https://raw.githubusercontent.com/gelogonza/frutiger-obsidian-theme/master/screenshots/theme-only.jpg) |
 | [matteoandradeboschi/e-ink](https://github.com/matteoandradeboschi/e-ink) | ![E-ink](https://raw.githubusercontent.com/matteoandradeboschi/e-ink/master/screenshot.png) |
 | [jenlybein/obsidian-graphite-island-spectrum](https://github.com/jenlybein/obsidian-graphite-island-spectrum) | ![Graphite Island Spectrum](https://raw.githubusercontent.com/jenlybein/obsidian-graphite-island-spectrum/master/screenshot.png) |
+| [florafan-cs/obsidian-black-pink](https://github.com/florafan-cs/obsidian-black-pink) | ![Black Pink](https://raw.githubusercontent.com/florafan-cs/obsidian-black-pink/master/screenshot.png) |
+| [xwtaidev/obsidian-inkblade-theme](https://github.com/xwtaidev/obsidian-inkblade-theme) | ![Inkblade](https://raw.githubusercontent.com/xwtaidev/obsidian-inkblade-theme/master/screenshot.png) |
+| [sonlndv/Mounty](https://github.com/sonlndv/Mounty) | ![Mounty](https://raw.githubusercontent.com/sonlndv/Mounty/master/docs/images/mounty-light.png) |
+| [kissabmi/relkis-obsidian-theme](https://github.com/kissabmi/relkis-obsidian-theme) | ![RelKis](https://raw.githubusercontent.com/kissabmi/relkis-obsidian-theme/master/screenshot.png) |
