@@ -513,7 +513,6 @@
 | [linyanna/panda-syntax-obsidian](https://github.com/linyanna/panda-syntax-obsidian) | ![Panda Syntax](https://raw.githubusercontent.com/linyanna/panda-syntax-obsidian/master/panda-syntax-dark.png) |
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
-| [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
 | [elijah7x/theme-folio](https://github.com/elijah7x/theme-folio) | ![Folio](https://raw.githubusercontent.com/elijah7x/theme-folio/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
@@ -957,3 +956,9 @@
 | [xwtaidev/obsidian-inkblade-theme](https://github.com/xwtaidev/obsidian-inkblade-theme) | ![Inkblade](https://raw.githubusercontent.com/xwtaidev/obsidian-inkblade-theme/master/screenshot.png) |
 | [sonlndv/Mounty](https://github.com/sonlndv/Mounty) | ![Mounty](https://raw.githubusercontent.com/sonlndv/Mounty/master/docs/images/mounty-light.png) |
 | [kissabmi/relkis-obsidian-theme](https://github.com/kissabmi/relkis-obsidian-theme) | ![RelKis](https://raw.githubusercontent.com/kissabmi/relkis-obsidian-theme/master/screenshot.png) |
+| [n16htb0t/strawberry-cloud](https://github.com/n16htb0t/strawberry-cloud) | ![Strawberry Cloud](https://raw.githubusercontent.com/n16htb0t/strawberry-cloud/master/images/dashboard-light.jpg) |
+| [paveldegtyaruk-commits/obsidian-grimoire-theme](https://github.com/paveldegtyaruk-commits/obsidian-grimoire-theme) | ![Grimoire App](https://raw.githubusercontent.com/paveldegtyaruk-commits/obsidian-grimoire-theme/master/images/screenshot.png) |
+| [zephyrhaven/cockpit-glass](https://github.com/zephyrhaven/cockpit-glass) | ![Cockpit Glass](https://raw.githubusercontent.com/zephyrhaven/cockpit-glass/master/screenshots/cockpit-glass-dark.png) |
+| [anarcadia/obsidian-chuanban-theme](https://github.com/anarcadia/obsidian-chuanban-theme) | ![chuanban](https://raw.githubusercontent.com/anarcadia/obsidian-chuanban-theme/master/screenshot.png) |
+| [singhaf9270/obsidian-makan](https://github.com/singhaf9270/obsidian-makan) | ![Makan](https://raw.githubusercontent.com/singhaf9270/obsidian-makan/master/Persian%20Lavender%20Vault%20Dashboard.png) |
+| [davidhurtadoai/obsidian-office-mock](https://github.com/davidhurtadoai/obsidian-office-mock) | ![Office Mock](https://raw.githubusercontent.com/davidhurtadoai/obsidian-office-mock/master/images/email-light-preview.png) |
