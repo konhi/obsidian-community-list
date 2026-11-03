@@ -105,7 +105,7 @@
 | [erykwalder/dayspring-theme](https://github.com/erykwalder/dayspring-theme) | ![Dayspring](https://raw.githubusercontent.com/erykwalder/dayspring-theme/master/screenshots/thumbnail.png) |
 | [anubisnekhet/AnuPpuccin](https://github.com/anubisnekhet/AnuPpuccin) | ![AnuPpuccin](https://raw.githubusercontent.com/anubisnekhet/AnuPpuccin/master/preview.png) |
 | [zamsyt/obsidian-fusion](https://github.com/zamsyt/obsidian-fusion) | ![Fusion](https://raw.githubusercontent.com/zamsyt/obsidian-fusion/master/thumbnail.png) |
-| [7368697661/Ultra-Lobster](https://github.com/7368697661/Ultra-Lobster) | ![Ultra Lobster](https://raw.githubusercontent.com/7368697661/Ultra-Lobster/master/preview_thumb.png) |
+| [ble-ss/Ultra-Lobster](https://github.com/ble-ss/Ultra-Lobster) | ![Ultra Lobster](https://raw.githubusercontent.com/ble-ss/Ultra-Lobster/master/preview_thumb.png) |
 | [marcoluzi/obsidian-synthwave](https://github.com/marcoluzi/obsidian-synthwave) | ![SynthWave](https://raw.githubusercontent.com/marcoluzi/obsidian-synthwave/master/screenshot.jpeg) |
 | [ltctceplrm/oldsidian-purple](https://github.com/ltctceplrm/oldsidian-purple) | ![Oldsidian Purple](https://raw.githubusercontent.com/ltctceplrm/oldsidian-purple/master/cover.png) |
 | [lucas-fern/obsidian-deeper-work-theme](https://github.com/lucas-fern/obsidian-deeper-work-theme) | ![deeper work](https://raw.githubusercontent.com/lucas-fern/obsidian-deeper-work-theme/master/thumbnail.png) |
@@ -117,7 +117,7 @@
 | [satchelmouth/Obsidian-Theme-WYConsole](https://github.com/satchelmouth/Obsidian-Theme-WYConsole) | ![WY Console](https://raw.githubusercontent.com/satchelmouth/Obsidian-Theme-WYConsole/master/WYConsole_Store_Screenshot.png) |
 | [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme) | ![Adwaita](https://raw.githubusercontent.com/birneee/obsidian-adwaita-theme/master/generated/theme-store-preview.png) |
 | [amadeuswm/Obsidian-Apatheia](https://github.com/amadeuswm/Obsidian-Apatheia) | ![Apatheia](https://raw.githubusercontent.com/amadeuswm/Obsidian-Apatheia/master/promo_screenshot.png) |
-| [7368697661/Origami](https://github.com/7368697661/Origami) | ![Origami](https://raw.githubusercontent.com/7368697661/Origami/master/screen.png) |
+| [ble-ss/Origami](https://github.com/ble-ss/Origami) | ![Origami](https://raw.githubusercontent.com/ble-ss/Origami/master/screen.png) |
 | [akifyss/obsidian-border](https://github.com/akifyss/obsidian-border) | ![Border](https://raw.githubusercontent.com/akifyss/obsidian-border/master/cover.png) |
 | [zekunc/Obsidian-Typora-Vue-Theme](https://github.com/zekunc/Obsidian-Typora-Vue-Theme) | ![Typora-Vue](https://raw.githubusercontent.com/zekunc/Obsidian-Typora-Vue-Theme/master/obsidian-typora-vue.png) |
 | [zalenza/Abecedarium-theme](https://github.com/zalenza/Abecedarium-theme) | ![Abecedarium](https://raw.githubusercontent.com/zalenza/Abecedarium-theme/master/abecedarium_dark.png) |
@@ -513,6 +513,7 @@
 | [linyanna/panda-syntax-obsidian](https://github.com/linyanna/panda-syntax-obsidian) | ![Panda Syntax](https://raw.githubusercontent.com/linyanna/panda-syntax-obsidian/master/panda-syntax-dark.png) |
 | [robertobissanti/obsidian-synthwave-pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | ![Synthwave Pro](https://raw.githubusercontent.com/robertobissanti/obsidian-synthwave-pro/master/background.png) |
 | [stephanteig/obsidian-lumen](https://github.com/stephanteig/obsidian-lumen) | ![Lumen](https://raw.githubusercontent.com/stephanteig/obsidian-lumen/master/lumen_preview.png) |
+| [ouatis/obsidian-scriptorium](https://github.com/ouatis/obsidian-scriptorium) | ![Scriptorium](https://raw.githubusercontent.com/ouatis/obsidian-scriptorium/master/screenshot.png) |
 | [elijah7x/theme-folio](https://github.com/elijah7x/theme-folio) | ![Folio](https://raw.githubusercontent.com/elijah7x/theme-folio/master/screenshot.png) |
 | [briancbiggs/biggs-obsidian-theme](https://github.com/briancbiggs/biggs-obsidian-theme) | ![Biggs](https://raw.githubusercontent.com/briancbiggs/biggs-obsidian-theme/master/screenshot.png) |
 | [dashedman/obsidian-nothing-theme](https://github.com/dashedman/obsidian-nothing-theme) | ![Nothing](https://raw.githubusercontent.com/dashedman/obsidian-nothing-theme/master/screenshot-0.png) |
@@ -891,7 +892,7 @@
 | [ashotis/konban](https://github.com/ashotis/konban) | ![Konban](https://raw.githubusercontent.com/ashotis/konban/master/screenshot.png) |
 | [qays3/TheWonderSpace](https://github.com/qays3/TheWonderSpace) | ![TheWonderSpace](https://raw.githubusercontent.com/qays3/TheWonderSpace/master/screenshot.png) |
 | [marcimotoo/midnight-studio-obsidian](https://github.com/marcimotoo/midnight-studio-obsidian) | ![Midnight Studio](https://raw.githubusercontent.com/marcimotoo/midnight-studio-obsidian/master/images/community-screenshot.png) |
-| [badtobad/obsidian-keyline](https://github.com/badtobad/obsidian-keyline) | ![Keyline](https://raw.githubusercontent.com/badtobad/obsidian-keyline/master/assets/keyline-cover-diagonal-v2.png) |
+| [badtobad/obsidian-keyline](https://github.com/badtobad/obsidian-keyline) | ![Keyline](https://raw.githubusercontent.com/badtobad/obsidian-keyline/master/assets/keyline-cover-diagonal-v3.png) |
 | [dubefab/obsidian-Overworld](https://github.com/dubefab/obsidian-Overworld) | ![Overworld](https://raw.githubusercontent.com/dubefab/obsidian-Overworld/master/screenshot.png) |
 | [drosmaz/DrosmazTheme](https://github.com/drosmaz/DrosmazTheme) | ![DrosmazTheme](https://raw.githubusercontent.com/drosmaz/DrosmazTheme/master/screenshots/screen.png) |
 | [404mon/Night404](https://github.com/404mon/Night404) | ![Night404](https://raw.githubusercontent.com/404mon/Night404/master/screenshot.png) |
@@ -962,3 +963,9 @@
 | [anarcadia/obsidian-chuanban-theme](https://github.com/anarcadia/obsidian-chuanban-theme) | ![chuanban](https://raw.githubusercontent.com/anarcadia/obsidian-chuanban-theme/master/screenshot.png) |
 | [singhaf9270/obsidian-makan](https://github.com/singhaf9270/obsidian-makan) | ![Makan](https://raw.githubusercontent.com/singhaf9270/obsidian-makan/master/Persian%20Lavender%20Vault%20Dashboard.png) |
 | [davidhurtadoai/obsidian-office-mock](https://github.com/davidhurtadoai/obsidian-office-mock) | ![Office Mock](https://raw.githubusercontent.com/davidhurtadoai/obsidian-office-mock/master/images/email-light-preview.png) |
+| [apokalypsis89/holstrom](https://github.com/apokalypsis89/holstrom) | ![Holstrom](https://raw.githubusercontent.com/apokalypsis89/holstrom/master/screenshot.png) |
+| [plagiarismcheckerx/plagx-writer-obsidian](https://github.com/plagiarismcheckerx/plagx-writer-obsidian) | ![Plagx Writer](https://raw.githubusercontent.com/plagiarismcheckerx/plagx-writer-obsidian/master/screenshot.png) |
+| [agiledolphin/lamplit](https://github.com/agiledolphin/lamplit) | ![Lamplit](https://raw.githubusercontent.com/agiledolphin/lamplit/master/screenshot.png) |
+| [taotao7/obsidian-cassette-futurism](https://github.com/taotao7/obsidian-cassette-futurism) | ![Cassette Futurism](https://raw.githubusercontent.com/taotao7/obsidian-cassette-futurism/master/screenshot.png) |
+| [nickmilo/Play](https://github.com/nickmilo/Play) | ![Play](https://raw.githubusercontent.com/nickmilo/Play/master/cover.png) |
+| [nicolamoscufo/eye-safe-writer](https://github.com/nicolamoscufo/eye-safe-writer) | ![Eye Safe Writer](https://raw.githubusercontent.com/nicolamoscufo/eye-safe-writer/master/screenshot.png) |
