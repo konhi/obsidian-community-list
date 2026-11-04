@@ -969,3 +969,7 @@
 | [taotao7/obsidian-cassette-futurism](https://github.com/taotao7/obsidian-cassette-futurism) | ![Cassette Futurism](https://raw.githubusercontent.com/taotao7/obsidian-cassette-futurism/master/screenshot.png) |
 | [nickmilo/Play](https://github.com/nickmilo/Play) | ![Play](https://raw.githubusercontent.com/nickmilo/Play/master/cover.png) |
 | [nicolamoscufo/eye-safe-writer](https://github.com/nicolamoscufo/eye-safe-writer) | ![Eye Safe Writer](https://raw.githubusercontent.com/nicolamoscufo/eye-safe-writer/master/screenshot.png) |
+| [mkenway01-cloud/obsidian-the-grid](https://github.com/mkenway01-cloud/obsidian-the-grid) | ![The Grid](https://raw.githubusercontent.com/mkenway01-cloud/obsidian-the-grid/master/screenshot.png) |
+| [zacesshq/obsidian-theme-cream](https://github.com/zacesshq/obsidian-theme-cream) | ![Zacess Cream](https://raw.githubusercontent.com/zacesshq/obsidian-theme-cream/master/./screenshot.png) |
+| [zacesshq/obsidian-theme-high-contrast](https://github.com/zacesshq/obsidian-theme-high-contrast) | ![Zacess High Contrast](https://raw.githubusercontent.com/zacesshq/obsidian-theme-high-contrast/master/screenshot.png) |
+| [zacesshq/obsidian-theme-deep-contrast](https://github.com/zacesshq/obsidian-theme-deep-contrast) | ![Zacess Deep Contrast](https://raw.githubusercontent.com/zacesshq/obsidian-theme-deep-contrast/master/screenshot.png) |
