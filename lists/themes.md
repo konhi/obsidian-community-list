@@ -126,7 +126,6 @@
 | [alljavi/material_gruvbox_obsidian](https://github.com/alljavi/material_gruvbox_obsidian) | ![Material Gruvbox](https://raw.githubusercontent.com/alljavi/material_gruvbox_obsidian/master/promo_screenshot.png) |
 | [hush-hush/obsidian_wombat](https://github.com/hush-hush/obsidian_wombat) | ![Wombat](https://raw.githubusercontent.com/hush-hush/obsidian_wombat/master/main_thumbnail.png) |
 | [jameslemony/obsidian_vibrant](https://github.com/jameslemony/obsidian_vibrant) | ![Vibrant](https://raw.githubusercontent.com/jameslemony/obsidian_vibrant/master/images/demo1.png) |
-| [faroukx/Obsidian-shiba-inu-theme](https://github.com/faroukx/Obsidian-shiba-inu-theme) | ![Shiba Inu](https://raw.githubusercontent.com/faroukx/Obsidian-shiba-inu-theme/master/shibainubackgroundshowcase.png) |
 | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) | ![Abyssal](https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/master/abyssal-thumbnail.png) |
 | [lnbgc/obsidian-jotter](https://github.com/lnbgc/obsidian-jotter) | ![Jotter](https://raw.githubusercontent.com/lnbgc/obsidian-jotter/master/jotter.png) |
 | [pipeittodevnull/PLN](https://github.com/pipeittodevnull/PLN) | ![PLN](https://raw.githubusercontent.com/pipeittodevnull/PLN/master/screenshot.png) |
@@ -780,7 +779,6 @@
 | [driftcowl/midnight-fjord-black](https://github.com/driftcowl/midnight-fjord-black) | ![Midnight Fjord Black](https://raw.githubusercontent.com/driftcowl/midnight-fjord-black/master/screenshot.png) |
 | [eliascotto/shades-of-purple-obsidian](https://github.com/eliascotto/shades-of-purple-obsidian) | ![Shades of Purple](https://raw.githubusercontent.com/eliascotto/shades-of-purple-obsidian/master/screenshot.png) |
 | [sltsh/aion](https://github.com/sltsh/aion) | ![Aion](https://raw.githubusercontent.com/sltsh/aion/master/screenshot.png) |
-| [apokalypsis89/hyperspace-obsidian](https://github.com/apokalypsis89/hyperspace-obsidian) | ![Hyperspace](https://raw.githubusercontent.com/apokalypsis89/hyperspace-obsidian/master/screenshot.png) |
 | [mariomile/obsidian-cosmos-theme](https://github.com/mariomile/obsidian-cosmos-theme) | ![Cosmos](https://raw.githubusercontent.com/mariomile/obsidian-cosmos-theme/master/image.png) |
 | [jysume/obsidian-typora-spring-theme](https://github.com/jysume/obsidian-typora-spring-theme) | ![Typora-Spring](https://raw.githubusercontent.com/jysume/obsidian-typora-spring-theme/master/typora-spring-preview.png) |
 | [borozdov-obsidian-themes/gallery](https://github.com/borozdov-obsidian-themes/gallery) | ![Borozdov Gallery](https://raw.githubusercontent.com/borozdov-obsidian-themes/gallery/master/screenshots/screenshot.png) |
@@ -973,3 +971,8 @@
 | [zacesshq/obsidian-theme-cream](https://github.com/zacesshq/obsidian-theme-cream) | ![Zacess Cream](https://raw.githubusercontent.com/zacesshq/obsidian-theme-cream/master/./screenshot.png) |
 | [zacesshq/obsidian-theme-high-contrast](https://github.com/zacesshq/obsidian-theme-high-contrast) | ![Zacess High Contrast](https://raw.githubusercontent.com/zacesshq/obsidian-theme-high-contrast/master/screenshot.png) |
 | [zacesshq/obsidian-theme-deep-contrast](https://github.com/zacesshq/obsidian-theme-deep-contrast) | ![Zacess Deep Contrast](https://raw.githubusercontent.com/zacesshq/obsidian-theme-deep-contrast/master/screenshot.png) |
+| [white0dry/obsidian-sangreal](https://github.com/white0dry/obsidian-sangreal) | ![Sangreal](https://raw.githubusercontent.com/white0dry/obsidian-sangreal/master/screenshot.png) |
+| [yuri55448/Steampunk-Foundry](https://github.com/yuri55448/Steampunk-Foundry) | ![Steampunk Foundry](https://raw.githubusercontent.com/yuri55448/Steampunk-Foundry/master/image/screenshot_512x288.png) |
+| [minos-chertsfield/rail-obsidian-theme](https://github.com/minos-chertsfield/rail-obsidian-theme) | ![Rail](https://raw.githubusercontent.com/minos-chertsfield/rail-obsidian-theme/master/screenshot.png) |
+| [dhwan0112/obsidian-wikibaum](https://github.com/dhwan0112/obsidian-wikibaum) | ![Wikibaum](https://raw.githubusercontent.com/dhwan0112/obsidian-wikibaum/master/screenshot.png) |
+| [nickmilo/Starfield](https://github.com/nickmilo/Starfield) | ![Starfield](https://raw.githubusercontent.com/nickmilo/Starfield/master/screenshot.png) |
