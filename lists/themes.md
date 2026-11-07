@@ -846,7 +846,7 @@
 | [manueldelgado/calm-matters](https://github.com/manueldelgado/calm-matters) | ![Calm Matters](https://raw.githubusercontent.com/manueldelgado/calm-matters/master/screenshot.png) |
 | [im3sk/stillhaven-obsidian-theme](https://github.com/im3sk/stillhaven-obsidian-theme) | ![Stillhaven](https://raw.githubusercontent.com/im3sk/stillhaven-obsidian-theme/master/screenshot.png) |
 | [miqueiasklippel/obsidian-theme-paperk](https://github.com/miqueiasklippel/obsidian-theme-paperk) | ![PaperK](https://raw.githubusercontent.com/miqueiasklippel/obsidian-theme-paperk/master/screenshot.png) |
-| [josecosta-gh/Black-Amethyst](https://github.com/josecosta-gh/Black-Amethyst) | ![Black Amethyst](https://raw.githubusercontent.com/josecosta-gh/Black-Amethyst/master/screenshots/Screenshot.jpg) |
+| [josecosta-gh/Black-Amethyst](https://github.com/josecosta-gh/Black-Amethyst) | ![Black Amethyst](https://raw.githubusercontent.com/josecosta-gh/Black-Amethyst/master/screenshots/Cover%20Screenshot.jpg) |
 | [landscronar/obsidian-cloudy-moon](https://github.com/landscronar/obsidian-cloudy-moon) | ![Cloudy Moon](https://raw.githubusercontent.com/landscronar/obsidian-cloudy-moon/master/screenshot.png) |
 | [lavemile02-afk/Bog-Oak_Theme-for-Obsidian](https://github.com/lavemile02-afk/Bog-Oak_Theme-for-Obsidian) | ![Bog Oak](https://raw.githubusercontent.com/lavemile02-afk/Bog-Oak_Theme-for-Obsidian/master/cover.png) |
 | [ymolodtsov/obsidian-lathe](https://github.com/ymolodtsov/obsidian-lathe) | ![Lathe](https://raw.githubusercontent.com/ymolodtsov/obsidian-lathe/master/screenshot.jpg) |
@@ -929,7 +929,6 @@
 | [beta-zheng/lumen-docs](https://github.com/beta-zheng/lumen-docs) | ![Lumen Docs](https://raw.githubusercontent.com/beta-zheng/lumen-docs/master/screenshots/screenshot.png) |
 | [byrcen/byrcen-breathe](https://github.com/byrcen/byrcen-breathe) | ![Byrcen Breathe](https://raw.githubusercontent.com/byrcen/byrcen-breathe/master/cover.png) |
 | [yunforge/obsidian-theme-stillmark](https://github.com/yunforge/obsidian-theme-stillmark) | ![Stillmark](https://raw.githubusercontent.com/yunforge/obsidian-theme-stillmark/master/screenshot-light.png) |
-| [jvaclavovic/obsidian-vega-theme](https://github.com/jvaclavovic/obsidian-vega-theme) | ![Vega](https://raw.githubusercontent.com/jvaclavovic/obsidian-vega-theme/master/screenshots/screenshot.png) |
 | [player-muteki/oboro](https://github.com/player-muteki/oboro) | ![Oboro](https://raw.githubusercontent.com/player-muteki/oboro/master/screenshots/promo.png) |
 | [clowsuzu/rho-zero](https://github.com/clowsuzu/rho-zero) | ![Rho Zero](https://raw.githubusercontent.com/clowsuzu/rho-zero/master/screenshot.png) |
 | [lykantonio/obsidian-deskmate](https://github.com/lykantonio/obsidian-deskmate) | ![Deskmate](https://raw.githubusercontent.com/lykantonio/obsidian-deskmate/master/screenshot.png) |
@@ -978,3 +977,8 @@
 | [isltanx/Ghasaq](https://github.com/isltanx/Ghasaq) | ![Ghasaq](https://raw.githubusercontent.com/isltanx/Ghasaq/master/cover.png) |
 | [jeff1995/Locus](https://github.com/jeff1995/Locus) | ![Locus](https://raw.githubusercontent.com/jeff1995/Locus/master/screenshot.png) |
 | [jackyoung022/Obsidian-SongStyle](https://github.com/jackyoung022/Obsidian-SongStyle) | ![Songyun Qinghe](https://raw.githubusercontent.com/jackyoung022/Obsidian-SongStyle/master/screenshot.png) |
+| [xaniry/obsidian-theme-suzuri](https://github.com/xaniry/obsidian-theme-suzuri) | ![Suzuri](https://raw.githubusercontent.com/xaniry/obsidian-theme-suzuri/master/screenshot.png) |
+| [jrayas/obsidian-calm-page](https://github.com/jrayas/obsidian-calm-page) | ![Calm Page](https://raw.githubusercontent.com/jrayas/obsidian-calm-page/master/screenshot.png) |
+| [antoineberjoan/tasogare](https://github.com/antoineberjoan/tasogare) | ![Tasogare](https://raw.githubusercontent.com/antoineberjoan/tasogare/master/screenshot.png) |
+| [kennethreitz/obsidian-reitz-latex](https://github.com/kennethreitz/obsidian-reitz-latex) | ![Reitz LaTeX](https://raw.githubusercontent.com/kennethreitz/obsidian-reitz-latex/master/screenshots/reading.png) |
+| [mistpine/mistpine.obsidian](https://github.com/mistpine/mistpine.obsidian) | ![mistpine](https://raw.githubusercontent.com/mistpine/mistpine.obsidian/master/assets/screenshots/code.png) |
