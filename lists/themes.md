@@ -445,6 +445,7 @@
 | [ethanthatonekid/obsidian-nerv](https://github.com/ethanthatonekid/obsidian-nerv) | ![nerv](https://raw.githubusercontent.com/ethanthatonekid/obsidian-nerv/master/screenshot.png) |
 | [erulmu/freecolors](https://github.com/erulmu/freecolors) | ![FreeColors](https://raw.githubusercontent.com/erulmu/freecolors/master/screenshot.png) |
 | [saint0721/saint-red-paper](https://github.com/saint0721/saint-red-paper) | ![Saint Red Paper](https://raw.githubusercontent.com/saint0721/saint-red-paper/master/assets/saint-red-paper-community.png) |
+| [incantatem2/Obsidian-cranky-goblin](https://github.com/incantatem2/Obsidian-cranky-goblin) | ![cranky goblin](https://raw.githubusercontent.com/incantatem2/Obsidian-cranky-goblin/master/IMAGES/thumbnail.jpg) |
 | [chonnz/obsidian-notion-style](https://github.com/chonnz/obsidian-notion-style) | ![Notion Style](https://raw.githubusercontent.com/chonnz/obsidian-notion-style/master/light.png) |
 | [alokinkal/AK-Sky-Breeze](https://github.com/alokinkal/AK-Sky-Breeze) | ![AK Sky Breeze](https://raw.githubusercontent.com/alokinkal/AK-Sky-Breeze/master/screenshot.png) |
 | [baylesj/obsidian-noctis-family](https://github.com/baylesj/obsidian-noctis-family) | ![Noctis Family](https://raw.githubusercontent.com/baylesj/obsidian-noctis-family/master/screenshot.png) |
@@ -983,3 +984,13 @@
 | [mistpine/mistpine.obsidian](https://github.com/mistpine/mistpine.obsidian) | ![mistpine](https://raw.githubusercontent.com/mistpine/mistpine.obsidian/master/assets/screenshots/code.png) |
 | [xwtaidev/obsidian-duskstone-theme](https://github.com/xwtaidev/obsidian-duskstone-theme) | ![Duskstone](https://raw.githubusercontent.com/xwtaidev/obsidian-duskstone-theme/master/screenshot.png) |
 | [tiagovla/obsidian-tokyodark](https://github.com/tiagovla/obsidian-tokyodark) | ![TokyoDark](https://raw.githubusercontent.com/tiagovla/obsidian-tokyodark/master/screenshots/screenshot.png) |
+| [zacesshq/obsidian-theme-warm](https://github.com/zacesshq/obsidian-theme-warm) | ![Zacess Warm](https://raw.githubusercontent.com/zacesshq/obsidian-theme-warm/master/screenshot.png) |
+| [laguna821/obsidian-achmage-atelier](https://github.com/laguna821/obsidian-achmage-atelier) | ![Achmage Atelier](https://raw.githubusercontent.com/laguna821/obsidian-achmage-atelier/master/screenshots/light.png) |
+| [xv-bowen/Claude-Style-Obsidian](https://github.com/xv-bowen/Claude-Style-Obsidian) | ![Claude Style](https://raw.githubusercontent.com/xv-bowen/Claude-Style-Obsidian/master/screenshot.png) |
+| [anarcadia/chuanban-highcontrast-green](https://github.com/anarcadia/chuanban-highcontrast-green) | ![chuanban-green](https://raw.githubusercontent.com/anarcadia/chuanban-highcontrast-green/master/screenshot.png) |
+| [norman-lawyer/prism-glass](https://github.com/norman-lawyer/prism-glass) | ![Prism Glass](https://raw.githubusercontent.com/norman-lawyer/prism-glass/master/screenshot.png) |
+| [tiagojct/obsidian-tryworks-theme](https://github.com/tiagojct/obsidian-tryworks-theme) | ![Tryworks](https://raw.githubusercontent.com/tiagojct/obsidian-tryworks-theme/master/screenshot.png) |
+| [abdullahhasan42/hollow-knight-and-silksong-theme](https://github.com/abdullahhasan42/hollow-knight-and-silksong-theme) | ![Hollow Knight and Silksong](https://raw.githubusercontent.com/abdullahhasan42/hollow-knight-and-silksong-theme/master/screenshot.png) |
+| [didierpiracocacampos/obsidian-devhelper-theme](https://github.com/didierpiracocacampos/obsidian-devhelper-theme) | ![DevHelper](https://raw.githubusercontent.com/didierpiracocacampos/obsidian-devhelper-theme/master/screenshot.png) |
+| [atmiaobo/obsidian-oyaishi](https://github.com/atmiaobo/obsidian-oyaishi) | ![Oyaishi](https://raw.githubusercontent.com/atmiaobo/obsidian-oyaishi/master/screenshots/2026-11-09_05-22-33_full.png) |
+| [evglevin/obsidian-curiosity-theme](https://github.com/evglevin/obsidian-curiosity-theme) | ![Curiosity](https://raw.githubusercontent.com/evglevin/obsidian-curiosity-theme/master/screenshot.png) |
