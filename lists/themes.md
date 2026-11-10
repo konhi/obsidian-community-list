@@ -994,3 +994,9 @@
 | [didierpiracocacampos/obsidian-devhelper-theme](https://github.com/didierpiracocacampos/obsidian-devhelper-theme) | ![DevHelper](https://raw.githubusercontent.com/didierpiracocacampos/obsidian-devhelper-theme/master/screenshot.png) |
 | [atmiaobo/obsidian-oyaishi](https://github.com/atmiaobo/obsidian-oyaishi) | ![Oyaishi](https://raw.githubusercontent.com/atmiaobo/obsidian-oyaishi/master/screenshots/2026-11-09_05-22-33_full.png) |
 | [evglevin/obsidian-curiosity-theme](https://github.com/evglevin/obsidian-curiosity-theme) | ![Curiosity](https://raw.githubusercontent.com/evglevin/obsidian-curiosity-theme/master/screenshot.png) |
+| [arrebol-galaxy/obsidian-fluent-theme](https://github.com/arrebol-galaxy/obsidian-fluent-theme) | ![Fluent](https://raw.githubusercontent.com/arrebol-galaxy/obsidian-fluent-theme/master/screenshot.png) |
+| [skwahm/glassfelt-obsidian-theme](https://github.com/skwahm/glassfelt-obsidian-theme) | ![Glassfelt](https://raw.githubusercontent.com/skwahm/glassfelt-obsidian-theme/master/screenshot.png) |
+| [xyndox/obsidian-ink-journal](https://github.com/xyndox/obsidian-ink-journal) | ![Ink Journal](https://raw.githubusercontent.com/xyndox/obsidian-ink-journal/master/screenshot.png) |
+| [r529/lomes](https://github.com/r529/lomes) | ![Lomes](https://raw.githubusercontent.com/r529/lomes/master/screenshots/screenshot.png) |
+| [syeraalfrdzi/gruvbox-calm-obsidian](https://github.com/syeraalfrdzi/gruvbox-calm-obsidian) | ![Gruvbox Calm](https://raw.githubusercontent.com/syeraalfrdzi/gruvbox-calm-obsidian/master/screenshot.png) |
+| [hanagatacyouitirou-collab/obsidian-kioku-theme](https://github.com/hanagatacyouitirou-collab/obsidian-kioku-theme) | ![Kioku](https://raw.githubusercontent.com/hanagatacyouitirou-collab/obsidian-kioku-theme/master/screenshot.png) |
