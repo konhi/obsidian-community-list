@@ -1000,3 +1000,6 @@
 | [r529/lomes](https://github.com/r529/lomes) | ![Lomes](https://raw.githubusercontent.com/r529/lomes/master/screenshots/screenshot.png) |
 | [syeraalfrdzi/gruvbox-calm-obsidian](https://github.com/syeraalfrdzi/gruvbox-calm-obsidian) | ![Gruvbox Calm](https://raw.githubusercontent.com/syeraalfrdzi/gruvbox-calm-obsidian/master/screenshot.png) |
 | [hanagatacyouitirou-collab/obsidian-kioku-theme](https://github.com/hanagatacyouitirou-collab/obsidian-kioku-theme) | ![Kioku](https://raw.githubusercontent.com/hanagatacyouitirou-collab/obsidian-kioku-theme/master/screenshot.png) |
+| [lobrenov/obsidian-theme-ayu](https://github.com/lobrenov/obsidian-theme-ayu) | ![Ayu Simple](https://raw.githubusercontent.com/lobrenov/obsidian-theme-ayu/master/assets/preview.png) |
+| [blursedperf/obsidian-theme-doomesque](https://github.com/blursedperf/obsidian-theme-doomesque) | ![DoomEsque](https://raw.githubusercontent.com/blursedperf/obsidian-theme-doomesque/master/screenshot.png) |
+| [urfv/earthsong-obsidian-theme](https://github.com/urfv/earthsong-obsidian-theme) | ![Earthsong](https://raw.githubusercontent.com/urfv/earthsong-obsidian-theme/master/screenshot.png) |
