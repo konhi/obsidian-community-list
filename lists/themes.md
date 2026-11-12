@@ -1000,6 +1000,12 @@
 | [r529/lomes](https://github.com/r529/lomes) | ![Lomes](https://raw.githubusercontent.com/r529/lomes/master/screenshots/screenshot.png) |
 | [syeraalfrdzi/gruvbox-calm-obsidian](https://github.com/syeraalfrdzi/gruvbox-calm-obsidian) | ![Gruvbox Calm](https://raw.githubusercontent.com/syeraalfrdzi/gruvbox-calm-obsidian/master/screenshot.png) |
 | [hanagatacyouitirou-collab/obsidian-kioku-theme](https://github.com/hanagatacyouitirou-collab/obsidian-kioku-theme) | ![Kioku](https://raw.githubusercontent.com/hanagatacyouitirou-collab/obsidian-kioku-theme/master/screenshot.png) |
+| [zombieace/Obsidian-Library-of-Ruina-Theme](https://github.com/zombieace/Obsidian-Library-of-Ruina-Theme) | ![Ruined Library](https://raw.githubusercontent.com/zombieace/Obsidian-Library-of-Ruina-Theme/master/img/preview1.png) |
 | [lobrenov/obsidian-theme-ayu](https://github.com/lobrenov/obsidian-theme-ayu) | ![Ayu Simple](https://raw.githubusercontent.com/lobrenov/obsidian-theme-ayu/master/assets/preview.png) |
 | [blursedperf/obsidian-theme-doomesque](https://github.com/blursedperf/obsidian-theme-doomesque) | ![DoomEsque](https://raw.githubusercontent.com/blursedperf/obsidian-theme-doomesque/master/screenshot.png) |
 | [urfv/earthsong-obsidian-theme](https://github.com/urfv/earthsong-obsidian-theme) | ![Earthsong](https://raw.githubusercontent.com/urfv/earthsong-obsidian-theme/master/screenshot.png) |
+| [paulvschaik/obsidian-polar](https://github.com/paulvschaik/obsidian-polar) | ![Polar](https://raw.githubusercontent.com/paulvschaik/obsidian-polar/master/screenshot.png) |
+| [notnotnescap/NeoPpuccin](https://github.com/notnotnescap/NeoPpuccin) | ![NeoPpuccin](https://raw.githubusercontent.com/notnotnescap/NeoPpuccin/master/assets/gh-preview.webp) |
+| [lloydonix/obsidian-imperium-theme](https://github.com/lloydonix/obsidian-imperium-theme) | ![Imperium](https://raw.githubusercontent.com/lloydonix/obsidian-imperium-theme/master/screenshot.png) |
+| [leon4z/obsidian-lark-theme](https://github.com/leon4z/obsidian-lark-theme) | ![Lark](https://raw.githubusercontent.com/leon4z/obsidian-lark-theme/master/screenshot.png) |
+| [nunomotaricardo/obsidian-optimal-theme](https://github.com/nunomotaricardo/obsidian-optimal-theme) | ![Optimal](https://raw.githubusercontent.com/nunomotaricardo/obsidian-optimal-theme/master/screenshot.png) |
