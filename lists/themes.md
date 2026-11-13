@@ -722,6 +722,7 @@
 | [mz-wang/wikidian](https://github.com/mz-wang/wikidian) | ![Wikidian](https://raw.githubusercontent.com/mz-wang/wikidian/master/screenshots/store.png) |
 | [crluehmann/report-writer](https://github.com/crluehmann/report-writer) | ![Report Writer](https://raw.githubusercontent.com/crluehmann/report-writer/master/screenshot.png) |
 | [devabdallahabdelrahim/atom-one-pro-obsidian](https://github.com/devabdallahabdelrahim/atom-one-pro-obsidian) | ![Atom One Pro](https://raw.githubusercontent.com/devabdallahabdelrahim/atom-one-pro-obsidian/master/docs/assets/dark%20theme%20setting%20preview%20screenshot.png) |
+| [mariohaya/lesswrong-obsidian-theme](https://github.com/mariohaya/lesswrong-obsidian-theme) | ![LessWrong Inspired](https://raw.githubusercontent.com/mariohaya/lesswrong-obsidian-theme/master/screenshot.png) |
 | [w-o-debian/ivory-garden](https://github.com/w-o-debian/ivory-garden) | ![Ivory Garden](https://raw.githubusercontent.com/w-o-debian/ivory-garden/master/screenshots/social-preview.png) |
 | [w-o-debian/glacial-bloom](https://github.com/w-o-debian/glacial-bloom) | ![Glacial Bloom](https://raw.githubusercontent.com/w-o-debian/glacial-bloom/master/screenshots/social-preview.png) |
 | [serena-sheng/obsidian-astrum](https://github.com/serena-sheng/obsidian-astrum) | ![Astrum](https://raw.githubusercontent.com/serena-sheng/obsidian-astrum/master/screenshot.png) |
@@ -992,7 +993,7 @@
 | [tiagojct/obsidian-tryworks-theme](https://github.com/tiagojct/obsidian-tryworks-theme) | ![Tryworks](https://raw.githubusercontent.com/tiagojct/obsidian-tryworks-theme/master/screenshot.png) |
 | [abdullahhasan42/hollow-knight-and-silksong-theme](https://github.com/abdullahhasan42/hollow-knight-and-silksong-theme) | ![Hollow Knight and Silksong](https://raw.githubusercontent.com/abdullahhasan42/hollow-knight-and-silksong-theme/master/screenshot.png) |
 | [didierpiracocacampos/obsidian-devhelper-theme](https://github.com/didierpiracocacampos/obsidian-devhelper-theme) | ![DevHelper](https://raw.githubusercontent.com/didierpiracocacampos/obsidian-devhelper-theme/master/screenshot.png) |
-| [atmiaobo/obsidian-oyaishi](https://github.com/atmiaobo/obsidian-oyaishi) | ![Oyaishi](https://raw.githubusercontent.com/atmiaobo/obsidian-oyaishi/master/screenshots/2026-11-09_05-22-33_full.png) |
+| [atmiaobo/obsidian-oyaishi](https://github.com/atmiaobo/obsidian-oyaishi) | ![Oyaishi](https://raw.githubusercontent.com/atmiaobo/obsidian-oyaishi/master/screenshots/2026-11-12_12-30-45_full.png) |
 | [evglevin/obsidian-curiosity-theme](https://github.com/evglevin/obsidian-curiosity-theme) | ![Curiosity](https://raw.githubusercontent.com/evglevin/obsidian-curiosity-theme/master/screenshot.png) |
 | [arrebol-galaxy/obsidian-fluent-theme](https://github.com/arrebol-galaxy/obsidian-fluent-theme) | ![Fluent](https://raw.githubusercontent.com/arrebol-galaxy/obsidian-fluent-theme/master/screenshot.png) |
 | [skwahm/glassfelt-obsidian-theme](https://github.com/skwahm/glassfelt-obsidian-theme) | ![Glassfelt](https://raw.githubusercontent.com/skwahm/glassfelt-obsidian-theme/master/screenshot.png) |
@@ -1009,3 +1010,8 @@
 | [lloydonix/obsidian-imperium-theme](https://github.com/lloydonix/obsidian-imperium-theme) | ![Imperium](https://raw.githubusercontent.com/lloydonix/obsidian-imperium-theme/master/screenshot.png) |
 | [leon4z/obsidian-lark-theme](https://github.com/leon4z/obsidian-lark-theme) | ![Lark](https://raw.githubusercontent.com/leon4z/obsidian-lark-theme/master/screenshot.png) |
 | [nunomotaricardo/obsidian-optimal-theme](https://github.com/nunomotaricardo/obsidian-optimal-theme) | ![Optimal](https://raw.githubusercontent.com/nunomotaricardo/obsidian-optimal-theme/master/screenshot.png) |
+| [citrussy/Dark-Cirtussy_Obsidian-css](https://github.com/citrussy/Dark-Cirtussy_Obsidian-css) | ![Dark Citrussy](https://raw.githubusercontent.com/citrussy/Dark-Cirtussy_Obsidian-css/master/screenshot.png) |
+| [james-s-pearson/neon-alley](https://github.com/james-s-pearson/neon-alley) | ![Neon Alley](https://raw.githubusercontent.com/james-s-pearson/neon-alley/master/screenshot.png) |
+| [faizulahasun-cloud/hermes-crystal](https://github.com/faizulahasun-cloud/hermes-crystal) | ![Hermes Crystal](https://raw.githubusercontent.com/faizulahasun-cloud/hermes-crystal/master/screenshot.png) |
+| [oleksiimazurenko/obsidian-dark-glass](https://github.com/oleksiimazurenko/obsidian-dark-glass) | ![Dark Glass](https://raw.githubusercontent.com/oleksiimazurenko/obsidian-dark-glass/master/screenshot.png) |
+| [martynkeigher/obsidian-workbench](https://github.com/martynkeigher/obsidian-workbench) | ![Workbench](https://raw.githubusercontent.com/martynkeigher/obsidian-workbench/master/images/workbench-cover-split.png) |
