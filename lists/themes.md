@@ -528,7 +528,6 @@
 | [jabaho9523/DarkKnightTheme](https://github.com/jabaho9523/DarkKnightTheme) | ![Dark Knight](https://raw.githubusercontent.com/jabaho9523/DarkKnightTheme/master/screenshot.png) |
 | [sonophage/Bureau](https://github.com/sonophage/Bureau) | ![Bureau](https://raw.githubusercontent.com/sonophage/Bureau/master/screenshots/bureau-wallpaper.webp) |
 | [rgormley/obsidian-github-dark-dimmed](https://github.com/rgormley/obsidian-github-dark-dimmed) | ![GitHub Dark Dimmed](https://raw.githubusercontent.com/rgormley/obsidian-github-dark-dimmed/master/imgs/promo.png) |
-| [gabrielbacha/Obsidian-Lucy](https://github.com/gabrielbacha/Obsidian-Lucy) | ![Lucy](https://raw.githubusercontent.com/gabrielbacha/Obsidian-Lucy/master/Screenshot-1.png) |
 | [matheuszarkov/slytherin](https://github.com/matheuszarkov/slytherin) | ![Slytherin](https://raw.githubusercontent.com/matheuszarkov/slytherin/master/Slytherin.png) |
 | [carnalmatrix/obsidian-mantle-zenith](https://github.com/carnalmatrix/obsidian-mantle-zenith) | ![Zenith](https://raw.githubusercontent.com/carnalmatrix/obsidian-mantle-zenith/master/screenshot.png) |
 | [niedzielawieczur/Anarchy](https://github.com/niedzielawieczur/Anarchy) | ![Anarchy](https://raw.githubusercontent.com/niedzielawieczur/Anarchy/master/Screenshot.png) |
@@ -1014,4 +1013,7 @@
 | [james-s-pearson/neon-alley](https://github.com/james-s-pearson/neon-alley) | ![Neon Alley](https://raw.githubusercontent.com/james-s-pearson/neon-alley/master/screenshot.png) |
 | [faizulahasun-cloud/hermes-crystal](https://github.com/faizulahasun-cloud/hermes-crystal) | ![Hermes Crystal](https://raw.githubusercontent.com/faizulahasun-cloud/hermes-crystal/master/screenshot.png) |
 | [oleksiimazurenko/obsidian-dark-glass](https://github.com/oleksiimazurenko/obsidian-dark-glass) | ![Dark Glass](https://raw.githubusercontent.com/oleksiimazurenko/obsidian-dark-glass/master/screenshot.png) |
+| [ashotis/TwoShadesOfGrey](https://github.com/ashotis/TwoShadesOfGrey) | ![TwoShadesOfGrey](https://raw.githubusercontent.com/ashotis/TwoShadesOfGrey/master/screenshot.png) |
 | [martynkeigher/obsidian-workbench](https://github.com/martynkeigher/obsidian-workbench) | ![Workbench](https://raw.githubusercontent.com/martynkeigher/obsidian-workbench/master/images/workbench-cover-split.png) |
+| [sundowna/obsidian-onenote-theme](https://github.com/sundowna/obsidian-onenote-theme) | ![OneNote Style](https://raw.githubusercontent.com/sundowna/obsidian-onenote-theme/master/screenshot.png) |
+| [tutivsoft-com/pure-oled-black-white](https://github.com/tutivsoft-com/pure-oled-black-white) | ![Pure OLED Black White](https://raw.githubusercontent.com/tutivsoft-com/pure-oled-black-white/master/screenshot.png) |
