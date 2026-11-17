@@ -1030,7 +1030,8 @@
 | [tutivsoft-com/obsidian-theme-report-print](https://github.com/tutivsoft-com/obsidian-theme-report-print) | ![Report Print](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-report-print/master/screenshot.png) |
 | [tutivsoft-com/obsidian-theme-color-notes](https://github.com/tutivsoft-com/obsidian-theme-color-notes) | ![Color Notes](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-color-notes/master/screenshot.png) |
 | [salanmato/obsidian-ice-block](https://github.com/salanmato/obsidian-ice-block) | ![Ice Block](https://raw.githubusercontent.com/salanmato/obsidian-ice-block/master/screenshot_01.png) |
-| [siguyjohn/Flexoki-Refined](https://github.com/siguyjohn/Flexoki-Refined) | ![Flexoki Refined](https://raw.githubusercontent.com/siguyjohn/Flexoki-Refined/master/screenshot%202.png) |
+| [siguyjohn/Flexoki-Refined](https://github.com/siguyjohn/Flexoki-Refined) | ![Flexoki Refined](https://raw.githubusercontent.com/siguyjohn/Flexoki-Refined/master/light-desktop.png) |
 | [tutivsoft-com/obsidian-theme-coffee-gold](https://github.com/tutivsoft-com/obsidian-theme-coffee-gold) | ![Coffee Gold](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-coffee-gold/master/screenshot.png) |
 | [generalentropy/obsidian-ardoise](https://github.com/generalentropy/obsidian-ardoise) | ![Ardoise](https://raw.githubusercontent.com/generalentropy/obsidian-ardoise/master/screenshot.png) |
 | [paugarcia32/wabi-obsidian](https://github.com/paugarcia32/wabi-obsidian) | ![Wabi](https://raw.githubusercontent.com/paugarcia32/wabi-obsidian/master/screenshot.png) |
+| [ineocode/cocoo-obsidian](https://github.com/ineocode/cocoo-obsidian) | ![Cocoo](https://raw.githubusercontent.com/ineocode/cocoo-obsidian/master/screenshot.png) |
