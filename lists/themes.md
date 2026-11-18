@@ -1035,3 +1035,5 @@
 | [generalentropy/obsidian-ardoise](https://github.com/generalentropy/obsidian-ardoise) | ![Ardoise](https://raw.githubusercontent.com/generalentropy/obsidian-ardoise/master/screenshot.png) |
 | [paugarcia32/wabi-obsidian](https://github.com/paugarcia32/wabi-obsidian) | ![Wabi](https://raw.githubusercontent.com/paugarcia32/wabi-obsidian/master/screenshot.png) |
 | [ineocode/cocoo-obsidian](https://github.com/ineocode/cocoo-obsidian) | ![Cocoo](https://raw.githubusercontent.com/ineocode/cocoo-obsidian/master/screenshot.png) |
+| [jsmorabito/obsidian-contemporary](https://github.com/jsmorabito/obsidian-contemporary) | ![Contemporary](https://raw.githubusercontent.com/jsmorabito/obsidian-contemporary/master/screenshot.png) |
+| [chi-li-peppers/obsidian-chili](https://github.com/chi-li-peppers/obsidian-chili) | ![Chili](https://raw.githubusercontent.com/chi-li-peppers/obsidian-chili/master/screenshot.png) |
