@@ -1037,3 +1037,5 @@
 | [ineocode/cocoo-obsidian](https://github.com/ineocode/cocoo-obsidian) | ![Cocoo](https://raw.githubusercontent.com/ineocode/cocoo-obsidian/master/screenshot.png) |
 | [jsmorabito/obsidian-contemporary](https://github.com/jsmorabito/obsidian-contemporary) | ![Contemporary](https://raw.githubusercontent.com/jsmorabito/obsidian-contemporary/master/screenshot.png) |
 | [chi-li-peppers/obsidian-chili](https://github.com/chi-li-peppers/obsidian-chili) | ![Chili](https://raw.githubusercontent.com/chi-li-peppers/obsidian-chili/master/screenshot.png) |
+| [lloydonix/obsidian-fallout-theme](https://github.com/lloydonix/obsidian-fallout-theme) | ![Fallout](https://raw.githubusercontent.com/lloydonix/obsidian-fallout-theme/master/screenshot.png) |
+| [chickchicky/chickin-obsidian-style](https://github.com/chickchicky/chickin-obsidian-style) | ![Chickin Style](https://raw.githubusercontent.com/chickchicky/chickin-obsidian-style/master/screenshots/sample.png) |
