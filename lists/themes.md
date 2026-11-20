@@ -1039,3 +1039,6 @@
 | [chi-li-peppers/obsidian-chili](https://github.com/chi-li-peppers/obsidian-chili) | ![Chili](https://raw.githubusercontent.com/chi-li-peppers/obsidian-chili/master/screenshot.png) |
 | [lloydonix/obsidian-fallout-theme](https://github.com/lloydonix/obsidian-fallout-theme) | ![Fallout](https://raw.githubusercontent.com/lloydonix/obsidian-fallout-theme/master/screenshot.png) |
 | [chickchicky/chickin-obsidian-style](https://github.com/chickchicky/chickin-obsidian-style) | ![Chickin Style](https://raw.githubusercontent.com/chickchicky/chickin-obsidian-style/master/screenshots/sample.png) |
+| [schooltwistchris/obsidian-trailside](https://github.com/schooltwistchris/obsidian-trailside) | ![Trailside](https://raw.githubusercontent.com/schooltwistchris/obsidian-trailside/master/screenshot.png) |
+| [misterg3079/Folio-Rag-Obsidian-Theme](https://github.com/misterg3079/Folio-Rag-Obsidian-Theme) | ![Folio and Rag](https://raw.githubusercontent.com/misterg3079/Folio-Rag-Obsidian-Theme/master/screenshot.png) |
+| [eemery/obs-factory](https://github.com/eemery/obs-factory) | ![Factory](https://raw.githubusercontent.com/eemery/obs-factory/master/images/obs-factory-1.png) |
