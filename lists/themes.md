@@ -787,7 +787,7 @@
 | [borozdov-obsidian-themes/ember](https://github.com/borozdov-obsidian-themes/ember) | ![Borozdov Ember](https://raw.githubusercontent.com/borozdov-obsidian-themes/ember/master/screenshots/screenshot.png) |
 | [the-time-forever/rainveil](https://github.com/the-time-forever/rainveil) | ![Rainveil](https://raw.githubusercontent.com/the-time-forever/rainveil/master/screenshot.jpg) |
 | [nunomotaricardo/obsidian-claude-synapse-theme](https://github.com/nunomotaricardo/obsidian-claude-synapse-theme) | ![Claude Synapse](https://raw.githubusercontent.com/nunomotaricardo/obsidian-claude-synapse-theme/master/screenshot.png) |
-| [iblinkq/cairn-theme](https://github.com/iblinkq/cairn-theme) | ![Cairn](https://raw.githubusercontent.com/iblinkq/cairn-theme/master/media/hero.png) |
+| [iblinkq/cairn-theme](https://github.com/iblinkq/cairn-theme) | ![Cairn](https://raw.githubusercontent.com/iblinkq/cairn-theme/master/screenshot.png) |
 | [quanru/obsidian-omarchy-tokyo-night](https://github.com/quanru/obsidian-omarchy-tokyo-night) | ![Omarchy Tokyo Night](https://raw.githubusercontent.com/quanru/obsidian-omarchy-tokyo-night/master/images/dark.png) |
 | [garrettfynn/obsidian-muyun](https://github.com/garrettfynn/obsidian-muyun) | ![MuYun](https://raw.githubusercontent.com/garrettfynn/obsidian-muyun/master/screenshot.png) |
 | [dariuszgal/clear-contrast-hc](https://github.com/dariuszgal/clear-contrast-hc) | ![Clear Contrast HC](https://raw.githubusercontent.com/dariuszgal/clear-contrast-hc/master/images/classic-editor.png) |
@@ -1051,3 +1051,5 @@
 | [precieuxfassinou/faceless-hud](https://github.com/precieuxfassinou/faceless-hud) | ![Faceless HUD](https://raw.githubusercontent.com/precieuxfassinou/faceless-hud/master/screenshot.png) |
 | [bkornpob/obsidian-theme-SILVER](https://github.com/bkornpob/obsidian-theme-SILVER) | ![SILVER Cat](https://raw.githubusercontent.com/bkornpob/obsidian-theme-SILVER/master/screenshot.png) |
 | [cmdhertel/obsidian-umbria](https://github.com/cmdhertel/obsidian-umbria) | ![Umbria](https://raw.githubusercontent.com/cmdhertel/obsidian-umbria/master/screenshot.png) |
+| [bilibilijojo/zed-one-light-and-dark](https://github.com/bilibilijojo/zed-one-light-and-dark) | ![Zed One Light and Dark](https://raw.githubusercontent.com/bilibilijojo/zed-one-light-and-dark/master/screenshot.png) |
+| [night-and-moon/twilight-bento](https://github.com/night-and-moon/twilight-bento) | ![Twilight Bento](https://raw.githubusercontent.com/night-and-moon/twilight-bento/master/screenshot.png) |
