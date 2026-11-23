@@ -921,7 +921,6 @@
 | [jrayas/paper-lite](https://github.com/jrayas/paper-lite) | ![paper-lite](https://raw.githubusercontent.com/jrayas/paper-lite/master/screenshot.png) |
 | [white0dry/obsidian-nox-aeterna](https://github.com/white0dry/obsidian-nox-aeterna) | ![Nox Aeterna](https://raw.githubusercontent.com/white0dry/obsidian-nox-aeterna/master/screenshot.png) |
 | [lennzone/Neobrutalism](https://github.com/lennzone/Neobrutalism) | ![Neobrutalism](https://raw.githubusercontent.com/lennzone/Neobrutalism/master/thumbnail.png) |
-| [igor2c/cybertron-3](https://github.com/igor2c/cybertron-3) | ![Cybertron 3](https://raw.githubusercontent.com/igor2c/cybertron-3/master/screenshot.png) |
 | [tiffanyiong/obsidian-animal-island](https://github.com/tiffanyiong/obsidian-animal-island) | ![Animal Island Cozy](https://raw.githubusercontent.com/tiffanyiong/obsidian-animal-island/master/screenshot.png) |
 | [gabrielfrimodig/obsidian-seashell](https://github.com/gabrielfrimodig/obsidian-seashell) | ![Seashell](https://raw.githubusercontent.com/gabrielfrimodig/obsidian-seashell/master/assets/theme-dark.png) |
 | [ibridd/moonshade](https://github.com/ibridd/moonshade) | ![Moonshade](https://raw.githubusercontent.com/ibridd/moonshade/master/assets/screenshot.png) |
@@ -1053,3 +1052,6 @@
 | [cmdhertel/obsidian-umbria](https://github.com/cmdhertel/obsidian-umbria) | ![Umbria](https://raw.githubusercontent.com/cmdhertel/obsidian-umbria/master/screenshot.png) |
 | [bilibilijojo/zed-one-light-and-dark](https://github.com/bilibilijojo/zed-one-light-and-dark) | ![Zed One Light and Dark](https://raw.githubusercontent.com/bilibilijojo/zed-one-light-and-dark/master/screenshot.png) |
 | [night-and-moon/twilight-bento](https://github.com/night-and-moon/twilight-bento) | ![Twilight Bento](https://raw.githubusercontent.com/night-and-moon/twilight-bento/master/screenshot.png) |
+| [randercarrijo/obsidian-blue-jeans](https://github.com/randercarrijo/obsidian-blue-jeans) | ![Blue Jeans](https://raw.githubusercontent.com/randercarrijo/obsidian-blue-jeans/master/screenshots/screenshot.png) |
+| [lobrenov/saga-theme](https://github.com/lobrenov/saga-theme) | ![Saga](https://raw.githubusercontent.com/lobrenov/saga-theme/master/assets/screenshot.png) |
+| [ibridd/pleiades](https://github.com/ibridd/pleiades) | ![Pleiades](https://raw.githubusercontent.com/ibridd/pleiades/master/./assets/screenshot.png) |
