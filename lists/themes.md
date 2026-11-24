@@ -1055,3 +1055,9 @@
 | [randercarrijo/obsidian-blue-jeans](https://github.com/randercarrijo/obsidian-blue-jeans) | ![Blue Jeans](https://raw.githubusercontent.com/randercarrijo/obsidian-blue-jeans/master/screenshots/screenshot.png) |
 | [lobrenov/saga-theme](https://github.com/lobrenov/saga-theme) | ![Saga](https://raw.githubusercontent.com/lobrenov/saga-theme/master/assets/screenshot.png) |
 | [ibridd/pleiades](https://github.com/ibridd/pleiades) | ![Pleiades](https://raw.githubusercontent.com/ibridd/pleiades/master/./assets/screenshot.png) |
+| [vict0rg/cupertino-soft](https://github.com/vict0rg/cupertino-soft) | ![Cupertino Soft](https://raw.githubusercontent.com/vict0rg/cupertino-soft/master/screenshots/cupertino-soft-light-typography.png) |
+| [viraj-s15/obsidian-oxocarbon-grey](https://github.com/viraj-s15/obsidian-oxocarbon-grey) | ![Oxocarbon Grey](https://raw.githubusercontent.com/viraj-s15/obsidian-oxocarbon-grey/master/images/screenshot.png) |
+| [inscriptum/obsidian-theme](https://github.com/inscriptum/obsidian-theme) | ![Inscriptum](https://raw.githubusercontent.com/inscriptum/obsidian-theme/master/screenshots/screenshot.png) |
+| [rillmind/obsidian-vinho](https://github.com/rillmind/obsidian-vinho) | ![Vinho](https://raw.githubusercontent.com/rillmind/obsidian-vinho/master/screenshot.png) |
+| [invictus2076/Vitrine-theme](https://github.com/invictus2076/Vitrine-theme) | ![Vitrine](https://raw.githubusercontent.com/invictus2076/Vitrine-theme/master/screenshot.png) |
+| [chi-li-peppers/obsidian-popcorn](https://github.com/chi-li-peppers/obsidian-popcorn) | ![Popcorn](https://raw.githubusercontent.com/chi-li-peppers/obsidian-popcorn/master/screenshot.png) |
