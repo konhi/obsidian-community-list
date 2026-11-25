@@ -1017,21 +1017,8 @@
 | [ashotis/TwoShadesOfGrey](https://github.com/ashotis/TwoShadesOfGrey) | ![TwoShadesOfGrey](https://raw.githubusercontent.com/ashotis/TwoShadesOfGrey/master/screenshot.png) |
 | [martynkeigher/obsidian-workbench](https://github.com/martynkeigher/obsidian-workbench) | ![Workbench](https://raw.githubusercontent.com/martynkeigher/obsidian-workbench/master/images/workbench-cover-split.png) |
 | [sundowna/obsidian-onenote-theme](https://github.com/sundowna/obsidian-onenote-theme) | ![OneNote Style](https://raw.githubusercontent.com/sundowna/obsidian-onenote-theme/master/screenshot.png) |
-| [tutivsoft-com/pure-oled-black-white](https://github.com/tutivsoft-com/pure-oled-black-white) | ![Pure OLED Black White](https://raw.githubusercontent.com/tutivsoft-com/pure-oled-black-white/master/screenshot.png) |
 | [jotafurtado/ardentia](https://github.com/jotafurtado/ardentia) | ![Ardentia](https://raw.githubusercontent.com/jotafurtado/ardentia/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-pure-oled-rainbow](https://github.com/tutivsoft-com/obsidian-theme-pure-oled-rainbow) | ![Pure OLED Rainbow](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-pure-oled-rainbow/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-soft-slate-dark](https://github.com/tutivsoft-com/obsidian-theme-soft-slate-dark) | ![Soft Slate Dark](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-soft-slate-dark/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-clear-contrast-accessible](https://github.com/tutivsoft-com/obsidian-theme-clear-contrast-accessible) | ![Clear Contrast Accessible](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-clear-contrast-accessible/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-pocket-mobile](https://github.com/tutivsoft-com/obsidian-theme-pocket-mobile) | ![Pocket Mobile](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-pocket-mobile/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-warm-paper-light](https://github.com/tutivsoft-com/obsidian-theme-warm-paper-light) | ![Warm Paper Light](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-warm-paper-light/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-e-ink-reader](https://github.com/tutivsoft-com/obsidian-theme-e-ink-reader) | ![E Ink Reader](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-e-ink-reader/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-study-outline](https://github.com/tutivsoft-com/obsidian-theme-study-outline) | ![Study Outline](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-study-outline/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-readable-typography](https://github.com/tutivsoft-com/obsidian-theme-readable-typography) | ![Readable Typography](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-readable-typography/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-report-print](https://github.com/tutivsoft-com/obsidian-theme-report-print) | ![Report Print](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-report-print/master/screenshot.png) |
-| [tutivsoft-com/obsidian-theme-color-notes](https://github.com/tutivsoft-com/obsidian-theme-color-notes) | ![Color Notes](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-color-notes/master/screenshot.png) |
 | [salanmato/obsidian-ice-block](https://github.com/salanmato/obsidian-ice-block) | ![Ice Block](https://raw.githubusercontent.com/salanmato/obsidian-ice-block/master/screenshot_01.png) |
-| [siguyjohn/Flexoki-Refined](https://github.com/siguyjohn/Flexoki-Refined) | ![Flexoki Refined](https://raw.githubusercontent.com/siguyjohn/Flexoki-Refined/master/light-desktop.png) |
-| [tutivsoft-com/obsidian-theme-coffee-gold](https://github.com/tutivsoft-com/obsidian-theme-coffee-gold) | ![Coffee Gold](https://raw.githubusercontent.com/tutivsoft-com/obsidian-theme-coffee-gold/master/screenshot.png) |
 | [generalentropy/obsidian-ardoise](https://github.com/generalentropy/obsidian-ardoise) | ![Ardoise](https://raw.githubusercontent.com/generalentropy/obsidian-ardoise/master/screenshot.png) |
 | [paugarcia32/wabi-obsidian](https://github.com/paugarcia32/wabi-obsidian) | ![Wabi](https://raw.githubusercontent.com/paugarcia32/wabi-obsidian/master/screenshot.png) |
 | [ineocode/cocoo-obsidian](https://github.com/ineocode/cocoo-obsidian) | ![Cocoo](https://raw.githubusercontent.com/ineocode/cocoo-obsidian/master/screenshot.png) |
@@ -1061,3 +1048,6 @@
 | [rillmind/obsidian-vinho](https://github.com/rillmind/obsidian-vinho) | ![Vinho](https://raw.githubusercontent.com/rillmind/obsidian-vinho/master/screenshot.png) |
 | [invictus2076/Vitrine-theme](https://github.com/invictus2076/Vitrine-theme) | ![Vitrine](https://raw.githubusercontent.com/invictus2076/Vitrine-theme/master/screenshot.png) |
 | [chi-li-peppers/obsidian-popcorn](https://github.com/chi-li-peppers/obsidian-popcorn) | ![Popcorn](https://raw.githubusercontent.com/chi-li-peppers/obsidian-popcorn/master/screenshot.png) |
+| [gneiss-theme/obsidian](https://github.com/gneiss-theme/obsidian) | ![Gneiss](https://raw.githubusercontent.com/gneiss-theme/obsidian/master/screenshot.png) |
+| [zyraxi21/Fluent-2-Obsidian](https://github.com/zyraxi21/Fluent-2-Obsidian) | ![Fluent 2](https://raw.githubusercontent.com/zyraxi21/Fluent-2-Obsidian/master/screenshot.png) |
+| [deveshsoni973/omarchyXneobrutalObsidanTheme](https://github.com/deveshsoni973/omarchyXneobrutalObsidanTheme) | ![Omarchy X NeoBrutal](https://raw.githubusercontent.com/deveshsoni973/omarchyXneobrutalObsidanTheme/master/screenshot.png) |
