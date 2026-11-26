@@ -1051,3 +1051,5 @@
 | [gneiss-theme/obsidian](https://github.com/gneiss-theme/obsidian) | ![Gneiss](https://raw.githubusercontent.com/gneiss-theme/obsidian/master/screenshot.png) |
 | [zyraxi21/Fluent-2-Obsidian](https://github.com/zyraxi21/Fluent-2-Obsidian) | ![Fluent 2](https://raw.githubusercontent.com/zyraxi21/Fluent-2-Obsidian/master/screenshot.png) |
 | [deveshsoni973/omarchyXneobrutalObsidanTheme](https://github.com/deveshsoni973/omarchyXneobrutalObsidanTheme) | ![Omarchy X NeoBrutal](https://raw.githubusercontent.com/deveshsoni973/omarchyXneobrutalObsidanTheme/master/screenshot.png) |
+| [n4p1x/obsidian-miasma](https://github.com/n4p1x/obsidian-miasma) | ![Miasma](https://raw.githubusercontent.com/n4p1x/obsidian-miasma/master/screenshots/screenshot.png) |
+| [chenhan12306/handbook-research](https://github.com/chenhan12306/handbook-research) | ![Handbook Research](https://raw.githubusercontent.com/chenhan12306/handbook-research/master/screenshot.png) |
