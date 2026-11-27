@@ -1053,3 +1053,8 @@
 | [deveshsoni973/omarchyXneobrutalObsidanTheme](https://github.com/deveshsoni973/omarchyXneobrutalObsidanTheme) | ![Omarchy X NeoBrutal](https://raw.githubusercontent.com/deveshsoni973/omarchyXneobrutalObsidanTheme/master/screenshot.png) |
 | [n4p1x/obsidian-miasma](https://github.com/n4p1x/obsidian-miasma) | ![Miasma](https://raw.githubusercontent.com/n4p1x/obsidian-miasma/master/screenshots/screenshot.png) |
 | [chenhan12306/handbook-research](https://github.com/chenhan12306/handbook-research) | ![Handbook Research](https://raw.githubusercontent.com/chenhan12306/handbook-research/master/screenshot.png) |
+| [acid-hastam/obsidian-behbahans-night](https://github.com/acid-hastam/obsidian-behbahans-night) | ![Behbahans Night](https://raw.githubusercontent.com/acid-hastam/obsidian-behbahans-night/master/screenshot.png) |
+| [abdullahhasan42/clair-obscur-expedition-33-theme](https://github.com/abdullahhasan42/clair-obscur-expedition-33-theme) | ![Clair Obscur Expedition 33](https://raw.githubusercontent.com/abdullahhasan42/clair-obscur-expedition-33-theme/master/screenshots/note-lumiere.jpg) |
+| [jsanzdev/obsidian-scratch-buffer](https://github.com/jsanzdev/obsidian-scratch-buffer) | ![Scratch Buffer](https://raw.githubusercontent.com/jsanzdev/obsidian-scratch-buffer/master/screenshot.png) |
+| [maxchoi528/vaultvale-theme](https://github.com/maxchoi528/vaultvale-theme) | ![VaultVale Hearthwood](https://raw.githubusercontent.com/maxchoi528/vaultvale-theme/master/screenshot.png) |
+| [gustavczar/sunset-drive](https://github.com/gustavczar/sunset-drive) | ![Sunset Drive](https://raw.githubusercontent.com/gustavczar/sunset-drive/master/screenshot.png) |
