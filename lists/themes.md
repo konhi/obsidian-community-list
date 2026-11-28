@@ -708,7 +708,6 @@
 | [yixuan-space/obsidian-lumin](https://github.com/yixuan-space/obsidian-lumin) | ![Lumin](https://raw.githubusercontent.com/yixuan-space/obsidian-lumin/master/img/hero.png) |
 | [gstoneflip722/obsidian-theme-flipart86](https://github.com/gstoneflip722/obsidian-theme-flipart86) | ![FlipArt86](https://raw.githubusercontent.com/gstoneflip722/obsidian-theme-flipart86/master/screenshot.png) |
 | [lubriedev/ordo](https://github.com/lubriedev/ordo) | ![Ordo](https://raw.githubusercontent.com/lubriedev/ordo/master/screenshot.png) |
-| [myicor/icor-for-life-inkline](https://github.com/myicor/icor-for-life-inkline) | ![ICOR for Life - INKLINE](https://raw.githubusercontent.com/myicor/icor-for-life-inkline/master/screenshot.png) |
 | [sagewood-theme/obsidian](https://github.com/sagewood-theme/obsidian) | ![Sagewood](https://raw.githubusercontent.com/sagewood-theme/obsidian/master/obsidianscreenshot.png) |
 | [ivaneye/OnePage](https://github.com/ivaneye/OnePage) | ![OnePage](https://raw.githubusercontent.com/ivaneye/OnePage/master/preview.png) |
 | [mogpduck/obsidian-SpeedPpuccin](https://github.com/mogpduck/obsidian-SpeedPpuccin) | ![SpeedPpuccin](https://raw.githubusercontent.com/mogpduck/obsidian-SpeedPpuccin/master/theme_image.png) |
@@ -721,6 +720,7 @@
 | [quanru/aino-obsidian-theme](https://github.com/quanru/aino-obsidian-theme) | ![Aino](https://raw.githubusercontent.com/quanru/aino-obsidian-theme/master/screenshots/aino-cover-1.0.2.png) |
 | [mz-wang/wikidian](https://github.com/mz-wang/wikidian) | ![Wikidian](https://raw.githubusercontent.com/mz-wang/wikidian/master/screenshots/store.png) |
 | [crluehmann/report-writer](https://github.com/crluehmann/report-writer) | ![Report Writer](https://raw.githubusercontent.com/crluehmann/report-writer/master/screenshot.png) |
+| [elegra1965-source/obsidian-nms-atlas](https://github.com/elegra1965-source/obsidian-nms-atlas) | ![No Mans Sky - Atlas](https://raw.githubusercontent.com/elegra1965-source/obsidian-nms-atlas/master/Screenshot.png) |
 | [devabdallahabdelrahim/atom-one-pro-obsidian](https://github.com/devabdallahabdelrahim/atom-one-pro-obsidian) | ![Atom One Pro](https://raw.githubusercontent.com/devabdallahabdelrahim/atom-one-pro-obsidian/master/docs/assets/dark%20theme%20setting%20preview%20screenshot.png) |
 | [mariohaya/lesswrong-obsidian-theme](https://github.com/mariohaya/lesswrong-obsidian-theme) | ![LessWrong Inspired](https://raw.githubusercontent.com/mariohaya/lesswrong-obsidian-theme/master/screenshot.png) |
 | [w-o-debian/ivory-garden](https://github.com/w-o-debian/ivory-garden) | ![Ivory Garden](https://raw.githubusercontent.com/w-o-debian/ivory-garden/master/screenshots/social-preview.png) |
@@ -1053,8 +1053,11 @@
 | [deveshsoni973/omarchyXneobrutalObsidanTheme](https://github.com/deveshsoni973/omarchyXneobrutalObsidanTheme) | ![Omarchy X NeoBrutal](https://raw.githubusercontent.com/deveshsoni973/omarchyXneobrutalObsidanTheme/master/screenshot.png) |
 | [n4p1x/obsidian-miasma](https://github.com/n4p1x/obsidian-miasma) | ![Miasma](https://raw.githubusercontent.com/n4p1x/obsidian-miasma/master/screenshots/screenshot.png) |
 | [chenhan12306/handbook-research](https://github.com/chenhan12306/handbook-research) | ![Handbook Research](https://raw.githubusercontent.com/chenhan12306/handbook-research/master/screenshot.png) |
+| [godlen4332/obsidian-enough-light](https://github.com/godlen4332/obsidian-enough-light) | ![Enough Light](https://raw.githubusercontent.com/godlen4332/obsidian-enough-light/master/cover.png) |
 | [acid-hastam/obsidian-behbahans-night](https://github.com/acid-hastam/obsidian-behbahans-night) | ![Behbahans Night](https://raw.githubusercontent.com/acid-hastam/obsidian-behbahans-night/master/screenshot.png) |
 | [abdullahhasan42/clair-obscur-expedition-33-theme](https://github.com/abdullahhasan42/clair-obscur-expedition-33-theme) | ![Clair Obscur Expedition 33](https://raw.githubusercontent.com/abdullahhasan42/clair-obscur-expedition-33-theme/master/screenshots/note-lumiere.jpg) |
 | [jsanzdev/obsidian-scratch-buffer](https://github.com/jsanzdev/obsidian-scratch-buffer) | ![Scratch Buffer](https://raw.githubusercontent.com/jsanzdev/obsidian-scratch-buffer/master/screenshot.png) |
 | [maxchoi528/vaultvale-theme](https://github.com/maxchoi528/vaultvale-theme) | ![VaultVale Hearthwood](https://raw.githubusercontent.com/maxchoi528/vaultvale-theme/master/screenshot.png) |
 | [gustavczar/sunset-drive](https://github.com/gustavczar/sunset-drive) | ![Sunset Drive](https://raw.githubusercontent.com/gustavczar/sunset-drive/master/screenshot.png) |
+| [0xgani/obsidian-jade-horse](https://github.com/0xgani/obsidian-jade-horse) | ![Jade Horse](https://raw.githubusercontent.com/0xgani/obsidian-jade-horse/master/screenshot.png) |
+| [nekoshift777i/obsidian-duotone](https://github.com/nekoshift777i/obsidian-duotone) | ![Duotone](https://raw.githubusercontent.com/nekoshift777i/obsidian-duotone/master/screenshot.png) |
